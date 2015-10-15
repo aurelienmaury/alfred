@@ -22,12 +22,9 @@ import argparse
 import zmq
 import copy
 import wave
-import time
 import tempfile
 import os
-import sys
 import pyaudio
-import proc
 from array import array
 from struct import pack
 
@@ -229,14 +226,41 @@ def decode_speech(acoustic_model_directory, language_model_file, dictionary_file
             " 2>/dev/null"
         ])
         print sphinx_decode_cmd
-        stdout, stderr, status = proc.run(sphinx_decode_cmd, timeout=10)
-    except proc.Timeout:
+        stdout, stderr, status = run(sphinx_decode_cmd, timeout=10)
+    except Timeout:
         print "TIMED OUT: " + status + " " + stdout + " " + stderr
 
     print "AUDIO WAV: " + record_file
     # os.remove(current_record_file_wav)
 
     return stdout.strip()
+
+
+import subprocess
+import time
+import sys
+
+
+class Timeout(Exception):
+    pass
+
+
+def run(command, timeout=10):
+    proc = subprocess.Popen(command, bufsize=0, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    poll_seconds = .250
+    deadline = time.time()+timeout
+
+    while time.time() < deadline and proc.poll() == None:
+        time.sleep(poll_seconds)
+
+    if proc.poll() is None:
+        if float(sys.version[:3]) >= 2.6:
+            proc.terminate()
+        raise Timeout()
+
+    stdout, stderr = proc.communicate()
+
+    return stdout, stderr, proc.returncode
 
 
 if __name__ == "__main__":

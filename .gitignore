@@ -9,3 +9,5 @@ little_alice/brains/brain.br
 *~
 .anjuta
 *.pyc
+brain.br
+session.ses

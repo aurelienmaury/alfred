@@ -3,11 +3,12 @@
 __author__ = 'amaury'
 
 import os
+import aiml
+import marshal
 import zmq
 import argparse
 
-from brain import Brain
-
+SELF_PATH = os.path.dirname(os.path.realpath(__file__))
 EAR_CHANNEL = ">alfred>hears>"
 SPEECH_RECOG_CHANNEL = ">alfred>understands>"
 
@@ -46,9 +47,6 @@ def main():
 
     brain = Brain(args.modules_path, args.brain_path)
 
-    brain.load_brain()
-    brain.load_session()
-
     try:
         while True:
             print "zero-brain loop"
@@ -58,8 +56,11 @@ def main():
             brain_response = brain.kernel.respond(message, brain.session_name)
 
             if brain_response:
-                print "zero-brain:say:"+SPEECH_RECOG_CHANNEL+brain_response
-                publish_sock.send(SPEECH_RECOG_CHANNEL+brain_response)
+                if brain_response is '/internals/reload':
+                    brain.reload_modules()
+                else:
+                    print "zero-brain:say:"+SPEECH_RECOG_CHANNEL+brain_response
+                    publish_sock.send(SPEECH_RECOG_CHANNEL+brain_response)
 
     except KeyboardInterrupt:
         pass
@@ -80,6 +81,61 @@ def receive(bus):
     print "zero-brain:heard:"+raw_message
 
     return raw_message.replace(EAR_CHANNEL, "", 1)
+
+
+class Brain(object):
+    def __init__(self, modules_dir, brains_dir):
+        self.modules_dir = modules_dir
+        self.brains_dir = brains_dir
+        self.lang = 'fr-fr'
+        self.kernel = aiml.Kernel()
+
+        self.brain_file_path = os.path.join(brains_dir, 'brain.br')
+        self.session_file_path = os.path.join(brains_dir, 'session.ses')
+
+        self.brain_file = 'brain.br'
+        self.session_file = 'session.ses'
+        self.session_name = 'Alfred'
+
+        self.load_brain()
+        self.load_session()
+
+    def load_brain(self):
+        if os.path.isfile(self.brain_file_path):
+            self.kernel.bootstrap(brainFile=self.brain_file_path)
+        else:
+            self.load_modules()
+            self.kernel.saveBrain(self.brain_file_path)
+
+        self.kernel.setPredicate("master", self.session_name)
+        self.kernel.setBotPredicate('name', self.session_name)
+
+    def load_session(self):
+        if os.path.isfile(self.session_file_path):
+            session_file = file(self.session_file_path, "rb")
+            session = marshal.load(session_file)
+            for pred, value in session.items():
+                self.kernel.setPredicate(pred, value, self.session_name)
+
+    def load_modules(self):
+        os.path.walk(self.modules_dir, self.learn_step, self.lang)
+
+    def learn_step(self, lang, dirname, names):
+        for name in names:
+            if self.lang in name and name.endswith('.aiml'):
+                self.kernel.learn(os.path.join(dirname, name))
+
+    def reload_modules(self):
+        os.remove(self.brain_file_path)
+        self.load_brain()
+        self.save_session()
+
+    def save_session(self):
+        session_data = self.kernel.getSessionData(self.session_name)
+        session_file = file(self.session_file_path, "wb")
+        marshal.dump(session_data, session_file)
+        session_file.close()
+
 
 if __name__ == "__main__":
     main()
