@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
 
-<category><pattern>RELOAD</pattern><template>/internals/reload</template></category>
+<category><pattern>RELOAD</pattern><template>/alfred/speech-recog/reload</template></category>
 
 <category><pattern>NÉ LE JOUR LES MODULES</pattern><template><srai>RELOAD</srai></template></category>
 <category><pattern>LES JOURS LES MODULES</pattern><template><srai>RELOAD</srai></template></category>

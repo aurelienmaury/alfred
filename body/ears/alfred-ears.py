@@ -31,7 +31,7 @@ from struct import pack
 global bus
 
 SELF_PATH = os.path.dirname(os.path.realpath(__file__))
-EAR_CHANNEL = ">alfred>hears>"
+EAR_CHANNEL = "/alfred/hears/"
 NOISE_THRESHOLD = 2000
 READ_CHUNK_SIZE = 1024
 
@@ -183,7 +183,7 @@ def record():
     stream.close()
     py_audio.terminate()
 
-    #data_all = trim(data_all)
+    # data_all = trim(data_all)
     data_all = normalize(data_all)
 
     return sample_width, data_all
@@ -248,7 +248,7 @@ class Timeout(Exception):
 def run(command, timeout=10):
     proc = subprocess.Popen(command, bufsize=0, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
     poll_seconds = .250
-    deadline = time.time()+timeout
+    deadline = time.time() + timeout
 
     while time.time() < deadline and proc.poll() == None:
         time.sleep(poll_seconds)

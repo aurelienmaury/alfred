@@ -9,8 +9,8 @@ import zmq
 import argparse
 
 SELF_PATH = os.path.dirname(os.path.realpath(__file__))
-EAR_CHANNEL = ">alfred>hears>"
-SPEECH_RECOG_CHANNEL = ">alfred>understands>"
+EAR_CHANNEL = "/alfred/hears/"
+SPEECH_RECOG_CHANNEL = "/alfred/understands/"
 
 
 def parse_cli():
@@ -36,7 +36,6 @@ def parse_cli():
 
 
 def main():
-
     args = parse_cli()
     zmq_ctx = zmq.Context()
 
@@ -56,12 +55,11 @@ def main():
             brain_response = brain.kernel.respond(message, brain.session_name)
 
             if brain_response:
-                if brain_response == '/internals/reload':
-                    print 'RELOAD'
+                if brain_response == '/alfred/speech-recog/reload':
                     brain.reload_modules()
                 else:
-                    print "zero-brain:say:"+SPEECH_RECOG_CHANNEL+brain_response
-                    publish_sock.send(SPEECH_RECOG_CHANNEL+brain_response)
+                    print "zero-brain:say:" + SPEECH_RECOG_CHANNEL + brain_response
+                    publish_sock.send(SPEECH_RECOG_CHANNEL + brain_response)
 
     except KeyboardInterrupt:
         pass
@@ -79,7 +77,7 @@ def init_input_from_ears(zmq_in_addr, zmq_ctx):
 def receive(bus):
     raw_message = bus.recv()
 
-    print "zero-brain:heard:"+raw_message
+    print "zero-brain:heard:" + raw_message
 
     return raw_message.replace(EAR_CHANNEL, "", 1)
 
