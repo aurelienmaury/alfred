@@ -34,7 +34,7 @@ from struct import pack
 global bus
 
 SELF_PATH = os.path.dirname(os.path.realpath(__file__))
-EAR_CHANNEL = ">ears>perceive>"
+EAR_CHANNEL = ">alfred>hears>"
 NOISE_THRESHOLD = 2000
 READ_CHUNK_SIZE = 1024
 

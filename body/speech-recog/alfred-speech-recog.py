@@ -8,8 +8,9 @@ import argparse
 
 from brain import Brain
 
-EAR_CHANNEL = ">ears>perceive>"
-SPEECH_RECOG_CHANNEL = ">speech-recog>"
+EAR_CHANNEL = ">alfred>hears>"
+SPEECH_RECOG_CHANNEL = ">alfred>understands>"
+
 
 def parse_cli():
     parser = argparse.ArgumentParser(description='alfred-speech-recog')
