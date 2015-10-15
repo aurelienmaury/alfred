@@ -1,0 +1,11 @@
+little_alice/brains/session.ses
+little_alice/brains/brain.br
+.vagrant
+.idea
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*~
+.anjuta
+*.pyc
