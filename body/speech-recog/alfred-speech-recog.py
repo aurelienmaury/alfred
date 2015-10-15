@@ -56,7 +56,8 @@ def main():
             brain_response = brain.kernel.respond(message, brain.session_name)
 
             if brain_response:
-                if brain_response is '/internals/reload':
+                if brain_response == '/internals/reload':
+                    print 'RELOAD'
                     brain.reload_modules()
                 else:
                     print "zero-brain:say:"+SPEECH_RECOG_CHANNEL+brain_response
