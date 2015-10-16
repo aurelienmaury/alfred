@@ -11,4 +11,4 @@ publish_zmq_socket.bind(sys.argv[1])
 
 while True:
     time.sleep(1)
-    publish_zmq_socket.send(">alfred>hears>"+sys.argv[2])
+    publish_zmq_socket.send("/alfred/hears/"+sys.argv[2])

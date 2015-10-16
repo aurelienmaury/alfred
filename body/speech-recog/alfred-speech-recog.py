@@ -9,8 +9,9 @@ import zmq
 import argparse
 
 SELF_PATH = os.path.dirname(os.path.realpath(__file__))
-EAR_CHANNEL = "/alfred/hears/"
-SPEECH_RECOG_CHANNEL = "/alfred/understands/"
+EAR_CHANNEL = '/alfred/hears/'
+SPEECH_RECOG_CHANNEL = '/alfred/understands/'
+RELOAD_TRIGGER = '/alfred/speech-recog/reload'
 
 
 def parse_cli():
@@ -55,7 +56,7 @@ def main():
             brain_response = brain.kernel.respond(message, brain.session_name)
 
             if brain_response:
-                if brain_response == '/alfred/speech-recog/reload':
+                if brain_response == RELOAD_TRIGGER:
                     brain.reload_modules()
                 else:
                     print "zero-brain:say:" + SPEECH_RECOG_CHANNEL + brain_response
