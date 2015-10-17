@@ -71,7 +71,10 @@ def build_text_to_speech_cmdline(args):
         text_to_speech_command_line += args.mbrola_path + ' -t 1.2 -f 1.4 -e ' + args.mbrola_voice + ' - -.au '
         text_to_speech_command_line += ' | '
 
-    text_to_speech_command_line += args.sox_path + ' - --no-show-progress -t ' + sox_filter + ' bass +1 pitch -300 echo 0.8 0.4 99 0.3'
+    if 'darwin' == sys.platform:
+        text_to_speech_command_line += args.sox_path + ' - --no-show-progress -t ' + sox_filter + ' bass +1 pitch -300 echo 0.8 0.4 99 0.3'
+    else:
+        text_to_speech_command_line += args.sox_path + ' --no-show-progress -t ' + sox_filter + ' - bass +1 pitch -300 echo 0.8 0.4 99 0.3'
     return text_to_speech_command_line
 
 
