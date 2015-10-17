@@ -64,7 +64,7 @@ def build_text_to_speech_cmdline(args):
     if 'darwin' == sys.platform:
         sox_filter = 'coreaudio'
 
-    text_to_speech_command_line = args.espeak_path + ' -v fr-fr -s 150 --stdout \"%s\" '
+    text_to_speech_command_line = args.espeak_path + ' -v fr-fr -s 150 --stdout "%s" '
     text_to_speech_command_line += ' | '
 
     if args.mbrola_path and args.mbrola_voice:
