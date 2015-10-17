@@ -9,6 +9,7 @@ import zmq
 import argparse
 
 SELF_PATH = os.path.dirname(os.path.realpath(__file__))
+
 EAR_CHANNEL = '/alfred/hears/'
 SPEECH_RECOG_CHANNEL = '/alfred/understands/'
 RELOAD_TRIGGER = '/alfred/speech-recog/reload'
@@ -27,11 +28,11 @@ def parse_cli():
 
     parser.add_argument('-i',
                         dest="zmq_in_addr", metavar="0MQ_INPUT_ADDR", type=str,
-                        help='zero MQ ears output address', required=True)
+                        help='zero MQ address of spinal-cord''s output', required=True)
 
     parser.add_argument('-o',
                         dest="zmq_out_addr", metavar="0MQ_OUTPUT_ADDR", type=str,
-                        help='zero MQ publish address', required=True)
+                        help='zero MQ address of spinal-cord''s input', required=True)
 
     return parser.parse_args()
 
@@ -40,7 +41,9 @@ def main():
     args = parse_cli()
     zmq_ctx = zmq.Context()
 
-    from_ears = init_input_from_ears(args.zmq_in_addr, zmq_ctx)
+    input_sock = zmq_ctx.socket(zmq.SUB)
+    input_sock.setsockopt(zmq.SUBSCRIBE, EAR_CHANNEL)
+    input_sock.connect(args.zmq_in_addr)
 
     publish_sock = zmq_ctx.socket(zmq.PUSH)
     publish_sock.connect(args.zmq_out_addr)
@@ -51,7 +54,7 @@ def main():
         while True:
             print "zero-brain loop"
 
-            message = receive(from_ears)
+            message = receive(input_sock)
 
             brain_response = brain.kernel.respond(message, brain.session_name)
 
@@ -60,19 +63,16 @@ def main():
                     brain.reload_modules()
                 else:
                     print "zero-brain:say:" + SPEECH_RECOG_CHANNEL + brain_response
-                    publish_sock.send(SPEECH_RECOG_CHANNEL + brain_response)
+                    if brain_response.startswith('/alfred/'):
+                        publish_sock.send(brain_response)
+                    else:
+                        publish_sock.send(SPEECH_RECOG_CHANNEL + brain_response)
 
     except KeyboardInterrupt:
         pass
     finally:
         brain.save_session()
 
-
-def init_input_from_ears(zmq_in_addr, zmq_ctx):
-    from_ears = zmq_ctx.socket(zmq.SUB)
-    from_ears.setsockopt(zmq.SUBSCRIBE, EAR_CHANNEL)
-    from_ears.connect(zmq_in_addr)
-    return from_ears
 
 
 def receive(bus):

@@ -11,3 +11,4 @@ little_alice/brains/brain.br
 *.pyc
 brain.br
 session.ses
+audio-profile

@@ -27,6 +27,10 @@ api_mode = 'json'
 api_id = '3012656'
 
 
+def main():
+    get_current_weather_data_by_city_name()
+
+
 def print_dump(data):
     print '--------------------------------------'
     """http://openweathermap.org/weather-data#current"""
@@ -281,4 +285,5 @@ def to_wind_description(speed):
 
 
 if __name__ == "__main__":
-    get_current_weather_data_by_city_name()
+    main()
+

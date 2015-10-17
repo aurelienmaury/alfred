@@ -2,6 +2,7 @@
 <aiml version="1.0">
 
 <category><pattern>RELOAD</pattern><template>/alfred/speech-recog/reload</template></category>
+<category><pattern>SAY</pattern><template>/alfred/says/</template></category>
 
 <category><pattern>NÉ LE JOUR LES MODULES</pattern><template><srai>RELOAD</srai></template></category>
 <category><pattern>LES JOURS LES MODULES</pattern><template><srai>RELOAD</srai></template></category>
@@ -33,5 +34,8 @@
 <category><pattern>MAIS UN JOUR LIN</pattern><template><srai>RELOAD</srai></template></category>
 <category><pattern>MAIS SUR LE MODULE</pattern><template><srai>RELOAD</srai></template></category>
 <category><pattern>NÉ À JOUR LES MODULES</pattern><template><srai>RELOAD</srai></template></category>
+
+
+<category><pattern>BONJOUR</pattern><template><srai>SAY</srai>bonjour</template></category>
 
 </aiml>
