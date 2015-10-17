@@ -21,9 +21,9 @@ def parse_cli():
                         dest="espeak_path", metavar="PATH", type=str,
                         help='espeak executable path', required=True)
 
-    parser.add_argument('--sox-path',
-                        dest="sox_path", metavar="PATH", type=str,
-                        help='sox executable path', required=True)
+    parser.add_argument('--play-path',
+                        dest="play_path", metavar="PATH", type=str,
+                        help='play executable path', required=True)
 
     parser.add_argument('--mbrola-path',
                         dest="mbrola_path", metavar="PATH", type=str,
@@ -60,30 +60,30 @@ def main():
 
 
 def build_text_to_speech_cmdline(args):
-    sox_filter = 'wav'
+    play_filter = 'wav'
 
     if 'darwin' == sys.platform:
-        sox_filter = 'coreaudio'
+        play_filter = 'coreaudio'
 
     text_to_speech_command_line = args.espeak_path
 
     if args.mbrola_path and args.mbrola_voice:
-        text_to_speech_command_line += ' -v mb/mb-fr4 -q -s150  --pho --stdout "%s" '
+        text_to_speech_command_line += ' -v mb/mb-fr4 -q -s150 --pho --stdout "%s" '
     else:
         text_to_speech_command_line += ' -v fr-fr -s 150 --stdout "%s" '
 
     text_to_speech_command_line += ' | '
 
     if args.mbrola_path and args.mbrola_voice:
-        sox_filter = 'au'
+        play_filter = 'au'
 
         text_to_speech_command_line += args.mbrola_path + ' -t 1.2 -f 1.4 -e ' + args.mbrola_voice + ' - -.au '
         text_to_speech_command_line += ' | '
 
     if 'darwin' == sys.platform:
-        text_to_speech_command_line += args.sox_path + ' - --no-show-progress -t ' + sox_filter + ' bass +1 pitch -300 echo 0.8 0.4 99 0.3'
+        text_to_speech_command_line += args.play_path + ' - --no-show-progress -t ' + play_filter + ' bass +1 pitch -300 echo 0.8 0.4 99 0.3'
     else:
-        text_to_speech_command_line += args.sox_path + ' --no-show-progress -t ' + sox_filter + ' - bass +1 pitch -300 echo 0.8 0.4 99 0.3'
+        text_to_speech_command_line += args.play_path + ' --no-show-progress -t ' + play_filter + ' - bass +1 pitch -300 echo 0.8 0.4 99 0.3'
 
     return text_to_speech_command_line
 
