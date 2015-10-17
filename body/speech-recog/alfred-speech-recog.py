@@ -42,8 +42,8 @@ def main():
 
     from_ears = init_input_from_ears(args.zmq_in_addr, zmq_ctx)
 
-    publish_sock = zmq_ctx.socket(zmq.PUB)
-    publish_sock.bind(args.zmq_out_addr)
+    publish_sock = zmq_ctx.socket(zmq.PUSH)
+    publish_sock.connect(args.zmq_out_addr)
 
     brain = Brain(args.modules_path, args.brain_path)
 
