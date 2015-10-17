@@ -65,11 +65,18 @@ def build_text_to_speech_cmdline(args):
     if 'darwin' == sys.platform:
         sox_filter = 'coreaudio'
 
-    text_to_speech_command_line = args.espeak_path + ' -v fr-fr -s 150 --stdout "%s" '
+    text_to_speech_command_line = args.espeak_path
+
+    if args.mbrola_path and args.mbrola_voice:
+        text_to_speech_command_line += ' -v mb/mb-fr4 -q -s150  --pho --stdout "%s" '
+    else:
+        text_to_speech_command_line += ' -v fr-fr -s 150 --stdout "%s" '
+
     text_to_speech_command_line += ' | '
 
     if args.mbrola_path and args.mbrola_voice:
         sox_filter = 'au'
+
         text_to_speech_command_line += args.mbrola_path + ' -t 1.2 -f 1.4 -e ' + args.mbrola_voice + ' - -.au '
         text_to_speech_command_line += ' | '
 
@@ -77,7 +84,7 @@ def build_text_to_speech_cmdline(args):
         text_to_speech_command_line += args.sox_path + ' - --no-show-progress -t ' + sox_filter + ' bass +1 pitch -300 echo 0.8 0.4 99 0.3'
     else:
         text_to_speech_command_line += args.sox_path + ' --no-show-progress -t ' + sox_filter + ' - bass +1 pitch -300 echo 0.8 0.4 99 0.3'
-        
+
     return text_to_speech_command_line
 
 
