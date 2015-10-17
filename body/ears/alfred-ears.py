@@ -217,6 +217,9 @@ def decode_speech(acoustic_model_directory, language_model_file, dictionary_file
     try:
         decoder_path = os.path.join(SELF_PATH, "pocketsphinx-head-decoder.py")
 
+        if sys.platform.startswith('linux'):
+            decoder_path = os.path.join(SELF_PATH, "pocketsphinx-0.8-decoder.py")
+
         sphinx_decode_cmd = " ".join([
             decoder_path,
             acoustic_model_directory,
