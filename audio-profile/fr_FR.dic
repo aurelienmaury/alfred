@@ -10665,11 +10665,11 @@ bergeries bb ai rr jj ee rr ii
 bergeron bb ai rr jj ee rr on
 bergeron(2) bb ai rr jj rr on
 bergers bb ai rr jj ei
-bergers(2) bb ai rr jj ei zz
+berger bb ai rr jj ei
+berge bb ai rr jj
+berge(2) bb ai rr jj ee
 berges bb ai rr jj
 berges(2) bb ai rr jj ee
-berges(3) bb ai rr jj ee zz
-berges(4) bb ai rr jj zz
 bergman bb ai rr gg mm aa nn
 bergman(2) bb ai rr gn mm aa nn
 bergougnan bb ai rr gg ou nn yy an
@@ -10693,24 +10693,26 @@ berkshire bb ai rr kk ch ii rr
 berl bb ai rr ll
 berlin bb ai rr ll in
 berlin-est bb ai rr ll in ai ss tt
+berlin-est(2) bb ai rr ll in ai ss tt ee
 berlin-ouest bb ai rr ll in ww ai ss tt
-berlin_est bb ai rr ll in ai ss tt
+berlin-ouest(2) bb ai rr ll in ww ai ss tt ee
 berlinale bb ai rr ll ii nn aa ll
+berlinale(2) bb ai rr ll ii nn aa ll ee
 berline bb ai rr ll ii nn
 berline(2) bb ai rr ll ii nn ee
 berliner bb ai rr ll ii nn ai rr
 berlines bb ai rr ll ii nn
 berlines(2) bb ai rr ll ii nn ee
-berlines(3) bb ai rr ll ii nn ee zz
-berlines(4) bb ai rr ll ii nn zz
 berling bb ai rr ll ii nn gg
 berlingske bb ai rr ll ii nn gg ss kk
 berlinguer bb ai rr ll in gg ei
 berlinois bb ai rr ll ii nn ww aa
-berlinois(2) bb ai rr ll ii nn ww aa zz
 berlinoise bb ai rr ll ii nn ww aa zz
 berlinoise(2) bb ai rr ll ii nn ww aa zz ee
+berlinoises bb ai rr ll ii nn ww aa zz
+berlinoises(2) bb ai rr ll ii nn ww aa zz ee
 berlioz bb ai rr ll yy au zz
+berlioz(2) bb ai rr ll yy au zz ee
 berlusconi bb ai rr ll uu ss kk oo nn ii
 berlusconisme bb ai rr ll uu ss kk oo nn ii ss mm
 berman bb ai rr mm aa nn
@@ -10779,16 +10781,10 @@ besançon bb ee zz an ss on
 besançon(2) bb zz an ss on
 besicles bb ai zz ii kk ll
 besicles(2) bb ai zz ii kk ll ee
-besicles(3) bb ai zz ii kk ll ee zz
-besicles(4) bb ai zz ii kk ll zz
-besicles(5) bb ee zz ii kk ll
-besicles(6) bb ee zz ii kk ll ee
-besicles(7) bb ee zz ii kk ll ee zz
-besicles(8) bb ee zz ii kk ll zz
-besicles(9) bb zz ii kk ll
-besicles(10) bb zz ii kk ll ee
-besicles(11) bb zz ii kk ll ee zz
-besicles(12) bb zz ii kk ll zz
+besicles(3) bb ee zz ii kk ll
+besicles(4) bb ee zz ii kk ll ee
+besicles(5) bb zz ii kk ll
+besicles(6) bb zz ii kk ll ee
 besiktas bb ei zz ii kk tt aa ss
 besnard bb ai nn aa rr
 besnier bb ai ss nn yy ei
@@ -10797,13 +10793,9 @@ besogne bb ee zz oo gn
 besogne(2) bb ee zz oo gn ee
 besognes bb ee zz oo gn
 besognes(2) bb ee zz oo gn ee
-besognes(3) bb ee zz oo gn ee zz
-besognes(4) bb ee zz oo gn zz
 besogneux bb ee zz oo gn eu
-besogneux(2) bb ee zz oo gn eu zz
 besoin bb ee zz ww in
 besoins bb ee zz ww in
-besoins(2) bb ee zz ww in zz
 besrest bb ai ss rr ai
 besse bb ai ss
 besse(2) bb ai ss ee
@@ -10816,17 +10808,17 @@ bessy bb ei ss ii
 best bb ai ss tt
 best-seller bb ai ss tt ss ai ll ee rr
 best-sellers bb ai ss tt ss ai ll ee rr
-best-sellers(2) bb ai ss tt ss ai ll ee rr zz
 bestiaire bb ai ss tt yy ai rr
 bestiaire(2) bb ai ss tt yy ai rr ee
 bestiaux bb ai ss tt yy au
-bestiaux(2) bb ai ss tt yy au zz
+bestiole bb ai ss tt yy oo ll
+bestiole(2) bb ai ss tt yy oo ll ee
 bestioles bb ai ss tt yy oo ll
 bestioles(2) bb ai ss tt yy oo ll ee
-bestioles(3) bb ai ss tt yy oo ll ee zz
-bestioles(4) bb ai ss tt yy oo ll zz
 beta bb ei tt aa
+beta(2) bb ai tt aa
 betancourt bb ee tt an kk ou rr
+betancourt(2) bb ee tt an kk ou rr ee
 betc bb ei eu tt ei ss ei
 beth bb ai ff
 bethlehem bb ai tt ll ei ai mm
@@ -10840,14 +10832,12 @@ bettati bb ei tt aa tt ii
 bette bb ai tt
 bette(2) bb ai tt ee
 bettelheim bb ai tt ai ll aa ii mm
-bettencourt bb ai tt an kk ou rr
-bettencourt(2) bb ei tt an kk ou rr
+bettencourt bb ai tt tt an kk ou rr
+bettencourt(2) bb ei tt tt an kk ou rr
 betterave bb ai tt ee rr aa vv
 betterave(2) bb ai tt ee rr aa vv ee
 betteraves bb ai tt ee rr aa vv
 betteraves(2) bb ai tt ee rr aa vv ee
-betteraves(3) bb ai tt ee rr aa vv ee zz
-betteraves(4) bb ai tt ee rr aa vv zz
 bettina bb ei tt ii nn aa
 bettini bb ei tt ii nn ii
 bettino bb ai tt ii nn oo
@@ -10859,7 +10849,6 @@ beuron bb eu rr on
 beurre bb oe rr
 beurre(2) bb oe rr ee
 beurs bb oe rr
-beurs(2) bb oe rr zz
 beuve bb oe vv
 beuys bb eu ii
 beuze bb oe zz
