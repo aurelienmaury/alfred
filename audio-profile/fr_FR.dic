@@ -275,7 +275,6 @@ abonner aa bb oo nn ei
 abonner(2) aa bb oo nn ei rr
 abonné aa bb oo nn ei
 abonnés aa bb oo nn ei
-abonnés(2) aa bb oo nn ei zz
 abord aa bb oo rr
 abordable aa bb oo rr dd aa bb ll
 abordable(2) aa bb oo rr dd aa bb ll ee
@@ -306,9 +305,7 @@ abords(2) aa bb oo rr zz
 abordé aa bb oo rr dd ei
 abordée aa bb oo rr dd ei
 abordées aa bb oo rr dd ei
-abordées(2) aa bb oo rr dd ei zz
 abordés aa bb oo rr dd ei
-abordés(2) aa bb oo rr dd ei zz
 aborigène aa bb oo rr ii jj ai nn
 aborigène(2) aa bb oo rr ii jj ai nn ee
 aborigènes aa bb oo rr ii jj ai nn
@@ -360,7 +357,6 @@ abri aa bb rr ii
 abribus aa bb rr ii bb uu ss
 abricot aa bb rr ii kk au
 abricotiers aa bb rr ii kk oo tt yy ei
-abricotiers(2) aa bb rr ii kk oo tt yy ei zz
 abricots aa bb rr ii kk au
 abricots(2) aa bb rr ii kk au zz
 abril aa bb rr ii ll
@@ -381,7 +377,6 @@ abritera aa bb rr ii tt ee rr aa
 abrité aa bb rr ii tt ei
 abritée aa bb rr ii tt ei
 abrités aa bb rr ii tt ei
-abrités(2) aa bb rr ii tt ei zz
 abrogation aa bb rr oo gg aa ss yy on
 abroge aa bb rr oo jj
 abroge(2) aa bb rr oo jj ee
@@ -457,22 +452,16 @@ absorber(2) aa bb ss oo rr bb ei rr
 absorbé aa bb ss oo rr bb ei
 absorbée aa bb ss oo rr bb ei
 absorbées aa bb ss oo rr bb ei
-absorbées(2) aa bb ss oo rr bb ei zz
 absorbés aa bb ss oo rr bb ei
-absorbés(2) aa bb ss oo rr bb ei zz
 absorption aa bb ss oo rr pp ss yy on
 absoudre aa bb ss ou dd rr
 absoudre(2) aa bb ss ou dd rr ee
 abstenant aa bb ss tt ee nn an
 abstenant(2) aa bb ss tt ee nn an tt
 abstenez aa bb ss tt ee nn ei
-abstenez(2) aa bb ss tt ee nn ei zz
-abstenez(3) aa bb ss tt nn ei
-abstenez(4) aa bb ss tt nn ei zz
-abstenez(5) aa pp ss tt ee nn ei
-abstenez(6) aa pp ss tt ee nn ei zz
-abstenez(7) aa pp ss tt nn ei
-abstenez(8) aa pp ss tt nn ei zz
+abstenez(2) aa bb ss tt nn ei
+abstenez(3) aa pp ss tt ee nn ei
+abstenez(4) aa pp ss tt nn ei
 abstenir aa bb ss tt ee nn ii rr
 abstention aa bb ss tt an ss yy on
 abstentionnisme aa bb ss tt an ss yy oo nn ii ss mm
@@ -524,7 +513,6 @@ absurdes(3) aa bb ss uu rr dd ee zz
 absurdes(4) aa bb ss uu rr dd zz
 absurdité aa bb ss uu rr dd ii tt ei
 absurdités aa bb ss uu rr dd ii tt ei
-absurdités(2) aa bb ss uu rr dd ii tt ei zz
 abu aa bb uu
 abubakar aa bb uu bb aa kk aa rr
 abug aa bb uu gg
@@ -551,7 +539,6 @@ abusives(3) aa bb uu zz ii vv ee zz
 abusives(4) aa bb uu zz ii vv zz
 abusé aa bb uu zz ei
 abusés aa bb uu zz ei
-abusés(2) aa bb uu zz ei zz
 abyssal aa bb ii ss aa ll
 abyssale aa bb ii ss aa ll
 abyssale(2) aa bb ii ss aa ll ee
@@ -580,9 +567,7 @@ abîmes(4) aa bb ii mm zz
 abîmé aa bb ii mm ei
 abîmée aa bb ii mm ei
 abîmées aa bb ii mm ei
-abîmées(2) aa bb ii mm ei zz
 abîmés aa bb ii mm ei
-abîmés(2) aa bb ii mm ei zz
 ac aa kk
 acabit aa kk aa bb ii
 acacia aa kk aa ss yy aa
@@ -625,7 +610,6 @@ accabler(2) aa kk aa bb ll ei rr
 accablé aa kk aa bb ll ei
 accablée aa kk aa bb ll ei
 accablés aa kk aa bb ll ei
-accablés(2) aa kk aa bb ll ei zz
 accalmie aa kk aa ll mm ii
 accapare aa kk aa pp aa rr
 accapare(2) aa kk aa pp aa rr ee
@@ -649,9 +633,7 @@ accentuer(2) aa kk ss an tt uu ei rr
 accentué aa kk ss an tt uu ei
 accentuée aa kk ss an tt uu ei
 accentuées aa kk ss an tt uu ei
-accentuées(2) aa kk ss an tt uu ei zz
 accentués aa kk ss an tt uu ei
-accentués(2) aa kk ss an tt uu ei zz
 accepta aa kk ss ai pp tt aa
 acceptabilité aa kk ss ai pp tt aa bb ii ll ii tt ei
 acceptable aa kk ss ai pp tt aa bb ll
@@ -683,7 +665,6 @@ accepterons(2) aa kk ss ai pp tt ee rr on zz
 accepteront aa kk ss ai pp tt ee rr on
 accepteront(2) aa kk ss ai pp tt ee rr on tt
 acceptez aa kk ss ai pp tt ei
-acceptez(2) aa kk ss ai pp tt ei zz
 acception aa kk ss ai pp ss yy on
 acceptions aa kk ss ai pp ss yy on
 acceptions(2) aa kk ss ai pp ss yy on zz
@@ -694,9 +675,7 @@ acceptons(2) aa kk ss ai pp tt on zz
 accepté aa kk ss ai pp tt ei
 acceptée aa kk ss ai pp tt ei
 acceptées aa kk ss ai pp tt ei
-acceptées(2) aa kk ss ai pp tt ei zz
 acceptés aa kk ss ai pp tt ei
-acceptés(2) aa kk ss ai pp tt ei zz
 access aa kk ss ai ss
 accessibilité aa kk ss ai ss ii bb ii ll ii tt ei
 accessible aa kk ss ai ss ii bb ll
@@ -10889,7 +10868,6 @@ biais(2) bb yy ai zz
 biaisé bb yy ai zz ei
 biaisée bb yy ai zz ei
 biaisées bb yy ai zz ei
-biaisées(2) bb yy ai zz ei zz
 biancheri bb yy an tt ch ei rr ii
 bianchi bb yy an kk ii
 bianciotti bb yy an ss yy au tt ii
@@ -11050,7 +11028,6 @@ bijou bb ii jj ou
 bijouterie bb ii jj ou tt ee rr ii
 bijoutier bb ii jj ou tt yy ei
 bijoutiers bb ii jj ou tt yy ei
-bijoutiers(2) bb ii jj ou tt yy ei zz
 bijoux bb ii jj ou
 bijoux(2) bb ii jj ou zz
 bikini bb ii kk ii nn ii
@@ -11370,7 +11347,6 @@ blaster bb ll aa ss tt ai rr
 blasé bb ll aa zz ei
 blasée bb ll aa zz ei
 blasés bb ll aa zz ei
-blasés(2) bb ll aa zz ei zz
 blatter bb ll aa tt ei
 blaudzun bb ll au dd zz un
 blazer bb ll aa zz ee rr
@@ -11396,13 +11372,10 @@ blessures(4) bb ll ai ss uu rr zz
 blessé bb ll ai ss ei
 blessée bb ll ai ss ei
 blessées bb ll ai ss ei
-blessées(2) bb ll ai ss ei zz
 blessés bb ll ai ss ei
-blessés(2) bb ll ai ss ei zz
 bleu bb ll eu
 bleue bb ll eu
 bleues bb ll eu
-bleues(2) bb ll eu zz
 bleus bb ll eu
 bleus(2) bb ll eu zz
 bleustein bb ll eu ss tt aa ii nn
@@ -11419,9 +11392,7 @@ blindage(2) bb ll in dd aa jj ee
 blindé bb ll in dd ei
 blindée bb ll in dd ei
 blindées bb ll in dd ei
-blindées(2) bb ll in dd ei zz
 blindés bb ll in dd ei
-blindés(2) bb ll in dd ei zz
 blitzkrieg bb ll ii tt ss kk rr ii gg
 blix bb ll ii kk ss
 bloc bb ll oo kk
@@ -11429,8 +11400,6 @@ blocage bb ll oo kk aa jj
 blocage(2) bb ll oo kk aa jj ee
 blocages bb ll oo kk aa jj
 blocages(2) bb ll oo kk aa jj ee
-blocages(3) bb ll oo kk aa jj ee zz
-blocages(4) bb ll oo kk aa jj zz
 bloch bb ll oo kk
 bloch-lainé bb ll oo ch ll ai nn ei
 bloche bb ll oo ch
@@ -11476,9 +11445,7 @@ bloquer(2) bb ll oo kk ei rr
 bloqué bb ll oo kk ei
 bloquée bb ll oo kk ei
 bloquées bb ll oo kk ei
-bloquées(2) bb ll oo kk ei zz
 bloqués bb ll oo kk ei
-bloqués(2) bb ll oo kk ei zz
 blot bb ll au
 blotin bb ll oo tt in
 blotti bb ll oo tt ii
@@ -11507,7 +11474,6 @@ blâmer bb ll aa mm ei
 blâmer(2) bb ll aa mm ei rr
 blé bb ll ei
 blés bb ll ei
-blés(2) bb ll ei zz
 blême bb ll ai mm
 blême(2) bb ll ai mm ee
 bmg bb ei ai mm jj ei
@@ -11628,9 +11594,7 @@ boissy bb ww aa ss ii
 boisé bb ww aa zz ei
 boisée bb ww aa zz ei
 boisées bb ww aa zz ei
-boisées(2) bb ww aa zz ei zz
 boisés bb ww aa zz ei
-boisés(2) bb ww aa zz ei zz
 boit bb ww aa
 boit(2) bb ww aa tt
 boite bb ww aa tt
@@ -11709,13 +11673,10 @@ bombarder bb on bb aa rr dd ei
 bombarder(2) bb on bb aa rr dd ei rr
 bombardier bb on bb aa rr dd yy ei
 bombardiers bb on bb aa rr dd yy ei
-bombardiers(2) bb on bb aa rr dd yy ei zz
 bombardé bb on bb aa rr dd ei
 bombardée bb on bb aa rr dd ei
 bombardées bb on bb aa rr dd ei
-bombardées(2) bb on bb aa rr dd ei zz
 bombardés bb on bb aa rr dd ei
-bombardés(2) bb on bb aa rr dd ei zz
 bombay bb on bb ai
 bombe bb on bb
 bombe(2) bb on bb ee
@@ -11762,9 +11723,7 @@ bondy bb on dd ii
 bondé bb on dd ei
 bondée bb on dd ei
 bondées bb on dd ei
-bondées(2) bb on dd ei zz
 bondés bb on dd ei
-bondés(2) bb on dd ei zz
 bonfillon bb on ff ii yy on
 bongi bb on jj ii
 bongo bb on gg au
@@ -11785,8 +11744,8 @@ bonification bb oo nn ii ff ii kk aa ss yy on
 bonifications bb oo nn ii ff ii kk aa ss yy on
 bonifications(2) bb oo nn ii ff ii kk aa ss yy on zz
 bonifiés bb oo nn ii ff yy ei
-bonifiés(2) bb oo nn ii ff yy ei zz
 bonjour bb on jj ou rr
+bonjourno bb on jj ou rr nn oo
 bonn bb oo nn
 bonnafé bb au nn aa ff ei
 bonnafé(2) bb oo nn aa ff ei
@@ -11889,9 +11848,7 @@ bordures(4) bb oo rr dd uu rr zz
 bordé bb oo rr dd ei
 bordée bb oo rr dd ei
 bordées bb oo rr dd ei
-bordées(2) bb oo rr dd ei zz
 bordés bb oo rr dd ei
-bordés(2) bb oo rr dd ei zz
 borel bb oo rr ai ll
 borelli bb au rr ai ll ii
 borelli(2) bb au rr ei ll ii
@@ -11934,7 +11891,6 @@ borné bb oo rr nn ei
 bornée bb oo rr nn ei
 bornéo bb oo rr nn ei au
 bornés bb oo rr nn ei
-bornés(2) bb oo rr nn ei zz
 boro bb au rr au
 borodine bb au rr au dd ii nn
 borotra bb au rr au tt rr aa
@@ -12074,7 +12030,6 @@ boucheries(2) bb ou ch ee rr ii zz
 boucheron bb ou ch ee rr on
 boucheron(2) bb ou ch rr on
 bouchers bb ou ch ei
-bouchers(2) bb ou ch ei zz
 bouches bb ou ch
 bouches(2) bb ou ch ee
 bouches(3) bb ou ch ee zz
@@ -12085,7 +12040,6 @@ bouches-du-rhône(3) bb ou ch ee dd uu rr au nn
 bouches-du-rhône(4) bb ou ch ee dd uu rr au nn ee
 bouchet bb ou ch ai
 bouchez bb ou ch ei
-bouchez(2) bb ou ch ei zz
 bouchon bb ou ch on
 bouchonne bb ou ch oo nn
 bouchonne(2) bb ou ch oo nn ee
@@ -12095,7 +12049,6 @@ bouchra bb ou ch rr aa
 bouché bb ou ch ei
 bouchée bb ou ch ei
 bouchées bb ou ch ei
-bouchées(2) bb ou ch ei zz
 bouclage bb ou kk ll aa jj
 bouclage(2) bb ou kk ll aa jj ee
 bouclages bb ou kk ll aa jj
@@ -12114,13 +12067,10 @@ boucles(3) bb ou kk ll ee zz
 boucles(4) bb ou kk ll zz
 bouclier bb ou kk ll ii yy ei
 boucliers bb ou kk ll ii yy ei
-boucliers(2) bb ou kk ll ii yy ei zz
 bouclé bb ou kk ll ei
 bouclée bb ou kk ll ei
 bouclées bb ou kk ll ei
-bouclées(2) bb ou kk ll ei zz
 bouclés bb ou kk ll ei
-bouclés(2) bb ou kk ll ei zz
 boucs bb ou kk
 boucs(2) bb ou kk zz
 boudanov bb ou dd aa nn oo ff
@@ -12183,13 +12133,11 @@ bouffes(3) bb ou ff ee zz
 bouffes(4) bb ou ff zz
 bouffon bb ou ff on
 bouffonnerie bb ou ff oo nn ee rr ii
+bouffonnerie(2) bb ou ff oo nn ee rr ii ee
 bouffons bb ou ff on
-bouffons(2) bb ou ff on zz
 bouffée bb ou ff ei
 bouffées bb ou ff ei
-bouffées(2) bb ou ff ei zz
 bouffés bb ou ff ei
-bouffés(2) bb ou ff ei zz
 bougainville bb ou gg in vv ii kk
 bougainville(2) bb ou gg in vv ii kk ee
 bougainville(3) bb ou gg in vv ii ll
@@ -12207,7 +12155,6 @@ bougeront(2) bb ou jj ee rr on tt
 bougeront(3) bb ou jj rr on
 bougeront(4) bb ou jj rr on tt
 bougez bb ou jj ei
-bougez(2) bb ou jj ei zz
 boughrara bb ou gg rr aa rr aa
 bougie bb ou jj ii
 bougies bb ou jj ii
@@ -12259,7 +12206,6 @@ boulangerie bb ou ll an jj ee rr ii
 boulangeries bb ou ll an jj ee rr ii
 boulangeries(2) bb ou ll an jj ee rr ii zz
 boulangers bb ou ll an jj ei
-boulangers(2) bb ou ll an jj ei zz
 boulangère bb ou ll an jj ai rr
 boulangère(2) bb ou ll an jj ai rr ee
 boulard bb ou ll au
@@ -12303,12 +12249,9 @@ bouleverser(2) bb ou ll ee vv ai rr ss ei rr
 bouleversé bb ou ll ee vv ai rr ss ei
 bouleversée bb ou ll ee vv ai rr ss ei
 bouleversées bb ou ll ee vv ai rr ss ei
-bouleversées(2) bb ou ll ee vv ai rr ss ei zz
 bouleversés bb ou ll ee vv ai rr ss ei
-bouleversés(2) bb ou ll ee vv ai rr ss ei zz
-boulez bb ou ll ai zz
+boulez bb ou ll ai
 boulez(2) bb ou ll ei
-boulez(3) bb ou ll ei zz
 boulgakov bb ou ll gg aa kk oo ff
 bouli bb ou ll ii
 boulimie bb ou ll ii mm ii
@@ -12439,9 +12382,7 @@ bourrus bb ou rr uu
 bourré bb ou rr ei
 bourrée bb ou rr ei
 bourrées bb ou rr ei
-bourrées(2) bb ou rr ei zz
 bourrés bb ou rr ei
-bourrés(2) bb ou rr ei zz
 bourse bb ou rr ss
 bourse(2) bb ou rr ss ee
 bourses bb ou rr ss
@@ -12450,7 +12391,6 @@ bourses(3) bb ou rr ss ee zz
 boursier bb ou rr ss yy ei
 boursier(2) bb ou rr ss yy ei rr
 boursiers bb ou rr ss yy ei
-boursiers(2) bb ou rr ss yy ei zz
 boursière bb ou rr ss yy ai rr
 boursière(2) bb ou rr ss yy ai rr ee
 boursières bb ou rr ss yy ai rr
@@ -12477,11 +12417,8 @@ bousculer(2) bb ou ss kk uu ll ei rr
 bousculé bb ou ss kk uu ll ei
 bousculée bb ou ss kk uu ll ei
 bousculées bb ou ss kk uu ll ei
-bousculées(2) bb ou ss kk uu ll ei zz
 bousculés bb ou ss kk uu ll ei
-bousculés(2) bb ou ss kk uu ll ei zz
 bousillées bb ou zz ii yy ei
-bousillées(2) bb ou zz ii yy ei zz
 bousquet bb ou ss kk ai
 bousrighi bb ou ss rr ii gg ii
 boussac bb ou ss aa kk
@@ -12544,7 +12481,6 @@ bouzgarne bb ou zz gg aa rr nn
 bouzoubaâ bb ou zz ou bb aa aa
 bouée bb ou ei
 bouées bb ou ei
-bouées(2) bb ou ei zz
 bovary bb au vv aa rr ii
 bovary(2) bb oo vv aa rr ii
 bove bb oo vv
@@ -12596,7 +12532,6 @@ boycotter(2) bb oo yy kk oo tt ei rr
 boycotté bb oo yy kk oo tt ei
 boycottée bb oo yy kk oo tt ei
 boycottés bb oo yy kk oo tt ei
-boycottés(2) bb oo yy kk oo tt ei zz
 boyd bb oo yy dd
 boyens bb ww aa yy in
 boyer bb ww aa uu ei
@@ -12618,7 +12553,6 @@ boîtes(3) bb ww aa tt ee zz
 boîtes(4) bb ww aa tt zz
 boîtier bb ww aa tt yy ei
 boîtiers bb ww aa tt yy ei
-boîtiers(2) bb ww aa tt yy ei zz
 bp bb ei pp ei
 bpi bb ei pp ei ii
 bps bb ei pp ei ai ss
@@ -12646,7 +12580,6 @@ bradley bb rr aa dd ll ei
 brady bb rr aa dd ii
 bradé bb rr aa dd ei
 bradés bb rr aa dd ei
-bradés(2) bb rr aa dd ei zz
 braga bb rr aa gg aa
 braguette bb rr aa gg ai tt
 braguette(2) bb rr aa gg ai tt ee
