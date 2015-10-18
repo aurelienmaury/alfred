@@ -705,7 +705,6 @@ accidents(2) aa kk ss ii dd an zz
 accidenté aa kk ss ii dd an tt ei
 accidentée aa kk ss ii dd an tt ei
 accidentés aa kk ss ii dd an tt ei
-accidentés(2) aa kk ss ii dd an tt ei zz
 acclamation aa kk ll aa mm aa ss yy on
 acclamations aa kk ll aa mm aa ss yy on
 acclamations(2) aa kk ll aa mm aa ss yy on zz
@@ -715,7 +714,6 @@ acclamer aa kk ll aa mm ei
 acclamer(2) aa kk ll aa mm ei rr
 acclamé aa kk ll aa mm ei
 acclamés aa kk ll aa mm ei
-acclamés(2) aa kk ll aa mm ei zz
 acclimatation aa kk ll ii mm aa tt aa ss yy on
 acclimater aa kk ll ii mm aa tt ei
 acclimater(2) aa kk ll ii mm aa tt ei rr
@@ -727,7 +725,6 @@ accoler aa kk oo ll ei
 accoler(2) aa kk oo ll ei rr
 accolé aa kk oo ll ei
 accolés aa kk oo ll ei
-accolés(2) aa kk oo ll ei zz
 accommodant aa kk oo mm oo dd an
 accommodant(2) aa kk oo mm oo dd an tt
 accommodante aa kk oo mm oo dd an tt
@@ -763,7 +760,6 @@ accompagnera aa kk on pp aa gn ee rr aa
 accompagnerait aa kk on pp aa gn ee rr ai
 accompagnerait(2) aa kk on pp aa gn ee rr ai tt
 accompagnerez aa kk on pp aa gn ee rr ei
-accompagnerez(2) aa kk on pp aa gn ee rr ei zz
 accompagneront aa kk on pp aa gn ee rr on
 accompagné aa kk on pp aa gn ei
 accompagnée aa kk on pp aa gn ei
@@ -812,12 +808,10 @@ accords(2) aa kk oo rr zz
 accordé aa kk oo rr dd ei
 accordée aa kk oo rr dd ei
 accordées aa kk oo rr dd ei
-accordées(2) aa kk oo rr dd ei zz
 accordéon aa kk oo rr dd ai on
 accordéoniste aa kk oo rr dd ai oo nn ii ss tt
 accordéoniste(2) aa kk oo rr dd ai oo nn ii ss tt ee
 accordés aa kk oo rr dd ei
-accordés(2) aa kk oo rr dd ei zz
 accoster aa kk oo ss tt ei
 accoster(2) aa kk oo ss tt ei rr
 accouche aa kk ou ch
@@ -839,7 +833,6 @@ accoutumance(2) aa kk ou tt uu mm an ss ee
 accoutumé aa kk ou tt uu mm ei
 accoutumée aa kk ou tt uu mm ei
 accoutumés aa kk ou tt uu mm ei
-accoutumés(2) aa kk ou tt uu mm ei zz
 accoyer aa kk ww aa yy ei
 accra aa kk rr aa
 accro aa kk rr au
@@ -859,13 +852,10 @@ accrocher aa kk rr oo ch ei
 accrocher(2) aa kk rr oo ch ei rr
 accrocheur aa kk rr oo ch oe rr
 accrochez aa kk rr oo ch ei
-accrochez(2) aa kk rr oo ch ei zz
 accroché aa kk rr oo ch ei
 accrochée aa kk rr oo ch ei
 accrochées aa kk rr oo ch ei
-accrochées(2) aa kk rr oo ch ei zz
 accrochés aa kk rr oo ch ei
-accrochés(2) aa kk rr oo ch ei zz
 accrocs aa kk rr au
 accrocs(2) aa kk rr au zz
 accroire aa kk rr ww aa rr
@@ -901,7 +891,6 @@ accrédité aa kk rr ai dd ii tt ei
 accréditée aa kk rr ai dd ii tt ei
 accréditée(2) aa kk rr ei dd ii tt ei
 accrédités aa kk rr ai dd ii tt ei
-accrédités(2) aa kk rr ai dd ii tt ei zz
 accueil aa kk oe yy
 accueillaient aa kk ee yy ai
 accueillaient(2) aa kk ee yy ai tt
@@ -928,7 +917,6 @@ accueillerons(2) aa kk ee yy ee rr on zz
 accueilleront aa kk ee yy ee rr on
 accueilleront(2) aa kk ee yy ee rr on tt
 accueillez aa kk ee yy ei
-accueillez(2) aa kk ee yy ei zz
 accueilli aa kk ee yy ii
 accueillie aa kk ee yy ii
 accueillies aa kk ee yy ii
@@ -962,7 +950,6 @@ acculer aa kk uu ll ei
 acculer(2) aa kk uu ll ei rr
 acculé aa kk uu ll ei
 acculés aa kk uu ll ei
-acculés(2) aa kk uu ll ei zz
 accumulant aa kk uu mm uu ll an
 accumulant(2) aa kk uu mm uu ll an tt
 accumulation aa kk uu mm uu ll aa ss yy on
@@ -974,9 +961,7 @@ accumuler(2) aa kk uu mm uu ll ei rr
 accumulé aa kk uu mm uu ll ei
 accumulée aa kk uu mm uu ll ei
 accumulées aa kk uu mm uu ll ei
-accumulées(2) aa kk uu mm uu ll ei zz
 accumulés aa kk uu mm uu ll ei
-accumulés(2) aa kk uu mm uu ll ei zz
 accusa aa kk uu zz aa
 accusaient aa kk uu zz ai
 accusaient(2) aa kk uu zz ai tt
@@ -1000,15 +985,12 @@ accuser(2) aa kk uu zz ei rr
 accuseront aa kk uu zz ee rr on
 accuseront(2) aa kk uu zz ee rr on tt
 accusez aa kk uu zz ei
-accusez(2) aa kk uu zz ei zz
 accusons aa kk uu zz on
 accusons(2) aa kk uu zz on zz
 accusé aa kk uu zz ei
 accusée aa kk uu zz ei
 accusées aa kk uu zz ei
-accusées(2) aa kk uu zz ei zz
 accusés aa kk uu zz ei
-accusés(2) aa kk uu zz ei zz
 accède aa kk ss ai dd
 accède(2) aa kk ss ai dd ee
 accèdent aa kk ss ai dd ee
@@ -1040,9 +1022,7 @@ accélérer(2) aa kk ss ai ll ai rr ei rr
 accéléré aa kk ss ai ll ai rr ei
 accélérée aa kk ss ai ll ai rr ei
 accélérées aa kk ss ai ll ai rr ei
-accélérées(2) aa kk ss ai ll ai rr ei zz
 accélérés aa kk ss ai ll ai rr ei
-accélérés(2) aa kk ss ai ll ai rr ei zz
 ace ei ss
 acebes aa ss ei bb ai ss
 acerbe aa ss ai rr bb
@@ -1054,7 +1034,6 @@ acerbes(4) aa ss ai rr bb zz
 aces ei ss
 achaari aa ch aa aa rr ii
 achalandés aa ch aa ll an dd ei
-achalandés(2) aa ch aa ll an dd ei zz
 achantis aa ch an tt ii
 achard aa ch aa rr
 acharne aa ch aa rr nn
@@ -1068,7 +1047,6 @@ acharnons(2) aa ch aa rr nn on zz
 acharné aa ch aa rr nn ei
 acharnée aa ch aa rr nn ei
 acharnés aa ch aa rr nn ei
-acharnés(2) aa ch aa rr nn ei zz
 acharq aa ch aa rr kk
 achat aa ch aa
 achats aa ch aa
@@ -1082,9 +1060,7 @@ acheminer(2) aa ch ee mm ii nn ei rr
 acheminé aa ch ee mm ii nn ei
 acheminée aa ch ee mm ii nn ei
 acheminées aa ch ee mm ii nn ei
-acheminées(2) aa ch ee mm ii nn ei zz
 acheminés aa ch ee mm ii nn ei
-acheminés(2) aa ch ee mm ii nn ei zz
 acheta aa ch ee tt aa
 achetaient aa ch ee tt ai
 achetaient(2) aa ch ee tt ai tt
@@ -1100,19 +1076,14 @@ acheteurs(2) aa ch ee tt oe rr zz
 acheteuse aa ch ee tt eu zz
 acheteuse(2) aa ch ee tt eu zz ee
 achetez aa ch ee tt ei
-achetez(2) aa ch ee tt ei zz
 achetiez aa ch ee tt yy ei
-achetiez(2) aa ch ee tt yy ei zz
-achetiez(3) aa ch tt yy ei
-achetiez(4) aa ch tt yy ei zz
+achetiez(2) aa ch tt yy ei
 achetons aa ch ee tt on
 achetons(2) aa ch ee tt on zz
 acheté aa ch ee tt ei
 achetée aa ch ee tt ei
 achetées aa ch ee tt ei
-achetées(2) aa ch ee tt ei zz
 achetés aa ch ee tt ei
-achetés(2) aa ch ee tt ei zz
 acheva aa ch ee vv aa
 achevait aa ch ee vv ai
 achevait(2) aa ch ee vv ai tt
@@ -1123,9 +1094,7 @@ achever(2) aa ch ee vv ei rr
 achevé aa ch ee vv ei
 achevée aa ch ee vv ei
 achevées aa ch ee vv ei
-achevées(2) aa ch ee vv ei zz
 achevés aa ch ee vv ei
-achevés(2) aa ch ee vv ei zz
 achian aa ch yy an
 achille aa ch ii ll
 achille(2) aa ch ii ll ee
@@ -1160,7 +1129,6 @@ acidité aa ss ii dd ii tt ei
 acidulé aa ss ii dd uu ll ei
 acier aa ss yy ei
 aciers aa ss yy ei
-aciers(2) aa ss yy ei zz
 aciérie aa ss yy ai rr ii
 aciéries aa ss yy ai rr ii
 aciéries(2) aa ss yy ai rr ii zz
@@ -1213,7 +1181,6 @@ acquitter(2) aa kk ii tt ei rr
 acquitté aa kk ii tt ei
 acquittée aa kk ii tt ei
 acquittés aa kk ii tt ei
-acquittés(2) aa kk ii tt ei zz
 acquièrent aa kk yy ai rr ee
 acquérant aa kk ai rr an
 acquérant(2) aa kk ai rr an tt
@@ -1296,7 +1263,6 @@ activiste aa kk tt ii vv ii ss tt
 activistes aa kk tt ii vv ii ss tt
 activité aa kk tt ii vv ii tt ei
 activités aa kk tt ii vv ii tt ei
-activités(2) aa kk tt ii vv ii tt ei zz
 activé aa kk tt ii vv ei
 actrice aa kk tt rr ii ss
 actrice(2) aa kk tt rr ii ss ee
@@ -1311,10 +1277,8 @@ actualiser(2) aa kk tt uu aa ll ii zz ei rr
 actualisé aa kk tt uu aa ll ii zz ei
 actualisée aa kk tt uu aa ll ii zz ei
 actualisés aa kk tt uu aa ll ii zz ei
-actualisés(2) aa kk tt uu aa ll ii zz ei zz
 actualité aa kk tt uu aa ll ii tt ei
 actualités aa kk tt uu aa ll ii tt ei
-actualités(2) aa kk tt uu aa ll ii tt ei zz
 actuel aa kk tt uu ai ll
 actuelle aa kk tt uu ai ll
 actuelle(2) aa kk tt uu ai ll ee
@@ -1332,9 +1296,6 @@ acuité aa kk uy ii tt ei
 acéré aa ss ai rr ei
 acérée aa ss ai rr ei
 acérées aa ss ai rr ei
-acérées(2) aa ss ai rr ei zz
-ad aa
-ad(2) aa dd
 ad_hoc aa dd oo kk
 ada aa dd aa
 adage aa dd aa jj
@@ -1367,9 +1328,7 @@ adaptera(2) aa dd aa pp tt rr aa
 adapté aa dd aa pp tt ei
 adaptée aa dd aa pp tt ei
 adaptées aa dd aa pp tt ei
-adaptées(2) aa dd aa pp tt ei zz
 adaptés aa dd aa pp tt ei
-adaptés(2) aa dd aa pp tt ei zz
 adassa aa dd aa ss aa
 adda aa dd aa
 addad aa dd aa dd
@@ -1435,9 +1394,7 @@ adhérera aa dd ai rr ee rr aa
 adhérera(2) aa dd ei rr ee rr aa
 adhérera(3) aa dd ei rr rr aa
 adhérez aa dd ai rr ei
-adhérez(2) aa dd ai rr ei zz
 adhérez(3) aa dd ei rr ei
-adhérez(4) aa dd ei rr ei zz
 adhéré aa dd ai rr ei
 adhésif aa dd ai zz ii ff
 adhésion aa dd ai zz yy on
@@ -1529,9 +1486,7 @@ administrer(2) aa dd mm ii nn ii ss tt rr ei rr
 administré aa dd mm ii nn ii ss tt rr ei
 administrée aa dd mm ii nn ii ss tt rr ei
 administrées aa dd mm ii nn ii ss tt rr ei
-administrées(2) aa dd mm ii nn ii ss tt rr ei zz
 administrés aa dd mm ii nn ii ss tt rr ei
-administrés(2) aa dd mm ii nn ii ss tt rr ei zz
 adminstration aa dd mm in ss tt rr aa ss yy on
 admirable aa dd mm ii rr aa bb ll
 admirable(2) aa dd mm ii rr aa bb ll ee
@@ -1556,7 +1511,6 @@ admirent aa dd mm ii rr ee
 admirer aa dd mm ii rr ei
 admirer(2) aa dd mm ii rr ei rr
 admirez aa dd mm ii rr ei
-admirez(2) aa dd mm ii rr ei zz
 admiré aa dd mm ii rr ei
 admirée aa dd mm ii rr ei
 admis aa dd mm ii
@@ -1624,9 +1578,7 @@ adoptive(2) aa dd oo pp tt ii vv ee
 adopté aa dd oo pp tt ei
 adoptée aa dd oo pp tt ei
 adoptées aa dd oo pp tt ei
-adoptées(2) aa dd oo pp tt ei zz
 adoptés aa dd oo pp tt ei
-adoptés(2) aa dd oo pp tt ei zz
 adorable aa dd oo rr aa bb ll
 adorable(2) aa dd oo rr aa bb ll ee
 adorait aa dd oo rr ai
@@ -1652,9 +1604,7 @@ adosser(2) aa dd oo ss ei rr
 adossé aa dd oo ss ei
 adossée aa dd oo ss ei
 adossées aa dd oo ss ei
-adossées(2) aa dd oo ss ei zz
 adossés aa dd oo ss ei
-adossés(2) aa dd oo ss ei zz
 adou aa dd ou
 adoua aa dd ou aa
 adoubé aa dd ou bb ei
@@ -1680,15 +1630,12 @@ adresses aa dd rr ai ss
 adresses(2) aa dd rr ai ss ee
 adresses(3) aa dd rr ai ss ee zz
 adressez aa dd rr ai ss ei
-adressez(2) aa dd rr ai ss ei zz
 adressons aa dd rr ai ss on
 adressons(2) aa dd rr ai ss on zz
 adressé aa dd rr ai ss ei
 adressée aa dd rr ai ss ei
 adressées aa dd rr ai ss ei
-adressées(2) aa dd rr ai ss ei zz
 adressés aa dd rr ai ss ei
-adressés(2) aa dd rr ai ss ei zz
 adria aa dd rr ii aa
 adrian aa dd rr ii aa nn
 adriana aa dd rr ii aa nn aa
@@ -1813,7 +1760,6 @@ affamait(2) aa ff aa mm ai tt
 affamé aa ff aa mm ei
 affamée aa ff aa mm ei
 affamés aa ff aa mm ei
-affamés(2) aa ff aa mm ei zz
 affect aa ff ai kk tt
 affectait aa ff ai kk tt ai
 affectait(2) aa ff ai kk tt ai tt
@@ -1860,9 +1806,7 @@ affectueux(2) aa ff ai kk tt uu eu zz
 affecté aa ff ai kk tt ei
 affectée aa ff ai kk tt ei
 affectées aa ff ai kk tt ei
-affectées(2) aa ff ai kk tt ei zz
 affectés aa ff ai kk tt ei
-affectés(2) aa ff ai kk tt ei zz
 affermage aa ff ai rr mm aa jj
 affermage(2) aa ff ai rr mm aa jj ee
 affermir aa ff ai rr mm ii rr
@@ -1895,24 +1839,18 @@ affichettes(4) aa ff ii ch ai tt zz
 afficheurs aa ff ii ch oe rr
 afficheurs(2) aa ff ii ch oe rr zz
 affichez aa ff ii ch ei
-affichez(2) aa ff ii ch ei zz
 affiché aa ff ii ch ei
 affichée aa ff ii ch ei
 affichées aa ff ii ch ei
-affichées(2) aa ff ii ch ei zz
 affichés aa ff ii ch ei
-affichés(2) aa ff ii ch ei zz
 affidés aa ff ii dd ei
-affidés(2) aa ff ii dd ei zz
 affiliation aa ff ii ll yy aa ss yy on
 affilier aa ff ii ll yy ei
 affilier(2) aa ff ii ll yy ei rr
 affilié aa ff ii ll yy ei
 affiliée aa ff ii ll yy ei
 affiliées aa ff ii ll yy ei
-affiliées(2) aa ff ii ll yy ei zz
 affiliés aa ff ii ll yy ei
-affiliés(2) aa ff ii ll yy ei zz
 affilé aa ff ii ll ei
 affilée aa ff ii ll ei
 affinage aa ff ii nn aa jj
@@ -1925,11 +1863,9 @@ affineurs aa ff ii nn oe rr
 affineurs(2) aa ff ii nn oe rr zz
 affinité aa ff ii nn ii tt ei
 affinités aa ff ii nn ii tt ei
-affinités(2) aa ff ii nn ii tt ei zz
 affiné aa ff ii nn ei
 affinée aa ff ii nn ei
 affinées aa ff ii nn ei
-affinées(2) aa ff ii nn ei zz
 affirma aa ff ii rr mm aa
 affirmaient aa ff ii rr mm ai
 affirmaient(2) aa ff ii rr mm ai tt
@@ -1956,9 +1892,7 @@ affirmons(2) aa ff ii rr mm on zz
 affirmé aa ff ii rr mm ei
 affirmée aa ff ii rr mm ei
 affirmées aa ff ii rr mm ei
-affirmées(2) aa ff ii rr mm ei zz
 affirmés aa ff ii rr mm ei
-affirmés(2) aa ff ii rr mm ei zz
 affleck aa ff ll ai kk
 afflelou aa ff ll ee ll ou
 afflelou(2) aa ff ll ll ou
@@ -1973,7 +1907,6 @@ affligeante(2) aa ff ll ii jj an tt ee
 affligé aa ff ll ii jj ei
 affligée aa ff ll ii jj ei
 affligés aa ff ll ii jj ei
-affligés(2) aa ff ll ii jj ei zz
 affluence aa ff ll uu an ss
 affluence(2) aa ff ll uu an ss ee
 affluent aa ff ll uu
@@ -1995,9 +1928,7 @@ affoler(2) aa ff oo ll ei rr
 affolé aa ff oo ll ei
 affolée aa ff oo ll ei
 affolées aa ff oo ll ei
-affolées(2) aa ff oo ll ei zz
 affolés aa ff oo ll ei
-affolés(2) aa ff oo ll ei zz
 affranchi aa ff rr an ch ii
 affranchie aa ff rr an ch ii
 affranchir aa ff rr an ch ii rr
@@ -2039,9 +1970,7 @@ affronteront aa ff rr on tt ee rr on
 affronteront(2) aa ff rr on tt ee rr on tt
 affronté aa ff rr on tt ei
 affrontées aa ff rr on tt ei
-affrontées(2) aa ff rr on tt ei zz
 affrontés aa ff rr on tt ei
-affrontés(2) aa ff rr on tt ei zz
 affrètement aa ff rr ai tt ee mm an
 affréter aa ff rr ai tt ei
 affréter(2) aa ff rr ai tt ei rr
@@ -2050,10 +1979,8 @@ affréteurs aa ff rr ai tt oe rr
 affréteurs(2) aa ff rr ai tt oe rr zz
 affrété aa ff rr ai tt ei
 affrétés aa ff rr ai tt ei
-affrétés(2) aa ff rr ai tt ei zz
 affublé aa ff uu bb ll ei
 affublés aa ff uu bb ll ei
-affublés(2) aa ff uu bb ll ei zz
 afférentes aa ff ai rr an tt
 afférentes(2) aa ff ai rr an tt ee
 afférentes(3) aa ff ai rr an tt ee zz
@@ -2122,7 +2049,6 @@ agache(2) aa gg aa ch ee
 agacé aa gg aa ss ei
 agacée aa gg aa ss ei
 agacés aa gg aa ss ei
-agacés(2) aa gg aa ss ei zz
 agadir aa gg aa dd ii rr
 again aa gg in
 agamemnon aa gg aa mm ai mm nn on
@@ -2179,7 +2105,6 @@ agglomération aa gg ll oo mm ai rr aa ss yy on
 agglomérations aa gg ll oo mm ai rr aa ss yy on
 agglomérations(2) aa gg ll oo mm ai rr aa ss yy on zz
 agglutinés aa gg ll uu tt ii nn ei
-agglutinés(2) aa gg ll uu tt ii nn ei zz
 aggravait aa gg rr aa vv ai
 aggravait(2) aa gg rr aa vv ai tt
 aggravant aa gg rr aa vv an
@@ -2201,9 +2126,7 @@ aggraverait(2) aa gg rr aa vv ee rr ai tt
 aggravé aa gg rr aa vv ei
 aggravée aa gg rr aa vv ei
 aggravées aa gg rr aa vv ei
-aggravées(2) aa gg rr aa vv ei zz
 aggravés aa gg rr aa vv ei
-aggravés(2) aa gg rr aa vv ei zz
 aggresseurs aa gg rr ei ss oe rr
 aggressés aa gg rr ei ss ei
 agha aa gg aa
@@ -2240,7 +2163,6 @@ agisse(2) aa jj ii ss ee
 agissements aa jj ii ss ee mm an
 agissent aa jj ii ss ee
 agissez aa jj ii ss ei
-agissez(2) aa jj ii ss ei zz
 agissons aa jj ii ss on
 agissons(2) aa jj ii ss on zz
 agit aa jj ii
@@ -2266,9 +2188,7 @@ agitera aa jj ii tt ee rr aa
 agité aa jj ii tt ei
 agitée aa jj ii tt ei
 agitées aa jj ii tt ei
-agitées(2) aa jj ii tt ei zz
 agités aa jj ii tt ei
-agités(2) aa jj ii tt ei zz
 aglietta aa gg ll ii yy ai tt aa
 aglietta(2) aa gg ll ii yy ei tt aa
 aglou aa gg ll ou
@@ -2335,11 +2255,8 @@ agressivité aa gg rr ai ss ii vv ii tt ei
 agressé aa gg rr ai ss ei
 agressée aa gg rr ai ss ei
 agressées aa gg rr ai ss ei
-agressées(2) aa gg rr ai ss ei zz
 agressées(3) aa gg rr ei ss ei
-agressées(4) aa gg rr ei ss ei zz
 agressés aa gg rr ai ss ei
-agressés(2) aa gg rr ai ss ei zz
 agricole aa gg rr ii kk oo ll
 agricole(2) aa gg rr ii kk oo ll ee
 agricoles aa gg rr ii kk oo ll
@@ -2405,7 +2322,6 @@ agréger(2) aa gg rr ai jj ei rr
 agrégé aa gg rr ai jj ei
 agrégée aa gg rr ai jj ei
 agrégés aa gg rr ai jj ei
-agrégés(2) aa gg rr ai jj ei zz
 agrément aa gg rr ai mm an
 agrémenter aa gg rr ai mm an tt ei
 agrémenter(2) aa gg rr ai mm an tt ei rr
@@ -2414,15 +2330,11 @@ agréments(2) aa gg rr ai mm an zz
 agrémenté aa gg rr ai mm an tt ei
 agrémentée aa gg rr ai mm an tt ei
 agrémentées aa gg rr ai mm an tt ei
-agrémentées(2) aa gg rr ai mm an tt ei zz
 agrémentés aa gg rr ai mm an tt ei
-agrémentés(2) aa gg rr ai mm an tt ei zz
 agréé aa gg rr ai ei
 agréée aa gg rr ai ei
 agréées aa gg rr ai ei
-agréées(2) aa gg rr ai ei zz
 agréés aa gg rr ai ei
-agréés(2) aa gg rr ai ei zz
 ags aa jj ei ss
 aguerri aa gg ai rr ii
 aguerris aa gg ai rr ii
@@ -2491,16 +2403,13 @@ aides(2) ai dd ee
 aides(3) ai dd ee zz
 aides(4) ai dd zz
 aidez ai dd ei
-aidez(2) ai dd ei zz
 aidons ai dd on
 aidons(2) ai dd on zz
 aidèrent ai dd ai rr ee
 aidé ai dd ei
 aidée ai dd ei
 aidées ai dd ei
-aidées(2) ai dd ei zz
 aidés ai dd ei
-aidés(2) ai dd ei zz
 aie ai
 aient ai
 aient(2) ai tt
@@ -2532,7 +2441,6 @@ aiguilleurs ai gg uy ii yy oe rr
 aiguilleurs(2) ai gg uy ii yy oe rr zz
 aiguillon ai gg uy ii yy on
 aiguillés ai gg uy ii yy ei
-aiguillés(2) ai gg uy ii yy ei zz
 aiguise ai gg ii zz
 aiguise(2) ai gg ii zz ee
 aiguisent ai gg ii zz ee
@@ -2540,7 +2448,6 @@ aiguiser ai gg ii zz ei
 aiguiser(2) ai gg ii zz ei rr
 aiguisé ai gg ii zz ei
 aiguisés ai gg ii zz ei
-aiguisés(2) ai gg ii zz ei zz
 aiguière ai gg yy ai rr
 aiguière(2) ai gg yy ai rr ee
 aigus ai gg uu
@@ -2604,9 +2511,7 @@ aimerions(2) ai mm ee rr yy on zz
 aimes ai mm
 aimes(2) ai mm ee
 aimez ai mm ei
-aimez(2) ai mm ei zz
 aimiez ai mm yy ei
-aimiez(2) ai mm yy ei zz
 aimons ai mm on
 aimons(2) ai mm on zz
 aimé ai mm ei
@@ -2614,9 +2519,7 @@ aimé(2) ei mm ei
 aimée ai mm ei
 aimée(2) ei mm ei
 aimées ai mm ei
-aimées(2) ai mm ei zz
 aimés ai mm ei
-aimés(2) ai mm ei zz
 ain in
 aine ai nn
 aine(2) ai nn ee
@@ -2709,11 +2612,9 @@ ajouteraient(2) aa jj ou tt ee rr ai tt
 ajouterait aa jj ou tt ee rr ai
 ajouterait(2) aa jj ou tt ee rr ai tt
 ajouterez aa jj ou tt ee rr ei
-ajouterez(2) aa jj ou tt ee rr ei zz
 ajouteront aa jj ou tt ee rr on
 ajouteront(2) aa jj ou tt ee rr on tt
 ajoutez aa jj ou tt ei
-ajoutez(2) aa jj ou tt ei zz
 ajoutons aa jj ou tt on
 ajoutons(2) aa jj ou tt on zz
 ajouts aa jj ou
@@ -2721,9 +2622,7 @@ ajouts(2) aa jj ou zz
 ajouté aa jj ou tt ei
 ajoutée aa jj ou tt ei
 ajoutées aa jj ou tt ei
-ajoutées(2) aa jj ou tt ei zz
 ajoutés aa jj ou tt ei
-ajoutés(2) aa jj ou tt ei zz
 ajuste aa jj uu ss tt
 ajuste(2) aa jj uu ss tt ee
 ajustement aa jj uu ss tt ee mm an
@@ -2735,7 +2634,6 @@ ajusteur aa jj uu ss tt oe rr
 ajusté aa jj uu ss tt ei
 ajustée aa jj uu ss tt ei
 ajustés aa jj uu ss tt ei
-ajustés(2) aa jj uu ss tt ei zz
 akaba aa kk aa bb aa
 akan aa kk an
 akane aa kk aa nn
@@ -2761,7 +2659,6 @@ alagna aa ll aa nn yy aa
 alain aa ll in
 alambiquée aa ll an bb ii kk ei
 alambiquées aa ll an bb ii kk ei
-alambiquées(2) aa ll an bb ii kk ei zz
 alami aa ll aa mm ii
 alamos aa ll aa mm oo ss
 alan aa ll aa nn
@@ -2792,7 +2689,6 @@ alarmiste aa ll aa rr mm ii ss tt
 alarmistes aa ll aa rr mm ii ss tt
 alarmé aa ll aa rr mm ei
 alarmés aa ll aa rr mm ei
-alarmés(2) aa ll aa rr mm ei zz
 alaska aa ll aa ss kk aa
 alassan aa ll aa ss aa nn
 alassane aa ll aa ss aa nn
@@ -2867,7 +2763,6 @@ alcoolisme aa ll kk oo ll ii ss mm
 alcoolisme(2) aa ll kk oo ll ii ss mm ee
 alcoolisée aa ll kk oo ll ii zz ei
 alcoolisées aa ll kk oo ll ii zz ei
-alcoolisées(2) aa ll kk oo ll ii zz ei zz
 alcools aa ll kk oo ll
 alcools(2) aa ll kk oo ll zz
 alcoolémie aa ll kk oo ll ei mm ii
@@ -2904,7 +2799,6 @@ alertes(4) aa ll ai rr tt zz
 alerté aa ll ai rr tt ei
 alertée aa ll ai rr tt ei
 alertés aa ll ai rr tt ei
-alertés(2) aa ll ai rr tt ei zz
 alesi aa ll ei zz ii
 aleso aa ll ee zz au
 alessandri aa ll ei ss an dd rr ii
@@ -3001,13 +2895,10 @@ aligner(2) aa ll ii gn ei rr
 aligneront aa ll ii gn ee rr on
 aligneront(2) aa ll ii gn ee rr on tt
 alignez aa ll ii gn ei
-alignez(2) aa ll ii gn ei zz
 aligné aa ll ii gn ei
 alignée aa ll ii gn ei
 alignées aa ll ii gn ei
-alignées(2) aa ll ii gn ei zz
 alignés aa ll ii gn ei
-alignés(2) aa ll ii gn ei zz
 alija aa ll ii jj aa
 alila aa ll ii ll aa
 aliment aa ll ii mm an
@@ -3034,9 +2925,7 @@ aliments(2) aa ll ii mm an zz
 alimenté aa ll ii mm an tt ei
 alimentée aa ll ii mm an tt ei
 alimentées aa ll ii mm an tt ei
-alimentées(2) aa ll ii mm an tt ei zz
 alimentés aa ll ii mm an tt ei
-alimentés(2) aa ll ii mm an tt ei zz
 aline aa ll ii nn
 aline(2) aa ll ii nn ee
 alinghi aa ll ii nn gg ii
@@ -3049,13 +2938,11 @@ alitalia aa ll ii tt aa ll yy aa
 alitena aa ll ii tt ee nn aa
 alix aa ll ii kk ss
 alizés aa ll ii zz ei
-alizés(2) aa ll ii zz ei zz
 aliénation aa ll yy ai nn aa ss yy on
 aliéner aa ll yy ai nn ei
 aliéner(2) aa ll yy ai nn ei rr
 aliéné aa ll yy ai nn ei
 aliénés aa ll yy ai nn ei
-aliénés(2) aa ll yy ai nn ei zz
 all au ll
 all(2) oo ll
 alla aa ll aa
@@ -3108,9 +2995,7 @@ allergies(2) aa ll ai rr jj ii zz
 allergique aa ll ai rr jj ii kk
 allergiques aa ll ai rr jj ii kk
 allers aa ll ei
-allers(2) aa ll ei zz
 allez aa ll ei
-allez(2) aa ll ei zz
 allgemeine aa ll jj ee mm ai nn
 allgemeine(2) aa ll jj ee mm ai nn
 alliage aa ll yy aa jj
@@ -3134,7 +3019,6 @@ allient(2) aa ll ii tt
 allier aa ll yy ei
 allier(2) aa ll yy ei rr
 alliez aa ll yy ei
-alliez(2) aa ll yy ei zz
 alligator aa ll ii gg aa tt au rr
 allinant aa ll ii nn an
 allions aa ll yy on
@@ -3145,9 +3029,7 @@ allison aa ll ii zz oo nn
 allié aa ll yy ei
 alliée aa ll yy ei
 alliées aa ll yy ei
-alliées(2) aa ll yy ei zz
 alliés aa ll yy ei
-alliés(2) aa ll yy ei zz
 allocataires aa ll oo kk aa tt ai rr
 allocataires(2) aa ll oo kk aa tt ai rr ee
 allocataires(3) aa ll oo kk aa tt ai rr ee zz
@@ -3169,9 +3051,7 @@ allonger(2) aa ll on jj ei rr
 allongé aa ll on jj ei
 allongée aa ll on jj ei
 allongées aa ll on jj ei
-allongées(2) aa ll on jj ei zz
 allongés aa ll on jj ei
-allongés(2) aa ll on jj ei zz
 allons aa ll on
 allons(2) aa ll on zz
 allouche aa ll ou ch
@@ -3183,9 +3063,7 @@ allouni aa ll ou nn ii
 alloué aa ll ou ei
 allouée aa ll ou ei
 allouées aa ll ou ei
-allouées(2) aa ll ou ei zz
 alloués aa ll ou ei
-alloués(2) aa ll ou ei zz
 allumage aa ll uu mm aa jj
 allumage(2) aa ll uu mm aa jj ee
 allumant aa ll uu mm an
@@ -3204,9 +3082,7 @@ allumettes(4) aa ll uu mm ai tt zz
 allumé aa ll uu mm ei
 allumée aa ll uu mm ei
 allumées aa ll uu mm ei
-allumées(2) aa ll uu mm ei zz
 allumés aa ll uu mm ei
-allumés(2) aa ll uu mm ei zz
 allure aa ll uu rr
 allure(2) aa ll uu rr ee
 allures aa ll uu rr
@@ -3243,7 +3119,6 @@ alléchantes(3) aa ll ai ch an tt ee zz
 alléchantes(4) aa ll ai ch an tt zz
 allée aa ll ei
 allées aa ll ei
-allées(2) aa ll ei zz
 allégation aa ll ai gg aa ss yy on
 allégations aa ll ai gg aa ss yy on
 allégations(2) aa ll ai gg aa ss yy on zz
@@ -3277,12 +3152,9 @@ allégret(2) aa ll ei gg rr ai
 allégé aa ll ai jj ei
 allégée aa ll ai jj ei
 allégées aa ll ai jj ei
-allégées(2) aa ll ai jj ei zz
 allégés aa ll ai jj ei
-allégés(2) aa ll ai jj ei zz
 alléluia aa ll ai ll ou yy aa
 allés aa ll ei
-allés(2) aa ll ei zz
 allô aa ll au
 alma aa ll mm aa
 almanach aa ll mm aa nn aa
@@ -3484,7 +3356,6 @@ alésia aa ll ei zz yy aa
 am aa mm
 amabilité aa mm aa bb ii ll ii tt ei
 amabilités aa mm aa bb ii ll ii tt ei
-amabilités(2) aa mm aa bb ii ll ii tt ei zz
 amad aa mm aa dd
 amadeus aa mm aa dd ei ou ss
 amado aa mm aa dd au
@@ -3512,7 +3383,6 @@ amandes(2) aa mm an dd ee
 amandes(3) aa mm an dd ee zz
 amandes(4) aa mm an dd zz
 amandiers aa mm an dd yy ei
-amandiers(2) aa mm an dd yy ei zz
 amangé aa mm an jj ei
 amant aa mm an
 amante aa mm an tt
@@ -3533,7 +3403,6 @@ amarres(3) aa mm aa rr ee zz
 amarres(4) aa mm aa rr zz
 amarré aa mm aa rr ei
 amarrés aa mm aa rr ei
-amarrés(2) aa mm aa rr ei zz
 amaru aa mm aa rr uu
 amaryllis aa mm aa rr ii ll ii ss
 amas aa mm aa
@@ -3604,7 +3473,6 @@ ambiguës an bb ii gg uu
 ambiguës(2) an bb ii gg uu zz
 ambiguïté an bb ii gg uy ii tt ei
 ambiguïtés an bb ii gg uy ii tt ei
-ambiguïtés(2) an bb ii gg uy ii tt ei zz
 ambitieuse an bb ii ss yy eu zz
 ambitieuse(2) an bb ii ss yy eu zz ee
 ambitieuses an bb ii ss yy eu zz
@@ -3617,9 +3485,7 @@ ambition an bb ii ss yy on
 ambitionne an bb ii ss yy oo nn
 ambitionne(2) an bb ii ss yy oo nn ee
 ambitionnez an bb ii ss yy au nn ei
-ambitionnez(2) an bb ii ss yy au nn ei zz
-ambitionnez(3) an bb ii ss yy oo nn ei
-ambitionnez(4) an bb ii ss yy oo nn ei zz
+ambitionnez(2) an bb ii ss yy oo nn ei
 ambitions an bb ii ss yy on
 ambitions(2) an bb ii ss yy on zz
 ambivalence an bb ii vv aa ll an ss
@@ -3641,7 +3507,6 @@ ambulances an bb uu ll an ss
 ambulances(2) an bb uu ll an ss ee
 ambulances(3) an bb uu ll an ss ee zz
 ambulanciers an bb uu ll an ss yy ei
-ambulanciers(2) an bb uu ll an ss yy ei zz
 ambulant an bb uu ll an
 ambulant(2) an bb uu ll an tt
 ambulants an bb uu ll an
@@ -3683,18 +3548,14 @@ amendée aa mm an dd ei
 amener aa mm ee nn ei
 amener(2) aa mm ee nn ei rr
 amenez aa mm ee nn ei
-amenez(2) aa mm ee nn ei zz
-amenez(3) aa mm nn ei
-amenez(4) aa mm nn ei zz
+amenez(2) aa mm nn ei
 amenuise aa mm ee nn uy ii zz
 amenuise(2) aa mm ee nn uy ii zz ee
 amenuisent aa mm ee nn uy ii zz ee
 amené aa mm ee nn ei
 amenée aa mm ee nn ei
 amenées aa mm ee nn ei
-amenées(2) aa mm ee nn ei zz
 amenés aa mm ee nn ei
-amenés(2) aa mm ee nn ei zz
 amer aa mm ai rr
 america aa mm ei rr ii kk aa
 american aa mm ei rr ii kk aa nn
@@ -3739,7 +3600,6 @@ amina aa mm ii nn aa
 amine aa mm ii nn
 aminé aa mm ii nn ei
 aminés aa mm ii nn ei
-aminés(2) aa mm ii nn ei zz
 amiot aa mm yy au
 amir aa mm ii rr
 amiral aa mm ii rr aa ll
@@ -3750,7 +3610,6 @@ amis aa mm ii
 amis(2) aa mm ii zz
 amitié aa mm ii tt yy ei
 amitiés aa mm ii tt yy ei
-amitiés(2) aa mm ii tt yy ei zz
 amman aa mm aa nn
 ammar aa mm aa rr
 amnesty aa mm nn ai ss tt ii
@@ -3763,7 +3622,6 @@ amnistier aa mm nn ii ss tt yy ei
 amnistier(2) aa mm nn ii ss tt yy ei rr
 amnistié aa mm nn ii ss tt yy ei
 amnistiés aa mm nn ii ss tt yy ei
-amnistiés(2) aa mm nn ii ss tt yy ei zz
 amnon aa mm nn on
 amnésie aa mm nn ai zz ii
 amnésique aa mm nn ai zz ii kk
@@ -3789,7 +3647,6 @@ amorcer(2) aa mm oo rr ss ei rr
 amorcé aa mm oo rr ss ei
 amorcée aa mm oo rr ss ei
 amorcées aa mm oo rr ss ei
-amorcées(2) aa mm oo rr ss ei zz
 amorim aa mm au rr ii mm
 amorti aa mm oo rr tt ii
 amortir aa mm oo rr tt ii rr
@@ -3861,9 +3718,7 @@ amplifier(2) an pp ll ii ff yy ei rr
 amplifié an pp ll ii ff yy ei
 amplifiée an pp ll ii ff yy ei
 amplifiées an pp ll ii ff yy ei
-amplifiées(2) an pp ll ii ff yy ei zz
 amplifiés an pp ll ii ff yy ei
-amplifiés(2) an pp ll ii ff yy ei zz
 amplitude an pp ll ii tt uu dd
 amplitude(2) an pp ll ii tt uu dd ee
 amplitudes an pp ll ii tt uu dd
@@ -3877,7 +3732,6 @@ ampoules(2) an pp ou ll ee
 ampoules(3) an pp ou ll ee zz
 ampoules(4) an pp ou ll zz
 ampoulés an pp ou ll ei
-ampoulés(2) an pp ou ll ei zz
 amputation an pp uu tt aa ss yy on
 amputations an pp uu tt aa ss yy on
 amputations(2) an pp uu tt aa ss yy on zz
@@ -3886,7 +3740,6 @@ amputer(2) an pp uu tt ei rr
 amputé an pp uu tt ei
 amputée an pp uu tt ei
 amputés an pp uu tt ei
-amputés(2) an pp uu tt ei zz
 amr aa mm rr
 amram aa mm rr aa mm
 amrine an rr ii nn
@@ -3919,7 +3772,6 @@ amuseur aa mm uu zz oe rr
 amusé aa mm uu zz ei
 amusée aa mm uu zz ei
 amusés aa mm uu zz ei
-amusés(2) aa mm uu zz ei zz
 amx aa ai mm ii kk ss
 amy aa mm ii
 amzil aa mm zz ii ll
@@ -3963,9 +3815,7 @@ améliorerait(2) aa mm ai ll yy oo rr ee rr ai tt
 amélioré aa mm ai ll yy oo rr ei
 améliorée aa mm ai ll yy oo rr ei
 améliorées aa mm ai ll yy oo rr ei
-améliorées(2) aa mm ai ll yy oo rr ei zz
 améliorés aa mm ai ll yy oo rr ei
-améliorés(2) aa mm ai ll yy oo rr ei zz
 aménage aa mm ai nn aa jj
 aménage(2) aa mm ai nn aa jj ee
 aménageant aa mm ai nn aa jj an
@@ -3981,9 +3831,7 @@ aménageurs(2) aa mm ai nn aa jj oe rr zz
 aménagé aa mm ai nn aa jj ei
 aménagée aa mm ai nn aa jj ei
 aménagées aa mm ai nn aa jj ei
-aménagées(2) aa mm ai nn aa jj ei zz
 aménagés aa mm ai nn aa jj ei
-aménagés(2) aa mm ai nn aa jj ei zz
 aménité aa mm ai nn ii tt ei
 américain aa mm ai rr ii kk in
 américain(2) aa mm ei rr ii kk in
@@ -4076,7 +3924,6 @@ analyses(2) aa nn aa ll ii zz ee
 analyses(3) aa nn aa ll ii zz ee zz
 analyses(4) aa nn aa ll ii zz zz
 analysez aa nn aa ll ii zz ei
-analysez(2) aa nn aa ll ii zz ei zz
 analyste aa nn aa ll ii ss tt
 analyste(2) aa nn aa ll ii ss tt ee
 analystes aa nn aa ll ii ss tt
@@ -4086,9 +3933,7 @@ analystes(4) aa nn aa ll ii ss tt zz
 analysé aa nn aa ll ii zz ei
 analysée aa nn aa ll ii zz ei
 analysées aa nn aa ll ii zz ei
-analysées(2) aa nn aa ll ii zz ei zz
 analysés aa nn aa ll ii zz ei
-analysés(2) aa nn aa ll ii zz ei zz
 analytique aa nn aa ll ii tt ii kk
 analytique(2) aa nn aa ll ii tt ii kk ee
 analytiques aa nn aa ll ii tt ii kk
@@ -4168,9 +4013,7 @@ ancrer(2) an kk rr ei rr
 ancré an kk rr ei
 ancrée an kk rr ei
 ancrées an kk rr ei
-ancrées(2) an kk rr ei zz
 ancrés an kk rr ei
-ancrés(2) an kk rr ei zz
 ancêtre an ss ai tt rr
 ancêtre(2) an ss ai tt rr ee
 ancêtres an ss ai tt rr
@@ -4325,7 +4168,6 @@ angoisses(3) an gg ww aa ss ee zz
 angoissé an gg ww aa ss ei
 angoissée an gg ww aa ss ei
 angoissés an gg ww aa ss ei
-angoissés(2) an gg ww aa ss ei zz
 angola an gg au ll aa
 angola(2) an gg oo ll aa
 angolais an gg oo ll ai
@@ -4383,7 +4225,6 @@ animales(4) aa nn ii mm aa ll zz
 animalier aa nn ii mm aa ll yy ei
 animalier(2) aa nn ii mm aa ll yy ei rr
 animaliers aa nn ii mm aa ll yy ei
-animaliers(2) aa nn ii mm aa ll yy ei zz
 animalité aa nn ii mm aa ll ii tt ei
 animalière aa nn ii mm aa ll yy ai rr
 animalière(2) aa nn ii mm aa ll yy ai rr ee
@@ -4417,13 +4258,10 @@ animistes(3) aa nn ii mm ii ss tt ee zz
 animistes(4) aa nn ii mm ii ss tt zz
 animosité aa nn ii mm oo zz ii tt ei
 animosités aa nn ii mm oo zz ii tt ei
-animosités(2) aa nn ii mm oo zz ii tt ei zz
 animé aa nn ii mm ei
 animée aa nn ii mm ei
 animées aa nn ii mm ei
-animées(2) aa nn ii mm ei zz
 animés aa nn ii mm ei
-animés(2) aa nn ii mm ei zz
 anis aa nn ii
 anissa aa nn ii ss aa
 anita aa nn ii tt aa
@@ -4468,9 +4306,7 @@ annexion aa nn ai kk ss yy on
 annexé aa nn ai kk ss ei
 annexée aa nn ai kk ss ei
 annexées aa nn ai kk ss ei
-annexées(2) aa nn ai kk ss ei zz
 annexés aa nn ai kk ss ei
-annexés(2) aa nn ai kk ss ei zz
 annick aa nn ii kk
 annie aa nn ii
 annihiler aa nn ii ii ll ei
@@ -4498,7 +4334,6 @@ annonceur aa nn on ss oe rr
 annonceurs aa nn on ss oe rr
 annonceurs(2) aa nn on ss oe rr zz
 annoncez aa nn on ss ei
-annoncez(2) aa nn on ss ei zz
 annonciateur aa nn on ss yy aa tt oe rr
 annonciateurs aa nn on ss yy aa tt oe rr
 annonciateurs(2) aa nn on ss yy aa tt oe rr zz
@@ -4512,9 +4347,7 @@ annoncions(2) aa nn on ss yy on zz
 annoncé aa nn on ss ei
 annoncée aa nn on ss ei
 annoncées aa nn on ss ei
-annoncées(2) aa nn on ss ei zz
 annoncés aa nn on ss ei
-annoncés(2) aa nn on ss ei zz
 annonça aa nn on ss aa
 annonçaient aa nn on ss ai
 annonçaient(2) aa nn on ss ai tt
@@ -4548,7 +4381,6 @@ annuels aa nn uu ai ll
 annuels(2) aa nn uu ai ll zz
 annuité aa nn uy ii tt ei
 annuités aa nn uy ii tt ei
-annuités(2) aa nn uy ii tt ei zz
 annulait aa nn uu ll ai
 annulait(2) aa nn uu ll ai tt
 annulant aa nn uu ll an
@@ -4564,15 +4396,12 @@ annuler(2) aa nn uu ll ei rr
 annulé aa nn uu ll ei
 annulée aa nn uu ll ei
 annulées aa nn uu ll ei
-annulées(2) aa nn uu ll ei zz
 annulés aa nn uu ll ei
-annulés(2) aa nn uu ll ei zz
 annunzio aa nn uu nn zz ii au
 anny aa nn ii
 année aa nn ei
 année-là aa nn ei ee ll aa
 années aa nn ei
-années(2) aa nn ei zz
 anobli aa nn oo bb ll ii
 anodin aa nn oo dd in
 anodine aa nn oo dd ii nn
@@ -4739,9 +4568,7 @@ anticiper(2) an tt ii ss ii pp ei rr
 anticipé an tt ii ss ii pp ei
 anticipée an tt ii ss ii pp ei
 anticipées an tt ii ss ii pp ei
-anticipées(2) an tt ii ss ii pp ei zz
 anticipés an tt ii ss ii pp ei
-anticipés(2) an tt ii ss ii pp ei zz
 anticléricalisme an tt ii kk ll ai rr ii kk aa ll ii ss mm
 anticléricalisme(2) an tt ii kk ll ai rr ii kk aa ll ii ss mm ee
 anticommunisme an tt ii kk oo mm uu nn ii ss mm
@@ -4872,7 +4699,6 @@ antiques(3) an tt ii kk ee zz
 antiques(4) an tt ii kk zz
 antiquité an tt ii kk ii tt ei
 antiquités an tt ii kk ii tt ei
-antiquités(2) an tt ii kk ii tt ei zz
 antiracisme an tt ii rr aa ss ii ss mm
 antiracisme(2) an tt ii rr aa ss ii ss mm ee
 antiraciste an tt ii rr aa ss ii ss tt
@@ -5016,9 +4842,7 @@ apaiser(2) aa pp ai zz ei rr
 apaisé aa pp ai zz ei
 apaisée aa pp ai zz ei
 apaisées aa pp ai zz ei
-apaisées(2) aa pp ai zz ei zz
 apaisés aa pp ai zz ei
-apaisés(2) aa pp ai zz ei zz
 apanage aa pp aa nn aa jj
 apanage(2) aa pp aa nn aa jj ee
 apartheid aa pp aa rr ff ai dd
@@ -5063,7 +4887,6 @@ aperçut aa pp ai rr ss uu
 aperçut(2) aa pp ai rr ss uu tt
 apesanteur aa pp ee zz an tt oe rr
 apeurés aa pp ee rr ei
-apeurés(2) aa pp ee rr ei zz
 aphatie aa ff aa tt ii
 aphone aa ff oo nn
 aphone(2) aa ff oo nn ee
@@ -5174,7 +4997,6 @@ apparents(2) aa pp aa rr an zz
 apparenté aa pp aa rr an tt ei
 apparentée aa pp aa rr an tt ei
 apparentés aa pp aa rr an tt ei
-apparentés(2) aa pp aa rr an tt ei zz
 apparition aa pp aa rr ii ss yy on
 apparitions aa pp aa rr ii ss yy on
 apparitions(2) aa pp aa rr ii ss yy on zz
@@ -5243,7 +5065,6 @@ appelant(2) aa pp ee ll an tt
 appeler aa pp ee ll ei
 appeler(2) aa pp ee ll ei rr
 appelez aa pp ee ll ei
-appelez(2) aa pp ee ll ei zz
 appellation aa pp ai ll aa ss yy on
 appellations aa pp ai ll aa ss yy on
 appellations(2) aa pp ai ll aa ss yy on zz
@@ -5270,9 +5091,7 @@ appels(2) aa pp ai ll zz
 appelé aa pp ee ll ei
 appelée aa pp ee ll ei
 appelées aa pp ee ll ei
-appelées(2) aa pp ee ll ei zz
 appelés aa pp ee ll ei
-appelés(2) aa pp ee ll ei zz
 appendice aa pp in dd ii ss
 appendice(2) aa pp in dd ii ss ee
 appendices aa pp in dd ii ss
@@ -5293,7 +5112,6 @@ applaudissements aa pp ll oo dd ii ss ee mm an
 applaudissements(2) aa pp ll oo dd ii ss ee mm an zz
 applaudissent aa pp ll oo dd ii ss ee
 applaudissez aa pp ll oo dd ii ss ei
-applaudissez(2) aa pp ll oo dd ii ss ei zz
 applaudit aa pp ll oo dd ii
 applaudit(2) aa pp ll oo dd ii tt
 apple aa pp oe ll
@@ -5330,9 +5148,7 @@ appliquons(2) aa pp ll ii kk on zz
 appliqué aa pp ll ii kk ei
 appliquée aa pp ll ii kk ei
 appliquées aa pp ll ii kk ei
-appliquées(2) aa pp ll ii kk ei zz
 appliqués aa pp ll ii kk ei
-appliqués(2) aa pp ll ii kk ei zz
 appoint aa pp ww in
 apport aa pp oo rr
 apporta aa pp oo rr tt aa
@@ -5361,15 +5177,12 @@ apports(2) aa pp oo rr zz
 apporté aa pp oo rr tt ei
 apportée aa pp oo rr tt ei
 apportées aa pp oo rr tt ei
-apportées(2) aa pp oo rr tt ei zz
 apportés aa pp oo rr tt ei
-apportés(2) aa pp oo rr tt ei zz
 apposer aa pp oo zz ei
 apposer(2) aa pp oo zz ei rr
 apposé aa pp oo zz ei
 apposée aa pp oo zz ei
 apposées aa pp oo zz ei
-apposées(2) aa pp oo zz ei zz
 apprenaient aa pp rr ee nn ai
 apprenaient(2) aa pp rr ee nn ai tt
 apprenait aa pp rr ee nn ai
