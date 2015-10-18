@@ -21969,8 +21969,6 @@ cure kk uu rr
 cure(2) kk uu rr ee
 cures kk uu rr
 cures(2) kk uu rr ee
-cures(3) kk uu rr ee zz
-cures(4) kk uu rr zz
 curial kk uu rr yy aa ll
 curie kk uu rr ii
 curien kk uu rr yy in
@@ -21980,8 +21978,6 @@ curieusement kk uu rr yy ee zz ee mm an
 curieusement(2) kk uu rr yy ee zz ee mm an tt
 curieuses kk uu rr yy eu zz
 curieuses(2) kk uu rr yy eu zz ee
-curieuses(3) kk uu rr yy eu zz ee zz
-curieuses(4) kk uu rr yy eu zz zz
 curieux kk uu rr yy eu
 curieux(2) kk uu rr yy eu zz
 curiosité kk uu rr yy oo zz ii tt ei
@@ -22007,8 +22003,6 @@ cuve kk uu vv
 cuve(2) kk uu vv ee
 cuves kk uu vv
 cuves(2) kk uu vv ee
-cuves(3) kk uu vv ee zz
-cuves(4) kk uu vv zz
 cuvette kk uu vv ai tt
 cuvette(2) kk uu vv ai tt ee
 cuvier kk uu vv yy ei
@@ -22028,29 +22022,21 @@ cybernétique ss ii bb ai rr nn ai tt ii kk
 cybernétique(2) ss ii bb ai rr nn ai tt ii kk ee
 cyclables ss ii kk ll aa bb ll
 cyclables(2) ss ii kk ll aa bb ll ee
-cyclables(3) ss ii kk ll aa bb ll ee zz
-cyclables(4) ss ii kk ll aa bb ll zz
 cycle ss ii kk ll
 cycle(2) ss ii kk ll ee
 cyclent ss ii kk ll an
 cycles ss ii kk ll
 cycles(2) ss ii kk ll ee
-cycles(3) ss ii kk ll ee zz
-cycles(4) ss ii kk ll zz
 cyclique ss ii kk ll ii kk
 cyclique(2) ss ii kk ll ii kk ee
 cycliques ss ii kk ll ii kk
 cycliques(2) ss ii kk ll ii kk ee
-cycliques(3) ss ii kk ll ii kk ee zz
-cycliques(4) ss ii kk ll ii kk zz
 cyclisme ss ii kk ll ii ss mm
 cyclisme(2) ss ii kk ll ii ss mm ee
 cycliste ss ii kk ll ii ss tt
 cycliste(2) ss ii kk ll ii ss tt ee
 cyclistes ss ii kk ll ii ss tt
 cyclistes(2) ss ii kk ll ii ss tt ee
-cyclistes(3) ss ii kk ll ii ss tt ee zz
-cyclistes(4) ss ii kk ll ii ss tt zz
 cyclo ss ii kk ll au
 cyclomoteurs ss ii kk ll oo mm oo tt oe rr
 cyclomoteurs(2) ss ii kk ll oo mm oo tt oe rr zz
@@ -22058,35 +22044,25 @@ cyclone ss ii kk ll au nn
 cyclone(2) ss ii kk ll au nn ee
 cyclones ss ii kk ll au nn
 cyclones(2) ss ii kk ll au nn ee
-cyclones(3) ss ii kk ll au nn ee zz
-cyclones(4) ss ii kk ll au nn zz
 cygne ss ii gn
 cygne(2) ss ii gn ee
 cygnes ss ii gn
 cygnes(2) ss ii gn ee
-cygnes(3) ss ii gn ee zz
-cygnes(4) ss ii gn zz
 cylindre ss ii ll in dd rr
 cylindre(2) ss ii ll in dd rr ee
 cylindres ss ii ll in dd rr
 cylindres(2) ss ii ll in dd rr ee
-cylindres(3) ss ii ll in dd rr ee zz
-cylindres(4) ss ii ll in dd rr zz
 cylindrique ss ii ll in dd rr ii kk
 cylindrique(2) ss ii ll in dd rr ii kk ee
 cylindrée ss ii ll in dd rr ei
 cylindrées ss ii ll in dd rr ei
 cymbales ss in bb aa ll
 cymbales(2) ss in bb aa ll ee
-cymbales(3) ss in bb aa ll ee zz
-cymbales(4) ss in bb aa ll zz
 cynique ss ii nn ii kk
 cynique(2) ss ii nn ii kk ee
 cyniquement ss ii nn ii kk ee mm an
 cyniques ss ii nn ii kk
 cyniques(2) ss ii nn ii kk ee
-cyniques(3) ss ii nn ii kk ee zz
-cyniques(4) ss ii nn ii kk zz
 cynisme ss ii nn ii ss mm
 cynisme(2) ss ii nn ii ss mm ee
 cynthia ss in tt yy aa
@@ -22116,8 +22092,6 @@ câble kk aa bb ll
 câble(2) kk aa bb ll ee
 câbles kk aa bb ll
 câbles(2) kk aa bb ll ee
-câbles(3) kk aa bb ll ee zz
-câbles(4) kk aa bb ll zz
 câblo kk aa bb ll au
 câblé kk aa bb ll ei
 câblée kk aa bb ll ei
@@ -22127,8 +22101,6 @@ câliner kk aa ll ii nn ei
 câliner(2) kk aa ll ii nn ei rr
 câpres kk aa pp rr
 câpres(2) kk aa pp rr ee
-câpres(3) kk aa pp rr ee zz
-câpres(4) kk aa pp rr zz
 cætera kk ss ei tt ei rr aa
 cède ss ai dd
 cède(2) ss ai dd ee
@@ -22137,8 +22109,6 @@ cèdre ss ai dd rr
 cèdre(2) ss ai dd rr ee
 cèdres ss ai dd rr
 cèdres(2) ss ai dd rr ee
-cèdres(3) ss ai dd rr ee zz
-cèdres(4) ss ai dd rr zz
 cèle ss ai ll
 cèle(2) ss ai ll ee
 cène ss ai nn
@@ -22146,8 +22116,6 @@ cène(2) ss ai nn
 cène(3) ss ai nn ee
 cèpes ss ai pp
 cèpes(2) ss ai pp ee
-cèpes(3) ss ai pp ee zz
-cèpes(4) ss ai pp zz
 cécile ss ei ss ii ll
 cécile(2) ss ei ss ii ll ee
 cécilia ss ei ss ii ll yy aa
@@ -22181,15 +22149,11 @@ cégétiste ss ai jj ai tt ii ss tt
 cégétiste(2) ss ai jj ai tt ii ss tt ee
 cégétistes ss ai jj ai tt ii ss tt
 cégétistes(2) ss ai jj ai tt ii ss tt ee
-cégétistes(3) ss ai jj ai tt ii ss tt ee zz
-cégétistes(4) ss ai jj ai tt ii ss tt zz
 céleri ss ai ll ee rr ii
 céleste ss ai ll ai ss tt
 céleste(2) ss ai ll ai ss tt ee
 célestes ss ai ll ai ss tt
 célestes(2) ss ai ll ai ss tt ee
-célestes(3) ss ai ll ai ss tt ee zz
-célestes(4) ss ai ll ai ss tt zz
 célestin ss ai ll ai ss tt in
 célestine ss ei ll ai ss tt ii nn
 célestins ss ai ll ai ss tt in
@@ -22200,8 +22164,6 @@ célibataire ss ai ll ii bb aa tt ai rr
 célibataire(2) ss ai ll ii bb aa tt ai rr ee
 célibataires ss ai ll ii bb aa tt ai rr
 célibataires(2) ss ai ll ii bb aa tt ai rr ee
-célibataires(3) ss ai ll ii bb aa tt ai rr ee zz
-célibataires(4) ss ai ll ii bb aa tt ai rr zz
 célibéral ss ei ll ii bb ei rr aa ll
 céline ss ei ll ii nn
 céline(2) ss ei ll ii nn ee
@@ -22210,8 +22172,6 @@ célèbre(2) ss ai ll ai bb rr ee
 célèbrent ss ai ll ai bb rr ee
 célèbres ss ai ll ai bb rr
 célèbres(2) ss ai ll ai bb rr ee
-célèbres(3) ss ai ll ai bb rr ee zz
-célèbres(4) ss ai ll ai bb rr zz
 célébraient ss ai ll ai bb rr ai
 célébraient(2) ss ai ll ai bb rr ai tt
 célébrait ss ai ll ai bb rr ai
@@ -22244,20 +22204,14 @@ cépage ss ai pp aa jj
 cépage(2) ss ai pp aa jj ee
 cépages ss ai pp aa jj
 cépages(2) ss ai pp aa jj ee
-cépages(3) ss ai pp aa jj ee zz
-cépages(4) ss ai pp aa jj zz
 céramique ss ai rr aa mm ii kk
 céramique(2) ss ai rr aa mm ii kk ee
 céramiques ss ai rr aa mm ii kk
 céramiques(2) ss ai rr aa mm ii kk ee
-céramiques(3) ss ai rr aa mm ii kk ee zz
-céramiques(4) ss ai rr aa mm ii kk zz
 céret ss ei rr ai
 cérès ss ei rr ai ss
 céréales ss ai rr ai aa ll
 céréales(2) ss ai rr ai aa ll ee
-céréales(3) ss ai rr ai aa ll ee zz
-céréales(4) ss ai rr ai aa ll zz
 céréalier ss ai rr ai aa ll yy ei
 céréalier(2) ss ai rr ai aa ll yy ei rr
 céréaliers ss ai rr ai aa ll yy ei
@@ -22265,15 +22219,11 @@ céréalière ss ai rr ai aa ll yy ai rr
 céréalière(2) ss ai rr ai aa ll yy ai rr ee
 céréalières ss ai rr ai aa ll yy ai rr
 céréalières(2) ss ai rr ai aa ll yy ai rr ee
-céréalières(3) ss ai rr ai aa ll yy ai rr ee zz
-céréalières(4) ss ai rr ai aa ll yy ai rr zz
 cérébral ss ai rr ai bb rr aa ll
 cérébrale ss ai rr ai bb rr aa ll
 cérébrale(2) ss ai rr ai bb rr aa ll ee
 cérébrales ss ai rr ai bb rr aa ll
 cérébrales(2) ss ai rr ai bb rr aa ll ee
-cérébrales(3) ss ai rr ai bb rr aa ll ee zz
-cérébrales(4) ss ai rr ai bb rr aa ll zz
 cérébraux ss ai rr ai bb rr au
 cérébraux(2) ss ai rr ai bb rr au zz
 céréda ss ei rr ei dd aa
@@ -22304,8 +22254,6 @@ cône kk au nn
 cône(2) kk au nn ee
 cônes kk au nn
 cônes(2) kk au nn ee
-cônes(3) kk au nn ee zz
-cônes(4) kk au nn zz
 côte kk au tt
 côte(2) kk au tt ee
 côte-d'ivoire kk oo tt dd ii vv ww aa rr
@@ -22319,8 +22267,6 @@ côte_d'_ivoire(2) kk au tt ee dd ii vv ww aa rr
 côte_à_côte kk au tt aa kk au tt
 côtes kk au tt
 côtes(2) kk au tt ee
-côtes(3) kk au tt ee zz
-côtes(4) kk au tt zz
 côtes-du-nord kk oo tt dd uu nn oo rr
 côtes-du-nord(2) kk oo tt ee dd uu nn oo rr
 côtier kk oo tt yy ei
@@ -22330,8 +22276,6 @@ côtière kk oo tt yy ai rr
 côtière(2) kk oo tt yy ai rr ee
 côtières kk oo tt yy ai rr
 côtières(2) kk oo tt yy ai rr ee
-côtières(3) kk oo tt yy ai rr ee zz
-côtières(4) kk oo tt yy ai rr zz
 côtoie kk oo tt ww aa
 côtoient kk oo tt ww aa
 côtoient(2) kk oo tt ww aa tt
@@ -22464,8 +22408,6 @@ dalle dd aa ll
 dalle(2) dd aa ll ee
 dalles dd aa ll
 dalles(2) dd aa ll ee
-dalles(3) dd aa ll ee zz
-dalles(4) dd aa ll zz
 dalloz dd aa ll oo zz
 dalmate dd aa ll mm aa tt
 dalmate(2) dd aa ll mm aa tt ee
@@ -22485,8 +22427,6 @@ damer dd aa mm ei
 damer(2) dd aa mm ei rr
 dames dd aa mm
 dames(2) dd aa mm ee
-dames(3) dd aa mm ee zz
-dames(4) dd aa mm zz
 damien dd aa mm yy in
 damier dd aa mm yy ei
 damiers dd aa mm yy ei
@@ -22525,8 +22465,6 @@ dangereusement dd an jj ee rr ee zz ee mm an
 dangereusement(2) dd an jj ee rr ee zz ee mm an tt
 dangereuses dd an jj ee rr eu zz
 dangereuses(2) dd an jj ee rr eu zz ee
-dangereuses(3) dd an jj ee rr eu zz ee zz
-dangereuses(4) dd an jj ee rr eu zz zz
 dangereux dd an jj ee rr eu
 dangereux(2) dd an jj ee rr eu zz
 dangerosité dd an jj ee rr oo zz ii tt ei
@@ -22549,8 +22487,6 @@ danoise dd aa nn ww aa zz
 danoise(2) dd aa nn ww aa zz ee
 danoises dd aa nn ww aa zz
 danoises(2) dd aa nn ww aa zz ee
-danoises(3) dd aa nn ww aa zz ee zz
-danoises(4) dd aa nn ww aa zz zz
 danoix dd aa nn ww aa
 danone dd aa nn oo nn
 danone(2) dd aa nn oo nn ee
@@ -22580,16 +22516,12 @@ danser dd an ss ei
 danser(2) dd an ss ei rr
 danses dd an ss
 danses(2) dd an ss ee
-danses(3) dd an ss ee zz
-danseur dd an ss oe rr
 danseurs dd an ss oe rr
 danseurs(2) dd an ss oe rr zz
 danseuse dd an ss eu zz
 danseuse(2) dd an ss eu zz ee
 danseuses dd an ss eu zz
 danseuses(2) dd an ss eu zz ee
-danseuses(3) dd an ss eu zz ee zz
-danseuses(4) dd an ss eu zz zz
 dansez dd an ss ei
 dansé dd an ss ei
 dante dd an tt
@@ -22663,13 +22595,9 @@ dater dd aa tt ei
 dater(2) dd aa tt ei rr
 dates dd aa tt
 dates(2) dd aa tt ee
-dates(3) dd aa tt ee zz
-dates(4) dd aa tt zz
 dation dd aa ss yy on
 dattes dd aa tt
 dattes(2) dd aa tt ee
-dattes(3) dd aa tt ee zz
-dattes(4) dd aa tt zz
 daté dd aa tt ei
 datée dd aa tt ei
 datées dd aa tt ei
@@ -23031,8 +22959,6 @@ demanderont dd ee mm an dd ee rr on
 demanderont(2) dd ee mm an dd ee rr on tt
 demandes dd ee mm an dd
 demandes(2) dd ee mm an dd ee
-demandes(3) dd ee mm an dd ee zz
-demandes(4) dd ee mm an dd zz
 demandeur dd ee mm an dd oe rr
 demandeurs dd ee mm an dd oe rr
 demandeurs(2) dd ee mm an dd oe rr zz
@@ -23069,8 +22995,6 @@ demeureront dd ee mm ee rr ee rr on
 demeureront(2) dd ee mm ee rr ee rr on tt
 demeures dd ee mm oe rr
 demeures(2) dd ee mm oe rr ee
-demeures(3) dd ee mm oe rr ee zz
-demeures(4) dd ee mm oe rr zz
 demeuré dd ee mm ee rr ei
 demeurée dd ee mm ee rr ei
 demeurées dd ee mm ee rr ei
@@ -23082,8 +23006,6 @@ demi-finale dd ee mm ii ff ii nn aa ll
 demi-finale(2) dd ee mm ii ff ii nn aa ll ee
 demi-finales dd ee mm ii ff ii nn aa ll
 demi-finales(2) dd ee mm ii ff ii nn aa ll ee
-demi-finales(3) dd ee mm ii ff ii nn aa ll ee zz
-demi-finales(4) dd ee mm ii ff ii nn aa ll zz
 demi-fond dd ee mm ii ff on
 demi-frère dd ee mm ii ff rr ai rr
 demi-frère(2) dd ee mm ii ff rr ai rr ee
@@ -23091,22 +23013,16 @@ demi-heure dd ee mm ii oe rr
 demi-heure(2) dd ee mm ii oe rr ee
 demi-heures dd ee mm ii oe rr
 demi-heures(2) dd ee mm ii oe rr ee
-demi-heures(3) dd ee mm ii oe rr ee zz
-demi-heures(4) dd ee mm ii oe rr zz
 demi-mesure dd ee mm ii mm ee zz uu rr
 demi-mesure(2) dd ee mm ii mm ee zz uu rr ee
 demi-mesures dd ee mm ii mm ee zz uu rr
 demi-mesures(2) dd ee mm ii mm ee zz uu rr ee
-demi-mesures(3) dd ee mm ii mm ee zz uu rr ee zz
-demi-mesures(4) dd ee mm ii mm ee zz uu rr zz
 demi-pension dd ee mm ii pp an ss yy on
 demi-soeur dd ee mm ii ss oe rr
 demi-teinte dd ee mm ii tt in tt
 demi-teinte(2) dd ee mm ii tt in tt ee
 demi-teintes dd ee mm ii tt in tt
 demi-teintes(2) dd ee mm ii tt in tt ee
-demi-teintes(3) dd ee mm ii tt in tt ee zz
-demi-teintes(4) dd ee mm ii tt in tt zz
 demi-tour dd ee mm ii tt ou rr
 demie dd ee mm ii
 demirel dd ee mm ii rr ai ll
@@ -23116,8 +23032,6 @@ demoiselle dd ee mm ww aa zz ai ll
 demoiselle(2) dd ee mm ww aa zz ai ll ee
 demoiselles dd ee mm ww aa zz ai ll
 demoiselles(2) dd ee mm ww aa zz ai ll ee
-demoiselles(3) dd ee mm ww aa zz ai ll ee zz
-demoiselles(4) dd ee mm ww aa zz ai ll zz
 demy dd ee mm ii
 demy(2) dd mm ii
 den dd ai nn
@@ -23152,7 +23066,6 @@ dense dd an ss
 dense(2) dd an ss ee
 denses dd an ss
 denses(2) dd an ss ee
-denses(3) dd an ss ee zz
 densifie dd an ss ii ff ii
 densité dd an ss ii tt ei
 dent dd an
@@ -23160,14 +23073,10 @@ dentaire dd an tt ai rr
 dentaire(2) dd an tt ai rr ee
 dentaires dd an tt ai rr
 dentaires(2) dd an tt ai rr ee
-dentaires(3) dd an tt ai rr ee zz
-dentaires(4) dd an tt ai rr zz
 dentelle dd an tt ai ll
 dentelle(2) dd an tt ai ll ee
 dentelles dd an tt ai ll
 dentelles(2) dd an tt ai ll ee
-dentelles(3) dd an tt ai ll ee zz
-dentelles(4) dd an tt ai ll zz
 denti dd an tt ii
 dentifrice dd an tt ii ff rr ii ss
 dentifrice(2) dd an tt ii ff rr ii ss ee
@@ -23175,8 +23084,6 @@ dentiste dd an tt ii ss tt
 dentiste(2) dd an tt ii ss tt ee
 dentistes dd an tt ii ss tt
 dentistes(2) dd an tt ii ss tt ee
-dentistes(3) dd an tt ii ss tt ee zz
-dentistes(4) dd an tt ii ss tt zz
 dentition dd an tt ii ss yy on
 dents dd an
 dents(2) dd an zz
@@ -23227,8 +23134,6 @@ dernièrement dd ai rr nn yy ai rr ee mm an
 dernièrement(2) dd ai rr nn yy ai rr ee mm an tt
 dernières dd ai rr nn yy ai rr
 dernières(2) dd ai rr nn yy ai rr ee
-dernières(3) dd ai rr nn yy ai rr ee zz
-dernières(4) dd ai rr nn yy ai rr zz
 derolin dd ee rr oo ll in
 derosier dd ee rr oo zz yy ei
 deroubaix dd ee rr ou bb ai
@@ -23270,8 +23175,6 @@ descendante dd ai ss an dd an tt
 descendante(2) dd ai ss an dd an tt ee
 descendantes dd ai ss an dd an tt
 descendantes(2) dd ai ss an dd an tt ee
-descendantes(3) dd ai ss an dd an tt ee zz
-descendantes(4) dd ai ss an dd an tt zz
 descendants dd ai ss an dd an
 descendants(2) dd ai ss an dd an zz
 descende dd ai ss an dd
@@ -23290,8 +23193,6 @@ descente dd ai ss an tt
 descente(2) dd ai ss an tt ee
 descentes dd ai ss an tt
 descentes(2) dd ai ss an tt ee
-descentes(3) dd ai ss an tt ee zz
-descentes(4) dd ai ss an tt zz
 deschamps dd ei ch an
 deschiens dd ei ch yy in
 desclée dd ei kk ll ei
@@ -23307,8 +23208,6 @@ desdemona(2) dd ei ss dd ee mm oo nn aa
 desdemona(3) dd ei ss dd ee mm oo nn ee
 desdites dd ei dd ii tt
 desdites(2) dd ei dd ii tt ee
-desdites(3) dd ei dd ii tt ee zz
-desdites(4) dd ei dd ii tt zz
 desert dd ee zz ai rr
 desert(2) dd ee zz ai rr
 desesquelle dd ee zz ai ss kk ai ll
@@ -23335,8 +23234,6 @@ despote dd ai ss pp oo tt
 despote(2) dd ai ss pp oo tt ee
 despotes dd ai ss pp oo tt
 despotes(2) dd ai ss pp oo tt ee
-despotes(3) dd ai ss pp oo tt ee zz
-despotes(4) dd ai ss pp oo tt zz
 despotique dd ai ss pp oo tt ii kk
 despotique(2) dd ai ss pp oo tt ii kk ee
 despotisme dd ai ss pp oo tt ii ss mm
@@ -23366,8 +23263,6 @@ desserte dd ai ss ai rr tt
 desserte(2) dd ai ss ai rr tt ee
 dessertes dd ai ss ai rr tt
 dessertes(2) dd ai ss ai rr tt ee
-dessertes(3) dd ai ss ai rr tt ee zz
-dessertes(4) dd ai ss ai rr tt zz
 desserts dd ai ss ai rr
 desserts(2) dd ai ss ai rr zz
 desservant dd ai ss ai rr vv an
@@ -23418,8 +23313,6 @@ destinataire dd ai ss tt ii nn aa tt ai rr
 destinataire(2) dd ai ss tt ii nn aa tt ai rr ee
 destinataires dd ai ss tt ii nn aa tt ai rr
 destinataires(2) dd ai ss tt ii nn aa tt ai rr ee
-destinataires(3) dd ai ss tt ii nn aa tt ai rr ee zz
-destinataires(4) dd ai ss tt ii nn aa tt ai rr zz
 destination dd ai ss tt ii nn aa ss yy on
 destinations dd ai ss tt ii nn aa ss yy on
 destinations(2) dd ai ss tt ii nn aa ss yy on zz
@@ -23452,15 +23345,12 @@ destructrice dd ai ss tt rr uu kk tt rr ii ss
 destructrice(2) dd ai ss tt rr uu kk tt rr ii ss ee
 destructrices dd ai ss tt rr uu kk tt rr ii ss
 destructrices(2) dd ai ss tt rr uu kk tt rr ii ss ee
-destructrices(3) dd ai ss tt rr uu kk tt rr ii ss ee zz
 detroit dd ei tt rr ww aa
 detroit(2) dd ii tt rr au yy tt
 dette dd ai tt
 dette(2) dd ai tt ee
 dettes dd ai tt
 dettes(2) dd ai tt ee
-dettes(3) dd ai tt ee zz
-dettes(4) dd ai tt zz
 deue dd eu
 deug dd oe gg
 deuil dd oe yy
@@ -23488,8 +23378,6 @@ deuxième(2) dd ee zz yy ai mm ee
 deuxièmement dd eu zz yy ai mm ee mm an
 deuxièmes dd ee zz yy ai mm
 deuxièmes(2) dd ee zz yy ai mm ee
-deuxièmes(3) dd ee zz yy ai mm ee zz
-deuxièmes(4) dd ee zz yy ai mm zz
 deuzio dd ee zz yy au
 dev dd ai ff
 devaient dd ee vv ai
@@ -23514,8 +23402,6 @@ devanture dd ee vv an tt uu rr
 devanture(2) dd ee vv an tt uu rr ee
 devantures dd ee vv an tt uu rr
 devantures(2) dd ee vv an tt uu rr ee
-devantures(3) dd ee vv an tt uu rr ee zz
-devantures(4) dd ee vv an tt uu rr zz
 devançant dd ee vv an ss an
 devançant(2) dd ee vv an ss an tt
 devaquet dd ee vv aa kk ai
@@ -23592,8 +23478,6 @@ devise dd ee vv ii zz
 devise(2) dd ee vv ii zz ee
 devises dd ee vv ii zz
 devises(2) dd ee vv ii zz ee
-devises(3) dd ee vv ii zz ee zz
-devises(4) dd ee vv ii zz zz
 devoir dd ee vv ww aa rr
 devoirs dd ee vv ww aa rr
 devoirs(2) dd ee vv ww aa rr zz
@@ -23653,14 +23537,10 @@ diablement dd yy aa bb ll ee mm an
 diablement(2) dd yy aa bb ll ee mm an tt
 diables dd yy aa bb ll
 diables(2) dd yy aa bb ll ee
-diables(3) dd yy aa bb ll ee zz
-diables(4) dd yy aa bb ll zz
 diabolique dd yy aa bb oo ll ii kk
 diabolique(2) dd yy aa bb oo ll ii kk ee
 diaboliques dd yy aa bb oo ll ii kk
 diaboliques(2) dd yy aa bb oo ll ii kk ee
-diaboliques(3) dd yy aa bb oo ll ii kk ee zz
-diaboliques(4) dd yy aa bb oo ll ii kk zz
 diabolisation dd yy aa bb oo ll ii zz aa ss yy on
 diabolise dd yy aa bb oo ll ii zz
 diaboliser dd yy aa bb oo ll ii zz ei
@@ -23669,8 +23549,6 @@ diabète dd yy aa bb ai tt
 diabète(2) dd yy aa bb ai tt ee
 diabétiques dd yy aa bb ai tt ii kk
 diabétiques(2) dd yy aa bb ai tt ii kk ee
-diabétiques(3) dd yy aa bb ai tt ii kk ee zz
-diabétiques(4) dd yy aa bb ai tt ii kk zz
 diack dd yy aa kk
 diagada dd yy aa gg aa dd aa
 diagana dd yy aa gg aa nn aa
@@ -23686,8 +23564,6 @@ diagnostiquer dd yy aa gg nn oo ss tt ii kk ei
 diagnostiquer(2) dd yy aa gg nn oo ss tt ii kk ei rr
 diagnostiques dd yy aa gg nn oo ss tt ii kk
 diagnostiques(2) dd yy aa gg nn oo ss tt ii kk ee
-diagnostiques(3) dd yy aa gg nn oo ss tt ii kk ee zz
-diagnostiques(4) dd yy aa gg nn oo ss tt ii kk zz
 diagnostiqué dd yy aa gg nn oo ss tt ii kk ei
 diagnostiqués dd yy aa gg nn oo ss tt ii kk ei
 diagonale dd yy aa gg oo nn aa ll
@@ -23697,8 +23573,6 @@ dialecte dd yy aa ll ai kk tt
 dialecte(2) dd yy aa ll ai kk tt ee
 dialectes dd yy aa ll ai kk tt
 dialectes(2) dd yy aa ll ai kk tt ee
-dialectes(3) dd yy aa ll ai kk tt ee zz
-dialectes(4) dd yy aa ll ai kk tt zz
 dialectique dd yy aa ll ai kk tt ii kk
 dialectique(2) dd yy aa ll ai kk tt ii kk ee
 diallo dd yy aa ll au
@@ -23711,8 +23585,6 @@ dialoguer dd yy aa ll oo gg ei
 dialoguer(2) dd yy aa ll oo gg ei rr
 dialogues dd yy aa ll oo gg
 dialogues(2) dd yy aa ll oo gg ee
-dialogues(3) dd yy aa ll oo gg ee zz
-dialogues(4) dd yy aa ll oo gg zz
 dialogué dd yy aa ll oo gg ei
 diam dd yy aa mm
 diamant dd yy aa mm an
@@ -23720,8 +23592,6 @@ diamantaire dd yy aa mm an tt ai rr
 diamantaire(2) dd yy aa mm an tt ai rr ee
 diamantaires dd yy aa mm an tt ai rr
 diamantaires(2) dd yy aa mm an tt ai rr ee
-diamantaires(3) dd yy aa mm an tt ai rr ee zz
-diamantaires(4) dd yy aa mm an tt ai rr zz
 diamantifère dd yy aa mm an tt ii ff ai rr
 diamantifère(2) dd yy aa mm an tt ii ff ai rr ee
 diamants dd yy aa mm an
@@ -23732,8 +23602,6 @@ diamètre dd yy aa mm ai tt rr
 diamètre(2) dd yy aa mm ai tt rr ee
 diamètres dd yy aa mm ai tt rr
 diamètres(2) dd yy aa mm ai tt rr ee
-diamètres(3) dd yy aa mm ai tt rr ee zz
-diamètres(4) dd yy aa mm ai tt rr zz
 diamétralement dd yy aa mm ai tt rr aa ll ee mm an
 diamétralement(2) dd yy aa mm ai tt rr aa ll ee mm an tt
 diana dd yy aa nn aa
@@ -23746,8 +23614,6 @@ diaphane dd yy aa ff aa nn
 diaphane(2) dd yy aa ff aa nn ee
 diapositives dd yy aa pp oo zz ii tt ii vv
 diapositives(2) dd yy aa pp oo zz ii tt ii vv ee
-diapositives(3) dd yy aa pp oo zz ii tt ii vv ee zz
-diapositives(4) dd yy aa pp oo zz ii tt ii vv zz
 diar dd yy aa rr
 diard dd yy aa rr
 diario dd yy aa rr yy au
@@ -23760,8 +23626,6 @@ diatribe dd yy aa tt rr ii bb
 diatribe(2) dd yy aa tt rr ii bb ee
 diatribes dd yy aa tt rr ii bb
 diatribes(2) dd yy aa tt rr ii bb ee
-diatribes(3) dd yy aa tt rr ii bb ee zz
-diatribes(4) dd yy aa tt rr ii bb zz
 diaw dd yy aa ww
 diaz dd yy aa zz
 dib dd ii bb
@@ -23785,8 +23649,6 @@ dictature dd ii kk tt aa tt uu rr
 dictature(2) dd ii kk tt aa tt uu rr ee
 dictatures dd ii kk tt aa tt uu rr
 dictatures(2) dd ii kk tt aa tt uu rr ee
-dictatures(3) dd ii kk tt aa tt uu rr ee zz
-dictatures(4) dd ii kk tt aa tt uu rr zz
 dicte dd ii kk tt
 dicte(2) dd ii kk tt ee
 dictent dd ii kk tt ee
@@ -23797,8 +23659,6 @@ dictionnaire dd ii kk ss yy oo nn ai rr
 dictionnaire(2) dd ii kk ss yy oo nn ai rr ee
 dictionnaires dd ii kk ss yy oo nn ai rr
 dictionnaires(2) dd ii kk ss yy oo nn ai rr ee
-dictionnaires(3) dd ii kk ss yy oo nn ai rr ee zz
-dictionnaires(4) dd ii kk ss yy oo nn ai rr zz
 dicton dd ii kk tt on
 dicté dd ii kk tt ei
 dictée dd ii kk tt ei
@@ -23808,8 +23668,6 @@ didactique dd ii dd aa kk tt ii kk
 didactique(2) dd ii dd aa kk tt ii kk ee
 didactiques dd ii dd aa kk tt ii kk
 didactiques(2) dd ii dd aa kk tt ii kk ee
-didactiques(3) dd ii dd aa kk tt ii kk ee zz
-didactiques(4) dd ii dd aa kk tt ii kk zz
 didactisme dd ii dd aa kk tt ii ss mm
 didactisme(2) dd ii dd aa kk tt ii ss mm ee
 diderot dd ii dd ee rr au
@@ -23845,8 +23703,6 @@ diffamatoire dd ii ff aa mm aa tt ww aa rr
 diffamatoire(2) dd ii ff aa mm aa tt ww aa rr ee
 diffamatoires dd ii ff aa mm aa tt ww aa rr
 diffamatoires(2) dd ii ff aa mm aa tt ww aa rr ee
-diffamatoires(3) dd ii ff aa mm aa tt ww aa rr ee zz
-diffamatoires(4) dd ii ff aa mm aa tt ww aa rr zz
 diffamé dd ii ff aa mm ei
 difficile dd ii ff ii ss ii ll
 difficile(2) dd ii ff ii ss ii ll ee
@@ -23854,8 +23710,6 @@ difficilement dd ii ff ii ss ii ll ee mm an
 difficilement(2) dd ii ff ii ss ii ll ee mm an tt
 difficiles dd ii ff ii ss ii ll
 difficiles(2) dd ii ff ii ss ii ll ee
-difficiles(3) dd ii ff ii ss ii ll ee zz
-difficiles(4) dd ii ff ii ss ii ll zz
 difficulté dd ii ff ii kk uu ll tt ei
 difficultés dd ii ff ii kk uu ll tt ei
 diffus dd ii ff uu
@@ -23894,7 +23748,6 @@ différence dd ii ff ai rr an ss
 différence(2) dd ii ff ai rr an ss ee
 différences dd ii ff ai rr an ss
 différences(2) dd ii ff ai rr an ss ee
-différences(3) dd ii ff ai rr an ss ee zz
 différenciation dd ii ff ai rr an ss yy aa ss yy on
 différencie dd ii ff ai rr an ss ii
 différencient dd ii ff ai rr an ss ii
@@ -23914,8 +23767,6 @@ différente dd ii ff ai rr an tt
 différente(2) dd ii ff ai rr an tt ee
 différentes dd ii ff ai rr an tt
 différentes(2) dd ii ff ai rr an tt ee
-différentes(3) dd ii ff ai rr an tt ee zz
-différentes(4) dd ii ff ai rr an tt zz
 différentiel dd ii ff ai rr an ss yy ai ll
 différentielle dd ii ff ai rr an ss yy ai ll
 différentielle(2) dd ii ff ai rr an ss yy ai ll ee
@@ -23938,8 +23789,6 @@ digitale dd ii jj ii tt aa ll
 digitale(2) dd ii jj ii tt aa ll ee
 digitales dd ii jj ii tt aa ll
 digitales(2) dd ii jj ii tt aa ll ee
-digitales(3) dd ii jj ii tt aa ll ee zz
-digitales(4) dd ii jj ii tt aa ll zz
 digne dd ii gn
 digne(2) dd ii gn ee
 digne(3) dd ii nn yy
@@ -23947,14 +23796,10 @@ digne(4) dd ii nn yy ee
 dignement dd ii nn yy ee mm an
 dignes dd ii gn
 dignes(2) dd ii gn ee
-dignes(3) dd ii gn ee zz
-dignes(4) dd ii gn zz
 dignitaire dd ii gn ii tt ai rr
 dignitaire(2) dd ii gn ii tt ai rr ee
 dignitaires dd ii gn ii tt ai rr
 dignitaires(2) dd ii gn ii tt ai rr ee
-dignitaires(3) dd ii gn ii tt ai rr ee zz
-dignitaires(4) dd ii gn ii tt ai rr zz
 dignitas dd ii nn yy ii tt aa
 dignitatis dd ii nn yy ii tt aa tt ii
 dignité dd ii gn ii tt ei
@@ -23965,8 +23810,6 @@ digue dd ii gg
 digue(2) dd ii gg ee
 digues dd ii gg
 digues(2) dd ii gg ee
-digues(3) dd ii gg ee zz
-digues(4) dd ii gg zz
 digère dd ii jj ai rr
 digère(2) dd ii jj ai rr ee
 digérer dd ii jj ai rr ei
@@ -23985,14 +23828,10 @@ dilatoire dd ii ll aa tt ww aa rr
 dilatoire(2) dd ii ll aa tt ww aa rr ee
 dilatoires dd ii ll aa tt ww aa rr
 dilatoires(2) dd ii ll aa tt ww aa rr ee
-dilatoires(3) dd ii ll aa tt ww aa rr ee zz
-dilatoires(4) dd ii ll aa tt ww aa rr zz
 dilemme dd ii ll ai mm
 dilemme(2) dd ii ll ai mm ee
 dilemmes dd ii ll ai mm
 dilemmes(2) dd ii ll ai mm ee
-dilemmes(3) dd ii ll ai mm ee zz
-dilemmes(4) dd ii ll ai mm zz
 dilettante dd ii ll ai tt an tt
 dilettante(2) dd ii ll ai tt an tt ee
 dilettantisme dd ii ll ai tt an tt ii ss mm
@@ -24016,8 +23855,6 @@ diluer(2) dd ii ll uu ei rr
 dilution dd ii ll uu ss yy on
 diluviennes dd ii ll uu vv yy ai nn
 diluviennes(2) dd ii ll uu vv yy ai nn ee
-diluviennes(3) dd ii ll uu vv yy ai nn ee zz
-diluviennes(4) dd ii ll uu vv yy ai nn zz
 dilué dd ii ll uu ei
 diluée dd ii ll uu ei
 dim dd ii mm
@@ -24025,8 +23862,6 @@ dimanche dd ii mm an ch
 dimanche(2) dd ii mm an ch ee
 dimanches dd ii mm an ch
 dimanches(2) dd ii mm an ch ee
-dimanches(3) dd ii mm an ch ee zz
-dimanches(4) dd ii mm an ch zz
 dimension dd ii mm an ss yy on
 dimensionnées dd ii mm an ss yy oo nn ei
 dimensions dd ii mm an ss yy on
@@ -24068,8 +23903,6 @@ dinde dd in dd
 dinde(2) dd in dd ee
 dindes dd in dd
 dindes(2) dd in dd ee
-dindes(3) dd in dd ee zz
-dindes(4) dd in dd zz
 dindon dd in dd on
 dingo dd in gg au
 dingue dd in gg
@@ -24080,16 +23913,12 @@ dinosaure dd ii nn oo zz oo rr
 dinosaure(2) dd ii nn oo zz oo rr ee
 dinosaures dd ii nn oo zz oo rr
 dinosaures(2) dd ii nn oo zz oo rr ee
-dinosaures(3) dd ii nn oo zz oo rr ee zz
-dinosaures(4) dd ii nn oo zz oo rr zz
 dintilhac dd in tt ii yy aa kk
 dio dd yy au
 diocèse dd yy oo ss ai zz
 diocèse(2) dd yy oo ss ai zz ee
 diocèses dd yy oo ss ai zz
 diocèses(2) dd yy oo ss ai zz ee
-diocèses(3) dd yy oo ss ai zz ee zz
-diocèses(4) dd yy oo ss ai zz zz
 diogène dd yy oo jj ai nn
 dion dd yy on
 dionysos dd yy au nn ii zz oo ss
@@ -24108,8 +23937,6 @@ diplomate dd ii pp ll oo mm aa tt
 diplomate(2) dd ii pp ll oo mm aa tt ee
 diplomates dd ii pp ll oo mm aa tt
 diplomates(2) dd ii pp ll oo mm aa tt ee
-diplomates(3) dd ii pp ll oo mm aa tt ee zz
-diplomates(4) dd ii pp ll oo mm aa tt zz
 diplomatie dd ii pp ll oo mm aa ss ii
 diplomaties dd ii pp ll oo mm aa ss ii
 diplomaties(2) dd ii pp ll oo mm aa ss ii zz
@@ -24119,14 +23946,10 @@ diplomatiquement dd ii pp ll oo mm aa tt ii kk ee mm an
 diplomatiquement(2) dd ii pp ll oo mm aa tt ii kk ee mm an tt
 diplomatiques dd ii pp ll oo mm aa tt ii kk
 diplomatiques(2) dd ii pp ll oo mm aa tt ii kk ee
-diplomatiques(3) dd ii pp ll oo mm aa tt ii kk ee zz
-diplomatiques(4) dd ii pp ll oo mm aa tt ii kk zz
 diplôme dd ii pp ll au mm
 diplôme(2) dd ii pp ll au mm ee
 diplômes dd ii pp ll au mm
 diplômes(2) dd ii pp ll au mm ee
-diplômes(3) dd ii pp ll au mm ee zz
-diplômes(4) dd ii pp ll au mm zz
 diplômé dd ii pp ll oo mm ei
 diplômée dd ii pp ll oo mm ei
 diplômées dd ii pp ll oo mm ei
@@ -24151,8 +23974,6 @@ directement dd ii rr ai kk tt ee mm an
 directement(2) dd ii rr ai kk tt ee mm an tt
 directes dd ii rr ai kk tt
 directes(2) dd ii rr ai kk tt ee
-directes(3) dd ii rr ai kk tt ee zz
-directes(4) dd ii rr ai kk tt zz
 directeur dd ii rr ai kk tt oe rr
 directeurs dd ii rr ai kk tt oe rr
 directeurs(2) dd ii rr ai kk tt oe rr zz
@@ -24164,8 +23985,6 @@ directive dd ii rr ai kk tt ii vv
 directive(2) dd ii rr ai kk tt ii vv ee
 directives dd ii rr ai kk tt ii vv
 directives(2) dd ii rr ai kk tt ii vv ee
-directives(3) dd ii rr ai kk tt ii vv ee zz
-directives(4) dd ii rr ai kk tt ii vv zz
 directoire dd ii rr ai kk tt ww aa rr
 directoire(2) dd ii rr ai kk tt ww aa rr ee
 directours dd ii rr ai kk tt ou rr
@@ -24174,15 +23993,12 @@ directrice(2) dd ii rr ai kk tt rr ii ss
 directrice(3) dd ii rr ai kk tt rr ii ss ee
 directrices dd ii rr ai kk tt rr ii ss
 directrices(2) dd ii rr ai kk tt rr ii ss ee
-directrices(3) dd ii rr ai kk tt rr ii ss ee zz
 directs dd ii rr ai kk tt
 directs(2) dd ii rr ai kk tt zz
 directv dd ii rr ai kk tt vv
 dirent dd ii rr ee
 dires dd ii rr
 dires(2) dd ii rr ee
-dires(3) dd ii rr ee zz
-dires(4) dd ii rr zz
 direz dd ii rr ei
 dirhams dd ii rr aa mm
 dirhams(2) dd ii rr aa mm zz
@@ -24200,8 +24016,6 @@ dirigeante dd ii rr ii jj an tt
 dirigeante(2) dd ii rr ii jj an tt ee
 dirigeantes dd ii rr ii jj an tt
 dirigeantes(2) dd ii rr ii jj an tt ee
-dirigeantes(3) dd ii rr ii jj an tt ee zz
-dirigeantes(4) dd ii rr ii jj an tt zz
 dirigeants dd ii rr ii jj an
 dirigeants(2) dd ii rr ii jj an zz
 dirigent dd ii rr ii jj ee
@@ -24246,21 +24060,15 @@ disciple dd ii ss ii pp ll
 disciple(2) dd ii ss ii pp ll ee
 disciples dd ii ss ii pp ll
 disciples(2) dd ii ss ii pp ll ee
-disciples(3) dd ii ss ii pp ll ee zz
-disciples(4) dd ii ss ii pp ll zz
 disciplinaire dd ii ss ii pp ll ii nn ai rr
 disciplinaire(2) dd ii ss ii pp ll ii nn ai rr ee
 disciplinaires dd ii ss ii pp ll ii nn ai rr
 disciplinaires(2) dd ii ss ii pp ll ii nn ai rr ee
-disciplinaires(3) dd ii ss ii pp ll ii nn ai rr ee zz
-disciplinaires(4) dd ii ss ii pp ll ii nn ai rr zz
 discipline dd ii ss ii pp ll ii nn
 discipline(2) dd ii ss ii pp ll ii nn ee
 discipliner dd ii ss ii pp ll ii nn ei
 disciplines dd ii ss ii pp ll ii nn
 disciplines(2) dd ii ss ii pp ll ii nn ee
-disciplines(3) dd ii ss ii pp ll ii nn ee zz
-disciplines(4) dd ii ss ii pp ll ii nn zz
 discipliné dd ii ss ii pp ll ii nn ei
 disciplinée dd ii ss ii pp ll ii nn ei
 disciplinés dd ii ss ii pp ll ii nn ei
@@ -24270,8 +24078,6 @@ discographique dd ii ss kk oo gg rr aa ff ii kk
 discographique(2) dd ii ss kk oo gg rr aa ff ii kk ee
 discographiques dd ii ss kk oo gg rr aa ff ii kk
 discographiques(2) dd ii ss kk oo gg rr aa ff ii kk ee
-discographiques(3) dd ii ss kk oo gg rr aa ff ii kk ee zz
-discographiques(4) dd ii ss kk oo gg rr aa ff ii kk zz
 discontinuer dd ii ss kk on tt ii nn uu ei
 discontinuer(2) dd ii ss kk on tt ii nn uu ei rr
 discontinues dd ii ss kk on tt ii nn uu
@@ -24283,16 +24089,12 @@ discordante dd ii ss kk oo rr dd an tt
 discordante(2) dd ii ss kk oo rr dd an tt ee
 discordantes dd ii ss kk oo rr dd an tt
 discordantes(2) dd ii ss kk oo rr dd an tt ee
-discordantes(3) dd ii ss kk oo rr dd an tt ee zz
-discordantes(4) dd ii ss kk oo rr dd an tt zz
 discorde dd ii ss kk oo rr dd
 discorde(2) dd ii ss kk oo rr dd ee
 discothèque dd ii ss kk oo tt ai kk
 discothèque(2) dd ii ss kk oo tt ai kk ee
 discothèques dd ii ss kk oo tt ai kk
 discothèques(2) dd ii ss kk oo tt ai kk ee
-discothèques(3) dd ii ss kk oo tt ai kk ee zz
-discothèques(4) dd ii ss kk oo tt ai kk zz
 discount dd ii ss kk on tt
 discours dd ii ss kk ou rr
 discours(2) dd ii ss kk ou rr zz
@@ -24307,8 +24109,6 @@ discriminatoire dd ii ss kk rr ii mm ii nn aa tt ww aa rr
 discriminatoire(2) dd ii ss kk rr ii mm ii nn aa tt ww aa rr ee
 discriminatoires dd ii ss kk rr ii mm ii nn aa tt ww aa rr
 discriminatoires(2) dd ii ss kk rr ii mm ii nn aa tt ww aa rr ee
-discriminatoires(3) dd ii ss kk rr ii mm ii nn aa tt ww aa rr ee zz
-discriminatoires(4) dd ii ss kk rr ii mm ii nn aa tt ww aa rr zz
 discriminer dd ii ss kk rr ii mm ii nn ei
 discriminer(2) dd ii ss kk rr ii mm ii nn ei rr
 discrète dd ii ss kk rr ai tt
@@ -24317,8 +24117,6 @@ discrètement dd ii ss kk rr ai tt ee mm an
 discrètement(2) dd ii ss kk rr ai tt ee mm an tt
 discrètes dd ii ss kk rr ai tt
 discrètes(2) dd ii ss kk rr ai tt ee
-discrètes(3) dd ii ss kk rr ai tt ee zz
-discrètes(4) dd ii ss kk rr ai tt zz
 discrédit dd ii ss kk rr ai dd ii
 discréditer dd ii ss kk rr ai dd ii tt ei
 discréditer(2) dd ii ss kk rr ai dd ii tt ei rr
@@ -24337,8 +24135,6 @@ discutable dd ii ss kk uu tt aa bb ll
 discutable(2) dd ii ss kk uu tt aa bb ll ee
 discutables dd ii ss kk uu tt aa bb ll
 discutables(2) dd ii ss kk uu tt aa bb ll ee
-discutables(3) dd ii ss kk uu tt aa bb ll ee zz
-discutables(4) dd ii ss kk uu tt aa bb ll zz
 discutaient dd ii ss kk uu tt ai
 discutaient(2) dd ii ss kk uu tt ai tt
 discutait dd ii ss kk uu tt ai
@@ -24401,8 +24197,6 @@ disparate dd ii ss pp aa rr aa tt
 disparate(2) dd ii ss pp aa rr aa tt ee
 disparates dd ii ss pp aa rr aa tt
 disparates(2) dd ii ss pp aa rr aa tt ee
-disparates(3) dd ii ss pp aa rr aa tt ee zz
-disparates(4) dd ii ss pp aa rr aa tt zz
 disparaît dd ii ss pp aa rr ai
 disparaît(2) dd ii ss pp aa rr ai tt
 disparaîtra dd ii ss pp aa rr ai tt rr aa
@@ -24435,8 +24229,6 @@ dispensaire dd ii ss pp an ss ai rr
 dispensaire(2) dd ii ss pp an ss ai rr ee
 dispensaires dd ii ss pp an ss ai rr
 dispensaires(2) dd ii ss pp an ss ai rr ee
-dispensaires(3) dd ii ss pp an ss ai rr ee zz
-dispensaires(4) dd ii ss pp an ss ai rr zz
 dispensant dd ii ss pp an ss an
 dispensant(2) dd ii ss pp an ss an tt
 dispense dd ii ss pp an ss
@@ -24448,7 +24240,6 @@ dispenserait dd ii ss pp an ss ee rr ai
 dispenserait(2) dd ii ss pp an ss ee rr ai tt
 dispenses dd ii ss pp an ss
 dispenses(2) dd ii ss pp an ss ee
-dispenses(3) dd ii ss pp an ss ee zz
 dispensé dd ii ss pp an ss ei
 dispensée dd ii ss pp an ss ei
 dispensées dd ii ss pp an ss ei
@@ -24473,8 +24264,6 @@ disponible dd ii ss pp oo nn ii bb ll
 disponible(2) dd ii ss pp oo nn ii bb ll ee
 disponibles dd ii ss pp oo nn ii bb ll
 disponibles(2) dd ii ss pp oo nn ii bb ll ee
-disponibles(3) dd ii ss pp oo nn ii bb ll ee zz
-disponibles(4) dd ii ss pp oo nn ii bb ll zz
 disposaient dd ii ss pp oo zz ai
 disposaient(2) dd ii ss pp oo zz ai tt
 disposait dd ii ss pp oo zz ai
@@ -24529,16 +24318,12 @@ disputeront dd ii ss pp uu tt ee rr on
 disputeront(2) dd ii ss pp uu tt ee rr on tt
 disputes dd ii ss pp uu tt
 disputes(2) dd ii ss pp uu tt ee
-disputes(3) dd ii ss pp uu tt ee zz
-disputes(4) dd ii ss pp uu tt zz
 disputé dd ii ss pp uu tt ei
 disputée dd ii ss pp uu tt ei
 disputées dd ii ss pp uu tt ei
 disputés dd ii ss pp uu tt ei
 disquaires dd ii ss kk ai rr
 disquaires(2) dd ii ss kk ai rr ee
-disquaires(3) dd ii ss kk ai rr ee zz
-disquaires(4) dd ii ss kk ai rr zz
 disqualification dd ii ss kk aa ll ii ff ii kk aa ss yy on
 disqualifie dd ii ss kk aa ll ii ff ii
 disqualifier dd ii ss kk aa ll ii ff yy ei
@@ -24550,8 +24335,6 @@ disque(2) dd ii ss kk ee
 disques dd ii ss kk
 disques(2) dd ii ss kk ai ss
 disques(3) dd ii ss kk ee
-disques(4) dd ii ss kk ee zz
-disques(5) dd ii ss kk zz
 disquette dd ii ss kk ai tt
 disquettes dd ii ss kk ai tt
 disqueuse dd ii ss kk oe zz
@@ -24560,8 +24343,6 @@ dissemblable dd ii ss an bb ll aa bb ll
 dissemblable(2) dd ii ss an bb ll aa bb ll ee
 dissemblables dd ii ss an bb ll aa bb ll
 dissemblables(2) dd ii ss an bb ll aa bb ll ee
-dissemblables(3) dd ii ss an bb ll aa bb ll ee zz
-dissemblables(4) dd ii ss an bb ll aa bb ll zz
 dissension dd ii ss an ss yy on
 dissensions dd ii ss an ss yy on
 dissensions(2) dd ii ss an ss yy on zz
@@ -24572,15 +24353,12 @@ dissidence dd ii ss ii dd an ss
 dissidence(2) dd ii ss ii dd an ss ee
 dissidences dd ii ss ii dd an ss
 dissidences(2) dd ii ss ii dd an ss ee
-dissidences(3) dd ii ss ii dd an ss ee zz
 dissident dd ii ss ii dd an
 dissident(2) dd ii ss ii dd an tt
 dissidente dd ii ss ii dd an tt
 dissidente(2) dd ii ss ii dd an tt ee
 dissidentes dd ii ss ii dd an tt
 dissidentes(2) dd ii ss ii dd an tt ee
-dissidentes(3) dd ii ss ii dd an tt ee zz
-dissidentes(4) dd ii ss ii dd an tt zz
 dissidents dd ii ss ii dd an
 dissidents(2) dd ii ss ii dd an zz
 dissimulaient dd ii ss ii mm uu ll ai
@@ -24629,7 +24407,6 @@ dissonance dd ii ss oo nn an ss
 dissonance(2) dd ii ss oo nn an ss ee
 dissonances dd ii ss oo nn an ss
 dissonances(2) dd ii ss oo nn an ss ee
-dissonances(3) dd ii ss oo nn an ss ee zz
 dissoudre dd ii ss ou dd rr
 dissoudre(2) dd ii ss ou dd rr ee
 dissous dd ii ss ou
@@ -24640,8 +24417,6 @@ dissoute dd ii ss ou tt
 dissoute(2) dd ii ss ou tt ee
 dissoutes dd ii ss ou tt
 dissoutes(2) dd ii ss ou tt ee
-dissoutes(3) dd ii ss ou tt ee zz
-dissoutes(4) dd ii ss ou tt zz
 dissuade dd ii ss uu aa dd
 dissuade(2) dd ii ss uu aa dd ee
 dissuader dd ii ss uu aa dd ei
@@ -24662,8 +24437,6 @@ dissuasive dd ii ss uu aa zz ii vv
 dissuasive(2) dd ii ss uu aa zz ii vv ee
 dissuasives dd ii ss uu aa zz ii vv
 dissuasives(2) dd ii ss uu aa zz ii vv ee
-dissuasives(3) dd ii ss uu aa zz ii vv ee zz
-dissuasives(4) dd ii ss uu aa zz ii vv zz
 dissèque dd ii ss ai kk
 dissèque(2) dd ii ss ai kk ee
 dissèquent dd ii ss ai kk ee
@@ -24679,7 +24452,6 @@ distancer dd ii ss tt an ss ei
 distancer(2) dd ii ss tt an ss ei rr
 distances dd ii ss tt an ss
 distances(2) dd ii ss tt an ss ee
-distances(3) dd ii ss tt an ss ee zz
 distanciation dd ii ss tt an ss yy aa ss yy on
 distancié dd ii ss tt an ss yy ei
 distanciée dd ii ss tt an ss yy ei
@@ -24691,8 +24463,6 @@ distante dd ii ss tt an tt
 distante(2) dd ii ss tt an tt ee
 distantes dd ii ss tt an tt
 distantes(2) dd ii ss tt an tt ee
-distantes(3) dd ii ss tt an tt ee zz
-distantes(4) dd ii ss tt an tt zz
 distants dd ii ss tt an
 distants(2) dd ii ss tt an zz
 distel dd ii ss tt ai ll
@@ -24715,8 +24485,6 @@ distinctement dd ii ss tt in kk tt ee mm an
 distinctement(2) dd ii ss tt in kk tt ee mm an tt
 distinctes dd ii ss tt in kk tt
 distinctes(2) dd ii ss tt in kk tt ee
-distinctes(3) dd ii ss tt in kk tt ee zz
-distinctes(4) dd ii ss tt in kk tt zz
 distinctif dd ii ss tt in kk tt ii ff
 distinctifs dd ii ss tt in kk tt ii ff
 distinction dd ii ss tt in kk ss yy on
@@ -24797,16 +24565,12 @@ dite(2) dd ii tt ee
 dites dd ii tt
 dites(2) dd ii tt ai ss
 dites(3) dd ii tt ee
-dites(4) dd ii tt ee zz
-dites(5) dd ii tt zz
 dits dd ii
 dits(2) dd ii zz
 diurne dd yy uu rr nn
 diurne(2) dd yy uu rr nn ee
 diurnes dd yy uu rr nn
 diurnes(2) dd yy uu rr nn ee
-diurnes(3) dd yy uu rr nn ee zz
-diurnes(4) dd yy uu rr nn zz
 div dd ei ii vv ei
 div(2) dd ii vv
 diva dd ii vv aa
@@ -24820,14 +24584,11 @@ divergence dd ii vv ai rr jj an ss
 divergence(2) dd ii vv ai rr jj an ss ee
 divergences dd ii vv ai rr jj an ss
 divergences(2) dd ii vv ai rr jj an ss ee
-divergences(3) dd ii vv ai rr jj an ss ee zz
 divergent dd ii vv ai rr jj an
 divergent(2) dd ii vv ai rr jj an tt
 divergent(3) dd ii vv ai rr jj ee
 divergentes dd ii vv ai rr jj an tt
 divergentes(2) dd ii vv ai rr jj an tt ee
-divergentes(3) dd ii vv ai rr jj an tt ee zz
-divergentes(4) dd ii vv ai rr jj an tt zz
 divergents dd ii vv ai rr jj an
 divergents(2) dd ii vv ai rr jj an zz
 diverger dd ii vv ai rr jj ei
@@ -24840,7 +24601,6 @@ diversement dd ii vv ai rr ss ee mm an
 diversement(2) dd ii vv ai rr ss ee mm an tt
 diverses dd ii vv ai rr ss
 diverses(2) dd ii vv ai rr ss ee
-diverses(3) dd ii vv ai rr ss ee zz
 diversifiant dd ii vv ai rr ss ii ff yy an
 diversifiant(2) dd ii vv ai rr ss ii ff yy an tt
 diversification dd ii vv ai rr ss ii ff ii kk aa ss yy on
@@ -24870,8 +24630,6 @@ dividende dd ii vv ii dd an dd
 dividende(2) dd ii vv ii dd an dd ee
 dividendes dd ii vv ii dd an dd
 dividendes(2) dd ii vv ii dd an dd ee
-dividendes(3) dd ii vv ii dd an dd ee zz
-dividendes(4) dd ii vv ii dd an dd zz
 divin dd ii vv ii
 divin(2) dd ii vv ii nn
 divin(3) dd ii vv in
@@ -24879,8 +24637,6 @@ divine dd ii vv ii nn
 divine(2) dd ii vv ii nn ee
 divines dd ii vv ii nn
 divines(2) dd ii vv ii nn ee
-divines(3) dd ii vv ii nn ee zz
-divines(4) dd ii vv ii nn zz
 divinité dd ii vv ii nn ii tt ei
 divinités dd ii vv ii nn ii tt ei
 divisant dd ii vv ii zz an
@@ -24913,7 +24669,6 @@ divorcer dd ii vv oo rr ss ei
 divorcer(2) dd ii vv oo rr ss ei rr
 divorces dd ii vv oo rr ss
 divorces(2) dd ii vv oo rr ss ee
-divorces(3) dd ii vv oo rr ss ee zz
 divorcé dd ii vv oo rr ss ei
 divorcée dd ii vv oo rr ss ei
 divorcés dd ii vv oo rr ss ei
@@ -24948,8 +24703,6 @@ dixième dd ii zz yy ai mm
 dixième(2) dd ii zz yy ai mm ee
 dixièmes dd ii zz yy ai mm
 dixièmes(2) dd ii zz yy ai mm ee
-dixièmes(3) dd ii zz yy ai mm ee zz
-dixièmes(4) dd ii zz yy ai mm zz
 dixon dd ii kk ss oo nn
 diyala dd ii yy aa ll aa
 diyarbakir dd ii yy aa rr bb aa kk ii rr
@@ -24957,8 +24710,6 @@ dizaine dd ii zz ai nn
 dizaine(2) dd ii zz ai nn ee
 dizaines dd ii zz ai nn
 dizaines(2) dd ii zz ai nn ee
-dizaines(3) dd ii zz ai nn ee zz
-dizaines(4) dd ii zz ai nn zz
 dizier dd ii zz yy ei
 dizzy dd ii zz ii
 diète dd yy ai tt
@@ -24969,8 +24720,6 @@ diététique dd yy ai tt ai tt ii kk
 diététique(2) dd yy ai tt ai tt ii kk ee
 diététiques dd yy ai tt ai tt ii kk
 diététiques(2) dd yy ai tt ai tt ii kk ee
-diététiques(3) dd yy ai tt ai tt ii kk ee zz
-diététiques(4) dd yy ai tt ai tt ii kk zz
 dj dd jj
 dj(2) dd ei jj ii
 dj(3) dd ii dd jj ii
@@ -25032,8 +24781,6 @@ docilement dd oo ss ii ll ee mm an
 docilement(2) dd oo ss ii ll ee mm an tt
 dociles dd oo ss ii ll
 dociles(2) dd oo ss ii ll ee
-dociles(3) dd oo ss ii ll ee zz
-dociles(4) dd oo ss ii ll zz
 docilité dd oo ss ii ll ii tt ei
 docker dd oo kk ee rr
 dockers dd oo kk ee rr
@@ -25047,51 +24794,37 @@ doctement dd oo kk tt ee mm an
 doctement(2) dd oo kk tt ee mm an tt
 doctes dd oo kk tt
 doctes(2) dd oo kk tt ee
-doctes(3) dd oo kk tt ee zz
-doctes(4) dd oo kk tt zz
 docteur dd oo kk tt oe rr
 docteurs dd oo kk tt oe rr
 docteurs(2) dd oo kk tt oe rr zz
 doctor dd oo kk tt oo rr
 doctorales dd oo kk tt oo rr aa ll
 doctorales(2) dd oo kk tt oo rr aa ll ee
-doctorales(3) dd oo kk tt oo rr aa ll ee zz
-doctorales(4) dd oo kk tt oo rr aa ll zz
 doctorants dd oo kk tt oo rr an
 doctorat dd oo kk tt oo rr aa
 doctrinaire dd oo kk tt rr ii nn ai rr
 doctrinaire(2) dd oo kk tt rr ii nn ai rr ee
 doctrinaires dd oo kk tt rr ii nn ai rr
 doctrinaires(2) dd oo kk tt rr ii nn ai rr ee
-doctrinaires(3) dd oo kk tt rr ii nn ai rr ee zz
-doctrinaires(4) dd oo kk tt rr ii nn ai rr zz
 doctrinal dd oo kk tt rr ii nn aa ll
 doctrinale dd oo kk tt rr ii nn aa ll
 doctrinale(2) dd oo kk tt rr ii nn aa ll ee
 doctrinales dd oo kk tt rr ii nn aa ll
 doctrinales(2) dd oo kk tt rr ii nn aa ll ee
-doctrinales(3) dd oo kk tt rr ii nn aa ll ee zz
-doctrinales(4) dd oo kk tt rr ii nn aa ll zz
 doctrine dd oo kk tt rr ii nn
 doctrine(2) dd oo kk tt rr ii nn ee
 doctrines dd oo kk tt rr ii nn
 doctrines(2) dd oo kk tt rr ii nn ee
-doctrines(3) dd oo kk tt rr ii nn ee zz
-doctrines(4) dd oo kk tt rr ii nn zz
 document dd oo kk uu mm an
 documenta dd oo kk uu mm an tt aa
 documentaire dd oo kk uu mm an tt ai rr
 documentaire(2) dd oo kk uu mm an tt ai rr ee
 documentaires dd oo kk uu mm an tt ai rr
 documentaires(2) dd oo kk uu mm an tt ai rr ee
-documentaires(3) dd oo kk uu mm an tt ai rr ee zz
-documentaires(4) dd oo kk uu mm an tt ai rr zz
 documentaliste dd oo kk uu mm an tt aa ll ii ss tt
 documentaliste(2) dd oo kk uu mm an tt aa ll ii ss tt ee
 documentalistes dd oo kk uu mm an tt aa ll ii ss tt
 documentalistes(2) dd oo kk uu mm an tt aa ll ii ss tt ee
-documentalistes(3) dd oo kk uu mm an tt aa ll ii ss tt ee zz
-documentalistes(4) dd oo kk uu mm an tt aa ll ii ss tt zz
 documentariste dd oo kk uu mm an tt aa rr ii ss tt
 documentation dd oo kk uu mm an tt aa ss yy on
 documents dd oo kk uu mm an
@@ -25106,22 +24839,16 @@ doe dd oe
 dog dd oo gg
 doges dd oo jj
 doges(2) dd oo jj ee
-doges(3) dd oo jj ee zz
-doges(4) dd oo jj zz
 dogmatique dd oo gg mm aa tt ii kk
 dogmatique(2) dd oo gg mm aa tt ii kk ee
 dogmatiques dd oo gg mm aa tt ii kk
 dogmatiques(2) dd oo gg mm aa tt ii kk ee
-dogmatiques(3) dd oo gg mm aa tt ii kk ee zz
-dogmatiques(4) dd oo gg mm aa tt ii kk zz
 dogmatisme dd oo gg mm aa tt ii ss mm
 dogme dd au gg mm
 dogme(2) dd oo gg mm
 dogme(3) dd oo gg mm ee
 dogmes dd oo gg mm
 dogmes(2) dd oo gg mm ee
-dogmes(3) dd oo gg mm ee zz
-dogmes(4) dd oo gg mm zz
 dogville dd oo gg vv ii ll
 doh dd oo
 doha dd au aa
@@ -25165,7 +24892,6 @@ doléance(3) dd oo ll ei an ss
 doléance(4) dd oo ll ei an ss ee
 doléances dd oo ll ai an ss
 doléances(2) dd oo ll ai an ss ee
-doléances(3) dd oo ll ai an ss ee zz
 dom dd on
 dom(2) dd oo mm
 dom-tom dd oo mm tt oo mm
@@ -25173,8 +24899,6 @@ domaine dd oo mm ai nn
 domaine(2) dd oo mm ai nn ee
 domaines dd oo mm ai nn
 domaines(2) dd oo mm ai nn ee
-domaines(3) dd oo mm ai nn ee zz
-domaines(4) dd oo mm ai nn zz
 dombasle dd on bb aa ss ll
 dombes dd on bb
 domecq dd oo mm ai kk kk
@@ -25187,14 +24911,10 @@ domestiquer dd oo mm ai ss tt ii kk ei
 domestiquer(2) dd oo mm ai ss tt ii kk ei rr
 domestiques dd oo mm ai ss tt ii kk
 domestiques(2) dd oo mm ai ss tt ii kk ee
-domestiques(3) dd oo mm ai ss tt ii kk ee zz
-domestiques(4) dd oo mm ai ss tt ii kk zz
 domicile dd oo mm ii ss ii ll
 domicile(2) dd oo mm ii ss ii ll ee
 domiciles dd oo mm ii ss ii ll
 domiciles(2) dd oo mm ii ss ii ll ee
-domiciles(3) dd oo mm ii ss ii ll ee zz
-domiciles(4) dd oo mm ii ss ii ll zz
 domiciliation dd oo mm ii ss ii ll yy aa ss yy on
 domicilié dd oo mm ii ss ii ll yy ei
 domiciliée dd oo mm ii ss ii ll yy ei
@@ -25212,8 +24932,6 @@ dominante dd oo mm ii nn an tt
 dominante(2) dd oo mm ii nn an tt ee
 dominantes dd oo mm ii nn an tt
 dominantes(2) dd oo mm ii nn an tt ee
-dominantes(3) dd oo mm ii nn an tt ee zz
-dominantes(4) dd oo mm ii nn an tt zz
 dominants dd oo mm ii nn an
 dominants(2) dd oo mm ii nn an zz
 dominateur dd oo mm ii nn aa tt oe rr
@@ -25241,8 +24959,6 @@ dominicale dd oo mm ii nn ii kk aa ll
 dominicale(2) dd oo mm ii nn ii kk aa ll ee
 dominicales dd oo mm ii nn ii kk aa ll
 dominicales(2) dd oo mm ii nn ii kk aa ll ee
-dominicales(3) dd oo mm ii nn ii kk aa ll ee zz
-dominicales(4) dd oo mm ii nn ii kk aa ll zz
 dominici dd au mm ii nn ii ss ii
 dominions dd oo mm ii nn yy on
 dominions(2) dd oo mm ii nn yy on zz
@@ -25267,13 +24983,9 @@ dommageable dd oo mm aa jj aa bb ll
 dommageable(2) dd oo mm aa jj aa bb ll ee
 dommageables dd oo mm aa jj aa bb ll
 dommageables(2) dd oo mm aa jj aa bb ll ee
-dommageables(3) dd oo mm aa jj aa bb ll ee zz
-dommageables(4) dd oo mm aa jj aa bb ll zz
 dommager dd oo mm aa jj ei
 dommages dd oo mm aa jj
 dommages(2) dd oo mm aa jj ee
-dommages(3) dd oo mm aa jj ee zz
-dommages(4) dd oo mm aa jj zz
 dommages_et_intérêts dd oo mm aa jj ee zz ei in tt ei rr ai
 domont dd oo mm on
 domotique dd oo mm oo tt ii kk
@@ -25335,8 +25047,6 @@ donneront dd oo nn ee rr on
 donneront(2) dd oo nn ee rr on tt
 donnes dd oo nn
 donnes(2) dd oo nn ee
-donnes(3) dd oo nn ee zz
-donnes(4) dd oo nn zz
 donneur dd oo nn oe rr
 donneurs dd oo nn oe rr
 donneurs(2) dd oo nn oe rr zz
@@ -25364,8 +25074,6 @@ dopant dd oo pp an
 dopant(2) dd oo pp an tt
 dopantes dd oo pp an tt
 dopantes(2) dd oo pp an tt ee
-dopantes(3) dd oo pp an tt ee zz
-dopantes(4) dd oo pp an tt zz
 dopants dd oo pp an
 dopants(2) dd oo pp an zz
 dope dd oo pp
@@ -25427,8 +25135,6 @@ dortoirs dd oo rr tt ww aa rr
 dortoirs(2) dd oo rr tt ww aa rr zz
 dorures dd oo rr uu rr
 dorures(2) dd oo rr uu rr ee
-dorures(3) dd oo rr uu rr ee zz
-dorures(4) dd oo rr uu rr zz
 dorville dd oo rr vv ii ll
 doré dd oo rr ei
 dorée dd oo rr ei
@@ -25442,16 +25148,12 @@ dosage dd oo zz aa jj
 dosage(2) dd oo zz aa jj ee
 dosages dd oo zz aa jj
 dosages(2) dd oo zz aa jj ee
-dosages(3) dd oo zz aa jj ee zz
-dosages(4) dd oo zz aa jj zz
 dose dd au zz
 dose(2) dd au zz ee
 doser dd oo zz ei
 doser(2) dd oo zz ei rr
 doses dd au zz
 doses(2) dd au zz ee
-doses(3) dd au zz ee zz
-doses(4) dd au zz zz
 dosière dd oo zz yy ai rr
 dossard dd oo ss aa rr
 dossier dd oo ss yy ei
@@ -25484,8 +25186,6 @@ douane dd ww aa nn
 douane(2) dd ww aa nn ee
 douanes dd ww aa nn
 douanes(2) dd ww aa nn ee
-douanes(3) dd ww aa nn ee zz
-douanes(4) dd ww aa nn zz
 douanier dd ww aa nn yy ei
 douanier(2) dd ww aa nn yy ei rr
 douaniers dd ww aa nn yy ei
@@ -25493,8 +25193,6 @@ douanière dd ww aa nn yy ai rr
 douanière(2) dd ww aa nn yy ai rr ee
 douanières dd ww aa nn yy ai rr
 douanières(2) dd ww aa nn yy ai rr ee
-douanières(3) dd ww aa nn yy ai rr ee zz
-douanières(4) dd ww aa nn yy ai rr zz
 douar dd ww aa rr
 douarnenez dd ww aa rr nn ee nn ei
 douarnenez(2) dd ww aa rr nn nn ei
@@ -25518,8 +25216,6 @@ doubler(2) dd ou bb ll ei rr
 doublera dd ou bb ll ee rr aa
 doubles dd ou bb ll
 doubles(2) dd ou bb ll ee
-doubles(3) dd ou bb ll ee zz
-doubles(4) dd ou bb ll zz
 doublet dd ou bb ll ai
 doublon dd ou bb ll on
 doublonnent dd ou bb ll oo nn an
@@ -25540,7 +25236,6 @@ doucement dd ou ss ee mm an
 doucement(2) dd ou ss ee mm an tt
 douces dd ou ss
 douces(2) dd ou ss ee
-douces(3) dd ou ss ee zz
 doucet dd ou ss ai
 douceur dd ou ss oe rr
 douceurs dd ou ss oe rr
@@ -25550,8 +25245,6 @@ douche dd ou ch
 douche(2) dd ou ch ee
 douches dd ou ch
 douches(2) dd ou ch ee
-douches(3) dd ou ch ee zz
-douches(4) dd ou ch zz
 doucé dd ou ss ei
 doudaev dd ou dd aa ai ff
 doudine dd ou dd ii nn
@@ -25564,8 +25257,6 @@ douille dd ou yy
 douille(2) dd ou yy ee
 douilles dd ou yy
 douilles(2) dd ou yy ee
-douilles(3) dd ou yy ee zz
-douilles(4) dd ou yy zz
 douillet dd ou yy ai
 douillet(2) dd ou yy ai tt
 douin dd ou ii nn
@@ -25579,8 +25270,6 @@ douloureusement dd ou ll ou rr ee zz ee mm an
 douloureusement(2) dd ou ll ou rr ee zz ee mm an tt
 douloureuses dd ou ll ou rr eu zz
 douloureuses(2) dd ou ll ou rr eu zz ee
-douloureuses(3) dd ou ll ou rr eu zz ee zz
-douloureuses(4) dd ou ll ou rr eu zz zz
 douloureux dd ou ll ou rr eu
 douloureux(2) dd ou ll ou rr eu zz
 doum dd ou mm
@@ -25609,14 +25298,10 @@ douter dd ou tt ei
 douter(2) dd ou tt ei rr
 doutes dd ou tt
 doutes(2) dd ou tt ee
-doutes(3) dd ou tt ee zz
-doutes(4) dd ou tt zz
 douteuse dd ou tt eu zz
 douteuse(2) dd ou tt eu zz ee
 douteuses dd ou tt eu zz
 douteuses(2) dd ou tt eu zz ee
-douteuses(3) dd ou tt eu zz ee zz
-douteuses(4) dd ou tt eu zz zz
 douteux dd ou tt eu
 douteux(2) dd ou tt eu zz
 doutez dd ou tt ei
@@ -25632,8 +25317,6 @@ douzaine dd ou zz ai nn
 douzaine(2) dd ou zz ai nn ee
 douzaines dd ou zz ai nn
 douzaines(2) dd ou zz ai nn ee
-douzaines(3) dd ou zz ai nn ee zz
-douzaines(4) dd ou zz ai nn zz
 douze dd ou zz
 douze(2) dd ou zz ee
 douzième dd ou zz yy ai mm
@@ -25662,15 +25345,11 @@ dr dd au kk tt oe rr
 drac dd rr aa kk
 drachmes dd rr aa kk mm
 drachmes(2) dd rr aa kk mm ee
-drachmes(3) dd rr aa kk mm ee zz
-drachmes(4) dd rr aa kk mm zz
 draconien dd rr aa kk oo nn yy in
 draconienne dd rr aa kk oo nn yy ai nn
 draconienne(2) dd rr aa kk oo nn yy ai nn ee
 draconiennes dd rr aa kk oo nn yy ai nn
 draconiennes(2) dd rr aa kk oo nn yy ai nn ee
-draconiennes(3) dd rr aa kk oo nn yy ai nn ee zz
-draconiennes(4) dd rr aa kk oo nn yy ai nn zz
 draconiens dd rr aa kk au nn yy in
 draconiens(2) dd rr aa kk au nn yy in zz
 draconiens(3) dd rr aa kk oo nn yy in
@@ -25705,8 +25384,6 @@ dramatiquement dd rr aa mm aa tt ii kk ee mm an
 dramatiquement(2) dd rr aa mm aa tt ii kk ee mm an tt
 dramatiques dd rr aa mm aa tt ii kk
 dramatiques(2) dd rr aa mm aa tt ii kk ee
-dramatiques(3) dd rr aa mm aa tt ii kk ee zz
-dramatiques(4) dd rr aa mm aa tt ii kk zz
 dramatisation dd rr aa mm aa tt ii zz aa ss yy on
 dramatisent dd rr aa mm aa tt ii zz ee
 dramatiser dd rr aa mm aa tt ii zz ei
@@ -25715,15 +25392,11 @@ dramaturge dd rr aa mm aa tt uu rr jj
 dramaturge(2) dd rr aa mm aa tt uu rr jj ee
 dramaturges dd rr aa mm aa tt uu rr jj
 dramaturges(2) dd rr aa mm aa tt uu rr jj ee
-dramaturges(3) dd rr aa mm aa tt uu rr jj ee zz
-dramaturges(4) dd rr aa mm aa tt uu rr jj zz
 dramaturgie dd rr aa mm aa tt uu rr jj ii
 drame dd rr aa mm
 drame(2) dd rr aa mm ee
 drames dd rr aa mm
 drames(2) dd rr aa mm ee
-drames(3) dd rr aa mm ee zz
-drames(4) dd rr aa mm zz
 drancy dd rr an ss ii
 drap dd rr aa
 drapeau dd rr aa pp au
@@ -25742,8 +25415,6 @@ drastique dd rr aa ss tt ii kk
 drastique(2) dd rr aa ss tt ii kk ee
 drastiques dd rr aa ss tt ii kk
 drastiques(2) dd rr aa ss tt ii kk ee
-drastiques(3) dd rr aa ss tt ii kk ee zz
-drastiques(4) dd rr aa ss tt ii kk zz
 dray dd rr ai
 draâ dd rr aa aa
 dreadlocks dd rr aa dd ll oo kk
@@ -25760,8 +25431,6 @@ dressage dd rr ai ss aa jj
 dressage(2) dd rr ai ss aa jj ee
 dressages dd rr ai ss aa jj
 dressages(2) dd rr ai ss aa jj ee
-dressages(3) dd rr ai ss aa jj ee zz
-dressages(4) dd rr ai ss aa jj zz
 dressait dd rr ai ss ai
 dressait(2) dd rr ai ss ai tt
 dressant dd rr ai ss an
@@ -25801,8 +25470,6 @@ drogue(2) dd rr oo gg
 drogue(3) dd rr oo gg ee
 drogues dd rr oo gg
 drogues(2) dd rr oo gg ee
-drogues(3) dd rr oo gg ee zz
-drogues(4) dd rr oo gg zz
 drogué dd rr oo gg ei
 drogués dd rr oo gg ei
 droit dd rr ww aa
@@ -25811,8 +25478,6 @@ droite dd rr ww aa tt
 droite(2) dd rr ww aa tt ee
 droites dd rr ww aa tt
 droites(2) dd rr ww aa tt ee
-droites(3) dd rr ww aa tt ee zz
-droites(4) dd rr ww aa tt zz
 droitier dd rr ww aa tt yy ei
 droitier(2) dd rr ww aa tt yy ei rr
 droitière dd rr ww aa tt yy ai rr
@@ -25827,8 +25492,6 @@ drolo dd rr oo ll au
 droma dd rr oo mm aa
 dromadaires dd rr oo mm aa dd ai rr
 dromadaires(2) dd rr oo mm aa dd ai rr ee
-dromadaires(3) dd rr oo mm aa dd ai rr ee zz
-dromadaires(4) dd rr oo mm aa dd ai rr zz
 dromer dd rr oo mm ei
 drone dd rr oo nn
 drones dd rr oo nn
@@ -25853,8 +25516,6 @@ druon dd rr uu on
 drut dd rr uu tt
 druzes dd rr uu zz
 druzes(2) dd rr uu zz ee
-druzes(3) dd rr uu zz ee zz
-druzes(4) dd rr uu zz zz
 drâa dd rr aa aa
 dréville dd rr ei vv ii ll
 drôlatique dd rr au ll aa tt ii kk
@@ -25864,8 +25525,6 @@ drôlement dd rr au ll ee mm an
 drôlerie dd rr oo ll ee rr ii
 drôles dd rr au ll
 drôles(2) dd rr au ll ee
-drôles(3) dd rr au ll ee zz
-drôles(4) dd rr au ll zz
 drôme dd rr au mm
 drôme(2) dd rr au mm ee
 ds dd ei ai ss
@@ -25952,8 +25611,6 @@ dues dd uu
 dues(2) dd uu zz
 duettistes dd uu ai tt ii ss tt
 duettistes(2) dd uu ai tt ii ss tt ee
-duettistes(3) dd uu ai tt ii ss tt ee zz
-duettistes(4) dd uu ai tt ii ss tt zz
 dufaux dd uu ff au
 duffour dd uu ff ou rr
 dufoix dd uu ff ww aa
@@ -26010,8 +25667,6 @@ duperey dd uu pp ee rr ei
 duperie dd uu pp ee rr ii
 dupes dd uu pp
 dupes(2) dd uu pp ee
-dupes(3) dd uu pp ee zz
-dupes(4) dd uu pp zz
 dupin dd uu pp in
 duplex dd uu pp ll ai kk ss
 duplication dd uu pp ll ii kk aa ss yy on
@@ -26077,8 +25732,6 @@ dureront dd uu rr ee rr on
 dureront(2) dd uu rr ee rr on tt
 dures dd uu rr
 dures(2) dd uu rr ee
-dures(3) dd uu rr ee zz
-dures(4) dd uu rr zz
 duret dd uu rr ai
 dureté dd uu rr ee tt ei
 durham dd uu rr aa mm
@@ -26130,8 +25783,6 @@ dynamique dd ii nn aa mm ii kk
 dynamique(2) dd ii nn aa mm ii kk ee
 dynamiques dd ii nn aa mm ii kk
 dynamiques(2) dd ii nn aa mm ii kk ee
-dynamiques(3) dd ii nn aa mm ii kk ee zz
-dynamiques(4) dd ii nn aa mm ii kk zz
 dynamisation dd ii nn aa mm ii zz aa ss yy on
 dynamiser dd ii nn aa mm ii zz ei
 dynamiser(2) dd ii nn aa mm ii zz ei rr
@@ -26242,8 +25893,6 @@ débile dd ai bb ii ll
 débile(2) dd ai bb ii ll ee
 débiles dd ai bb ii ll
 débiles(2) dd ai bb ii ll ee
-débiles(3) dd ai bb ii ll ee zz
-débiles(4) dd ai bb ii ll zz
 débit dd ai bb ii
 débitants dd ai bb ii tt an
 débitants(2) dd ai bb ii tt an zz
@@ -26279,8 +25928,6 @@ débloquée dd ai bb ll oo kk ei
 débloqués dd ai bb ll oo kk ei
 déboires dd ai bb ww aa rr
 déboires(2) dd ai bb ww aa rr ee
-déboires(3) dd ai bb ww aa rr ee zz
-déboires(4) dd ai bb ww aa rr zz
 débonnaire dd ai bb oo nn ai rr
 débonnaire(2) dd ai bb oo nn ai rr ee
 débordant dd ai bb oo rr dd an
@@ -26358,8 +26005,6 @@ débrayage dd ai bb rr ai yy aa jj
 débrayage(2) dd ai bb rr ai yy aa jj ee
 débrayages dd ai bb rr ai yy aa jj
 débrayages(2) dd ai bb rr ai yy aa jj ee
-débrayages(3) dd ai bb rr ai yy aa jj ee zz
-débrayages(4) dd ai bb rr ai yy aa jj zz
 débridé dd ai bb rr ii dd ei
 débridée dd ai bb rr ii dd ei
 débris dd ai bb rr ii
@@ -26423,8 +26068,6 @@ décalage dd ai kk aa ll aa jj
 décalage(2) dd ai kk aa ll aa jj ee
 décalages dd ai kk aa ll aa jj
 décalages(2) dd ai kk aa ll aa jj ee
-décalages(3) dd ai kk aa ll aa jj ee zz
-décalages(4) dd ai kk aa ll aa jj zz
 décaler dd ai kk aa ll ei
 décaler(2) dd ai kk aa ll ei rr
 décaleront dd ai kk aa ll ee rr on
@@ -26481,8 +26124,6 @@ décente dd ai ss an tt
 décente(2) dd ai ss an tt ee
 décentes dd ai ss an tt
 décentes(2) dd ai ss an tt ee
-décentes(3) dd ai ss an tt ee zz
-décentes(4) dd ai ss an tt zz
 décentralisateur dd ai ss an tt rr aa ll ii zz aa tt oe rr
 décentralisation dd ai ss an tt rr aa ll ii zz aa ss yy on
 décentraliser dd ai ss an tt rr aa ll ii zz ei
@@ -26509,8 +26150,6 @@ décevante dd ai ss ee vv an tt
 décevante(2) dd ai ss ee vv an tt ee
 décevantes dd ai ss ee vv an tt
 décevantes(2) dd ai ss ee vv an tt ee
-décevantes(3) dd ai ss ee vv an tt ee zz
-décevantes(4) dd ai ss ee vv an tt zz
 décevants dd ai ss ee vv an
 décevants(2) dd ai ss ee vv an zz
 décevoir dd ai ss ee vv ww aa rr
@@ -26523,8 +26162,6 @@ décharger dd ai ch aa rr jj ei
 décharger(2) dd ai ch aa rr jj ei rr
 décharges dd ai ch aa rr jj
 décharges(2) dd ai ch aa rr jj ee
-décharges(3) dd ai ch aa rr jj ee zz
-décharges(4) dd ai ch aa rr jj zz
 déchargez dd ai ch aa rr jj ei
 déchargé dd ai ch aa rr jj ei
 déchargés dd ai ch aa rr jj ei
@@ -26560,8 +26197,6 @@ déchirante dd ai ch ii rr an tt
 déchirante(2) dd ai ch ii rr an tt ee
 déchirantes dd ai ch ii rr an tt
 déchirantes(2) dd ai ch ii rr an tt ee
-déchirantes(3) dd ai ch ii rr an tt ee zz
-déchirantes(4) dd ai ch ii rr an tt zz
 déchire dd ai ch ii rr
 déchire(2) dd ai ch ii rr ee
 déchirement dd ai ch ii rr ee mm an
@@ -26574,8 +26209,6 @@ déchirure dd ai ch ii rr uu rr
 déchirure(2) dd ai ch ii rr uu rr ee
 déchirures dd ai ch ii rr uu rr
 déchirures(2) dd ai ch ii rr uu rr ee
-déchirures(3) dd ai ch ii rr uu rr ee zz
-déchirures(4) dd ai ch ii rr uu rr zz
 déchiré dd ai ch ii rr ei
 déchirée dd ai ch ii rr ei
 déchirées dd ai ch ii rr ei
@@ -26643,8 +26276,6 @@ décisive dd ai ss ii zz ii vv
 décisive(2) dd ai ss ii zz ii vv ee
 décisives dd ai ss ii zz ii vv
 décisives(2) dd ai ss ii zz ii vv ee
-décisives(3) dd ai ss ii zz ii vv ee zz
-décisives(4) dd ai ss ii zz ii vv zz
 déclara dd ai kk ll aa rr aa
 déclaraient dd ai kk ll aa rr ai
 déclaraient(2) dd ai kk ll aa rr ai tt
@@ -26730,8 +26361,6 @@ décolère dd ai kk oo ll ai rr
 décolère(2) dd ai kk oo ll ai rr ee
 décombres dd ai kk on bb rr
 décombres(2) dd ai kk on bb rr ee
-décombres(3) dd ai kk on bb rr ee zz
-décombres(4) dd ai kk on bb rr zz
 décomplexée dd ai kk on pp ll ai kk ss ei
 décompose dd ai kk on pp au zz
 décompose(2) dd ai kk on pp au zz ee
@@ -26745,8 +26374,6 @@ décompte dd ai kk on tt
 décompte(2) dd ai kk on tt ee
 décomptes dd ai kk on tt
 décomptes(2) dd ai kk on tt ee
-décomptes(3) dd ai kk on tt ee zz
-décomptes(4) dd ai kk on tt zz
 déconcentration dd ai kk on ss an tt rr aa ss yy on
 déconcentrés dd ai kk on ss an tt rr ei
 déconcertant dd ai kk on ss ai rr tt an
@@ -26804,8 +26431,6 @@ décorative dd ai kk oo rr aa tt ii vv
 décorative(2) dd ai kk oo rr aa tt ii vv ee
 décoratives dd ai kk oo rr aa tt ii vv
 décoratives(2) dd ai kk oo rr aa tt ii vv ee
-décoratives(3) dd ai kk oo rr aa tt ii vv ee zz
-décoratives(4) dd ai kk oo rr aa tt ii vv zz
 décoratrice dd ai kk oo rr aa tt rr ii ss
 décoratrice(2) dd ai kk oo rr aa tt rr ii ss ee
 décore dd ai kk oo rr
@@ -26829,12 +26454,8 @@ décote dd ai kk oo tt
 décote(2) dd ai kk oo tt ee
 décotes dd ai kk oo tt
 décotes(2) dd ai kk oo tt ee
-décotes(3) dd ai kk oo tt ee zz
-décotes(4) dd ai kk oo tt zz
 décotes(5) dd ei kk oo tt
 décotes(6) dd ei kk oo tt ee
-décotes(7) dd ei kk oo tt ee zz
-décotes(8) dd ei kk oo tt zz
 découché dd ai kk ou ch ei
 découdre dd ai kk ou dd rr
 découdre(2) dd ai kk ou dd rr ee
@@ -26849,8 +26470,6 @@ découpage dd ai kk ou pp aa jj
 découpage(2) dd ai kk ou pp aa jj ee
 découpages dd ai kk ou pp aa jj
 découpages(2) dd ai kk ou pp aa jj ee
-découpages(3) dd ai kk ou pp aa jj ee zz
-découpages(4) dd ai kk ou pp aa jj zz
 découpant dd ai kk ou pp an
 découpant(2) dd ai kk ou pp an tt
 découpe dd ai kk ou pp
@@ -26860,8 +26479,6 @@ découper dd ai kk ou pp ei
 découper(2) dd ai kk ou pp ei rr
 découpes dd ai kk ou pp
 découpes(2) dd ai kk ou pp ee
-découpes(3) dd ai kk ou pp ee zz
-découpes(4) dd ai kk ou pp zz
 découplage dd ai kk ou pp ll aa jj
 découplage(2) dd ai kk ou pp ll aa jj ee
 découplées dd ai kk ou pp ll ei
@@ -26887,8 +26504,6 @@ découverte dd ai kk ou vv ai rr tt
 découverte(2) dd ai kk ou vv ai rr tt ee
 découvertes dd ai kk ou vv ai rr tt
 découvertes(2) dd ai kk ou vv ai rr tt ee
-découvertes(3) dd ai kk ou vv ai rr tt ee zz
-découvertes(4) dd ai kk ou vv ai rr tt zz
 découverts dd ai kk ou vv ai rr
 découverts(2) dd ai kk ou vv ai rr zz
 découvraient dd ai kk ou vv rr ai
@@ -26929,8 +26544,6 @@ décrite dd ai kk rr ii tt
 décrite(2) dd ai kk rr ii tt ee
 décrites dd ai kk rr ii tt
 décrites(2) dd ai kk rr ii tt ee
-décrites(3) dd ai kk rr ii tt ee zz
-décrites(4) dd ai kk rr ii tt zz
 décrits dd ai kk rr ii
 décrits(2) dd ai kk rr ii zz
 décrivaient dd ai kk rr ii vv ai
@@ -26951,8 +26564,6 @@ décrochage dd ai kk rr oo ch aa jj
 décrochage(2) dd ai kk rr oo ch aa jj ee
 décrochages dd ai kk rr oo ch aa jj
 décrochages(2) dd ai kk rr oo ch aa jj ee
-décrochages(3) dd ai kk rr oo ch aa jj ee zz
-décrochages(4) dd ai kk rr oo ch aa jj zz
 décrochait dd ai kk rr oo ch ai
 décrochait(2) dd ai kk rr oo ch ai tt
 décrochait(3) dd ei kk rr oo ch ai
@@ -27046,13 +26657,10 @@ dédale dd ai dd aa ll
 dédale(2) dd ai dd aa ll ee
 dédales dd ai dd aa ll
 dédales(2) dd ai dd aa ll ee
-dédales(3) dd ai dd aa ll ee zz
-dédales(4) dd ai dd aa ll zz
 dédicace dd ai dd ii kk aa ss
 dédicace(2) dd ai dd ii kk aa ss ee
 dédicaces dd ai dd ii kk aa ss
 dédicaces(2) dd ai dd ii kk aa ss ee
-dédicaces(3) dd ai dd ii kk aa ss ee zz
 dédicacée dd ai dd ii kk aa ss ei
 dédie dd ai dd ii
 dédier dd ai dd yy ei
@@ -27090,8 +26698,6 @@ déductible dd ai dd uu kk tt ii bb ll
 déductible(2) dd ai dd uu kk tt ii bb ll ee
 déductibles dd ai dd uu kk tt ii bb ll
 déductibles(2) dd ai dd uu kk tt ii bb ll ee
-déductibles(3) dd ai dd uu kk tt ii bb ll ee zz
-déductibles(4) dd ai dd uu kk tt ii bb ll zz
 déduction dd ai dd uu kk ss yy on
 déductions dd ai dd uu kk ss yy on
 déductions(2) dd ai dd uu kk ss yy on zz
@@ -27104,20 +26710,16 @@ déesse dd ai ai ss
 déesse(2) dd ai ai ss ee
 déesses dd ai ai ss
 déesses(2) dd ai ai ss ee
-déesses(3) dd ai ai ss ee zz
 défaillance dd ai ff aa yy an ss
 défaillance(2) dd ai ff aa yy an ss ee
 défaillances dd ai ff aa yy an ss
 défaillances(2) dd ai ff aa yy an ss ee
-défaillances(3) dd ai ff aa yy an ss ee zz
 défaillant dd ai ff aa yy an
 défaillant(2) dd ai ff aa yy an tt
 défaillante dd ai ff aa yy an tt
 défaillante(2) dd ai ff aa yy an tt ee
 défaillantes dd ai ff aa yy an tt
 défaillantes(2) dd ai ff aa yy an tt ee
-défaillantes(3) dd ai ff aa yy an tt ee zz
-défaillantes(4) dd ai ff aa yy an tt zz
 défaillants dd ai ff aa yy an
 défaillants(2) dd ai ff aa yy an zz
 défaire dd ai ff ai rr
@@ -27128,8 +26730,6 @@ défaite dd ai ff ai tt
 défaite(2) dd ai ff ai tt ee
 défaites dd ai ff ai tt
 défaites(2) dd ai ff ai tt ee
-défaites(3) dd ai ff ai tt ee zz
-défaites(4) dd ai ff ai tt zz
 défaitisme dd ai ff ai tt ii ss mm
 défaitisme(2) dd ai ff ai tt ii ss mm ee
 défaits dd ai ff ai
@@ -27144,8 +26744,6 @@ défavorable dd ai ff aa vv oo rr aa bb ll
 défavorable(2) dd ai ff aa vv oo rr aa bb ll ee
 défavorables dd ai ff aa vv oo rr aa bb ll
 défavorables(2) dd ai ff aa vv oo rr aa bb ll ee
-défavorables(3) dd ai ff aa vv oo rr aa bb ll ee zz
-défavorables(4) dd ai ff aa vv oo rr aa bb ll zz
 défavorisé dd ai ff aa vv oo rr ii zz ei
 défavorisée dd ai ff aa vv oo rr ii zz ei
 défavorisées dd ai ff aa vv oo rr ii zz ei
@@ -27157,8 +26755,6 @@ défectueuse dd ai ff ai kk tt uu eu zz
 défectueuse(2) dd ai ff ai kk tt uu eu zz ee
 défectueuses dd ai ff ai kk tt uu eu zz
 défectueuses(2) dd ai ff ai kk tt uu eu zz ee
-défectueuses(3) dd ai ff ai kk tt uu eu zz ee zz
-défectueuses(4) dd ai ff ai kk tt uu eu zz zz
 défectueux dd ai ff ai kk tt uu eu
 défectueux(2) dd ai ff ai kk tt uu eu zz
 défend dd ai ff an
@@ -27199,7 +26795,6 @@ défense dd ai ff an ss
 défense(2) dd ai ff an ss ee
 défenses dd ai ff an ss
 défenses(2) dd ai ff an ss ee
-défenses(3) dd ai ff an ss ee zz
 défenseur dd ai ff an ss oe rr
 défenseurs dd ai ff an ss oe rr
 défenseurs(2) dd ai ff an ss oe rr zz
@@ -27210,8 +26805,6 @@ défensive dd ai ff an ss ii vv
 défensive(2) dd ai ff an ss ii vv ee
 défensives dd ai ff an ss ii vv
 défensives(2) dd ai ff an ss ii vv ee
-défensives(3) dd ai ff an ss ii vv ee zz
-défensives(4) dd ai ff an ss ii vv zz
 déferlante dd ai ff ai rr ll an tt
 déferlante(2) dd ai ff ai rr ll an tt ee
 déferle dd ai ff ai rr ll
@@ -27233,7 +26826,6 @@ déficience dd ai ff ii ss yy an ss
 déficience(2) dd ai ff ii ss yy an ss ee
 déficiences dd ai ff ii ss yy an ss
 déficiences(2) dd ai ff ii ss yy an ss ee
-déficiences(3) dd ai ff ii ss yy an ss ee zz
 déficient dd ai ff ii ss yy an
 déficient(2) dd ai ff ii ss yy an tt
 déficiente dd ai ff ii ss yy an tt
@@ -27245,8 +26837,6 @@ déficitaire dd ai ff ii ss ii tt ai rr
 déficitaire(2) dd ai ff ii ss ii tt ai rr ee
 déficitaires dd ai ff ii ss ii tt ai rr
 déficitaires(2) dd ai ff ii ss ii tt ai rr ee
-déficitaires(3) dd ai ff ii ss ii tt ai rr ee zz
-déficitaires(4) dd ai ff ii ss ii tt ai rr zz
 déficits dd ai ff ii ss ii tt
 déficits(2) dd ai ff ii ss ii tt zz
 défie dd ai ff ii
@@ -27307,8 +26897,6 @@ définitivement dd ai ff ii nn ii tt ii vv ee mm an
 définitivement(2) dd ai ff ii nn ii tt ii vv ee mm an tt
 définitives dd ai ff ii nn ii tt ii vv
 définitives(2) dd ai ff ii nn ii tt ii vv ee
-définitives(3) dd ai ff ii nn ii tt ii vv ee zz
-définitives(4) dd ai ff ii nn ii tt ii vv zz
 défis dd ai ff ii
 défis(2) dd ai ff ii zz
 défiscalisation dd ei ff ii ss kk aa ll ii zz aa ss yy on
@@ -27325,8 +26913,6 @@ déflationniste dd ai ff ll aa ss yy oo nn ii ss tt
 déflationniste(2) dd ai ff ll aa ss yy oo nn ii ss tt ee
 déflationnistes dd ai ff ll aa ss yy oo nn ii ss tt
 déflationnistes(2) dd ai ff ll aa ss yy oo nn ii ss tt ee
-déflationnistes(3) dd ai ff ll aa ss yy oo nn ii ss tt ee zz
-déflationnistes(4) dd ai ff ll aa ss yy oo nn ii ss tt zz
 défoliant dd ai ff oo ll yy an
 défoliant(2) dd ai ff oo ll yy an tt
 défoliant(3) dd ei ff au ll yy an
@@ -27411,8 +26997,6 @@ dégazage dd ai gg aa zz aa jj
 dégazage(2) dd ai gg aa zz aa jj ee
 dégazages dd ai gg aa zz aa jj
 dégazages(2) dd ai gg aa zz aa jj ee
-dégazages(3) dd ai gg aa zz aa jj ee zz
-dégazages(4) dd ai gg aa zz aa jj zz
 dégel dd ai jj ai ll
 dégeler dd ai jj ee ll ei
 dégeler(2) dd ai jj ee ll ei rr
@@ -27444,8 +27028,6 @@ dégraissage dd ai gg rr ai ss aa jj
 dégraissage(2) dd ai gg rr ai ss aa jj ee
 dégraissages dd ai gg rr ai ss aa jj
 dégraissages(2) dd ai gg rr ai ss aa jj ee
-dégraissages(3) dd ai gg rr ai ss aa jj ee zz
-dégraissages(4) dd ai gg rr ai ss aa jj zz
 dégraisser dd ai gg rr ai ss ei
 dégraisser(2) dd ai gg rr ai ss ei rr
 dégraissé dd ai gg rr ai ss ei
@@ -27584,8 +27166,6 @@ délicatement dd ai ll ii kk aa tt ee mm an
 délicatement(2) dd ai ll ii kk aa tt ee mm an tt
 délicates dd ai ll ii kk aa tt
 délicates(2) dd ai ll ii kk aa tt ee
-délicates(3) dd ai ll ii kk aa tt ee zz
-délicates(4) dd ai ll ii kk aa tt zz
 délicatesse dd ai ll ii kk aa tt ai ss
 délicatesse(2) dd ai ll ii kk aa tt ai ss ee
 délicats dd ai ll ii kk aa
@@ -27594,15 +27174,12 @@ délice dd ai ll ii ss
 délice(2) dd ai ll ii ss ee
 délices dd ai ll ii ss
 délices(2) dd ai ll ii ss ee
-délices(3) dd ai ll ii ss ee zz
 délicieuse dd ai ll ii ss yy eu zz
 délicieuse(2) dd ai ll ii ss yy eu zz ee
 délicieusement dd ai ll ii ss yy ee zz ee mm an
 délicieusement(2) dd ai ll ii ss yy ee zz ee mm an tt
 délicieuses dd ai ll ii ss yy eu zz
 délicieuses(2) dd ai ll ii ss yy eu zz ee
-délicieuses(3) dd ai ll ii ss yy eu zz ee zz
-délicieuses(4) dd ai ll ii ss yy eu zz zz
 délicieux dd ai ll ii ss yy eu
 délicieux(2) dd ai ll ii ss yy eu zz
 délictueux dd ai ll ii kk tt uu eu
@@ -27627,12 +27204,8 @@ délinquant dd ai ll in kk an
 délinquant(2) dd ai ll in kk an tt
 délinquantes dd ai ll in kk an tt
 délinquantes(2) dd ai ll in kk an tt ee
-délinquantes(3) dd ai ll in kk an tt ee zz
-délinquantes(4) dd ai ll in kk an tt zz
-délinquantes(5) dd ei ll in kk an tt
-délinquantes(6) dd ei ll in kk an tt ee
-délinquantes(7) dd ei ll in kk an tt ee zz
-délinquantes(8) dd ei ll in kk an tt zz
+délinquantes(3) dd ei ll in kk an tt
+délinquantes(4) dd ei ll in kk an tt ee
 délinquants dd ai ll in kk an
 délinquants(2) dd ai ll in kk an zz
 déliquescence dd ai ll ii kk ai ss an ss
@@ -27643,16 +27216,12 @@ délirante dd ai ll ii rr an tt
 délirante(2) dd ai ll ii rr an tt ee
 délirantes dd ai ll ii rr an tt
 délirantes(2) dd ai ll ii rr an tt ee
-délirantes(3) dd ai ll ii rr an tt ee zz
-délirantes(4) dd ai ll ii rr an tt zz
 délirants dd ai ll ii rr an
 délirants(2) dd ai ll ii rr an zz
 délire dd ai ll ii rr
 délire(2) dd ai ll ii rr ee
 délires dd ai ll ii rr
 délires(2) dd ai ll ii rr ee
-délires(3) dd ai ll ii rr ee zz
-délires(4) dd ai ll ii rr zz
 délit dd ai ll ii
 délite dd ei ll ii tt
 délitement dd ai ll ii tt ee mm an
@@ -27693,8 +27262,6 @@ déloyale dd ai ll ww aa yy aa ll
 déloyale(2) dd ai ll ww aa yy aa ll ee
 déloyales dd ai ll ww aa yy aa ll
 déloyales(2) dd ai ll ww aa yy aa ll ee
-déloyales(3) dd ai ll ww aa yy aa ll ee zz
-déloyales(4) dd ai ll ww aa yy aa ll zz
 déluge dd ai ll uu jj
 déluge(2) dd ai ll uu jj ee
 délurée dd ai ll uu rr ei
@@ -27717,21 +27284,15 @@ délétère dd ai ll ai tt ai rr
 délétère(2) dd ai ll ai tt ai rr ee
 délétères dd ai ll ai tt ai rr
 délétères(2) dd ai ll ai tt ai rr ee
-délétères(3) dd ai ll ai tt ai rr ee zz
-délétères(4) dd ai ll ai tt ai rr zz
 démagogie dd ai mm aa gg oo jj ii
 démagogique dd ai mm aa gg oo jj ii kk
 démagogique(2) dd ai mm aa gg oo jj ii kk ee
 démagogiques dd ai mm aa gg oo jj ii kk
 démagogiques(2) dd ai mm aa gg oo jj ii kk ee
-démagogiques(3) dd ai mm aa gg oo jj ii kk ee zz
-démagogiques(4) dd ai mm aa gg oo jj ii kk zz
 démagogue dd ai mm aa gg oo gg
 démagogue(2) dd ai mm aa gg oo gg ee
 démagogues dd ai mm aa gg oo gg
 démagogues(2) dd ai mm aa gg oo gg ee
-démagogues(3) dd ai mm aa gg oo gg ee zz
-démagogues(4) dd ai mm aa gg oo gg zz
 démantelant dd ai mm an tt ee ll an
 démantelant(2) dd ai mm an tt ee ll an tt
 démantelant(3) dd ei mm an tt ee ll an
@@ -27756,8 +27317,6 @@ démarcher dd ai mm aa rr ch ei
 démarcher(2) dd ai mm aa rr ch ei rr
 démarches dd ai mm aa rr ch
 démarches(2) dd ai mm aa rr ch ee
-démarches(3) dd ai mm aa rr ch ee zz
-démarches(4) dd ai mm aa rr ch zz
 démarquage dd ai mm aa rr kk aa jj
 démarquage(2) dd ai mm aa rr kk aa jj ee
 démarquant dd ai mm aa rr kk an
@@ -27841,8 +27400,6 @@ démissionnaire dd ai mm ii ss yy oo nn ai rr
 démissionnaire(2) dd ai mm ii ss yy oo nn ai rr ee
 démissionnaires dd ai mm ii ss yy oo nn ai rr
 démissionnaires(2) dd ai mm ii ss yy oo nn ai rr ee
-démissionnaires(3) dd ai mm ii ss yy oo nn ai rr ee zz
-démissionnaires(4) dd ai mm ii ss yy oo nn ai rr zz
 démissionnait dd ai mm ii ss yy oo nn ai
 démissionnait(2) dd ai mm ii ss yy oo nn ai tt
 démissionnant dd ai mm ii ss yy oo nn an
@@ -27874,8 +27431,6 @@ démocrate-chrétienne dd ai mm oo kk rr aa tt ee kk rr ai tt yy ai nn
 démocrate-chrétienne(2) dd ai mm oo kk rr aa tt ee kk rr ai tt yy ai nn ee
 démocrates dd ai mm oo kk rr aa tt
 démocrates(2) dd ai mm oo kk rr aa tt ee
-démocrates(3) dd ai mm oo kk rr aa tt ee zz
-démocrates(4) dd ai mm oo kk rr aa tt zz
 démocrates(5) dd ei mm oo kk rr aa tt
 démocrates-chrétiens dd ai mm oo kk rr aa tt ee kk rr ai tt yy in
 démocrates-chrétiens(2) dd ai mm oo kk rr aa tt ee kk rr ai tt yy in zz
@@ -27887,8 +27442,6 @@ démocratique(2) dd ai mm oo kk rr aa tt ii kk ee
 démocratiquement dd ei mm oo kk rr aa tt ii kk ee mm an
 démocratiques dd ai mm oo kk rr aa tt ii kk
 démocratiques(2) dd ai mm oo kk rr aa tt ii kk ee
-démocratiques(3) dd ai mm oo kk rr aa tt ii kk ee zz
-démocratiques(4) dd ai mm oo kk rr aa tt ii kk zz
 démocratisation dd ai mm oo kk rr aa tt ii zz aa ss yy on
 démocratise dd ai mm oo kk rr aa tt ii zz
 démocratise(2) dd ai mm oo kk rr aa tt ii zz ee
@@ -27902,8 +27455,6 @@ démographique dd ai mm oo gg rr aa ff ii kk
 démographique(2) dd ai mm oo gg rr aa ff ii kk ee
 démographiques dd ai mm oo gg rr aa ff ii kk
 démographiques(2) dd ai mm oo gg rr aa ff ii kk ee
-démographiques(3) dd ai mm oo gg rr aa ff ii kk ee zz
-démographiques(4) dd ai mm oo gg rr aa ff ii kk zz
 démoli dd ai mm oo ll ii
 démolir dd ai mm oo ll ii rr
 démolit dd ai mm oo ll ii
@@ -27925,12 +27476,8 @@ démonstrative dd ai mm on ss tt rr aa tt ii vv
 démonstrative(2) dd ai mm on ss tt rr aa tt ii vv ee
 démonstratives dd ai mm on ss tt rr aa tt ii vv
 démonstratives(2) dd ai mm on ss tt rr aa tt ii vv ee
-démonstratives(3) dd ai mm on ss tt rr aa tt ii vv ee zz
-démonstratives(4) dd ai mm on ss tt rr aa tt ii vv zz
-démonstratives(5) dd ei mm on ss tt rr aa tt ii vv
-démonstratives(6) dd ei mm on ss tt rr aa tt ii vv ee
-démonstratives(7) dd ei mm on ss tt rr aa tt ii vv ee zz
-démonstratives(8) dd ei mm on ss tt rr aa tt ii vv zz
+démonstratives(3) dd ei mm on ss tt rr aa tt ii vv
+démonstratives(4) dd ei mm on ss tt rr aa tt ii vv ee
 démontage dd ai mm on tt aa jj
 démontage(2) dd ai mm on tt aa jj ee
 démontant dd ai mm on tt an
@@ -28080,8 +27627,6 @@ déontologique dd ai on tt oo ll oo jj ii kk
 déontologique(2) dd ai on tt oo ll oo jj ii kk ee
 déontologiques dd ai on tt oo ll oo jj ii kk
 déontologiques(2) dd ai on tt oo ll oo jj ii kk ee
-déontologiques(3) dd ai on tt oo ll oo jj ii kk ee zz
-déontologiques(4) dd ai on tt oo ll oo jj ii kk zz
 dép dd ei
 dépacser dd ei pp aa kk ss ei
 dépannage dd ai pp aa nn aa jj
@@ -28095,8 +27640,6 @@ départementale dd ai pp aa rr tt ee mm an tt aa ll
 départementale(2) dd ai pp aa rr tt ee mm an tt aa ll ee
 départementales dd ai pp aa rr tt ee mm an tt aa ll
 départementales(2) dd ai pp aa rr tt ee mm an tt aa ll ee
-départementales(3) dd ai pp aa rr tt ee mm an tt aa ll ee zz
-départementales(4) dd ai pp aa rr tt ee mm an tt aa ll zz
 départementalisation dd ai pp aa rr tt ee mm an tt aa ll ii zz aa ss yy on
 départementaux dd ai pp aa rr tt ee mm an tt au
 départementaux(2) dd ai pp aa rr tt ee mm an tt au zz
@@ -28147,15 +27690,12 @@ dépendance dd ai pp an dd an ss
 dépendance(2) dd ai pp an dd an ss ee
 dépendances dd ai pp an dd an ss
 dépendances(2) dd ai pp an dd an ss ee
-dépendances(3) dd ai pp an dd an ss ee zz
 dépendant dd ai pp an dd an
 dépendant(2) dd ai pp an dd an tt
 dépendante dd ai pp an dd an tt
 dépendante(2) dd ai pp an dd an tt ee
 dépendantes dd ai pp an dd an tt
 dépendantes(2) dd ai pp an dd an tt ee
-dépendantes(3) dd ai pp an dd an tt ee zz
-dépendantes(4) dd ai pp an dd an tt zz
 dépendants dd ai pp an dd an
 dépendants(2) dd ai pp an dd an zz
 dépendent dd ai pp an dd ee
@@ -28178,7 +27718,6 @@ dépenser(2) dd ai pp an ss ei rr
 dépensera dd ai pp an ss ee rr aa
 dépenses dd ai pp an ss
 dépenses(2) dd ai pp an ss ee
-dépenses(3) dd ai pp an ss ee zz
 dépensière dd ai pp an ss yy ai rr
 dépensière(2) dd ai pp an ss yy ai rr ee
 dépensé dd ai pp an ss ei
@@ -28253,8 +27792,6 @@ déplorable dd ai pp ll oo rr aa bb ll
 déplorable(2) dd ai pp ll oo rr aa bb ll ee
 déplorables dd ai pp ll oo rr aa bb ll
 déplorables(2) dd ai pp ll oo rr aa bb ll ee
-déplorables(3) dd ai pp ll oo rr aa bb ll ee zz
-déplorables(4) dd ai pp ll oo rr aa bb ll zz
 déploraient dd ai pp ll oo rr ai
 déploraient(2) dd ai pp ll oo rr ai tt
 déplorait dd ai pp ll oo rr ai
@@ -28334,8 +27871,6 @@ dépouiller dd ai pp ou yy ei
 dépouiller(2) dd ai pp ou yy ei rr
 dépouilles dd ai pp ou yy
 dépouilles(2) dd ai pp ou yy ee
-dépouilles(3) dd ai pp ou yy ee zz
-dépouilles(4) dd ai pp ou yy zz
 dépouillé dd ai pp ou yy ei
 dépouillée dd ai pp ou yy ei
 dépouillées dd ai pp ou yy ei
@@ -28356,8 +27891,6 @@ dépressifs dd ei pp rr ei ss ii ff
 dépression dd ai pp rr ai ss yy on
 dépressionnaires dd ai pp rr ai ss yy oo nn ai rr
 dépressionnaires(2) dd ai pp rr ai ss yy oo nn ai rr ee
-dépressionnaires(3) dd ai pp rr ai ss yy oo nn ai rr ee zz
-dépressionnaires(4) dd ai pp rr ai ss yy oo nn ai rr zz
 dépressions dd ai pp rr ai ss yy on
 dépressions(2) dd ai pp rr ai ss yy on zz
 dépressive dd ei pp rr ei ss ii vv
@@ -28403,8 +27936,6 @@ dépêcher dd ai pp ai ch ei
 dépêcher(2) dd ai pp ai ch ei rr
 dépêches dd ai pp ai ch
 dépêches(2) dd ai pp ai ch ee
-dépêches(3) dd ai pp ai ch ee zz
-dépêches(4) dd ai pp ai ch zz
 dépêché dd ai pp ai ch ei
 dépêchée dd ai pp ai ch ei
 dépêchés dd ai pp ai ch ei
@@ -28431,8 +27962,6 @@ déraisonnable dd ai rr ai zz oo nn aa bb ll
 déraisonnable(2) dd ai rr ai zz oo nn aa bb ll ee
 déraisonnables dd ai rr ai zz oo nn aa bb ll
 déraisonnables(2) dd ai rr ai zz oo nn aa bb ll ee
-déraisonnables(3) dd ai rr ai zz oo nn aa bb ll ee zz
-déraisonnables(4) dd ai rr ai zz oo nn aa bb ll zz
 dérange dd ai rr an jj
 dérange(2) dd ai rr an jj ee
 dérangeait dd ai rr an jj ai
@@ -28452,8 +27981,6 @@ dérapage dd ai rr aa pp aa jj
 dérapage(2) dd ai rr aa pp aa jj ee
 dérapages dd ai rr aa pp aa jj
 dérapages(2) dd ai rr aa pp aa jj ee
-dérapages(3) dd ai rr aa pp aa jj ee zz
-dérapages(4) dd ai rr aa pp aa jj zz
 dérape dd ai rr aa pp
 dérape(2) dd ai rr aa pp ee
 dérapent dd ai rr aa pp ee
@@ -28469,8 +27996,6 @@ dérisoire dd ai rr ii zz ww aa rr
 dérisoire(2) dd ai rr ii zz ww aa rr ee
 dérisoires dd ai rr ii zz ww aa rr
 dérisoires(2) dd ai rr ii zz ww aa rr ee
-dérisoires(3) dd ai rr ii zz ww aa rr ee zz
-dérisoires(4) dd ai rr ii zz ww aa rr zz
 dérive dd ai rr ii vv
 dérive(2) dd ai rr ii vv ee
 dérivent dd ai rr ii vv ee
@@ -28478,8 +28003,6 @@ dériver dd ai rr ii vv ei
 dériver(2) dd ai rr ii vv ei rr
 dérives dd ai rr ii vv
 dérives(2) dd ai rr ii vv ee
-dérives(3) dd ai rr ii vv ee zz
-dérives(4) dd ai rr ii vv zz
 dérivé dd ai rr ii vv ei
 dérivée dd ai rr ii vv ei
 dérivées dd ai rr ii vv ei
@@ -28488,8 +28011,6 @@ dérobade dd ai rr oo bb aa dd
 dérobade(2) dd ai rr oo bb aa dd ee
 dérobades dd ai rr oo bb aa dd
 dérobades(2) dd ai rr oo bb aa dd ee
-dérobades(3) dd ai rr oo bb aa dd ee zz
-dérobades(4) dd ai rr oo bb aa dd zz
 dérobe dd ai rr oo bb
 dérobe(2) dd ai rr oo bb ee
 dérobent dd ai rr oo bb ee
@@ -28506,8 +28027,6 @@ dérogatoire dd ai rr oo gg aa tt ww aa rr
 dérogatoire(2) dd ai rr oo gg aa tt ww aa rr ee
 dérogatoires dd ai rr oo gg aa tt ww aa rr
 dérogatoires(2) dd ai rr oo gg aa tt ww aa rr ee
-dérogatoires(3) dd ai rr oo gg aa tt ww aa rr ee zz
-dérogatoires(4) dd ai rr oo gg aa tt ww aa rr zz
 déroge dd ai rr oo jj
 déroge(2) dd ai rr oo jj ee
 déroger dd ai rr oo jj ei
@@ -28574,8 +28093,6 @@ désagréablement dd ai zz aa gg rr ai aa bb ll ee mm an
 désagréablement(2) dd ai zz aa gg rr ai aa bb ll ee mm an tt
 désagréables dd ai zz aa gg rr ai aa bb ll
 désagréables(2) dd ai zz aa gg rr ai aa bb ll ee
-désagréables(3) dd ai zz aa gg rr ai aa bb ll ee zz
-désagréables(4) dd ai zz aa gg rr ai aa bb ll zz
 désagrégation dd ai zz aa gg rr ai gg aa ss yy on
 désagréger dd ai zz aa gg rr ai jj ei
 désagréger(2) dd ai zz aa gg rr ai jj ei rr
@@ -28634,14 +28151,10 @@ désastre dd ai zz aa ss tt rr
 désastre(2) dd ai zz aa ss tt rr ee
 désastres dd ai zz aa ss tt rr
 désastres(2) dd ai zz aa ss tt rr ee
-désastres(3) dd ai zz aa ss tt rr ee zz
-désastres(4) dd ai zz aa ss tt rr zz
 désastreuse dd ai zz aa ss tt rr eu zz
 désastreuse(2) dd ai zz aa ss tt rr eu zz ee
 désastreuses dd ai zz aa ss tt rr eu zz
 désastreuses(2) dd ai zz aa ss tt rr eu zz ee
-désastreuses(3) dd ai zz aa ss tt rr eu zz ee zz
-désastreuses(4) dd ai zz aa ss tt rr eu zz zz
 désastreux dd ai zz aa ss tt rr eu
 désastreux(2) dd ai zz aa ss tt rr eu zz
 désavantage dd ai zz aa vv an tt aa jj
@@ -28686,8 +28199,6 @@ déserter dd ai zz ai rr tt ei
 déserter(2) dd ai zz ai rr tt ei rr
 désertes dd ai zz ai rr tt
 désertes(2) dd ai zz ai rr tt ee
-désertes(3) dd ai zz ai rr tt ee zz
-désertes(4) dd ai zz ai rr tt zz
 déserteur dd ai zz ai rr tt oe rr
 déserteurs dd ai zz ai rr tt oe rr
 déserteurs(2) dd ai zz ai rr tt oe rr zz
@@ -28701,8 +28212,6 @@ désertique dd ai zz ai rr tt ii kk
 désertique(2) dd ai zz ai rr tt ii kk ee
 désertiques dd ai zz ai rr tt ii kk
 désertiques(2) dd ai zz ai rr tt ii kk ee
-désertiques(3) dd ai zz ai rr tt ii kk ee zz
-désertiques(4) dd ai zz ai rr tt ii kk zz
 déserts dd ai zz ai rr
 déserts(2) dd ai zz ai rr zz
 déserté dd ai zz ai rr tt ei
@@ -28827,8 +28336,6 @@ désireuse dd ai zz ii rr eu zz
 désireuse(2) dd ai zz ii rr eu zz ee
 désireuses dd ai zz ii rr eu zz
 désireuses(2) dd ai zz ii rr eu zz ee
-désireuses(3) dd ai zz ii rr eu zz ee zz
-désireuses(4) dd ai zz ii rr eu zz zz
 désireux dd ai zz ii rr eu
 désireux(2) dd ai zz ii rr eu zz
 désirs dd ai zz ii rr
@@ -28877,8 +28384,6 @@ désordre dd ai zz oo rr dd rr
 désordre(2) dd ai zz oo rr dd rr ee
 désordres dd ai zz oo rr dd rr
 désordres(2) dd ai zz oo rr dd rr ee
-désordres(3) dd ai zz oo rr dd rr ee zz
-désordres(4) dd ai zz oo rr dd rr zz
 désorganisation dd ei zz oo rr gg aa nn ii zz aa ss yy on
 désorganise dd ai zz oo rr gg aa nn ii zz
 désorganise(2) dd ai zz oo rr gg aa nn ii zz ee
@@ -28929,8 +28434,6 @@ désuète dd ai zz uu ai tt
 désuète(2) dd ai zz uu ai tt ee
 désuètes dd ai zz uu ai tt
 désuètes(2) dd ai zz uu ai tt ee
-désuètes(3) dd ai zz uu ai tt ee zz
-désuètes(4) dd ai zz uu ai tt zz
 désuétude dd ai zz uu ai tt uu dd
 désuétude(2) dd ai zz uu ai tt uu dd ee
 déséquilibre dd ai zz ai kk ii ll ii bb rr
@@ -28938,8 +28441,6 @@ déséquilibre(2) dd ai zz ai kk ii ll ii bb rr ee
 déséquilibrer dd ei zz ei kk ii ll ii bb rr ei
 déséquilibres dd ai zz ai kk ii ll ii bb rr
 déséquilibres(2) dd ai zz ai kk ii ll ii bb rr ee
-déséquilibres(3) dd ai zz ai kk ii ll ii bb rr ee zz
-déséquilibres(4) dd ai zz ai kk ii ll ii bb rr zz
 déséquilibré dd ai zz ai kk ii ll ii bb rr ei
 déséquilibrée dd ai zz ai kk ii ll ii bb rr ei
 déséquilibrés dd ai zz ai kk ii ll ii bb rr ei
@@ -28989,8 +28490,6 @@ détective dd ai tt ai kk tt ii vv
 détective(2) dd ai tt ai kk tt ii vv ee
 détectives dd ai tt ai kk tt ii vv
 détectives(2) dd ai tt ai kk tt ii vv ee
-détectives(3) dd ai tt ai kk tt ii vv ee zz
-détectives(4) dd ai tt ai kk tt ii vv zz
 détecté dd ai tt ai kk tt ei
 détectée dd ai tt ai kk tt ei
 détectées dd ai tt ai kk tt ei
@@ -29058,8 +28557,6 @@ détestable dd ai tt ai ss tt aa bb ll
 détestable(2) dd ai tt ai ss tt aa bb ll ee
 détestables dd ai tt ai ss tt aa bb ll
 détestables(2) dd ai tt ai ss tt aa bb ll ee
-détestables(3) dd ai tt ai ss tt aa bb ll ee zz
-détestables(4) dd ai tt ai ss tt aa bb ll zz
 détestait dd ai tt ai ss tt ai
 détestait(2) dd ai tt ai ss tt ai tt
 détestation dd ai tt ai ss tt aa ss yy on
@@ -29114,7 +28611,6 @@ détresse dd ai tt rr ai ss
 détresse(2) dd ai tt rr ai ss ee
 détresses dd ai tt rr ai ss
 détresses(2) dd ai tt rr ai ss ee
-détresses(3) dd ai tt rr ai ss ee zz
 détricoter dd ai tt rr ii kk oo tt ei
 détricoter(2) dd ai tt rr ii kk oo tt ei rr
 détriment dd ai tt rr ii mm an
@@ -29136,8 +28632,6 @@ détruite dd ai tt rr uy ii tt
 détruite(2) dd ai tt rr uy ii tt ee
 détruites dd ai tt rr uy ii tt
 détruites(2) dd ai tt rr uy ii tt ee
-détruites(3) dd ai tt rr uy ii tt ee zz
-détruites(4) dd ai tt rr uy ii tt zz
 détruits dd ai tt rr uy ii
 détruits(2) dd ai tt rr uy ii zz
 détrôner dd ai tt rr oo nn ei
@@ -29174,7 +28668,6 @@ dévastatrice dd ai vv aa ss tt aa tt rr ii ss
 dévastatrice(2) dd ai vv aa ss tt aa tt rr ii ss ee
 dévastatrices dd ai vv aa ss tt aa tt rr ii ss
 dévastatrices(2) dd ai vv aa ss tt aa tt rr ii ss ee
-dévastatrices(3) dd ai vv aa ss tt aa tt rr ii ss ee zz
 dévaste dd ai vv aa ss tt
 dévaste(2) dd ai vv aa ss tt ee
 dévasté dd ai vv aa ss tt ei
@@ -29325,8 +28818,6 @@ dîme dd ii mm
 dîme(2) dd ii mm ee
 dîmes dd ii mm
 dîmes(2) dd ii mm ee
-dîmes(3) dd ii mm ee zz
-dîmes(4) dd ii mm zz
 dînait dd ii nn ai
 dînait(2) dd ii nn ai tt
 dîne dd ii nn
@@ -29339,8 +28830,6 @@ dôme dd au mm
 dôme(2) dd au mm ee
 dômes dd au mm
 dômes(2) dd au mm ee
-dômes(3) dd au mm ee zz
-dômes(4) dd au mm zz
 dû dd uu
 dûes dd uu
 dûment dd uu mm an
@@ -29389,8 +28878,6 @@ ecclésiastique ai kk ll ai zz yy aa ss tt ii kk
 ecclésiastique(2) ai kk ll ai zz yy aa ss tt ii kk ee
 ecclésiastiques ai kk ll ai zz yy aa ss tt ii kk
 ecclésiastiques(2) ai kk ll ai zz yy aa ss tt ii kk ee
-ecclésiastiques(3) ai kk ll ai zz yy aa ss tt ii kk ee zz
-ecclésiastiques(4) ai kk ll ai zz yy aa ss tt ii kk zz
 ecg eu ss ei jj ei
 echec ei ch ai kk
 echenoz ei ch ee nn oo zz
@@ -29509,8 +28996,6 @@ effectivement ai ff ai kk tt ii vv ee mm an
 effectivement(2) ai ff ai kk tt ii vv ee mm an tt
 effectives ai ff ai kk tt ii vv
 effectives(2) ai ff ai kk tt ii vv ee
-effectives(3) ai ff ai kk tt ii vv ee zz
-effectives(4) ai ff ai kk tt ii vv zz
 effectua ai ff ai kk tt uu aa
 effectuaient ai ff ai kk tt uu ai
 effectuaient(2) ai ff ai kk tt uu ai tt
@@ -29543,7 +29028,6 @@ efficacement ai ff ii kk aa ss ee mm an
 efficacement(2) ai ff ii kk aa ss ee mm an tt
 efficaces ai ff ii kk aa ss
 efficaces(2) ai ff ii kk aa ss ee
-efficaces(3) ai ff ii kk aa ss ee zz
 efficacité ai ff ii kk aa ss ii tt ei
 efficience ai ff ii ss yy an ss
 efficience(2) ai ff ii ss yy an ss ee
@@ -29565,8 +29049,6 @@ effluents ai ff ll uu an
 effluents(2) ai ff ll uu an zz
 effluves ai ff ll uu vv
 effluves(2) ai ff ll uu vv ee
-effluves(3) ai ff ll uu vv ee zz
-effluves(4) ai ff ll uu vv zz
 effondrait ai ff on dd rr ai
 effondrait(2) ai ff on dd rr ai tt
 effondre ai ff on dd rr
@@ -29615,8 +29097,6 @@ effrayante ai ff rr ai yy an tt
 effrayante(2) ai ff rr ai yy an tt ee
 effrayantes ai ff rr ai yy an tt
 effrayantes(2) ai ff rr ai yy an tt ee
-effrayantes(3) ai ff rr ai yy an tt ee zz
-effrayantes(4) ai ff rr ai yy an tt zz
 effrayants ai ff rr ai yy an
 effrayants(2) ai ff rr ai yy an zz
 effraye ai ff rr ai
@@ -29640,8 +29120,6 @@ effroyable ai ff rr ww aa yy aa bb ll
 effroyable(2) ai ff rr ww aa yy aa bb ll ee
 effroyables ai ff rr ww aa yy aa bb ll
 effroyables(2) ai ff rr ww aa yy aa bb ll ee
-effroyables(3) ai ff rr ww aa yy aa bb ll ee zz
-effroyables(4) ai ff rr ww aa yy aa bb ll zz
 effréné ai ff rr ai nn ei
 effrénée ai ff rr ai nn ei
 effusion ai ff uu zz yy on
@@ -29745,12 +29223,8 @@ elle-même ai ll ee mm ai mm
 elle-même(2) ai ll ee mm ai mm ee
 elles ai ll
 elles(2) ai ll ee
-elles(3) ai ll ee zz
-elles(4) ai ll zz
 elles-mêmes ai ll ee mm ai mm
 elles-mêmes(2) ai ll ee mm ai mm ee
-elles-mêmes(3) ai ll ee mm ai mm ee zz
-elles-mêmes(4) ai ll ee mm ai mm zz
 elli ai ll ii
 ellie ai ll ii
 elliot ai ll yy au
@@ -29759,7 +29233,6 @@ ellipse ai ll ii pp ss
 ellipse(2) ai ll ii pp ss ee
 ellipses ai ll ii pp ss
 ellipses(2) ai ll ii pp ss ee
-ellipses(3) ai ll ii pp ss ee zz
 elliptique ai ll ii pp tt ii kk
 elliptique(2) ai ll ii pp tt ii kk ee
 ellis ai ll ii
@@ -29789,8 +29262,6 @@ emballage an bb aa ll aa jj
 emballage(2) an bb aa ll aa jj ee
 emballages an bb aa ll aa jj
 emballages(2) an bb aa ll aa jj ee
-emballages(3) an bb aa ll aa jj ee zz
-emballages(4) an bb aa ll aa jj zz
 emballe an bb aa ll
 emballe(2) an bb aa ll ee
 emballement an bb aa ll ee mm an
@@ -29831,8 +29302,6 @@ embarrassante an bb aa rr aa ss an tt
 embarrassante(2) an bb aa rr aa ss an tt ee
 embarrassantes an bb aa rr aa ss an tt
 embarrassantes(2) an bb aa rr aa ss an tt ee
-embarrassantes(3) an bb aa rr aa ss an tt ee zz
-embarrassantes(4) an bb aa rr aa ss an tt zz
 embarrassants an bb aa rr aa ss an
 embarrassants(2) an bb aa rr aa ss an zz
 embarrasse an bb aa rr aa ss
@@ -29854,8 +29323,6 @@ embaucher an bb oo ch ei
 embaucher(2) an bb oo ch ei rr
 embauches an bb au ch
 embauches(2) an bb au ch ee
-embauches(3) an bb au ch ee zz
-embauches(4) an bb au ch zz
 embauché an bb oo ch ei
 embauchée an bb oo ch ei
 embauchées an bb oo ch ei
@@ -29870,29 +29337,21 @@ emblème an bb ll ai mm
 emblème(2) an bb ll ai mm ee
 emblèmes an bb ll ai mm
 emblèmes(2) an bb ll ai mm ee
-emblèmes(3) an bb ll ai mm ee zz
-emblèmes(4) an bb ll ai mm zz
 emblée an bb ll ei
 emblématique an bb ll ai mm aa tt ii kk
 emblématique(2) an bb ll ai mm aa tt ii kk ee
 emblématiques an bb ll ai mm aa tt ii kk
 emblématiques(2) an bb ll ai mm aa tt ii kk ee
-emblématiques(3) an bb ll ai mm aa tt ii kk ee zz
-emblématiques(4) an bb ll ai mm aa tt ii kk zz
 embolie an bb oo ll ii
 embonpoint an bb on pp ww in
 embouchure an bb ou ch uu rr
 embouchure(2) an bb ou ch uu rr ee
 embouchures an bb ou ch uu rr
 embouchures(2) an bb ou ch uu rr ee
-embouchures(3) an bb ou ch uu rr ee zz
-embouchures(4) an bb ou ch uu rr zz
 embouteillage an bb ou tt ai yy aa jj
 embouteillage(2) an bb ou tt ai yy aa jj ee
 embouteillages an bb ou tt ai yy aa jj
 embouteillages(2) an bb ou tt ai yy aa jj ee
-embouteillages(3) an bb ou tt ai yy aa jj ee zz
-embouteillages(4) an bb ou tt ai yy aa jj zz
 emboîta an bb ww aa tt aa
 emboîte an bb ww aa tt
 emboîte(2) an bb ww aa tt ee
@@ -29907,8 +29366,6 @@ embraser an bb rr aa zz ei
 embraser(2) an bb rr aa zz ei rr
 embrassades an bb rr aa ss aa dd
 embrassades(2) an bb rr aa ss aa dd ee
-embrassades(3) an bb rr aa ss aa dd ee zz
-embrassades(4) an bb rr aa ss aa dd zz
 embrassaient an bb rr aa ss ai
 embrassaient(2) an bb rr aa ss ai tt
 embrassant an bb rr aa ss an
@@ -29926,8 +29383,6 @@ embrouille an bb rr ou yy
 embrouille(2) an bb rr ou yy ee
 embrouilles an bb rr ou yy
 embrouilles(2) an bb rr ou yy ee
-embrouilles(3) an bb rr ou yy ee zz
-embrouilles(4) an bb rr ou yy zz
 embrouillé an bb rr ou yy ei
 embrouillée an bb rr ou yy ei
 embruns an bb rr un
@@ -29937,8 +29392,6 @@ embryonnaire an bb rr ii yy oo nn ai rr
 embryonnaire(2) an bb rr ii yy oo nn ai rr ee
 embryonnaires an bb rr ii yy oo nn ai rr
 embryonnaires(2) an bb rr ii yy oo nn ai rr ee
-embryonnaires(3) an bb rr ii yy oo nn ai rr ee zz
-embryonnaires(4) an bb rr ii yy oo nn ai rr zz
 embryons an bb rr ii yy on
 embryons(2) an bb rr ii yy on zz
 embuent an bb uu
@@ -29947,8 +29400,6 @@ embuscade an bb uu ss kk aa dd
 embuscade(2) an bb uu ss kk aa dd ee
 embuscades an bb uu ss kk aa dd
 embuscades(2) an bb uu ss kk aa dd ee
-embuscades(3) an bb uu ss kk aa dd ee zz
-embuscades(4) an bb uu ss kk aa dd zz
 embusqués an bb uu ss kk ei
 embués an bb uu ei
 embêtant an bb ai tt an
@@ -29962,8 +29413,6 @@ embêtés an bb ai tt ei
 embêtés(2) an bb ei tt ei
 embûches an bb uu ch
 embûches(2) an bb uu ch ee
-embûches(3) an bb uu ch ee zz
-embûches(4) an bb uu ch zz
 emerson ei mm ai rr ss oo nn
 emery ei mm ee rr ii
 emil ei mm ii ll
@@ -30055,14 +29504,10 @@ empirer an pp ii rr ei
 empirer(2) an pp ii rr ei rr
 empires an pp ii rr
 empires(2) an pp ii rr ee
-empires(3) an pp ii rr ee zz
-empires(4) an pp ii rr zz
 empirique an pp ii rr ii kk
 empirique(2) an pp ii rr ii kk ee
 empiriques an pp ii rr ii kk
 empiriques(2) an pp ii rr ii kk ee
-empiriques(3) an pp ii rr ii kk ee zz
-empiriques(4) an pp ii rr ii kk zz
 empirisme an pp ii rr ii ss mm
 empirisme(2) an pp ii rr ii ss mm ee
 empiré an pp ii rr ei
@@ -30075,8 +29520,6 @@ emplette an pp ll ai tt
 emplette(2) an pp ll ai tt ee
 emplettes an pp ll ai tt
 emplettes(2) an pp ll ai tt ee
-emplettes(3) an pp ll ai tt ee zz
-emplettes(4) an pp ll ai tt zz
 empli an pp ll ii
 emplie an pp ll ii
 emplis an pp ll ii
@@ -30119,8 +29562,6 @@ empoignade an pp ww aa gn aa dd
 empoignade(2) an pp ww aa gn aa dd ee
 empoignades an pp ww aa gn aa dd
 empoignades(2) an pp ww aa gn aa dd ee
-empoignades(3) an pp ww aa gn aa dd ee zz
-empoignades(4) an pp ww aa gn aa dd zz
 empoigne an pp ww aa gn
 empoigne(2) an pp ww aa gn ee
 empoisonne an pp ww aa zz oo nn
@@ -30166,8 +29607,6 @@ empreinte an pp rr in tt
 empreinte(2) an pp rr in tt ee
 empreintes an pp rr in tt
 empreintes(2) an pp rr in tt ee
-empreintes(3) an pp rr in tt ee zz
-empreintes(4) an pp rr in tt zz
 empreints an pp rr in
 empreints(2) an pp rr in zz
 empreinté an pp rr in tt ei
@@ -30393,8 +29832,6 @@ ena ei nn aa
 enavi ei nn aa vv ii
 encablures an kk aa bb ll uu rr
 encablures(2) an kk aa bb ll uu rr ee
-encablures(3) an kk aa bb ll uu rr ee zz
-encablures(4) an kk aa bb ll uu rr zz
 encadraient an kk aa dd rr ai
 encadraient(2) an kk aa dd rr ai tt
 encadrait an kk aa dd rr ai
@@ -30429,8 +29866,6 @@ enceinte an ss in tt
 enceinte(2) an ss in tt ee
 enceintes an ss in tt
 enceintes(2) an ss in tt ee
-enceintes(3) an ss in tt ee zz
-enceintes(4) an ss in tt zz
 encens an ss an
 encensé an ss an ss ei
 encerclant an ss ai rr kk ll an
@@ -30473,14 +29908,10 @@ enchère an ch ai rr
 enchère(2) an ch ai rr ee
 enchères an ch ai rr
 enchères(2) an ch ai rr ee
-enchères(3) an ch ai rr ee zz
-enchères(4) an ch ai rr zz
 enclave an kk ll aa vv
 enclave(2) an kk ll aa vv ee
 enclaves an kk ll aa vv
 enclaves(2) an kk ll aa vv ee
-enclaves(3) an kk ll aa vv ee zz
-enclaves(4) an kk ll aa vv zz
 enclavé an kk ll aa vv ei
 enclavée an kk ll aa vv ei
 enclavées an kk ll aa vv ei
@@ -30510,8 +29941,6 @@ encombrante an kk on bb rr an tt
 encombrante(2) an kk on bb rr an tt ee
 encombrantes an kk on bb rr an tt
 encombrantes(2) an kk on bb rr an tt ee
-encombrantes(3) an kk on bb rr an tt ee zz
-encombrantes(4) an kk on bb rr an tt zz
 encombrants an kk on bb rr an
 encombrants(2) an kk on bb rr an zz
 encombre an kk on bb rr
@@ -30542,8 +29971,6 @@ encourageante an kk ou rr aa jj an tt
 encourageante(2) an kk ou rr aa jj an tt ee
 encourageantes an kk ou rr aa jj an tt
 encourageantes(2) an kk ou rr aa jj an tt ee
-encourageantes(3) an kk ou rr aa jj an tt ee zz
-encourageantes(4) an kk ou rr aa jj an tt zz
 encourageants an kk ou rr aa jj an
 encourageants(2) an kk ou rr aa jj an zz
 encouragement an kk ou rr aa jj ee mm an
@@ -30574,8 +30001,6 @@ encre an kk rr
 encre(2) an kk rr ee
 encres an kk rr
 encres(2) an kk rr ee
-encres(3) an kk rr ee zz
-encres(4) an kk rr zz
 encyclique an ss ii kk ll ii kk
 encyclique(2) an ss ii kk ll ii kk ee
 encyclopédie an ss ii kk ll oo pp ai dd ii
@@ -30640,8 +30065,6 @@ enduit an dd uy ii
 enduit(2) an dd uy ii tt
 enduites an dd uy ii tt
 enduites(2) an dd uy ii tt ee
-enduites(3) an dd uy ii tt ee zz
-enduites(4) an dd uy ii tt zz
 endurance an dd uu rr an ss
 endurance(2) an dd uu rr an ss ee
 endurcis an dd uu rr ss ii
@@ -30654,8 +30077,6 @@ endémique an dd ai mm ii kk
 endémique(2) an dd ai mm ii kk ee
 endémiques an dd ai mm ii kk
 endémiques(2) an dd ai mm ii kk ee
-endémiques(3) an dd ai mm ii kk ee zz
-endémiques(4) an dd ai mm ii kk zz
 enel ei nn ai ll
 enemy ei nn ei mm ii
 energie ei nn ai rr jj ii
@@ -30663,7 +30084,6 @@ enfance an ff an ss
 enfance(2) an ff an ss ee
 enfances an ff an ss
 enfances(2) an ff an ss ee
-enfances(3) an ff an ss ee zz
 enfant an ff an
 enfanter an ff an tt ei
 enfanter(2) an ff an tt ei rr
@@ -30673,8 +30093,6 @@ enfantine an ff an tt ii nn
 enfantine(2) an ff an tt ii nn ee
 enfantines an ff an tt ii nn
 enfantines(2) an ff an tt ii nn ee
-enfantines(3) an ff an tt ii nn ee zz
-enfantines(4) an ff an tt ii nn zz
 enfantins an ff an tt in
 enfantins(2) an ff an tt in zz
 enfants an ff an
@@ -30751,8 +30169,6 @@ enfreint an ff rr in
 enfreint(2) an ff rr in tt
 enfreintes an ff rr in tt
 enfreintes(2) an ff rr in tt ee
-enfreintes(3) an ff rr in tt ee zz
-enfreintes(4) an ff rr in tt zz
 enfui an ff uy ii
 enfuie an ff uy ii
 enfuient an ff uy ii
@@ -30918,8 +30334,6 @@ enlisée an ll ii zz ei
 enlisées an ll ii zz ei
 enluminures an ll uu mm ii nn uu rr
 enluminures(2) an ll uu mm ii nn uu rr ee
-enluminures(3) an ll uu mm ii nn uu rr ee zz
-enluminures(4) an ll uu mm ii nn uu rr zz
 enlève an ll ai vv
 enlève(2) an ll ai vv ee
 enlèvement an ll ai vv ee mm an
@@ -30956,8 +30370,6 @@ ennuyeuse an nn uy ii yy eu zz
 ennuyeuse(2) an nn uy ii yy eu zz ee
 ennuyeuses an nn uy ii yy eu zz
 ennuyeuses(2) an nn uy ii yy eu zz ee
-ennuyeuses(3) an nn uy ii yy eu zz ee zz
-ennuyeuses(4) an nn uy ii yy eu zz zz
 ennuyeux an nn uy ii yy eu
 ennuyeux(2) an nn uy ii yy eu zz
 ennuyé an nn uy ii yy ei
@@ -30983,8 +30395,6 @@ enquêter an kk ai tt ei
 enquêter(2) an kk ai tt ei rr
 enquêtes an kk ai tt
 enquêtes(2) an kk ai tt ee
-enquêtes(3) an kk ai tt ee zz
-enquêtes(4) an kk ai tt zz
 enquêteur an kk ai tt oe rr
 enquêteurs an kk ai tt oe rr
 enquêteurs(2) an kk ai tt oe rr zz
@@ -31079,8 +30489,6 @@ enseignante an ss ai gn an tt
 enseignante(2) an ss ai gn an tt ee
 enseignantes an ss ai gn an tt
 enseignantes(2) an ss ai gn an tt ee
-enseignantes(3) an ss ai gn an tt ee zz
-enseignantes(4) an ss ai gn an tt zz
 enseignants an ss ai gn an
 enseignants(2) an ss ai gn an zz
 enseigne an ss ai gn
@@ -31094,8 +30502,6 @@ enseigner an ss ai gn ei
 enseigner(2) an ss ai gn ei rr
 enseignes an ss ai gn
 enseignes(2) an ss ai gn ee
-enseignes(3) an ss ai gn ee zz
-enseignes(4) an ss ai gn zz
 enseigné an ss ai gn ei
 enseignée an ss ai gn ei
 enseignées an ss ai gn ei
@@ -31104,8 +30510,6 @@ ensemble an ss an bb ll
 ensemble(2) an ss an bb ll ee
 ensembles an ss an bb ll
 ensembles(2) an ss an bb ll ee
-ensembles(3) an ss an bb ll ee zz
-ensembles(4) an ss an bb ll zz
 enserre an ss ai rr
 enserre(2) an ss ai rr ee
 enserrent an ss ai rr ee
@@ -31211,8 +30615,6 @@ entente an tt an tt
 entente(2) an tt an tt ee
 ententes an tt an tt
 ententes(2) an tt an tt ee
-ententes(3) an tt an tt ee zz
-ententes(4) an tt an tt zz
 enterprise an tt ai rr pp rr ii zz
 enterre an tt ai rr
 enterre(2) an tt ai rr ee
@@ -31234,8 +30636,6 @@ enthousiasmer an tt ou zz yy aa ss mm ei
 enthousiasmer(2) an tt ou zz yy aa ss mm ei rr
 enthousiasmes an tt ou zz yy aa ss mm
 enthousiasmes(2) an tt ou zz yy aa ss mm ee
-enthousiasmes(3) an tt ou zz yy aa ss mm ee zz
-enthousiasmes(4) an tt ou zz yy aa ss mm zz
 enthousiasmé an tt ou zz yy aa ss mm ei
 enthousiaste an tt ou zz yy aa ss tt
 enthousiastes an tt ou zz yy aa ss tt
@@ -31250,8 +30650,6 @@ entièrement an tt yy ai rr ee mm an
 entièrement(2) an tt yy ai rr ee mm an tt
 entières an tt yy ai rr
 entières(2) an tt yy ai rr ee
-entières(3) an tt yy ai rr ee zz
-entières(4) an tt yy ai rr zz
 entomologiste an tt oo mm oo ll oo jj ii ss tt
 entomologiste(2) an tt oo mm oo ll oo jj ii ss tt ee
 entonne an tt oo nn
@@ -31266,14 +30664,11 @@ entorse an tt oo rr ss
 entorse(2) an tt oo rr ss ee
 entorses an tt oo rr ss
 entorses(2) an tt oo rr ss ee
-entorses(3) an tt oo rr ss ee zz
 entour an tt ou rr
 entourage an tt ou rr aa jj
 entourage(2) an tt ou rr aa jj ee
 entourages an tt ou rr aa jj
 entourages(2) an tt ou rr aa jj ee
-entourages(3) an tt ou rr aa jj ee zz
-entourages(4) an tt ou rr aa jj zz
 entouraient an tt ou rr ai
 entouraient(2) an tt ou rr ai tt
 entourait an tt ou rr ai
@@ -31288,8 +30683,6 @@ entourer(2) an tt ou rr ei rr
 entourloupes an tt ou rr ll ou pp
 entournures an tt ou rr nn uu rr
 entournures(2) an tt ou rr nn uu rr ee
-entournures(3) an tt ou rr nn uu rr ee zz
-entournures(4) an tt ou rr nn uu rr zz
 entouré an tt ou rr ei
 entourée an tt ou rr ei
 entourées an tt ou rr ei
@@ -31309,8 +30702,6 @@ entraient an tt rr ai
 entraient(2) an tt rr ai tt
 entrailles an tt rr aa yy
 entrailles(2) an tt rr aa yy ee
-entrailles(3) an tt rr aa yy ee zz
-entrailles(4) an tt rr aa yy zz
 entrain an tt rr in
 entraineur an tt rr ai nn oe rr
 entraineurs an tt rr ai nn oe rr
@@ -31329,8 +30720,6 @@ entraver an tt rr aa vv ei
 entraver(2) an tt rr aa vv ei rr
 entraves an tt rr aa vv
 entraves(2) an tt rr aa vv ee
-entraves(3) an tt rr aa vv ee zz
-entraves(4) an tt rr aa vv zz
 entravé an tt rr aa vv ei
 entravée an tt rr aa vv ei
 entravés an tt rr aa vv ei
@@ -31418,8 +30807,6 @@ entreprise an tt rr ee pp rr ii zz
 entreprise(2) an tt rr ee pp rr ii zz ee
 entreprises an tt rr ee pp rr ii zz
 entreprises(2) an tt rr ee pp rr ii zz ee
-entreprises(3) an tt rr ee pp rr ii zz ee zz
-entreprises(4) an tt rr ee pp rr ii zz zz
 entreprit an tt rr ee pp rr ii
 entreprit(2) an tt rr ee pp rr ii tt
 entrepôt an tt rr ee pp au
@@ -31545,8 +30932,6 @@ enveloppera(3) an vv ll oo pp ee rr aa
 enveloppera(4) an vv ll oo pp rr aa
 enveloppes an vv ee ll oo pp
 enveloppes(2) an vv ee ll oo pp ee
-enveloppes(3) an vv ee ll oo pp ee zz
-enveloppes(4) an vv ee ll oo pp zz
 enveloppé an vv ee ll oo pp ei
 enveloppée an vv ee ll oo pp ei
 enveloppés an vv ee ll oo pp ei
@@ -31588,8 +30973,6 @@ environnante an vv ii rr oo nn an tt
 environnante(2) an vv ii rr oo nn an tt ee
 environnantes an vv ii rr oo nn an tt
 environnantes(2) an vv ii rr oo nn an tt ee
-environnantes(3) an vv ii rr oo nn an tt ee zz
-environnantes(4) an vv ii rr oo nn an tt zz
 environnants an vv ii rr oo nn an
 environnants(2) an vv ii rr oo nn an zz
 environnement an vv ii rr oo nn ee mm an
@@ -31598,8 +30981,6 @@ environnementale an vv ii rr oo nn ee mm an tt aa ll
 environnementale(2) an vv ii rr oo nn ee mm an tt aa ll ee
 environnementales an vv ii rr oo nn ee mm an tt aa ll
 environnementales(2) an vv ii rr oo nn ee mm an tt aa ll ee
-environnementales(3) an vv ii rr oo nn ee mm an tt aa ll ee zz
-environnementales(4) an vv ii rr oo nn ee mm an tt aa ll zz
 environnementaux an vv ii rr oo nn ee mm an tt au
 environnementaux(2) an vv ii rr oo nn ee mm an tt au zz
 environnements an vv ii rr oo nn ee mm an
@@ -31612,8 +30993,6 @@ envisageable an vv ii zz aa jj aa bb ll
 envisageable(2) an vv ii zz aa jj aa bb ll ee
 envisageables an vv ii zz aa jj aa bb ll
 envisageables(2) an vv ii zz aa jj aa bb ll ee
-envisageables(3) an vv ii zz aa jj aa bb ll ee zz
-envisageables(4) an vv ii zz aa jj aa bb ll zz
 envisageaient an vv ii zz aa jj ai
 envisageaient(2) an vv ii zz aa jj ai tt
 envisageait an vv ii zz aa jj ai
@@ -31682,8 +31061,6 @@ enzyme an zz ii mm
 enzyme(2) an zz ii mm ee
 enzymes an zz ii mm
 enzymes(2) an zz ii mm ee
-enzymes(3) an zz ii mm ee zz
-enzymes(4) an zz ii mm zz
 enée ei nn ei
 eole oo ll
 epad ei pp aa dd
@@ -31748,7 +31125,6 @@ errance ai rr an ss
 errance(2) ai rr an ss ee
 errances ai rr an ss
 errances(2) ai rr an ss ee
-errances(3) ai rr an ss ee zz
 errant ai rr an
 errant(2) ai rr an tt
 errante ai rr an tt
@@ -31759,8 +31135,6 @@ erratique ai rr aa tt ii kk
 erratique(2) ai rr aa tt ii kk ee
 erratiques ai rr aa tt ii kk
 erratiques(2) ai rr aa tt ii kk ee
-erratiques(3) ai rr aa tt ii kk ee zz
-erratiques(4) ai rr aa tt ii kk zz
 erre ai rr
 erre(2) ai rr ee
 errements ai rr ee mm an
@@ -31806,15 +31180,11 @@ escalader ai ss kk aa ll aa dd ei
 escalader(2) ai ss kk aa ll aa dd ei rr
 escalades ai ss kk aa ll aa dd
 escalades(2) ai ss kk aa ll aa dd ee
-escalades(3) ai ss kk aa ll aa dd ee zz
-escalades(4) ai ss kk aa ll aa dd zz
 escaladé ai ss kk aa ll aa dd ei
 escale ai ss kk aa ll
 escale(2) ai ss kk aa ll ee
 escales ai ss kk aa ll
 escales(2) ai ss kk aa ll ee
-escales(3) ai ss kk aa ll ee zz
-escales(4) ai ss kk aa ll zz
 escalier ai ss kk aa ll yy ei
 escaliers ai ss kk aa ll yy ei
 escamoter ai ss kk aa mm oo tt ei
@@ -31912,7 +31282,6 @@ espace ai ss pp aa ss
 espace(2) ai ss pp aa ss ee
 espaces ai ss pp aa ss
 espaces(2) ai ss pp aa ss ee
-espaces(3) ai ss pp aa ss ee zz
 espagne ai ss pp aa nn yy
 espagne(2) ai ss pp aa nn yy ee
 espagnol ai ss pp aa gn oo ll
@@ -31923,8 +31292,6 @@ espagnole(3) ai ss pp aa nn yy oo ll
 espagnole(4) ai ss pp aa nn yy oo ll ee
 espagnoles ai ss pp aa gn oo ll
 espagnoles(2) ai ss pp aa gn oo ll ee
-espagnoles(3) ai ss pp aa gn oo ll ee zz
-espagnoles(4) ai ss pp aa gn oo ll zz
 espagnols ai ss pp aa gn oo ll
 espagnols(2) ai ss pp aa gn oo ll zz
 espagnols(3) ai ss pp aa nn yy oo ll
@@ -31960,7 +31327,6 @@ espèce ai ss pp ai ss
 espèce(2) ai ss pp ai ss ee
 espèces ai ss pp ai ss
 espèces(2) ai ss pp ai ss ee
-espèces(3) ai ss pp ai ss ee zz
 espère ai ss pp ai rr
 espère(2) ai ss pp ai rr ee
 espèrent ai ss pp ai rr ee
@@ -31974,7 +31340,6 @@ espérance ai ss pp ai rr an ss
 espérance(2) ai ss pp ai rr an ss ee
 espérances ai ss pp ai rr an ss
 espérances(2) ai ss pp ai rr an ss ee
-espérances(3) ai ss pp ai rr an ss ee zz
 espérant ai ss pp ai rr an
 espérant(2) ai ss pp ai rr an tt
 espéranto ai ss pp ai rr an tt au
@@ -32004,7 +31369,6 @@ esquisser ai ss kk ii ss ei
 esquisser(2) ai ss kk ii ss ei rr
 esquisses ai ss kk ii ss
 esquisses(2) ai ss kk ii ss ee
-esquisses(3) ai ss kk ii ss ee zz
 esquissé ai ss kk ii ss ei
 esquissée ai ss kk ii ss ei
 esquissées ai ss kk ii ss ei
@@ -32064,8 +31428,6 @@ essayiste ai ss ai yy ii ss tt
 essayiste(2) ai ss ai yy ii ss tt ee
 essayistes ai ss ai yy ii ss tt
 essayistes(2) ai ss ai yy ii ss tt ee
-essayistes(3) ai ss ai yy ii ss tt ee zz
-essayistes(4) ai ss ai yy ii ss tt zz
 essayons ai ss ai yy on
 essayons(2) ai ss ai yy on zz
 essayé ai ss ai yy ei
@@ -32082,7 +31444,6 @@ essence ai ss an ss
 essence(2) ai ss an ss ee
 essences ai ss an ss
 essences(2) ai ss an ss ee
-essences(3) ai ss an ss ee zz
 essentiel ai ss an ss yy ai ll
 essentielle ai ss an ss yy ai ll
 essentielle(2) ai ss an ss yy ai ll ee
@@ -32090,8 +31451,6 @@ essentiellement ai ss an ss yy ai ll ee mm an
 essentiellement(2) ai ss an ss yy ai ll ee mm an tt
 essentielles ai ss an ss yy ai ll
 essentielles(2) ai ss an ss yy ai ll ee
-essentielles(3) ai ss an ss yy ai ll ee zz
-essentielles(4) ai ss an ss yy ai ll zz
 essentiels ai ss an ss yy ai ll
 essentiels(2) ai ss an ss yy ai ll zz
 esser ai ss ai rr
@@ -32133,8 +31492,6 @@ estampe ai ss tt an pp
 estampe(2) ai ss tt an pp ee
 estampes ai ss tt an pp
 estampes(2) ai ss tt an pp ee
-estampes(3) ai ss tt an pp ee zz
-estampes(4) ai ss tt an pp zz
 estampille ai ss tt an pp ii yy
 estampille(2) ai ss tt an pp ii yy ee
 estampillé ai ss tt an pp ii yy ei
@@ -32152,15 +31509,11 @@ esthète ai ss tt ai tt
 esthète(2) ai ss tt ai tt ee
 esthètes ai ss tt ai tt
 esthètes(2) ai ss tt ai tt ee
-esthètes(3) ai ss tt ai tt ee zz
-esthètes(4) ai ss tt ai tt zz
 esthétique ai ss tt ai tt ii kk
 esthétique(2) ai ss tt ai tt ii kk ee
 esthétiquement ai ss tt ei tt ii kk ee mm an
 esthétiques ai ss tt ai tt ii kk
 esthétiques(2) ai ss tt ai tt ii kk ee
-esthétiques(3) ai ss tt ai tt ii kk ee zz
-esthétiques(4) ai ss tt ai tt ii kk zz
 esthétisme ai ss tt ai tt ii ss mm
 esthétisme(2) ai ss tt ai tt ii ss mm ee
 estic ai ss tt ii kk
@@ -32196,8 +31549,6 @@ estivale ai ss tt ii vv aa ll
 estivale(2) ai ss tt ii vv aa ll ee
 estivales ai ss tt ii vv aa ll
 estivales(2) ai ss tt ii vv aa ll ee
-estivales(3) ai ss tt ii vv aa ll ee zz
-estivales(4) ai ss tt ii vv aa ll zz
 estivants ai ss tt ii vv an
 estivants(2) ai ss tt ii vv an zz
 estivaux ai ss tt ii vv au
@@ -32232,8 +31583,6 @@ estrade ai ss tt rr aa dd
 estrade(2) ai ss tt rr aa dd ee
 estrades ai ss tt rr aa dd
 estrades(2) ai ss tt rr aa dd ee
-estrades(3) ai ss tt rr aa dd ee zz
-estrades(4) ai ss tt rr aa dd zz
 estran ei ss tt rr aa nn
 estropiés ai ss tt rr oo pp yy ei
 estrosi ai ss tt rr oo zz ii
@@ -32242,8 +31591,6 @@ estuaire ai ss tt uu ai rr
 estuaire(2) ai ss tt uu ai rr ee
 estuaires ai ss tt uu ai rr
 estuaires(2) ai ss tt uu ai rr ee
-estuaires(3) ai ss tt uu ai rr ee zz
-estuaires(4) ai ss tt uu ai rr zz
 estudiantin ai ss tt uu dd yy an tt in
 estudiantine ai ss tt uu dd yy an tt ii nn
 estudiantine(2) ai ss tt uu dd yy an tt ii nn ee
@@ -32269,8 +31616,6 @@ ethnique(2) ai tt nn ii kk ee
 ethniquement ai tt nn ii kk ee mm an
 ethniques ai tt nn ii kk
 ethniques(2) ai tt nn ii kk ee
-ethniques(3) ai tt nn ii kk ee zz
-ethniques(4) ai tt nn ii kk zz
 ethno ai tt nn au
 ethnographie ai tt nn oo gg rr aa ff ii
 ethnographique ai tt nn oo gg rr aa ff ii kk
@@ -32282,8 +31627,6 @@ ethnologue ai tt nn oo ll oo gg
 ethnologue(2) ai tt nn oo ll oo gg ee
 ethnologues ai tt nn oo ll oo gg
 ethnologues(2) ai tt nn oo ll oo gg ee
-ethnologues(3) ai tt nn oo ll oo gg ee zz
-ethnologues(4) ai tt nn oo ll oo gg zz
 etna ei tt nn aa
 eto ei tt au
 ett ai tt
@@ -32327,8 +31670,6 @@ euphorique ee ff oo rr ii kk
 euphorique(2) ee ff oo rr ii kk ee
 euphoriques ee ff oo rr ii kk
 euphoriques(2) ee ff oo rr ii kk ee
-euphoriques(3) ee ff oo rr ii kk ee zz
-euphoriques(4) ee ff oo rr ii kk zz
 euphrate eu ff rr aa tt
 euphrate(2) eu ff rr aa tt ee
 euphémisme ee ff ai mm ii ss mm
@@ -32359,8 +31700,6 @@ eurocorps eu rr oo kk oo rr pp
 eurocorps(2) oe rr oo kk oo rr pp
 eurocrates ee rr oo kk rr aa tt
 eurocrates(2) ee rr oo kk rr aa tt ee
-eurocrates(3) ee rr oo kk rr aa tt ee zz
-eurocrates(4) ee rr oo kk rr aa tt zz
 eurodif eu rr oo dd ii ff
 eurodisneyland eu rr au dd ii ss nn ei ll an dd
 eurodéputé eu rr oo dd ei pp uu tt ei
@@ -32420,8 +31759,6 @@ européenne(9) oe rr oo pp ei ai nn
 européenne(10) oe rr oo pp ei ai nn ee
 européennes ee rr oo pp ai ai nn
 européennes(2) ee rr oo pp ai ai nn ee
-européennes(3) ee rr oo pp ai ai nn ee zz
-européennes(4) ee rr oo pp ai ai nn zz
 européens ee rr oo pp ai in
 européens(2) ee rr oo pp ai in zz
 européens(3) eu rr au pp ei in
@@ -32465,8 +31802,6 @@ eux eu
 eux(2) eu zz
 eux-mêmes ee mm ai mm
 eux-mêmes(2) ee mm ai mm ee
-eux-mêmes(3) ee mm ai mm ee zz
-eux-mêmes(4) ee mm ai mm zz
 eva ei vv aa
 evan ei vv aa nn
 evangelos ei vv an jj ee ll au
@@ -32521,8 +31856,6 @@ exactement ai gg zz aa kk tt ee mm an
 exactement(2) ai gg zz aa kk tt ee mm an tt
 exactes ai gg zz aa kk tt
 exactes(2) ai gg zz aa kk tt ee
-exactes(3) ai gg zz aa kk tt ee zz
-exactes(4) ai gg zz aa kk tt zz
 exaction ai gg zz aa kk ss yy on
 exactions ai gg zz aa kk ss yy on
 exactions(2) ai gg zz aa kk ss yy on zz
@@ -32607,8 +31940,6 @@ excellente ai kk ss ai ll an tt
 excellente(2) ai kk ss ai ll an tt ee
 excellentes ai kk ss ai ll an tt
 excellentes(2) ai kk ss ai ll an tt ee
-excellentes(3) ai kk ss ai ll an tt ee zz
-excellentes(4) ai kk ss ai ll an tt zz
 excellentissime ai kk ss ai ll an tt ii ss ii mm
 excellentissime(2) ai kk ss ai ll an tt ii ss ii mm ee
 excellents ai kk ss ai ll an
@@ -32621,8 +31952,6 @@ excentrique ai kk ss an tt rr ii kk
 excentrique(2) ai kk ss an tt rr ii kk ee
 excentriques ai kk ss an tt rr ii kk
 excentriques(2) ai kk ss an tt rr ii kk ee
-excentriques(3) ai kk ss an tt rr ii kk ee zz
-excentriques(4) ai kk ss an tt rr ii kk zz
 excentré ai kk ss an tt rr ei
 excepte ai kk ss ai pp tt
 excepte(2) ai kk ss ai pp tt ee
@@ -32634,8 +31963,6 @@ exceptionnellement ai kk ss ai pp ss yy oo nn ai ll ee mm an
 exceptionnellement(2) ai kk ss ai pp ss yy oo nn ai ll ee mm an tt
 exceptionnelles ai kk ss ai pp ss yy oo nn ai ll
 exceptionnelles(2) ai kk ss ai pp ss yy oo nn ai ll ee
-exceptionnelles(3) ai kk ss ai pp ss yy oo nn ai ll ee zz
-exceptionnelles(4) ai kk ss ai pp ss yy oo nn ai ll zz
 exceptionnels ai kk ss ai pp ss yy oo nn ai ll
 exceptionnels(2) ai kk ss ai pp ss yy oo nn ai ll zz
 exceptions ai kk ss ai pp ss yy on
@@ -32654,8 +31981,6 @@ excessivement ai kk ss ai ss ii vv ee mm an
 excessivement(2) ai kk ss ai ss ii vv ee mm an tt
 excessives ai kk ss ai ss ii vv
 excessives(2) ai kk ss ai ss ii vv ee
-excessives(3) ai kk ss ai ss ii vv ee zz
-excessives(4) ai kk ss ai ss ii vv zz
 exchange ai kk ss ch an jj
 exciser ai kk ss ii zz ei
 exciser(2) ai kk ss ii zz ei rr
@@ -32714,8 +32039,6 @@ exclusivement ai kk ss kk ll uu zz ii vv ee mm an
 exclusivement(2) ai kk ss kk ll uu zz ii vv ee mm an tt
 exclusives ai kk ss kk ll uu zz ii vv
 exclusives(2) ai kk ss kk ll uu zz ii vv ee
-exclusives(3) ai kk ss kk ll uu zz ii vv ee zz
-exclusives(4) ai kk ss kk ll uu zz ii vv zz
 exclusivité ai kk ss kk ll uu zz ii vv ii tt ei
 exclut ai kk ss kk ll uu
 exclut(2) ai kk ss kk ll uu tt
@@ -32733,7 +32056,6 @@ excréments ai kk ss kk rr ai mm an
 excréments(2) ai kk ss kk rr ai mm an zz
 excrétrices ai kk ss kk rr ai tt rr ii ss
 excrétrices(2) ai kk ss kk rr ai tt rr ii ss ee
-excrétrices(3) ai kk ss kk rr ai tt rr ii ss ee zz
 excursion ai kk ss kk uu rr ss yy on
 excursions ai kk ss kk uu rr ss yy on
 excursions(2) ai kk ss kk uu rr ss yy on zz
@@ -32745,8 +32067,6 @@ excuser ai kk ss kk uu zz ei
 excuser(2) ai kk ss kk uu zz ei rr
 excuses ai kk ss kk uu zz
 excuses(2) ai kk ss kk uu zz ee
-excuses(3) ai kk ss kk uu zz ee zz
-excuses(4) ai kk ss kk uu zz zz
 excusez ai kk ss kk uu zz ei
 excusé ai kk ss kk uu zz ei
 excède ai kk ss ai dd
@@ -32761,8 +32081,6 @@ excédentaire ai kk ss ai dd an tt ai rr
 excédentaire(2) ai kk ss ai dd an tt ai rr ee
 excédentaires ai kk ss ai dd an tt ai rr
 excédentaires(2) ai kk ss ai dd an tt ai rr ee
-excédentaires(3) ai kk ss ai dd an tt ai rr ee zz
-excédentaires(4) ai kk ss ai dd an tt ai rr zz
 excédents ai kk ss ai dd an
 excédents(2) ai kk ss ai dd an zz
 excéder ai kk ss ai dd ei
@@ -32773,15 +32091,11 @@ exemplaire ai gg zz an pp ll ai rr
 exemplaire(2) ai gg zz an pp ll ai rr ee
 exemplaires ai gg zz an pp ll ai rr
 exemplaires(2) ai gg zz an pp ll ai rr ee
-exemplaires(3) ai gg zz an pp ll ai rr ee zz
-exemplaires(4) ai gg zz an pp ll ai rr zz
 exemplarité ai gg zz an pp ll aa rr ii tt ei
 exemple ai gg zz an pp ll
 exemple(2) ai gg zz an pp ll ee
 exemples ai gg zz an pp ll
 exemples(2) ai gg zz an pp ll ee
-exemples(3) ai gg zz an pp ll ee zz
-exemples(4) ai gg zz an pp ll zz
 exempt ai gg zz an
 exempt(2) ai gg zz an pp tt
 exempte ai gg zz an tt
@@ -32809,7 +32123,6 @@ exercice ai gg zz ai rr ss ii ss
 exercice(2) ai gg zz ai rr ss ii ss ee
 exercices ai gg zz ai rr ss ii ss
 exercices(2) ai gg zz ai rr ss ii ss ee
-exercices(3) ai gg zz ai rr ss ii ss ee zz
 exercé ai gg zz ai rr ss ei
 exercée ai gg zz ai rr ss ei
 exercées ai gg zz ai rr ss ei
@@ -32877,15 +32190,12 @@ exigeante ai gg zz ii jj an tt
 exigeante(2) ai gg zz ii jj an tt ee
 exigeantes ai gg zz ii jj an tt
 exigeantes(2) ai gg zz ii jj an tt ee
-exigeantes(3) ai gg zz ii jj an tt ee zz
-exigeantes(4) ai gg zz ii jj an tt zz
 exigeants ai gg zz ii jj an
 exigeants(2) ai gg zz ii jj an zz
 exigence ai gg zz ii jj an ss
 exigence(2) ai gg zz ii jj an ss ee
 exigences ai gg zz ii jj an ss
 exigences(2) ai gg zz ii jj an ss ee
-exigences(3) ai gg zz ii jj an ss ee zz
 exigent ai gg zz ii jj ee
 exigeons ai gg zz ii jj on
 exigeons(2) ai gg zz ii jj on zz
@@ -32932,8 +32242,6 @@ existante ai gg zz ii ss tt an tt
 existante(2) ai gg zz ii ss tt an tt ee
 existantes ai gg zz ii ss tt an tt
 existantes(2) ai gg zz ii ss tt an tt ee
-existantes(3) ai gg zz ii ss tt an tt ee zz
-existantes(4) ai gg zz ii ss tt an tt zz
 existants ai gg zz ii ss tt an
 existants(2) ai gg zz ii ss tt an zz
 existe ai gg zz ii ss tt
@@ -32942,7 +32250,6 @@ existence ai gg zz ii ss tt an ss
 existence(2) ai gg zz ii ss tt an ss ee
 existences ai gg zz ii ss tt an ss
 existences(2) ai gg zz ii ss tt an ss ee
-existences(3) ai gg zz ii ss tt an ss ee zz
 existent ai gg zz ii ss tt ee
 existentialisme ai gg zz ii ss tt an ss yy aa ll ii ss mm
 existentialisme(2) ai gg zz ii ss tt an ss yy aa ll ii ss mm ee
@@ -32951,8 +32258,6 @@ existentielle ai gg zz ii ss tt an ss yy ai ll
 existentielle(2) ai gg zz ii ss tt an ss yy ai ll ee
 existentielles ai gg zz ii ss tt an ss yy ai ll
 existentielles(2) ai gg zz ii ss tt an ss yy ai ll ee
-existentielles(3) ai gg zz ii ss tt an ss yy ai ll ee zz
-existentielles(4) ai gg zz ii ss tt an ss yy ai ll zz
 exister ai gg zz ii ss tt ei
 exister(2) ai gg zz ii ss tt ei rr
 existera ai gg zz ii ss tt ee rr aa
@@ -32974,8 +32279,6 @@ exode(2) ai gg zz oo dd
 exode(3) ai gg zz oo dd ee
 exodes ai gg zz oo dd
 exodes(2) ai gg zz oo dd ee
-exodes(3) ai gg zz oo dd ee zz
-exodes(4) ai gg zz oo dd zz
 exogène ai gg zz oo jj ai nn
 exogène(2) ai gg zz oo jj ai nn ee
 exonère ai gg zz oo nn ai rr
@@ -32997,8 +32300,6 @@ exorbitante ai gg zz oo rr bb ii tt an tt
 exorbitante(2) ai gg zz oo rr bb ii tt an tt ee
 exorbitantes ai gg zz oo rr bb ii tt an tt
 exorbitantes(2) ai gg zz oo rr bb ii tt an tt ee
-exorbitantes(3) ai gg zz oo rr bb ii tt an tt ee zz
-exorbitantes(4) ai gg zz oo rr bb ii tt an tt zz
 exorbitants ai gg zz oo rr bb ii tt an
 exorbitants(2) ai gg zz oo rr bb ii tt an zz
 exorcise ai gg zz oo rr ss ii zz
@@ -33012,8 +32313,6 @@ exotique ai gg zz oo tt ii kk
 exotique(2) ai gg zz oo tt ii kk ee
 exotiques ai gg zz oo tt ii kk
 exotiques(2) ai gg zz oo tt ii kk ee
-exotiques(3) ai gg zz oo tt ii kk ee zz
-exotiques(4) ai gg zz oo tt ii kk zz
 exotisme ai gg zz oo tt ii ss mm
 exotisme(2) ai gg zz oo tt ii ss mm ee
 expansif ai kk ss pp an ss ii ff
@@ -33024,8 +32323,6 @@ expansionniste ai kk ss pp an ss yy oo nn ii ss tt
 expansionniste(2) ai kk ss pp an ss yy oo nn ii ss tt ee
 expansionnistes ai kk ss pp an ss yy oo nn ii ss tt
 expansionnistes(2) ai kk ss pp an ss yy oo nn ii ss tt ee
-expansionnistes(3) ai kk ss pp an ss yy oo nn ii ss tt ee zz
-expansionnistes(4) ai kk ss pp an ss yy oo nn ii ss tt zz
 expansions ai kk ss pp an ss yy on
 expansions(2) ai kk ss pp an ss yy on zz
 expatriation ai kk ss pp aa tt rr ii yy aa ss yy on
@@ -33049,8 +32346,6 @@ experts ai kk ss pp ai rr
 experts(2) ai kk ss pp ai rr zz
 experts-comptables ai kk ss pp ai rr kk on tt aa bb ll
 experts-comptables(2) ai kk ss pp ai rr kk on tt aa bb ll ee
-experts-comptables(3) ai kk ss pp ai rr kk on tt aa bb ll ee zz
-experts-comptables(4) ai kk ss pp ai rr kk on tt aa bb ll zz
 expiation ai kk ss pp yy aa ss yy on
 expiatoire ai kk ss pp yy aa tt ww aa rr
 expier ai kk ss pp yy ei
@@ -33076,8 +32371,6 @@ expliciter ai kk ss pp ll ii ss ii tt ei
 expliciter(2) ai kk ss pp ll ii ss ii tt ei rr
 explicites ai kk ss pp ll ii ss ii tt
 explicites(2) ai kk ss pp ll ii ss ii tt ee
-explicites(3) ai kk ss pp ll ii ss ii tt ee zz
-explicites(4) ai kk ss pp ll ii ss ii tt zz
 explicité ai kk ss pp ll ii ss ii tt ei
 expliqua ai kk ss pp ll ii kk aa
 expliquaient ai kk ss pp ll ii kk ai
@@ -33107,8 +32400,6 @@ expliqués ai kk ss pp ll ii kk ei
 exploit ai kk ss pp ll ww aa
 exploitables ai kk ss pp ll ww aa tt aa bb ll
 exploitables(2) ai kk ss pp ll ww aa tt aa bb ll ee
-exploitables(3) ai kk ss pp ll ww aa tt aa bb ll ee zz
-exploitables(4) ai kk ss pp ll ww aa tt aa bb ll zz
 exploitait ai kk ss pp ll ww aa tt ai
 exploitait(2) ai kk ss pp ll ww aa tt ai tt
 exploitant ai kk ss pp ll ww aa tt an
@@ -33144,8 +32435,6 @@ exploratoire ai kk ss pp ll oo rr aa tt ww aa rr
 exploratoire(2) ai kk ss pp ll oo rr aa tt ww aa rr ee
 exploratoires ai kk ss pp ll oo rr aa tt ww aa rr
 exploratoires(2) ai kk ss pp ll oo rr aa tt ww aa rr ee
-exploratoires(3) ai kk ss pp ll oo rr aa tt ww aa rr ee zz
-exploratoires(4) ai kk ss pp ll oo rr aa tt ww aa rr zz
 explore ai kk ss pp ll oo rr
 explore(2) ai kk ss pp ll oo rr ee
 explorent ai kk ss pp ll oo rr ee
@@ -33172,8 +32461,6 @@ explosive ai kk ss pp ll oo zz ii vv
 explosive(2) ai kk ss pp ll oo zz ii vv ee
 explosives ai kk ss pp ll oo zz ii vv
 explosives(2) ai kk ss pp ll oo zz ii vv ee
-explosives(3) ai kk ss pp ll oo zz ii vv ee zz
-explosives(4) ai kk ss pp ll oo zz ii vv zz
 explosèrent ai kk ss pp ll au zz ai rr
 explosèrent(2) ai kk ss pp ll au zz ai rr ee
 explosèrent(3) ai kk ss pp ll au zz ai rr ee tt
@@ -33203,7 +32490,6 @@ exportatrice ai kk ss pp oo rr tt aa tt rr ii ss
 exportatrice(2) ai kk ss pp oo rr tt aa tt rr ii ss ee
 exportatrices ai kk ss pp oo rr tt aa tt rr ii ss
 exportatrices(2) ai kk ss pp oo rr tt aa tt rr ii ss ee
-exportatrices(3) ai kk ss pp oo rr tt aa tt rr ii ss ee zz
 exporte ai kk ss pp oo rr tt
 exporte(2) ai kk ss pp oo rr tt ee
 exportent ai kk ss pp oo rr tt ee
@@ -33242,8 +32528,6 @@ expresse ai kk ss pp rr ai ss
 expresse(2) ai kk ss pp rr ai ss ee
 expresses ai kk ss pp rr ai ss
 expresses(2) ai kk ss pp rr ai ss ee
-expresses(3) ai kk ss pp rr ai ss ee zz
-expresses(4) ai kk ss pp rr ai ss zz
 expressif ai kk ss pp rr ai ss ii ff
 expression ai kk ss pp rr ai ss yy on
 expressionnisme ai kk ss pp rr ai ss yy oo nn ii ss mm
@@ -33252,16 +32536,12 @@ expressionniste ai kk ss pp rr ai ss yy oo nn ii ss tt
 expressionniste(2) ai kk ss pp rr ai ss yy oo nn ii ss tt ee
 expressionnistes ai kk ss pp rr ai ss yy oo nn ii ss tt
 expressionnistes(2) ai kk ss pp rr ai ss yy oo nn ii ss tt ee
-expressionnistes(3) ai kk ss pp rr ai ss yy oo nn ii ss tt ee zz
-expressionnistes(4) ai kk ss pp rr ai ss yy oo nn ii ss tt zz
 expressions ai kk ss pp rr ai ss yy on
 expressions(2) ai kk ss pp rr ai ss yy on zz
 expressive ai kk ss pp rr ai ss ii vv
 expressive(2) ai kk ss pp rr ai ss ii vv ee
 expressives ai kk ss pp rr ai ss ii vv
 expressives(2) ai kk ss pp rr ai ss ii vv ee
-expressives(3) ai kk ss pp rr ai ss ii vv ee zz
-expressives(4) ai kk ss pp rr ai ss ii vv zz
 expressivité ai kk ss pp rr ai ss ii vv ii tt ei
 expressément ai kk ss pp rr ai ss ai mm an
 expressément(2) ai kk ss pp rr ai ss ai mm an tt
@@ -33328,8 +32608,6 @@ expéditive ai kk ss pp ai dd ii tt ii vv
 expéditive(2) ai kk ss pp ai dd ii tt ii vv ee
 expéditives ai kk ss pp ai dd ii tt ii vv
 expéditives(2) ai kk ss pp ai dd ii tt ii vv ee
-expéditives(3) ai kk ss pp ai dd ii tt ii vv ee zz
-expéditives(4) ai kk ss pp ai dd ii tt ii vv zz
 expédié ai kk ss pp ai dd yy ei
 expédiée ai kk ss pp ai dd yy ei
 expédiées ai kk ss pp ai dd yy ei
@@ -33338,7 +32616,6 @@ expérience ai kk ss pp ai rr yy an ss
 expérience(2) ai kk ss pp ai rr yy an ss ee
 expériences ai kk ss pp ai rr yy an ss
 expériences(2) ai kk ss pp ai rr yy an ss ee
-expériences(3) ai kk ss pp ai rr yy an ss ee zz
 expérimentait ai kk ss pp ai rr ii mm an tt ai
 expérimentait(2) ai kk ss pp ai rr ii mm an tt ai tt
 expérimental ai kk ss pp ai rr ii mm an tt aa ll
@@ -33346,8 +32623,6 @@ expérimentale ai kk ss pp ai rr ii mm an tt aa ll
 expérimentale(2) ai kk ss pp ai rr ii mm an tt aa ll ee
 expérimentales ai kk ss pp ai rr ii mm an tt aa ll
 expérimentales(2) ai kk ss pp ai rr ii mm an tt aa ll ee
-expérimentales(3) ai kk ss pp ai rr ii mm an tt aa ll ee zz
-expérimentales(4) ai kk ss pp ai rr ii mm an tt aa ll zz
 expérimentateur ai kk ss pp ai rr ii mm an tt aa tt oe rr
 expérimentation ai kk ss pp ei rr ii mm an tt aa ss yy on
 expérimentations ai kk ss pp ei rr ii mm an tt aa ss yy on
@@ -33368,14 +32643,10 @@ exquise ai kk ss kk ii zz
 exquise(2) ai kk ss kk ii zz ee
 exquises ai kk ss kk ii zz
 exquises(2) ai kk ss kk ii zz ee
-exquises(3) ai kk ss kk ii zz ee zz
-exquises(4) ai kk ss kk ii zz zz
 exsangue ai kk ss an gg
 exsangue(2) ai kk ss an gg ee
 exsangues ai kk ss an gg
 exsangues(2) ai kk ss an gg ee
-exsangues(3) ai kk ss an gg ee zz
-exsangues(4) ai kk ss an gg zz
 extase ai kk ss tt aa zz
 extase(2) ai kk ss tt aa zz ee
 extasie ai kk ss tt aa zz ii
@@ -33401,8 +32672,6 @@ externe ai kk ss tt ai rr nn
 externe(2) ai kk ss tt ai rr nn ee
 externes ai kk ss tt ai rr nn
 externes(2) ai kk ss tt ai rr nn ee
-externes(3) ai kk ss tt ai rr nn ee zz
-externes(4) ai kk ss tt ai rr nn zz
 extinction ai kk ss tt in kk ss yy on
 extirper ai kk ss tt ii rr pp ei
 extirper(2) ai kk ss tt ii rr pp ei rr
@@ -33434,22 +32703,16 @@ extraite ai kk ss tt rr ai tt
 extraite(2) ai kk ss tt rr ai tt ee
 extraites ai kk ss tt rr ai tt
 extraites(2) ai kk ss tt rr ai tt ee
-extraites(3) ai kk ss tt rr ai tt ee zz
-extraites(4) ai kk ss tt rr ai tt zz
 extraits ai kk ss tt rr ai
 extraits(2) ai kk ss tt rr ai zz
 extrajudiciaires ai kk ss tt rr aa jj uu dd ii ss yy ai rr
 extrajudiciaires(2) ai kk ss tt rr aa jj uu dd ii ss yy ai rr ee
-extrajudiciaires(3) ai kk ss tt rr aa jj uu dd ii ss yy ai rr ee zz
-extrajudiciaires(4) ai kk ss tt rr aa jj uu dd ii ss yy ai rr zz
 extraordinaire ai kk ss tt rr aa oo rr dd ii nn ai rr
 extraordinaire(2) ai kk ss tt rr aa oo rr dd ii nn ai rr ee
 extraordinairement ai kk ss tt rr aa oo rr dd ii nn ai rr ee mm an
 extraordinairement(2) ai kk ss tt rr aa oo rr dd ii nn ai rr ee mm an tt
 extraordinaires ai kk ss tt rr aa oo rr dd ii nn ai rr
 extraordinaires(2) ai kk ss tt rr aa oo rr dd ii nn ai rr ee
-extraordinaires(3) ai kk ss tt rr aa oo rr dd ii nn ai rr ee zz
-extraordinaires(4) ai kk ss tt rr aa oo rr dd ii nn ai rr zz
 extrapolation ai kk ss tt rr aa pp oo ll aa ss yy on
 extrapoler ai kk ss tt rr aa pp oo ll ei
 extrapoler(2) ai kk ss tt rr aa pp oo ll ei rr
@@ -33458,21 +32721,16 @@ extraterrestre ai kk ss tt rr aa tt ai rr ai ss tt rr
 extraterrestre(2) ai kk ss tt rr aa tt ai rr ai ss tt rr ee
 extraterrestres ai kk ss tt rr aa tt ai rr ai ss tt rr
 extraterrestres(2) ai kk ss tt rr aa tt ai rr ai ss tt rr ee
-extraterrestres(3) ai kk ss tt rr aa tt ai rr ai ss tt rr ee zz
-extraterrestres(4) ai kk ss tt rr aa tt ai rr ai ss tt rr zz
 extravagance ai kk ss tt rr aa vv aa gg an ss
 extravagance(2) ai kk ss tt rr aa vv aa gg an ss ee
 extravagances ai kk ss tt rr aa vv aa gg an ss
 extravagances(2) ai kk ss tt rr aa vv aa gg an ss ee
-extravagances(3) ai kk ss tt rr aa vv aa gg an ss ee zz
 extravagant ai kk ss tt rr aa vv aa gg an
 extravagant(2) ai kk ss tt rr aa vv aa gg an tt
 extravagante ai kk ss tt rr aa vv aa gg an tt
 extravagante(2) ai kk ss tt rr aa vv aa gg an tt ee
 extravagantes ai kk ss tt rr aa vv aa gg an tt
 extravagantes(2) ai kk ss tt rr aa vv aa gg an tt ee
-extravagantes(3) ai kk ss tt rr aa vv aa gg an tt ee zz
-extravagantes(4) ai kk ss tt rr aa vv aa gg an tt zz
 extravagants ai kk ss tt rr aa vv aa gg an
 extravagants(2) ai kk ss tt rr aa vv aa gg an zz
 extraverti ai kk ss tt rr aa vv ai rr tt ii
@@ -33484,8 +32742,6 @@ extrémiste ai kk ss tt rr ai mm ii ss tt
 extrémiste(2) ai kk ss tt rr ai mm ii ss tt ee
 extrémistes ai kk ss tt rr ai mm ii ss tt
 extrémistes(2) ai kk ss tt rr ai mm ii ss tt ee
-extrémistes(3) ai kk ss tt rr ai mm ii ss tt ee zz
-extrémistes(4) ai kk ss tt rr ai mm ii ss tt zz
 extrémisée ai kk ss tt rr ei mm ii zz ei
 extrémité ai kk ss tt rr ai mm ii tt ei
 extrémités ai kk ss tt rr ai mm ii tt ei
@@ -33497,8 +32753,6 @@ extrêmement ai kk ss tt rr ai mm ee mm an
 extrêmement(2) ai kk ss tt rr ai mm ee mm an tt
 extrêmes ai kk ss tt rr ai mm
 extrêmes(2) ai kk ss tt rr ai mm ee
-extrêmes(3) ai kk ss tt rr ai mm ee zz
-extrêmes(4) ai kk ss tt rr ai mm zz
 exténué ai kk ss tt ai nn uu ei
 exténués ai kk ss tt ai nn uu ei
 exténués(2) ai kk ss tt ei nn uy ei
@@ -33508,8 +32762,6 @@ extérieure ai kk ss tt ai rr yy oe rr
 extérieure(2) ai kk ss tt ai rr yy oe rr ee
 extérieures ai kk ss tt ai rr yy oe rr
 extérieures(2) ai kk ss tt ai rr yy oe rr ee
-extérieures(3) ai kk ss tt ai rr yy oe rr ee zz
-extérieures(4) ai kk ss tt ai rr yy oe rr zz
 extérieurs ai kk ss tt ai rr yy oe rr
 extérieurs(2) ai kk ss tt ai rr yy oe rr zz
 extériorise ai kk ss tt ai rr yy oo rr ii zz
@@ -33542,8 +32794,6 @@ exécrable ai gg zz ai kk rr aa bb ll
 exécrable(2) ai gg zz ai kk rr aa bb ll ee
 exécrables ai gg zz ai kk rr aa bb ll
 exécrables(2) ai gg zz ai kk rr aa bb ll ee
-exécrables(3) ai gg zz ai kk rr aa bb ll ee zz
-exécrables(4) ai gg zz ai kk rr aa bb ll zz
 exécutant ai gg zz ai kk uu tt an
 exécutant(2) ai gg zz ai kk uu tt an tt
 exécutants ai gg zz ai kk uu tt an
@@ -33593,8 +32843,6 @@ exécutive ai gg zz ai kk uu tt ii vv
 exécutive(2) ai gg zz ai kk uu tt ii vv ee
 exécutives ai gg zz ai kk uu tt ii vv
 exécutives(2) ai gg zz ai kk uu tt ii vv ee
-exécutives(3) ai gg zz ai kk uu tt ii vv ee zz
-exécutives(4) ai gg zz ai kk uu tt ii vv zz
 exécutoire ai gg zz ai kk uu tt ww aa rr
 exécutoire(2) ai gg zz ai kk uu tt ww aa rr ee
 exécuté ai gg zz ai kk uu tt ei
@@ -33605,14 +32853,10 @@ exégèse ai gg zz ai jj ai zz
 exégèse(2) ai gg zz ai jj ai zz ee
 exégèses ai gg zz ai jj ai zz
 exégèses(2) ai gg zz ai jj ai zz ee
-exégèses(3) ai gg zz ai jj ai zz ee zz
-exégèses(4) ai gg zz ai jj ai zz zz
 exégète ai gg zz ai jj ai tt
 exégète(2) ai gg zz ai jj ai tt ee
 exégètes ai gg zz ai jj ai tt
 exégètes(2) ai gg zz ai jj ai tt ee
-exégètes(3) ai gg zz ai jj ai tt ee zz
-exégètes(4) ai gg zz ai jj ai tt zz
 eyadema ei yy aa dd ei mm aa
 eyadéma ai yy aa dd ei mm aa
 eydelie ai dd ee ll ii
@@ -33654,8 +32898,6 @@ fable ff aa bb ll
 fable(2) ff aa bb ll ee
 fables ff aa bb ll
 fables(2) ff aa bb ll ee
-fables(3) ff aa bb ll ee zz
-fables(4) ff aa bb ll zz
 fabre ff aa bb rr
 fabre(2) ff aa bb rr ee
 fabricant ff aa bb rr ii kk an
@@ -33678,8 +32920,6 @@ fabriquer(2) ff aa bb rr ii kk ei rr
 fabriquera ff aa bb rr ii kk ee rr aa
 fabriques ff aa bb rr ii kk
 fabriques(2) ff aa bb rr ii kk ee
-fabriques(3) ff aa bb rr ii kk ee zz
-fabriques(4) ff aa bb rr ii kk zz
 fabriquons ff aa bb rr ii kk on
 fabriquons(2) ff aa bb rr ii kk on zz
 fabriqué ff aa bb rr ii kk ei
@@ -33692,8 +32932,6 @@ fabuleuse ff aa bb uu ll eu zz
 fabuleuse(2) ff aa bb uu ll eu zz ee
 fabuleuses ff aa bb uu ll eu zz
 fabuleuses(2) ff aa bb uu ll eu zz ee
-fabuleuses(3) ff aa bb uu ll eu zz ee zz
-fabuleuses(4) ff aa bb uu ll eu zz zz
 fabuleux ff aa bb uu ll eu
 fabuleux(2) ff aa bb uu ll eu zz
 fac ff aa kk
@@ -33706,13 +32944,10 @@ face_à ff aa ss aa
 face_à_face ff aa ss aa ff aa ss
 faces ff aa ss
 faces(2) ff aa ss ee
-faces(3) ff aa ss ee zz
 facette ff aa ss ai tt
 facette(2) ff aa ss ai tt ee
 facettes ff aa ss ai tt
 facettes(2) ff aa ss ai tt ee
-facettes(3) ff aa ss ai tt ee zz
-facettes(4) ff aa ss ai tt zz
 facial ff aa ss yy aa ll
 faciale ff aa ss yy aa ll
 faciale(2) ff aa ss yy aa ll ee
@@ -33723,8 +32958,6 @@ facilement ff aa ss ii ll ee mm an
 facilement(2) ff aa ss ii ll ee mm an tt
 faciles ff aa ss ii ll
 faciles(2) ff aa ss ii ll ee
-faciles(3) ff aa ss ii ll ee zz
-faciles(4) ff aa ss ii ll zz
 facilitant ff aa ss ii ll ii tt an
 facilitant(2) ff aa ss ii ll ii tt an tt
 facilitateur ff aa ss ii ll ii tt aa tt oe rr
@@ -33753,7 +32986,6 @@ factice ff aa kk tt ii ss
 factice(2) ff aa kk tt ii ss ee
 factices ff aa kk tt ii ss
 factices(2) ff aa kk tt ii ss ee
-factices(3) ff aa kk tt ii ss ee zz
 factieux ff aa kk ss yy eu
 factieux(2) ff aa kk ss yy eu zz
 faction ff aa kk ss yy on
@@ -33770,8 +33002,6 @@ factuelle ff aa kk tt uu ai ll
 factuelle(2) ff aa kk tt uu ai ll ee
 factuelles ff aa kk tt uu ai ll
 factuelles(2) ff aa kk tt uu ai ll ee
-factuelles(3) ff aa kk tt uu ai ll ee zz
-factuelles(4) ff aa kk tt uu ai ll zz
 facturation ff aa kk tt ou rr aa ss yy on
 facturations ff aa kk tt ou rr aa ss yy on
 facturations(2) ff aa kk tt ou rr aa ss yy on zz
@@ -33781,8 +33011,6 @@ facturer ff aa kk tt uu rr ei
 facturer(2) ff aa kk tt uu rr ei rr
 factures ff aa kk tt uu rr
 factures(2) ff aa kk tt uu rr ee
-factures(3) ff aa kk tt uu rr ee zz
-factures(4) ff aa kk tt uu rr zz
 facturettes ff aa kk tt uu rr ai tt
 facturé ff aa kk tt uu rr ei
 facturée ff aa kk tt uu rr ei
@@ -33822,13 +33050,10 @@ faiblement ff ai bb ll ee mm an
 faiblement(2) ff ai bb ll ee mm an tt
 faibles ff ai bb ll
 faibles(2) ff ai bb ll ee
-faibles(3) ff ai bb ll ee zz
-faibles(4) ff ai bb ll zz
 faiblesse ff ai bb ll ai ss
 faiblesse(2) ff ai bb ll ai ss ee
 faiblesses ff ai bb ll ai ss
 faiblesses(2) ff ai bb ll ai ss ee
-faiblesses(3) ff ai bb ll ai ss ee zz
 faibli ff ai bb ll ii
 faiblir ff ai bb ll ii rr
 faiblira ff ai bb ll ii rr aa
@@ -33841,8 +33066,6 @@ faille ff aa yy
 faille(2) ff aa yy ee
 failles ff aa yy
 failles(2) ff aa yy ee
-failles(3) ff aa yy ee zz
-failles(4) ff aa yy zz
 failli ff aa yy ii
 faillir ff aa yy ii rr
 faillit ff aa yy ii
@@ -33851,8 +33074,6 @@ faillite ff aa yy ii tt
 faillite(2) ff aa yy ii tt ee
 faillites ff aa yy ii tt
 faillites(2) ff aa yy ii tt ee
-faillites(3) ff aa yy ii tt ee zz
-faillites(4) ff aa yy ii tt zz
 faim ff aa ii mm
 faim(2) ff in
 fainéant ff ai nn ai an
@@ -33897,8 +33118,6 @@ faite ff ai tt
 faite(2) ff ai tt ee
 faites ff ai tt
 faites(2) ff ai tt ee
-faites(3) ff ai tt ee zz
-faites(4) ff ai tt zz
 faits ff ai
 faits(2) ff ai zz
 faivre ff ai vv rr
@@ -33908,8 +33127,6 @@ falaise(2) ff aa ll ai zz
 falaise(3) ff aa ll ai zz ee
 falaises ff aa ll ai zz
 falaises(2) ff aa ll ai zz ee
-falaises(3) ff aa ll ai zz ee zz
-falaises(4) ff aa ll ai zz zz
 falco ff aa ll kk au
 falcon ff aa ll kk oo nn
 falcone ff aa ll kk oo nn
@@ -33947,8 +33164,6 @@ fameuse ff aa mm eu zz
 fameuse(2) ff aa mm eu zz ee
 fameuses ff aa mm eu zz
 fameuses(2) ff aa mm eu zz ee
-fameuses(3) ff aa mm eu zz ee zz
-fameuses(4) ff aa mm eu zz zz
 fameux ff aa mm eu
 fameux(2) ff aa mm eu zz
 familial ff aa mm ii ll yy aa ll
@@ -33956,8 +33171,6 @@ familiale ff aa mm ii ll yy aa ll
 familiale(2) ff aa mm ii ll yy aa ll ee
 familiales ff aa mm ii ll yy aa ll
 familiales(2) ff aa mm ii ll yy aa ll ee
-familiales(3) ff aa mm ii ll yy aa ll ee zz
-familiales(4) ff aa mm ii ll yy aa ll zz
 familiariser ff aa mm ii ll yy aa rr ii zz ei
 familiariser(2) ff aa mm ii ll yy aa rr ii zz ei rr
 familiarisé ff aa mm ii ll yy aa rr ii zz ei
@@ -33973,35 +33186,25 @@ familièrement ff aa mm ii ll yy ai rr ee mm an
 familièrement(2) ff aa mm ii ll yy ai rr ee mm an tt
 familières ff aa mm ii ll yy ai rr
 familières(2) ff aa mm ii ll yy ai rr ee
-familières(3) ff aa mm ii ll yy ai rr ee zz
-familières(4) ff aa mm ii ll yy ai rr zz
 famille ff aa mm ii yy
 famille(2) ff aa mm ii yy ee
 familles ff aa mm ii yy
 familles(2) ff aa mm ii yy ai ss
 familles(3) ff aa mm ii yy ee
-familles(4) ff aa mm ii yy ee zz
-familles(5) ff aa mm ii yy zz
 family ff aa mm ii ll ii
 famine ff aa mm ii nn
 famine(2) ff aa mm ii nn ee
 famines ff aa mm ii nn
 famines(2) ff aa mm ii nn ee
-famines(3) ff aa mm ii nn ee zz
-famines(4) ff aa mm ii nn zz
 fan ff aa nn
 fanatique ff aa nn aa tt ii kk
 fanatique(2) ff aa nn aa tt ii kk ee
 fanatiques ff aa nn aa tt ii kk
 fanatiques(2) ff aa nn aa tt ii kk ee
-fanatiques(3) ff aa nn aa tt ii kk ee zz
-fanatiques(4) ff aa nn aa tt ii kk zz
 fanatisme ff aa nn aa tt ii ss mm
 fanatisme(2) ff aa nn aa tt ii ss mm ee
 fanatismes ff aa nn aa tt ii ss mm
 fanatismes(2) ff aa nn aa tt ii ss mm ee
-fanatismes(3) ff aa nn aa tt ii ss mm ee zz
-fanatismes(4) ff aa nn aa tt ii ss mm zz
 fance ff an ss
 fanci ff aa nn ss ii
 fanfan ff aa nn ff aa nn
@@ -34009,8 +33212,6 @@ fanfare ff an ff aa rr
 fanfare(2) ff an ff aa rr ee
 fanfares ff an ff aa rr
 fanfares(2) ff an ff aa rr ee
-fanfares(3) ff an ff aa rr ee zz
-fanfares(4) ff an ff aa rr zz
 fanfaron ff an ff aa rr on
 fang ff aa nn gg
 fangataufa ff an gg aa tt au ff aa
@@ -34028,8 +33229,6 @@ fantaisiste ff an tt ai zz ii ss tt
 fantaisiste(2) ff an tt ai zz ii ss tt ee
 fantaisistes ff an tt ai zz ii ss tt
 fantaisistes(2) ff an tt ai zz ii ss tt ee
-fantaisistes(3) ff an tt ai zz ii ss tt ee zz
-fantaisistes(4) ff an tt ai zz ii ss tt zz
 fantasia ff an tt aa zz yy aa
 fantasmagorie ff an tt aa ss mm aa gg oo rr ii
 fantasmatique ff an tt aa ss mm aa tt ii kk
@@ -34038,16 +33237,12 @@ fantasme ff an tt aa ss mm
 fantasme(2) ff an tt aa ss mm ee
 fantasmes ff an tt aa ss mm
 fantasmes(2) ff an tt aa ss mm ee
-fantasmes(3) ff an tt aa ss mm ee zz
-fantasmes(4) ff an tt aa ss mm zz
 fantasmé ff an tt aa ss mm ei
 fantasmée ff an tt aa ss mm ei
 fantasque ff an tt aa ss kk
 fantasque(2) ff an tt aa ss kk ee
 fantasques ff an tt aa ss kk
 fantasques(2) ff an tt aa ss kk ee
-fantasques(3) ff an tt aa ss kk ee zz
-fantasques(4) ff an tt aa ss kk zz
 fantassin ff an tt aa ss in
 fantassins ff an tt aa ss in
 fantassins(2) ff an tt aa ss in zz
@@ -34055,8 +33250,6 @@ fantastique ff an tt aa ss tt ii kk
 fantastique(2) ff an tt aa ss tt ii kk ee
 fantastiques ff an tt aa ss tt ii kk
 fantastiques(2) ff an tt aa ss tt ii kk ee
-fantastiques(3) ff an tt aa ss tt ii kk ee zz
-fantastiques(4) ff an tt aa ss tt ii kk zz
 fantasy ff an tt aa zz ii
 fantoche ff an tt oo ch
 fantoche(2) ff an tt oo ch ee
@@ -34064,15 +33257,11 @@ fantomatique ff an tt oo mm aa tt ii kk
 fantomatique(2) ff an tt oo mm aa tt ii kk ee
 fantomatiques ff an tt oo mm aa tt ii kk
 fantomatiques(2) ff an tt oo mm aa tt ii kk ee
-fantomatiques(3) ff an tt oo mm aa tt ii kk ee zz
-fantomatiques(4) ff an tt oo mm aa tt ii kk zz
 fantômas ff aa nn tt au mm aa ss
 fantôme ff an tt au mm
 fantôme(2) ff an tt au mm ee
 fantômes ff an tt au mm
 fantômes(2) ff an tt au mm ee
-fantômes(3) ff an tt au mm ee zz
-fantômes(4) ff an tt au mm zz
 fao ai ff aa au
 fao(2) ff aa au
 faouzi ff aa ou zz ii
@@ -34080,8 +33269,6 @@ far ff aa rr
 farah ff aa rr aa
 faramineuses ff aa rr aa mm ii nn eu zz
 faramineuses(2) ff aa rr aa mm ii nn eu zz ee
-faramineuses(3) ff aa rr aa mm ii nn eu zz ee zz
-faramineuses(4) ff aa rr aa mm ii nn eu zz zz
 faramineux ff aa rr aa mm ii nn eu
 faramineux(2) ff aa rr aa mm ii nn eu zz
 farandole ff aa rr an dd oo ll
@@ -34092,7 +33279,6 @@ farce ff aa rr ss
 farce(2) ff aa rr ss ee
 farces ff aa rr ss
 farces(2) ff aa rr ss ee
-farces(3) ff aa rr ss ee zz
 farceur ff aa rr ss oe rr
 farci ff aa rr ss ii
 farcie ff aa rr ss ii
