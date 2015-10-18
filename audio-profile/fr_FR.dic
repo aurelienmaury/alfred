@@ -188,8 +188,6 @@ abeille aa bb ai yy
 abeille(2) aa bb ai yy ee
 abeilles aa bb ai yy
 abeilles(2) aa bb ai yy ee
-abeilles(3) aa bb ai yy ee zz
-abeilles(4) aa bb ai yy zz
 abel aa bb ai ll
 abenhaïm aa bb ei nn aa ii mm
 aberdeen aa bb ai rr dd ii nn
@@ -200,8 +198,6 @@ aberrante aa bb ai rr an tt
 aberrante(2) aa bb ai rr an tt ee
 aberrantes aa bb ai rr an tt
 aberrantes(2) aa bb ai rr an tt ee
-aberrantes(3) aa bb ai rr an tt ee zz
-aberrantes(4) aa bb ai rr an tt zz
 aberrants aa bb ai rr an
 aberrants(2) aa bb ai rr an zz
 aberration aa bb ai rr aa ss yy on
@@ -10454,8 +10450,6 @@ belge bb ai ll jj
 belge(2) bb ai ll jj ee
 belges bb ai ll jj
 belges(2) bb ai ll jj ee
-belges(3) bb ai ll jj ee zz
-belges(4) bb ai ll jj zz
 belghiti bb ai ll gg ii tt ii
 belgique bb ai ll jj ii kk
 belgique(2) bb ai ll jj ii kk ee
@@ -10489,8 +10483,6 @@ bellegarde bb ai ll ee gg aa rr dd
 bellemar bb ai ll ee mm aa rr
 belles bb ai ll
 belles(2) bb ai ll ee
-belles(3) bb ai ll ee zz
-belles(4) bb ai ll zz
 bellet bb ai ll ai
 belleville bb ai ll ee vv ii ll
 belleville(2) bb ai ll ee vv ii ll ee
@@ -10515,10 +10507,8 @@ belliqueuse bb ai ll ii kk eu zz
 belliqueuse(2) bb ai ll ii kk eu zz ee
 belliqueuses bb ai ll ii kk eu zz
 belliqueuses(2) bb ai ll ii kk eu zz ee
-belliqueuses(3) bb ai ll ii kk eu zz ee zz
 belliqueuses(4) bb ai ll ii kk eu zz zz
 belliqueux bb ai ll ii kk eu
-belliqueux(2) bb ai ll ii kk eu zz
 bello bb ei ll au
 bellocchio bb ai ll au kk yy au
 belloubet bb ai ll ou bb ai
@@ -10601,8 +10591,6 @@ benne bb ai nn
 benne(2) bb ai nn ee
 bennes bb ai nn
 bennes(2) bb ai nn ee
-bennes(3) bb ai nn ee zz
-bennes(4) bb ai nn zz
 benneteau bb ai nn ee tt au
 bennett bb ai nn ai tt
 bennis bb ai nn ii
@@ -10640,11 +10628,12 @@ berce bb ai rr ss
 berce(2) bb ai rr ss ee
 berceau bb ai rr ss au
 berceaux bb ai rr ss au
-berceaux(2) bb ai rr ss au zz
 bercer bb ai rr ss ei
 bercer(2) bb ai rr ss ei rr
 berceuse bb ai rr ss eu zz
 berceuse(2) bb ai rr ss eu zz ee
+berceuses bb ai rr ss eu zz
+berceuses(2) bb ai rr ss eu zz ee
 bercis bb ai rr ss ii
 berck bb ai rr kk
 bercy bb ai rr ss ii
