@@ -66819,7 +66819,6 @@ parquet pp aa rr kk ai
 parquets pp aa rr kk ai
 parquets(2) pp aa rr kk ai zz
 parqués pp aa rr kk ei
-parqués(2) pp aa rr kk ei zz
 parra pp aa rr aa
 parrain pp aa rr in
 parrainage pp aa rr ai nn aa jj
@@ -66871,13 +66870,10 @@ partages(2) pp aa rr tt aa jj ee
 partages(3) pp aa rr tt aa jj ee zz
 partages(4) pp aa rr tt aa jj zz
 partagez pp aa rr tt aa jj ei
-partagez(2) pp aa rr tt aa jj ei zz
 partagé pp aa rr tt aa jj ei
 partagée pp aa rr tt aa jj ei
 partagées pp aa rr tt aa jj ei
-partagées(2) pp aa rr tt aa jj ei zz
 partagés pp aa rr tt aa jj ei
-partagés(2) pp aa rr tt aa jj ei zz
 partaient pp aa rr tt ai
 partaient(2) pp aa rr tt ai tt
 partait pp aa rr tt ai
@@ -66907,7 +66903,6 @@ parterres(2) pp aa rr tt ai rr ee
 parterres(3) pp aa rr tt ai rr ee zz
 parterres(4) pp aa rr tt ai rr zz
 partez pp aa rr tt ei
-partez(2) pp aa rr tt ei zz
 parthenay pp aa rr tt ee nn ai
 parthenay(2) pp aa rr tt nn ai
 parti pp aa rr tt ii
@@ -66949,7 +66944,6 @@ participerait(2) pp aa rr tt ii ss ii pp ee rr ai tt
 participeront pp aa rr tt ii ss ii pp ee rr on
 participeront(2) pp aa rr tt ii ss ii pp ee rr on tt
 participez pp aa rr tt ii ss ii pp ei
-participez(2) pp aa rr tt ii ss ii pp ei zz
 participons pp aa rr tt ii ss ii pp on
 participons(2) pp aa rr tt ii ss ii pp on zz
 participèrent pp aa rr tt ii ss ii pp ai rr ee
@@ -66962,7 +66956,6 @@ particularismes(3) pp aa rr tt ii kk uu ll aa rr ii ss mm ee zz
 particularismes(4) pp aa rr tt ii kk uu ll aa rr ii ss mm zz
 particularité pp aa rr tt ii kk uu ll aa rr ii tt ei
 particularités pp aa rr tt ii kk uu ll aa rr ii tt ei
-particularités(2) pp aa rr tt ii kk uu ll aa rr ii tt ei zz
 particule pp aa rr tt ii kk uu ll
 particule(2) pp aa rr tt ii kk uu ll ee
 particules pp aa rr tt ii kk uu ll
@@ -66973,7 +66966,6 @@ particulier pp aa rr tt ii kk uu ll yy ei
 particulier(2) pp aa rr tt ii kk uu ll yy ei
 particulier(3) pp aa rr tt ii kk uu ll yy ei rr
 particuliers pp aa rr tt ii kk uu ll yy ei
-particuliers(2) pp aa rr tt ii kk uu ll yy ei zz
 particulierspour pp aa rr tt ii kk uu ll yy ai rr ss pp ou rr
 particulière pp aa rr tt ii kk uu ll yy ai rr
 particulière(2) pp aa rr tt ii kk uu ll yy ai rr ee
@@ -66998,7 +66990,6 @@ partiels(2) pp aa rr ss yy ai ll zz
 parties pp aa rr tt ii
 parties(2) pp aa rr tt ii zz
 partiez pp aa rr tt yy ei
-partiez(2) pp aa rr tt yy ei zz
 partir pp aa rr tt ii rr
 partira pp aa rr tt ii rr aa
 partirai pp aa rr tt ii rr ai
@@ -67100,7 +67091,6 @@ parvînt(2) pp aa rr vv in tt
 paré pp aa rr ei
 parée pp aa rr ei
 parés pp aa rr ei
-parés(2) pp aa rr ei zz
 parût pp aa rr uu
 parût(2) pp aa rr uu tt
 pas pp aa
@@ -67139,7 +67129,6 @@ passage(2) pp aa ss aa jj ee
 passager pp aa ss aa jj ei
 passager(2) pp aa ss aa jj ei rr
 passagers pp aa ss aa jj ei
-passagers(2) pp aa ss aa jj ei zz
 passages pp aa ss aa jj
 passages(2) pp aa ss aa jj ee
 passages(3) pp aa ss aa jj ee zz
@@ -67194,7 +67183,6 @@ passerelles(2) pp aa ss ee rr ai ll ee
 passerelles(3) pp aa ss ee rr ai ll ee zz
 passerelles(4) pp aa ss ee rr ai ll zz
 passerez pp aa ss ee rr ei
-passerez(2) pp aa ss ee rr ei zz
 passeront pp aa ss ee rr on
 passeront(2) pp aa ss ee rr on tt
 passes pp aa ss
@@ -67205,7 +67193,6 @@ passeur pp aa ss oe rr
 passeurs pp aa ss oe rr
 passeurs(2) pp aa ss oe rr zz
 passez pp aa ss ei
-passez(2) pp aa ss ei zz
 passi pp aa ss ii
 passible pp aa ss ii bb ll
 passible(2) pp aa ss ii bb ll ee
@@ -67243,11 +67230,9 @@ passionner(2) pp aa ss yy oo nn ei rr
 passionné pp aa ss yy oo nn ei
 passionnée pp aa ss yy oo nn ei
 passionnées pp aa ss yy oo nn ei
-passionnées(2) pp aa ss yy oo nn ei zz
 passionnément pp aa ss yy oo nn ai mm an
 passionnément(2) pp aa ss yy oo nn ai mm an tt
 passionnés pp aa ss yy oo nn ei
-passionnés(2) pp aa ss yy oo nn ei zz
 passions pp aa ss yy on
 passions(2) pp aa ss yy on zz
 passive pp aa ss ii vv
@@ -67269,13 +67254,11 @@ passèrent pp aa ss ai rr ee
 passé pp aa ss ei
 passée pp aa ss ei
 passées pp aa ss ei
-passées(2) pp aa ss ei zz
 passéisme pp aa ss ai ii ss mm
 passéisme(2) pp aa ss ai ii ss mm ee
 passéiste pp aa ss ai ii ss tt
 passéiste(2) pp aa ss ai ii ss tt ee
 passés pp aa ss ei
-passés(2) pp aa ss ei zz
 pastel pp aa ss tt ai ll
 pasteles pp aa ss tt ee ll
 pastels pp aa ss tt ai ll
@@ -67335,7 +67318,6 @@ patents pp aa tt an
 patents(2) pp aa tt an zz
 patenté pp aa tt an tt ei
 patentés pp aa tt an tt ei
-patentés(2) pp aa tt an tt ei zz
 patera pp aa tt ei rr aa
 paternalisme pp aa tt ai rr nn aa ll ii ss mm
 paternalisme(2) pp aa tt ai rr nn aa ll ii ss mm ee
@@ -67546,7 +67528,6 @@ paume pp au mm
 paume(2) pp au mm ee
 paumé pp oo mm ei
 paumés pp oo mm ei
-paumés(2) pp oo mm ei zz
 paupières pp oo pp yy ai rr
 paupières(2) pp oo pp yy ai rr ee
 paupières(3) pp oo pp yy ai rr ee zz
@@ -67582,14 +67563,11 @@ pavoiser(2) pp aa vv ww aa zz ei rr
 pavoiseront pp aa vv ww aa zz ee rr on
 pavoiseront(2) pp aa vv ww aa zz ee rr on tt
 pavoisés pp aa vv ww aa zz ei
-pavoisés(2) pp aa vv ww aa zz ei zz
 pavot pp aa vv au
 pavé pp aa vv ei
 pavée pp aa vv ei
 pavées pp aa vv ei
-pavées(2) pp aa vv ei zz
 pavés pp aa vv ei
-pavés(2) pp aa vv ei zz
 pawlak pp au ll aa kk
 pax pp aa kk ss
 paxman pp aa kk ss mm aa nn
@@ -67661,9 +67639,7 @@ paysans(2) pp ai ii zz an zz
 payé pp ai yy ei
 payée pp ai yy ei
 payées pp ai yy ei
-payées(2) pp ai yy ei zz
 payés pp ai yy ei
-payés(2) pp ai yy ei zz
 paz pp aa zz
 pazner pp aa zz nn ai rr
 paître pp ai tt rr
@@ -67868,9 +67844,7 @@ penchera pp an ch ee rr aa
 penché pp an ch ei
 penchée pp an ch ei
 penchées pp an ch ei
-penchées(2) pp an ch ei zz
 penchés pp an ch ei
-penchés(2) pp an ch ei zz
 pend pp an
 pend(2) pp an tt
 pendaison pp an dd ai zz on
@@ -67934,9 +67908,7 @@ pensera pp an ss ee rr aa
 penserait pp an ss ee rr ai
 penserait(2) pp an ss ee rr ai tt
 penseriez pp an ss ee rr yy ei
-penseriez(2) pp an ss ee rr yy ei zz
-penseriez(3) pp an ss rr yy ei
-penseriez(4) pp an ss rr yy ei zz
+penseriez(2) pp an ss rr yy ei
 penseront pp an ss ee rr on
 penseront(2) pp an ss ee rr on tt
 penses pp an ss
@@ -67945,9 +67917,7 @@ penseur pp an ss oe rr
 penseurs pp an ss oe rr
 penseurs(2) pp an ss oe rr zz
 pensez pp an ss ei
-pensez(2) pp an ss ei zz
 pensiez pp an ss yy ei
-pensiez(2) pp an ss yy ei zz
 pension pp an ss yy on
 pensionnaire pp an ss yy oo nn ai rr
 pensionnaire(2) pp an ss yy oo nn ai rr ee
@@ -67957,7 +67927,6 @@ pensionnaires(3) pp an ss yy oo nn ai rr ee zz
 pensionnaires(4) pp an ss yy oo nn ai rr zz
 pensionnat pp an ss yy oo nn aa
 pensionnés pp an ss yy oo nn ei
-pensionnés(2) pp an ss yy oo nn ei zz
 pensions pp an ss yy on
 pensions(2) pp an ss yy on zz
 pensons pp an ss on
@@ -67966,7 +67935,6 @@ pensum pp an ss oo mm
 pensé pp an ss ei
 pensée pp an ss ei
 pensées pp an ss ei
-pensées(2) pp an ss ei zz
 pentagone pp in tt aa gg oo nn
 pentagone(2) pp in tt aa gg oo nn ee
 pente pp an tt
@@ -67981,7 +67949,6 @@ pentes(3) pp an tt ee zz
 pentes(4) pp an tt zz
 pentium pp ei nn tt ii uu mm
 people pp oo pp ll
-peoplesoft pp oo pp ll ei zz oo ff tt
 pep pp ai pp
 pepito pp ei pp ii tt au
 pepper pp ai pp ai rr
@@ -68029,9 +67996,7 @@ perchoir pp ai rr ch ww aa rr
 perché pp ai rr ch ei
 perchée pp ai rr ch ei
 perchées pp ai rr ch ei
-perchées(2) pp ai rr ch ei zz
 perchés pp ai rr ch ei
-perchés(2) pp ai rr ch ei zz
 percussion pp ai rr kk uu ss yy on
 percussionniste pp ai rr kk uu ss yy oo nn ii ss tt
 percussionniste(2) pp ai rr kk uu ss yy oo nn ii ss tt ee
@@ -68055,14 +68020,11 @@ percuter pp ai rr kk uu tt ei
 percuter(2) pp ai rr kk uu tt ei rr
 percuté pp ai rr kk uu tt ei
 percutés pp ai rr kk uu tt ei
-percutés(2) pp ai rr kk uu tt ei zz
 percy pp ai rr ss ii
 percé pp ai rr ss ei
 percée pp ai rr ss ei
 percées pp ai rr ss ei
-percées(2) pp ai rr ss ei zz
 percés pp ai rr ss ei
-percés(2) pp ai rr ss ei zz
 perd pp ai rr
 perdaient pp ai rr dd ai
 perdaient(2) pp ai rr dd ai tt
@@ -68134,7 +68096,6 @@ perfectionniste pp ai rr ff ai kk ss yy oo nn ii ss tt
 perfectionné pp ai rr ff ai kk ss yy oo nn ei
 perfectionnée pp ai rr ff ai kk ss yy oo nn ei
 perfectionnés pp ai rr ff ai kk ss yy oo nn ei
-perfectionnés(2) pp ai rr ff ai kk ss yy oo nn ei zz
 perfide pp ai rr ff ii dd
 perfide(2) pp ai rr ff ii dd ee
 perfidement pp ai rr ff ii dd ee mm an
@@ -68206,7 +68167,6 @@ permette(2) pp ai rr mm ai tt ee
 permettent pp ai rr mm ai tt ee
 permettez pp ai rr mm ai tt ai
 permettez(2) pp ai rr mm ai tt ei
-permettez(3) pp ai rr mm ai tt ei zz
 permettra pp ai rr mm ai tt rr aa
 permettraient pp ai rr mm ai tt rr ai
 permettraient(2) pp ai rr mm ai tt rr ai tt
@@ -68215,7 +68175,6 @@ permettrait(2) pp ai rr mm ai tt rr ai tt
 permettre pp ai rr mm ai tt rr
 permettre(2) pp ai rr mm ai tt rr ee
 permettrez pp ai rr mm ai tt rr ei
-permettrez(2) pp ai rr mm ai tt rr ei zz
 permettrons pp ai rr mm ai tt rr on
 permettrons(2) pp ai rr mm ai tt rr on zz
 permettront pp ai rr mm ai tt rr on
@@ -68271,9 +68230,7 @@ perpétrer(2) pp ai rr pp ai tt rr ei rr
 perpétré pp ai rr pp ai tt rr ei
 perpétrée pp ai rr pp ai tt rr ei
 perpétrées pp ai rr pp ai tt rr ei
-perpétrées(2) pp ai rr pp ai tt rr ei zz
 perpétrés pp ai rr pp ai tt rr ei
-perpétrés(2) pp ai rr pp ai tt rr ei zz
 perpétuation pp ai rr pp ei tt uu aa ss yy on
 perpétue pp ai rr pp ai tt uu
 perpétuel pp ai rr pp ai tt uu ai ll
@@ -68385,12 +68342,9 @@ personnaliser(2) pp ai rr ss oo nn aa ll ii zz ei rr
 personnalisé pp ai rr ss oo nn aa ll ii zz ei
 personnalisée pp ai rr ss oo nn aa ll ii zz ei
 personnalisées pp ai rr ss oo nn aa ll ii zz ei
-personnalisées(2) pp ai rr ss oo nn aa ll ii zz ei zz
 personnalisés pp ai rr ss oo nn aa ll ii zz ei
-personnalisés(2) pp ai rr ss oo nn aa ll ii zz ei zz
 personnalité pp ai rr ss oo nn aa ll ii tt ei
 personnalités pp ai rr ss oo nn aa ll ii tt ei
-personnalités(2) pp ai rr ss oo nn aa ll ii tt ei zz
 personne pp ai rr ss oo nn
 personne(2) pp ai rr ss oo nn ee
 personnel pp ai rr ss oo nn ai ll
@@ -68429,11 +68383,8 @@ persuader(2) pp ai rr ss uu aa dd ei rr
 persuadé pp ai rr ss uu aa dd ei
 persuadée pp ai rr ss uu aa dd ei
 persuadées pp ai rr ss uu aa dd ei
-persuadées(2) pp ai rr ss uu aa dd ei zz
-persuadées(3) pp ai rr ss uy aa dd ei
-persuadées(4) pp ai rr ss uy aa dd ei zz
+persuadées(2) pp ai rr ss uy aa dd ei
 persuadés pp ai rr ss uu aa dd ei
-persuadés(2) pp ai rr ss uu aa dd ei zz
 persuasif pp ai rr ss uu aa zz ii ff
 persuasion pp ai rr ss uu aa zz yy on
 persuasive pp ai rr ss uu aa zz ii vv
@@ -68446,7 +68397,6 @@ persécutions(4) pp ai rr ss ai kk uu tt yy on zz
 persécuté pp ai rr ss ai kk uu tt ei
 persécutée pp ai rr ss ai kk uu tt ei
 persécutés pp ai rr ss ai kk uu tt ei
-persécutés(2) pp ai rr ss ai kk uu tt ei zz
 perséus pp ai rr ss ei uu
 persévérance pp ai rr ss ai vv ai rr an ss
 persévérance(2) pp ai rr ss ai vv ai rr an ss ee
@@ -68490,9 +68440,7 @@ perturber(2) pp ai rr tt uu rr bb ei rr
 perturbé pp ai rr tt uu rr bb ei
 perturbée pp ai rr tt uu rr bb ei
 perturbées pp ai rr tt uu rr bb ei
-perturbées(2) pp ai rr tt uu rr bb ei zz
 perturbés pp ai rr tt uu rr bb ei
-perturbés(2) pp ai rr tt uu rr bb ei zz
 pervenche pp ai rr vv an ch
 pervenche(2) pp ai rr vv an ch ee
 pervers pp ai rr vv ai rr
@@ -68580,11 +68528,9 @@ pesticides(3) pp ai ss tt ii ss ii dd ee zz
 pesticides(4) pp ai ss tt ii ss ii dd zz
 pestiférée pp ai ss tt ii ff ai rr ei
 pestiférés pp ai ss tt ii ff ai rr ei
-pestiférés(2) pp ai ss tt ii ff ai rr ei zz
 pesé pp ee zz ei
 pesée pp ee zz ei
 pesés pp ee zz ei
-pesés(2) pp ee zz ei zz
 pet pp ai
 pet(2) pp ai
 petacchi pp ei tt aa kk ii
@@ -68661,13 +68607,10 @@ peuples(2) pp oe pp ll ee
 peuples(3) pp oe pp ll ee zz
 peuples(4) pp oe pp ll zz
 peupliers pp ee pp ll ii yy ei
-peupliers(2) pp ee pp ll ii yy ei zz
 peuplé pp ee pp ll ei
 peuplée pp ee pp ll ei
 peuplées pp ee pp ll ei
-peuplées(2) pp ee pp ll ei zz
 peuplés pp ee pp ll ei
-peuplés(2) pp ee pp ll ei zz
 peur pp oe rr
 peureux pp eu rr eu
 peurs pp oe rr
@@ -68876,9 +68819,7 @@ photographiques(4) ff oo tt oo gg rr aa ff ii kk zz
 photographié ff oo tt oo gg rr aa ff yy ei
 photographiée ff oo tt oo gg rr aa ff yy ei
 photographiées ff oo tt oo gg rr aa ff yy ei
-photographiées(2) ff oo tt oo gg rr aa ff yy ei zz
 photographiés ff oo tt oo gg rr aa ff yy ei
-photographiés(2) ff oo tt oo gg rr aa ff yy ei zz
 photogénique ff oo tt oo jj ai nn ii kk
 photogénique(2) ff oo tt oo jj ai nn ii kk ee
 photojournalisme ff oo tt oo jj ou rr nn aa ll ii ss mm
@@ -68901,7 +68842,6 @@ phrases(4) ff rr aa zz zz
 phrasé ff rr aa zz ei
 phraséologie ff rr aa zz ai oo ll oo jj ii
 phrasés ff rr aa zz ei
-phrasés(2) ff rr aa zz ei zz
 phrygien ff rr ii jj yy ai nn
 phrygien(2) ff rr ii jj yy in
 phréatique ff rr ai aa tt ii kk
@@ -69030,7 +68970,6 @@ pied-à-terre pp yy ai tt aa tt ai rr
 pied-à-terre(2) pp yy ai tt aa tt ai rr ee
 pieds pp yy ai dd ss
 pieds(2) pp yy ei
-pieds(3) pp yy ei zz
 pieds-noirs pp yy ai nn ww aa rr
 pieds-noirs(2) pp yy ai nn ww aa rr zz
 pier pp ii rr
@@ -69117,7 +69056,6 @@ pileum pp ii ll eu mm
 pilhan pp ii ll an
 pilier pp ii ll yy ei
 piliers pp ii ll yy ei
-piliers(2) pp ii ll yy ei zz
 pillage pp ii yy aa jj
 pillage(2) pp ii yy aa jj ee
 pillages pp ii yy aa jj
@@ -69136,9 +69074,7 @@ pilleurs(2) pp ii yy oe rr zz
 pillé pp ii yy ei
 pillée pp ii yy ei
 pillées pp ii yy ei
-pillées(2) pp ii yy ei zz
 pillés pp ii yy ei
-pillés(2) pp ii yy ei zz
 pilon pp ii ll on
 pilonnage pp ii ll oo nn aa jj
 pilonnage(2) pp ii ll oo nn aa jj ee
@@ -69160,7 +69096,6 @@ pilotis(2) pp ii ll oo tt ii zz
 piloté pp ii ll oo tt ei
 pilotée pp ii ll oo tt ei
 pilotés pp ii ll oo tt ei
-pilotés(2) pp ii ll oo tt ei zz
 pilule pp ii ll uu ll
 pilule(2) pp ii ll uu ll ee
 pilules pp ii ll uu ll
@@ -69238,7 +69173,6 @@ pioche(2) pp yy oo ch ee
 piocher pp yy oo ch ei
 piocher(2) pp yy oo ch ei rr
 piochés pp yy oo ch ei
-piochés(2) pp yy oo ch ei zz
 pioline pp yy oo ll ii nn
 pioline(2) pp yy oo ll ii nn ee
 pion pp yy on
@@ -69246,7 +69180,6 @@ pioneer pp yy au nn ii rr
 pionnier pp yy oo nn yy ei
 pionnier(2) pp yy oo nn yy ei rr
 pionniers pp yy oo nn yy ei
-pionniers(2) pp yy oo nn yy ei zz
 pionnière pp yy oo nn yy ai rr
 pionnière(2) pp yy oo nn yy ai rr ee
 pionnières pp yy oo nn yy ai rr
@@ -69274,7 +69207,6 @@ pipes(4) pp ii pp zz
 pipi pp ii pp ii
 pippo pp ii pp au
 pipés pp ii pp ei
-pipés(2) pp ii pp ei zz
 piquant pp ii kk an
 piquant(2) pp ii kk an tt
 piquante pp ii kk an tt
@@ -69298,7 +69230,6 @@ piqueur pp ii kk oe rr
 piqué pp ii kk ei
 piquée pp ii kk ei
 piqués pp ii kk ei
-piqués(2) pp ii kk ei zz
 piqûre pp ii kk uu rr
 piqûre(2) pp ii kk uu rr ee
 piqûres pp ii kk uu rr
@@ -69365,7 +69296,6 @@ pistes pp ii ss tt
 pistes(2) pp ii ss tt ee
 pistes(3) pp ii ss tt ee zz
 pistes(4) pp ii ss tt zz
-pistolesi pp ii ss tt au ll ei zz ii
 pistolet pp ii ss tt oo ll ai
 pistolets pp ii ss tt oo ll ai
 pistolets(2) pp ii ss tt oo ll ai zz
@@ -69384,7 +69314,6 @@ piteusement(2) pp ii tt ee zz ee mm an tt
 piteux pp ii tt eu
 piteux(2) pp ii tt eu zz
 pithiviers pp ii tt ii vv yy ei
-pithiviers(2) pp ii tt ii vv yy ei zz
 pitié pp ii tt yy ei
 piton pp ii tt on
 pitous pp ii tt ou ss
@@ -69448,9 +69377,7 @@ piéger(2) pp yy ai jj ei rr
 piégé pp yy ai jj ei
 piégée pp yy ai jj ei
 piégées pp yy ai jj ei
-piégées(2) pp yy ai jj ei zz
 piégés pp yy ai jj ei
-piégés(2) pp yy ai jj ei zz
 piémont pp yy ei mm on
 piémontais pp yy ai mm on tt ai
 piémontais(2) pp yy ai mm on tt ai zz
@@ -69462,7 +69389,6 @@ piétiner pp yy ai tt ii nn ei
 piétiner(2) pp yy ai tt ii nn ei rr
 piétiné pp yy ai tt ii nn ei
 piétinés pp yy ai tt ii nn ei
-piétinés(2) pp yy ai tt ii nn ei zz
 piéton pp yy ai tt on
 piétonne pp yy ai tt oo nn
 piétonne(2) pp yy ai tt oo nn ee
@@ -69471,7 +69397,6 @@ piétonnes(2) pp yy ai tt oo nn ee
 piétonnes(3) pp yy ai tt oo nn ee zz
 piétonnes(4) pp yy ai tt oo nn zz
 piétonniers pp yy ai tt oo nn yy ei
-piétonniers(2) pp yy ai tt oo nn yy ei zz
 piétonnières pp yy ai tt oo nn yy ai rr
 piétonnières(2) pp yy ai tt oo nn yy ai rr ee
 piétonnières(3) pp yy ai tt oo nn yy ai rr ee zz
@@ -69493,9 +69418,7 @@ placard pp ll aa kk aa rr
 placards pp ll aa kk aa rr
 placards(2) pp ll aa kk aa rr zz
 placardées pp ll aa kk aa rr dd ei
-placardées(2) pp ll aa kk aa rr dd ei zz
 placardés pp ll aa kk aa rr dd ei
-placardés(2) pp ll aa kk aa rr dd ei zz
 place pp ll aa ss
 place(2) pp ll aa ss ee
 placebo pp ll aa ss ai bb au
@@ -69521,9 +69444,7 @@ placido pp ll aa ss ii dd au
 placé pp ll aa ss ei
 placée pp ll aa ss ei
 placées pp ll aa ss ei
-placées(2) pp ll aa ss ei zz
 placés pp ll aa ss ei
-placés(2) pp ll aa ss ei zz
 plafond pp ll aa ff on
 plafonds pp ll aa ff on
 plafonds(2) pp ll aa ff on zz
@@ -69535,9 +69456,7 @@ plafonner(2) pp ll aa ff oo nn ei rr
 plafonné pp ll aa ff oo nn ei
 plafonnée pp ll aa ff oo nn ei
 plafonnées pp ll aa ff oo nn ei
-plafonnées(2) pp ll aa ff oo nn ei zz
 plafonnés pp ll aa ff oo nn ei
-plafonnés(2) pp ll aa ff oo nn ei zz
 plage pp ll aa jj
 plage(2) pp ll aa jj ee
 plages pp ll aa jj
@@ -69566,7 +69485,6 @@ plaidoiries pp ll ai dd ww aa rr ii
 plaidoiries(2) pp ll ai dd ww aa rr ii zz
 plaidoyer pp ll ai dd ww aa yy ei
 plaidoyers pp ll ai dd ww aa yy ei
-plaidoyers(2) pp ll ai dd ww aa yy ei zz
 plaidé pp ll ai dd ei
 plaie pp ll ai
 plaies pp ll ai
@@ -69628,7 +69546,6 @@ plaisamment(2) pp ll ai zz aa mm an tt
 plaisance pp ll ai zz an ss
 plaisance(2) pp ll ai zz an ss ee
 plaisanciers pp ll ai zz an ss yy ei
-plaisanciers(2) pp ll ai zz an ss yy ei zz
 plaisant pp ll ai zz an
 plaisant(2) pp ll ai zz an tt
 plaisantais pp ll ai zz an tt ai
@@ -69659,7 +69576,6 @@ plaisantes(2) pp ll ai zz an tt ee
 plaisantes(3) pp ll ai zz an tt ee zz
 plaisantes(4) pp ll ai zz an tt zz
 plaisantez pp ll ai zz an tt ei
-plaisantez(2) pp ll ai zz an tt ei zz
 plaisants pp ll ai zz an
 plaisants(2) pp ll ai zz an zz
 plaisanté pp ll ai zz an tt ei
@@ -69685,7 +69601,6 @@ planchent pp ll an ch ee
 plancher pp ll an ch ei
 plancher(2) pp ll an ch ei rr
 planchers pp ll an ch ei
-planchers(2) pp ll an ch ei zz
 planches pp ll an ch
 planches(2) pp ll an ch ee
 planches(3) pp ll an ch ee zz
@@ -69713,7 +69628,6 @@ planifier(2) pp ll aa nn ii ff yy ei rr
 planifié pp ll aa nn ii ff yy ei
 planifiée pp ll aa nn ii ff yy ei
 planifiées pp ll aa nn ii ff yy ei
-planifiées(2) pp ll aa nn ii ff yy ei zz
 planisphère pp ll aa nn ii ss ff ai rr
 planisphères pp ll aa nn ii ss ff ai rr
 planistat pp ll aa nn ii ss tt aa
@@ -69752,9 +69666,7 @@ plantureuse(2) pp ll an tt uu rr eu zz ee
 planté pp ll an tt ei
 plantée pp ll an tt ei
 plantées pp ll an tt ei
-plantées(2) pp ll an tt ei zz
 plantés pp ll an tt ei
-plantés(2) pp ll an tt ei zz
 planum pp ll aa nn oo mm
 planète pp ll aa nn ai tt
 planète(2) pp ll aa nn ai tt ee
@@ -69789,7 +69701,6 @@ plaquettes(4) pp ll aa kk ai tt zz
 plaqué pp ll aa kk ei
 plaquée pp ll aa kk ei
 plaqués pp ll aa kk ei
-plaqués(2) pp ll aa kk ei zz
 plasma pp ll aa ss mm aa
 plasson pp ll aa ss on
 plastic pp ll aa ss tt ii kk
@@ -69915,7 +69826,6 @@ pleurer pp ll ee rr ei
 pleurer(2) pp ll ee rr ei rr
 pleureur pp ll ee rr oe rr
 pleurez pp ll ee rr ei
-pleurez(2) pp ll ee rr ei zz
 pleurnicher pp ll ee rr nn ii ch ei
 pleurnicher(2) pp ll ee rr nn ii ch ei rr
 pleurs pp ll oe rr
@@ -69947,12 +69857,10 @@ pline pp ll ii nn
 plis pp ll ii
 plis(2) pp ll ii zz
 plissés pp ll ii ss ei
-plissés(2) pp ll ii ss ei zz
 plié pp ll ii yy ei
 plié(2) pp ll yy ei
 pliée pp ll yy ei
 pliés pp ll ii yy ei
-pliés(2) pp ll ii yy ei zz
 plm pp ei ai ll ai mm
 pln pp ei ai ll ai nn
 plogoff pp ll oo gg oo ff
@@ -69964,7 +69872,6 @@ plomber(2) pp ll on bb ei rr
 plomberie pp ll on bb ee rr ii
 plombier pp ll on bb yy ei
 plombiers pp ll on bb yy ei
-plombiers(2) pp ll on bb yy ei zz
 plombs pp ll on
 plombs(2) pp ll on zz
 plombé pp ll on bb ei
@@ -69986,13 +69893,10 @@ plongeur pp ll on jj oe rr
 plongeurs pp ll on jj oe rr
 plongeurs(2) pp ll on jj oe rr zz
 plongez pp ll on jj ei
-plongez(2) pp ll on jj ei zz
 plongé pp ll on jj ei
 plongée pp ll on jj ei
 plongées pp ll on jj ei
-plongées(2) pp ll on jj ei zz
 plongés pp ll on jj ei
-plongés(2) pp ll on jj ei zz
 plonk pp ll oo nn kk
 plu pp ll uu
 pluie pp ll uy ii
@@ -70183,7 +70087,6 @@ poignets pp ww aa gn ai
 poignets(2) pp ww aa gn ai zz
 poignée pp ww aa gn ei
 poignées pp ww aa gn ei
-poignées(2) pp ww aa gn ei zz
 poil pp ww aa ll
 poils pp ww aa ll
 poils(2) pp ww aa ll zz
@@ -70231,7 +70134,6 @@ pointilleux pp ww in tt ii yy eu
 pointilleux(2) pp ww in tt ii yy eu zz
 pointillé pp ww in tt ii yy ei
 pointillés pp ww in tt ii yy ei
-pointillés(2) pp ww in tt ii yy ei zz
 points pp ww in
 points(2) pp ww in zz
 points_de_vue pp ww in dd ee vv uu
@@ -70250,7 +70152,6 @@ pointus(2) pp ww in tt uu zz
 pointé pp ww in tt ei
 pointée pp ww in tt ei
 pointés pp ww in tt ei
-pointés(2) pp ww in tt ei zz
 poinçonner pp ww in ss oo nn ei
 poinçonner(2) pp ww in ss oo nn ei rr
 poire pp ww aa rr
@@ -70335,7 +70236,6 @@ polichinelle(2) pp oo ll ii ch ii nn ai ll ee
 policier pp oo ll ii ss yy ei
 policier(2) pp oo ll ii ss yy ei rr
 policiers pp oo ll ii ss yy ei
-policiers(2) pp oo ll ii ss yy ei zz
 policière pp oo ll ii ss yy ai rr
 policière(2) pp oo ll ii ss yy ai rr ee
 policières pp oo ll ii ss yy ai rr
@@ -70387,7 +70287,6 @@ politiser(2) pp oo ll ii tt ii zz ei rr
 politisé pp oo ll ii tt ii zz ei
 politisée pp oo ll ii tt ii zz ei
 politisés pp oo ll ii tt ii zz ei
-politisés(2) pp oo ll ii tt ii zz ei zz
 politologue pp oo ll ii tt oo ll oo gg
 politologues pp oo ll ii tt oo ll oo gg
 polje pp oo ll yy ei
@@ -70422,9 +70321,7 @@ pollutions(2) pp oo ll uu ss yy on zz
 pollué pp oo ll uu ei
 polluée pp oo ll uu ei
 polluées pp oo ll uu ei
-polluées(2) pp oo ll uu ei zz
 pollués pp oo ll uu ei
-pollués(2) pp oo ll uu ei zz
 polly pp au ll ii
 polmar pp au ll mm aa rr
 polo pp au ll au
@@ -70533,7 +70430,6 @@ pommettes(3) pp oo mm ai tt ee zz
 pommettes(4) pp oo mm ai tt zz
 pommier pp oo mm yy ei
 pommiers pp oo mm yy ei
-pommiers(2) pp oo mm yy ei zz
 pompadour pp on pp aa dd ou rr
 pompage pp on pp aa jj
 pompage(2) pp on pp aa jj ee
@@ -70553,7 +70449,6 @@ pompidou pp on pp ii dd ou
 pompier pp on pp yy ei
 pompier(2) pp on pp yy ei rr
 pompiers pp on pp yy ei
-pompiers(2) pp on pp yy ei zz
 pompiste pp on pp ii ss tt
 pompiste(2) pp on pp ii ss tt ee
 pompistes pp on pp ii ss tt
@@ -70596,9 +70491,7 @@ ponctuer(2) pp on kk tt uu ei rr
 ponctué pp on kk tt uu ei
 ponctuée pp on kk tt uu ei
 ponctuées pp on kk tt uu ei
-ponctuées(2) pp on kk tt uu ei zz
 ponctués pp on kk tt uu ei
-ponctués(2) pp on kk tt uu ei zz
 pondeuses pp on dd eu zz
 pondeuses(2) pp on dd eu zz ee
 pondeuses(3) pp on dd eu zz ee zz
@@ -70804,7 +70697,6 @@ porteuses(2) pp oo rr tt eu zz ee
 porteuses(3) pp oo rr tt eu zz ee zz
 porteuses(4) pp oo rr tt eu zz zz
 portez pp oo rr tt ei
-portez(2) pp oo rr tt ei zz
 portfolio pp au rr tt ff au ll yy au
 portfolio(2) pp oo rr tt ff oo ll yy au
 portfolios pp oo rr tt ff oo ll yy au
@@ -70866,9 +70758,7 @@ portèrent pp oo rr tt ai rr ee
 porté pp oo rr tt ei
 portée pp oo rr tt ei
 portées pp oo rr tt ei
-portées(2) pp oo rr tt ei zz
 portés pp oo rr tt ei
-portés(2) pp oo rr tt ei zz
 pos pp oo ss
 posa pp oo zz aa
 posaient pp oo zz ai
@@ -70910,7 +70800,6 @@ poseur pp oo zz oe rr
 poseurs pp oo zz oe rr
 poseurs(2) pp oo zz oe rr zz
 posez pp oo zz ei
-posez(2) pp oo zz ei zz
 posions pp oo zz yy on
 posions(2) pp oo zz yy on zz
 positif pp oo zz ii tt ii ff
@@ -70927,9 +70816,7 @@ positionner pp oo zz ii ss yy oo nn ei
 positionner(2) pp oo zz ii ss yy oo nn ei rr
 positionné pp oo zz ii ss yy oo nn ei
 positionnées pp oo zz ii ss yy oo nn ei
-positionnées(2) pp oo zz ii ss yy oo nn ei zz
 positionnés pp oo zz ii ss yy oo nn ei
-positionnés(2) pp oo zz ii ss yy oo nn ei zz
 positions pp oo zz ii ss yy on
 positions(2) pp oo zz ii ss yy on zz
 positive pp oo zz ii tt ii vv
@@ -70955,7 +70842,6 @@ possessions pp oo ss ai ss yy on
 possessions(2) pp oo ss ai ss yy on zz
 possibilité pp oo ss ii bb ii ll ii tt ei
 possibilités pp oo ss ii bb ii ll ii tt ei
-possibilités(2) pp oo ss ii bb ii ll ii tt ei zz
 possible pp oo ss ii bb ll
 possible(2) pp oo ss ii bb ll ee
 possiblement pp oo ss ii bb ll ee mm an
@@ -70982,7 +70868,6 @@ possédons(2) pp oo ss ai dd on zz
 possédé pp oo ss ai dd ei
 possédée pp oo ss ai dd ei
 possédés pp oo ss ai dd ei
-possédés(2) pp oo ss ai dd ei zz
 post pp oo ss
 post(2) pp oo ss tt
 post- pp oo ss tt
@@ -71019,7 +70904,6 @@ posthumes(3) pp oo ss tt uu mm ee zz
 posthumes(4) pp oo ss tt uu mm zz
 postier pp oo ss tt yy ei
 postiers pp oo ss tt yy ei
-postiers(2) pp oo ss tt yy ei zz
 postillons pp oo ss tt ii yy on
 postillons(2) pp oo ss tt ii yy on zz
 postmoderne pp oo ss tt mm oo dd ai rr nn
@@ -71045,9 +70929,7 @@ postures(4) pp oo ss tt uu rr zz
 posté pp oo ss tt ei
 postée pp oo ss tt ei
 postées pp au ss tt ei
-postées(2) pp au ss tt ei zz
 postées(3) pp oo ss tt ei
-postées(4) pp oo ss tt ei zz
 postérieur pp oo ss tt ai rr yy oe rr
 postérieure pp oo ss tt ai rr yy oe rr
 postérieure(2) pp oo ss tt ai rr yy oe rr ee
@@ -71060,15 +70942,12 @@ postérieurs pp oo ss tt ai rr yy oe rr
 postérieurs(2) pp oo ss tt ai rr yy oe rr zz
 postérité pp oo ss tt ai rr ii tt ei
 postés pp oo ss tt ei
-postés(2) pp oo ss tt ei zz
 posé pp oo zz ei
 posée pp oo zz ei
 posées pp oo zz ei
-posées(2) pp oo zz ei zz
 posément pp oo zz ai mm an
 posément(2) pp oo zz ai mm an tt
 posés pp oo zz ei
-posés(2) pp oo zz ei zz
 pot pp au
 pot-au-feu pp oo tt oo ff eu
 pot-de-vin pp oo dd ee vv in
@@ -71101,7 +70980,6 @@ potentat pp oo tt an tt aa
 potentats pp oo tt an tt aa
 potentats(2) pp oo tt an tt aa zz
 potentialités pp oo tt an ss yy aa ll ii tt ei
-potentialités(2) pp oo tt an ss yy aa ll ii tt ei zz
 potentiel pp oo tt an tt yy ai ll
 potentiel(2) pp oo tt an ss yy ai ll
 potentielle pp oo tt an ss yy ai ll
@@ -71204,7 +71082,6 @@ poupe(2) pp ou pp ee
 poupon pp ou pp on
 poupée pp ou pp ei
 poupées pp ou pp ei
-poupées(2) pp ou pp ei zz
 pour pp ou rr
 pour_ainsi_dire pp ou rr in ss ii dd ii rr
 pour_autant pp ou rr au tt an
@@ -71233,7 +71110,6 @@ pourcentages(3) pp ou rr ss an tt aa jj ee zz
 pourcentages(4) pp ou rr ss an tt aa jj zz
 pourchassé pp ou rr ch aa ss ei
 pourchassés pp ou rr ch aa ss ei
-pourchassés(2) pp ou rr ch aa ss ei zz
 pourfend pp ou rr ff an
 pourfend(2) pp ou rr ff an tt
 pourfendeur pp ou rr ff an dd oe rr
@@ -71243,7 +71119,6 @@ pourfendre pp ou rr ff an dd rr
 pourfendre(2) pp ou rr ff an dd rr ee
 pourparler pp ou rr pp aa rr ll ei
 pourparlers pp ou rr pp aa rr ll ei
-pourparlers(2) pp ou rr pp aa rr ll ei zz
 pourpre pp ou rr pp rr
 pourpre(2) pp ou rr pp rr ee
 pourpres pp ou rr pp rr
@@ -71260,13 +71135,11 @@ pourrais(2) pp ou rr ai zz
 pourrait pp ou rr ai
 pourrait(2) pp ou rr ai tt
 pourrez pp ou rr ei
-pourrez(2) pp ou rr ei zz
 pourri pp ou rr ii
 pourrie pp ou rr ii
 pourries pp ou rr ii
 pourries(2) pp ou rr ii zz
 pourriez pp ou rr yy ei
-pourriez(2) pp ou rr yy ei zz
 pourrions pp ou rr yy on
 pourrions(2) pp ou rr yy on zz
 pourrir pp ou rr ii rr
@@ -71381,9 +71254,7 @@ poussons(2) pp ou ss on zz
 poussé pp ou ss ei
 poussée pp ou ss ei
 poussées pp ou ss ei
-poussées(2) pp ou ss ei zz
 poussés pp ou ss ei
-poussés(2) pp ou ss ei zz
 poutine pp ou tt ii nn
 poutre pp ou tt rr
 poutre(2) pp ou tt rr ee
@@ -71404,7 +71275,6 @@ pouvait(2) pp ou vv ai tt
 pouvant pp ou vv an
 pouvant(2) pp ou vv an tt
 pouvez pp ou vv ei
-pouvez(2) pp ou vv ei zz
 pouvions pp ou vv yy on
 pouvions(2) pp ou vv yy on zz
 pouvoir pp ou vv ww aa rr
@@ -71525,9 +71395,7 @@ pratiquons(2) pp rr aa tt ii kk on zz
 pratiqué pp rr aa tt ii kk ei
 pratiquée pp rr aa tt ii kk ei
 pratiquées pp rr aa tt ii kk ei
-pratiquées(2) pp rr aa tt ii kk ei zz
 pratiqués pp rr aa tt ii kk ei
-pratiqués(2) pp rr aa tt ii kk ei zz
 prats pp rr aa
 pratt pp rr aa tt
 pravda pp rr aa vv dd aa
@@ -71538,7 +71406,6 @@ premadasa pp rr ei mm aa dd aa zz aa
 premier pp rr ee mm yy ei
 premier(2) pp rr ee mm yy ei rr
 premiers pp rr ee mm yy ei
-premiers(2) pp rr ee mm yy ei zz
 preminger pp rr ei mm ii nn gg ai rr
 première pp rr ee mm yy ai rr
 première(2) pp rr ee mm yy ai rr ee
@@ -71584,7 +71451,6 @@ preneur pp rr ee nn oe rr
 preneurs pp rr ee nn oe rr
 preneurs(2) pp rr ee nn oe rr zz
 prenez pp rr ee nn ei
-prenez(2) pp rr ee nn ei zz
 prenions pp rr ee nn yy on
 prenions(2) pp rr ee nn yy on zz
 prenne pp rr ai nn
@@ -71656,9 +71522,7 @@ presses(2) pp rr ai ss ee
 presses(3) pp rr ai ss ee zz
 presses(4) pp rr ai ss zz
 pressez pp rr ai ss ei
-pressez(2) pp rr ai ss ei zz
 pressez(3) pp rr ei ss ei
-pressez(4) pp rr ei ss ei zz
 pressing pp rr ai ss ii ii gg
 pression pp rr ai ss yy on
 pressions pp rr ai ss yy on
@@ -71668,9 +71532,7 @@ pressé pp rr ai ss ei
 pressé(2) pp rr ei ss ei
 pressée pp rr ai ss ei
 pressées pp rr ai ss ei
-pressées(2) pp rr ai ss ei zz
 pressés pp rr ai ss ei
-pressés(2) pp rr ai ss ei zz
 prestance pp rr ai ss tt an ss
 prestance(2) pp rr ai ss tt an ss ee
 prestataire pp rr ai ss tt aa tt ai rr
@@ -71783,7 +71645,6 @@ primordiales(3) pp rr ii mm oo rr dd yy aa ll ee zz
 primordiales(4) pp rr ii mm oo rr dd yy aa ll zz
 primé pp rr ii mm ei
 primés pp rr ii mm ei
-primés(2) pp rr ii mm ei zz
 prince pp rr in ss
 prince(2) pp rr in ss ee
 prince_de_galles pp rr in ss ee dd ee gg aa ll
@@ -71849,7 +71710,6 @@ prioritaires(3) pp rr ii yy oo rr ii tt ai rr ee zz
 prioritaires(4) pp rr ii yy oo rr ii tt ai rr zz
 priorité pp rr ii yy oo rr ii tt ei
 priorités pp rr ii yy oo rr ii tt ei
-priorités(2) pp rr ii yy oo rr ii tt ei zz
 prirent pp rr ii rr ee
 pris pp rr ii
 pris(2) pp rr ii ss
@@ -71874,7 +71734,6 @@ prison(2) pp rr ii zz oo nn
 prisonnier pp rr ii zz oo nn yy ei
 prisonnier(2) pp rr ii zz oo nn yy ei rr
 prisonniers pp rr ii zz oo nn yy ei
-prisonniers(2) pp rr ii zz oo nn yy ei zz
 prisonnière pp rr ii zz oo nn yy ai rr
 prisonnière(2) pp rr ii zz oo nn yy ai rr ee
 prisonnières pp rr ii zz oo nn yy ai rr
@@ -71888,9 +71747,7 @@ prisunic pp rr ii zz uu nn ii kk
 prisé pp rr ii zz ei
 prisée pp rr ii zz ei
 prisées pp rr ii zz ei
-prisées(2) pp rr ii zz ei zz
 prisés pp rr ii zz ei
-prisés(2) pp rr ii zz ei zz
 prit pp rr ii
 prit(2) pp rr ii tt
 prius pp rr ii yy uu ss
@@ -71914,9 +71771,7 @@ privatiser(2) pp rr ii vv aa tt ii zz ei rr
 privatisé pp rr ii vv aa tt ii zz ei
 privatisée pp rr ii vv aa tt ii zz ei
 privatisées pp rr ii vv aa tt ii zz ei
-privatisées(2) pp rr ii vv aa tt ii zz ei zz
 privatisés pp rr ii vv aa tt ii zz ei
-privatisés(2) pp rr ii vv aa tt ii zz ei zz
 prive pp rr ii vv
 prive(2) pp rr ii vv ee
 privent pp rr ii vv ee
@@ -71947,21 +71802,15 @@ privilégierait(2) pp rr ii vv ii ll ai jj ii rr ai tt
 privilégierait(3) pp rr ii vv ii ll ei jj ii rr ai
 privilégierait(4) pp rr ii vv ii ll ei jj ii rr ai tt
 privilégiez pp rr ii vv ii ll ai jj yy ei
-privilégiez(2) pp rr ii vv ii ll ai jj yy ei zz
-privilégiez(3) pp rr ii vv ii ll ei jj yy ei
-privilégiez(4) pp rr ii vv ii ll ei jj yy ei zz
+privilégiez(2) pp rr ii vv ii ll ei jj yy ei
 privilégié pp rr ii vv ii ll ai jj yy ei
 privilégiée pp rr ii vv ii ll ai jj yy ei
 privilégiées pp rr ii vv ii ll ai jj yy ei
-privilégiées(2) pp rr ii vv ii ll ai jj yy ei zz
 privilégiés pp rr ii vv ii ll ai jj yy ei
-privilégiés(2) pp rr ii vv ii ll ai jj yy ei zz
 privé pp rr ii vv ei
 privée pp rr ii vv ei
 privées pp rr ii vv ei
-privées(2) pp rr ii vv ei zz
 privés pp rr ii vv ei
-privés(2) pp rr ii vv ei zz
 prix pp rr ii
 prix(2) pp rr ii zz
 prize pp rr ii zz
@@ -71976,14 +71825,12 @@ prié pp rr ii yy ei
 prié(2) pp rr yy ei
 priée pp rr yy ei
 priés pp rr ii yy ei
-priés(2) pp rr ii yy ei zz
 pro pp rr au
 pro_domo pp rr oo dd oo mm au
 proaméricain pp rr oo aa mm ei rr ii kk in
 proaméricains pp rr oo aa mm ei rr ii kk in
 probabilité pp rr oo bb aa bb ii ll ii tt ei
 probabilités pp rr oo bb aa bb ii ll ii tt ei
-probabilités(2) pp rr oo bb aa bb ii ll ii tt ei zz
 probable pp rr oo bb aa bb ll
 probable(2) pp rr oo bb aa bb ll ee
 probablement pp rr oo bb aa bb ll ee mm an
@@ -72040,7 +71887,6 @@ proche-orient(4) pp rr oo ch oo rr yy an
 proche_d' pp rr oo ch ee dd
 proche_de pp rr oo ch ee dd ee
 proche_des pp rr oo ch ee dd ei
-proche_des(2) pp rr oo ch ee dd ei zz
 proche_du pp rr oo ch ee dd uu
 proches pp rr oo ch
 proches(2) pp rr oo ch ee
@@ -72063,9 +71909,7 @@ proclamer(2) pp rr oo kk ll aa mm ei rr
 proclamé pp rr oo kk ll aa mm ei
 proclamée pp rr oo kk ll aa mm ei
 proclamées pp rr oo kk ll aa mm ei
-proclamées(2) pp rr oo kk ll aa mm ei zz
 proclamés pp rr oo kk ll aa mm ei
-proclamés(2) pp rr oo kk ll aa mm ei zz
 proconsul pp rr oo kk on ss uu ll
 procréateurs pp rr oo kk rr ai aa tt oe rr
 procréateurs(2) pp rr oo kk rr ai aa tt oe rr zz
@@ -72091,7 +71935,6 @@ procureure pp rr oo kk uu rr oe rr
 procureurs pp rr oo kk uu rr oe rr
 procureurs(2) pp rr oo kk uu rr oe rr zz
 procurez pp rr oo kk uu rr ei
-procurez(2) pp rr oo kk uu rr ei zz
 procuré pp rr oo kk uu rr ei
 procède pp rr oo ss ai dd
 procède(2) pp rr oo ss ai dd ee
@@ -72122,7 +71965,6 @@ procédures(3) pp rr oo ss ai dd uu rr ee zz
 procédures(4) pp rr oo ss ai dd uu rr zz
 procédé pp rr oo ss ai dd ei
 procédés pp rr oo ss ai dd ei
-procédés(2) pp rr oo ss ai dd ei zz
 prod pp rr oo dd
 prodi pp rr au dd ii
 prodige pp rr oo dd ii jj
@@ -72143,7 +71985,6 @@ prodiguer pp rr oo dd ii gg ei
 prodiguer(2) pp rr oo dd ii gg ei rr
 prodigué pp rr oo dd ii gg ei
 prodigués pp rr oo dd ii gg ei
-prodigués(2) pp rr oo dd ii gg ei zz
 producteur pp rr oo dd uu kk tt oe rr
 producteurs pp rr oo dd uu kk tt oe rr
 producteurs(2) pp rr oo dd uu kk tt oe rr zz
@@ -72231,7 +72072,6 @@ professionnalisme pp rr oo ff ai ss yy oo nn aa ll ii ss mm
 professionnalisme(2) pp rr oo ff ai ss yy oo nn aa ll ii ss mm ee
 professionnalisé pp rr oo ff ai ss yy oo nn aa ll ii zz ei
 professionnalisés pp rr oo ff ai ss yy oo nn aa ll ii zz ei
-professionnalisés(2) pp rr oo ff ai ss yy oo nn aa ll ii zz ei zz
 professionnel pp rr oo ff ai ss yy oo nn ai ll
 professionnelle pp rr oo ff ei ss yy oo nn ai ll
 professionnelle(2) pp rr oo ff ai ss yy oo nn ai ll
@@ -72259,7 +72099,6 @@ profiler(2) pp rr oo ff ii ll ei rr
 profils pp rr oo ff ii ll
 profils(2) pp rr oo ff ii ll zz
 profilés pp rr oo ff ii ll ei
-profilés(2) pp rr oo ff ii ll ei zz
 profit pp rr oo ff ii
 profita pp rr oo ff ii tt aa
 profitabilité pp rr oo ff ii tt aa bb ii ll ii tt ei
@@ -72290,9 +72129,7 @@ profiteront(2) pp rr oo ff ii tt ee rr on tt
 profiteurs pp rr oo ff ii tt oe rr
 profiteurs(2) pp rr oo ff ii tt oe rr zz
 profitez pp rr au ff ii tt ei
-profitez(2) pp rr au ff ii tt ei zz
 profitez(3) pp rr oo ff ii tt ei
-profitez(4) pp rr oo ff ii tt ei zz
 profitons pp rr oo ff ii tt on
 profitons(2) pp rr oo ff ii tt on zz
 profits pp rr oo ff ii
@@ -72320,7 +72157,6 @@ proférer pp rr oo ff ai rr ei
 proférer(2) pp rr oo ff ai rr ei rr
 proféré pp rr oo ff ai rr ei
 proférées pp rr oo ff ai rr ei
-proférées(2) pp rr oo ff ai rr ei zz
 progestatif pp rr oo jj ai ss tt aa tt ii ff
 progiciels pp rr oo jj ii ss yy ai ll
 proglio pp rr au gg ll ii au
@@ -72347,9 +72183,7 @@ programmeurs(2) pp rr oo gg rr aa mm oe rr zz
 programmé pp rr oo gg rr aa mm ei
 programmée pp rr oo gg rr aa mm ei
 programmées pp rr oo gg rr aa mm ei
-programmées(2) pp rr oo gg rr aa mm ei zz
 programmés pp rr oo gg rr aa mm ei
-programmés(2) pp rr oo gg rr aa mm ei zz
 progress pp rr au gg rr ai ss
 progress(2) pp rr oo gg rr ai ss
 progressaient pp rr oo gg rr ai ss ai
@@ -72409,9 +72243,7 @@ prohibition pp rr oo ii bb ii ss yy on
 prohibé pp rr oo ii bb ei
 prohibée pp rr oo ii bb ei
 prohibées pp rr oo ii bb ei
-prohibées(2) pp rr oo ii bb ei zz
 prohibés pp rr oo ii bb ei
-prohibés(2) pp rr oo ii bb ei zz
 prohom pp rr au oo mm
 proie pp rr ww aa
 proies pp rr ww aa
@@ -72449,9 +72281,7 @@ projettera pp rr oo jj ai tt ee rr aa
 projeté pp rr oo jj ee tt ei
 projetée pp rr oo jj ee tt ei
 projetées pp rr oo jj ee tt ei
-projetées(2) pp rr oo jj ee tt ei zz
 projetés pp rr oo jj ee tt ei
-projetés(2) pp rr oo jj ee tt ei zz
 prokofiev pp rr au kk au ff yy ai ff
 prolifique pp rr oo ll ii ff ii kk
 prolifique(2) pp rr oo ll ii ff ii kk ee
@@ -72482,9 +72312,7 @@ prolongera pp rr oo ll on jj ee rr aa
 prolongé pp rr oo ll on jj ei
 prolongée pp rr oo ll on jj ei
 prolongées pp rr oo ll on jj ei
-prolongées(2) pp rr oo ll on jj ei zz
 prolongés pp rr oo ll on jj ei
-prolongés(2) pp rr oo ll on jj ei zz
 prolétaire pp rr oo ll ai tt ai rr
 prolétaire(2) pp rr oo ll ai tt ai rr ee
 prolétaires pp rr oo ll ai tt ai rr
@@ -72612,14 +72440,11 @@ prononcerait(2) pp rr oo nn on ss ee rr ai tt
 prononceront pp rr oo nn on ss ee rr on
 prononceront(2) pp rr oo nn on ss ee rr on tt
 prononcez pp rr oo nn on ss ei
-prononcez(2) pp rr oo nn on ss ei zz
 prononciation pp rr oo nn on ss yy aa ss yy on
 prononcé pp rr oo nn on ss ei
 prononcée pp rr oo nn on ss ei
 prononcées pp rr oo nn on ss ei
-prononcées(2) pp rr oo nn on ss ei zz
 prononcés pp rr oo nn on ss ei
-prononcés(2) pp rr oo nn on ss ei zz
 prononça pp rr oo nn on ss aa
 prononçait pp rr oo nn on ss ai
 prononçait(2) pp rr oo nn on ss ai tt
@@ -72727,7 +72552,6 @@ proposes(6) pp rr oo pp au zz ee
 proposes(7) pp rr oo pp au zz ee zz
 proposes(8) pp rr oo pp au zz zz
 proposez pp rr oo pp oo zz ei
-proposez(2) pp rr oo pp oo zz ei zz
 proposition pp rr oo pp oo zz ii ss yy on
 propositions pp rr oo pp oo zz ii ss yy on
 propositions(2) pp rr oo pp oo zz ii ss yy on zz
@@ -72736,9 +72560,7 @@ proposons(2) pp rr oo pp oo zz on zz
 proposé pp rr oo pp oo zz ei
 proposée pp rr oo pp oo zz ei
 proposées pp rr oo pp oo zz ei
-proposées(2) pp rr oo pp oo zz ei zz
 proposés pp rr oo pp oo zz ei
-proposés(2) pp rr oo pp oo zz ei zz
 propre pp rr oo pp rr
 propre(2) pp rr oo pp rr
 propre(3) pp rr oo pp rr ee
@@ -72762,7 +72584,6 @@ propriétaires(3) pp rr oo pp rr ii yy ai tt ai rr ee zz
 propriétaires(4) pp rr oo pp rr ii yy ai tt ai rr zz
 propriété pp rr oo pp rr ii yy ai tt ei
 propriétés pp rr oo pp rr ii yy ai tt ei
-propriétés(2) pp rr oo pp rr ii yy ai tt ei zz
 propulse pp rr oo pp uu ll ss
 propulse(2) pp rr oo pp uu ll ss ee
 propulser pp rr oo pp uu ll ss ei
@@ -72773,7 +72594,6 @@ propulsion pp rr oo pp uu ll ss yy on
 propulsé pp rr oo pp uu ll ss ei
 propulsée pp rr oo pp uu ll ss ei
 propulsés pp rr oo pp uu ll ss ei
-propulsés(2) pp rr oo pp uu ll ss ei zz
 prorata pp rr oo rr aa tt aa
 prorogation pp rr oo rr oo gg aa ss yy on
 prorogeant pp rr oo rr oo jj an
@@ -72849,9 +72669,7 @@ prostitution pp rr oo ss tt ii tt uu ss yy on
 prostitué pp rr oo ss tt ii tt uu ei
 prostituée pp rr oo ss tt ii tt uu ei
 prostituées pp rr oo ss tt ii tt uu ei
-prostituées(2) pp rr oo ss tt ii tt uu ei zz
 prostitués pp rr oo ss tt ii tt uu ei
-prostitués(2) pp rr oo ss tt ii tt uu ei zz
 prosélyte pp rr oo zz ai ll ii tt
 prosélyte(2) pp rr oo zz ai ll ii tt ee
 prosélytisme pp rr oo zz ai ll ii tt ii ss mm
@@ -72916,13 +72734,9 @@ protester pp rr oo tt ai ss tt ei
 protester(2) pp rr oo tt ai ss tt ei rr
 protesté pp rr oo tt ai ss tt ei
 protestés pp rr au tt ai ss tt ei
-protestés(2) pp rr au tt ai ss tt ei zz
-protestés(3) pp rr au tt ei ss tt ei
-protestés(4) pp rr au tt ei ss tt ei zz
-protestés(5) pp rr oo tt ai ss tt ei
-protestés(6) pp rr oo tt ai ss tt ei zz
-protestés(7) pp rr oo tt ei ss tt ei
-protestés(8) pp rr oo tt ei ss tt ei zz
+protestés(2) pp rr au tt ei ss tt ei
+protestés(3) pp rr oo tt ai ss tt ei
+protestés(4) pp rr oo tt ei ss tt ei
 prothèse pp rr oo tt ai zz
 prothèse(2) pp rr oo tt ai zz ee
 prothèses pp rr oo tt ai zz
@@ -72959,15 +72773,12 @@ protégeant(2) pp rr oo tt ai jj an tt
 protéger pp rr oo tt ai jj ei
 protéger(2) pp rr oo tt ai jj ei rr
 protégez pp rr oo tt ai jj ei
-protégez(2) pp rr oo tt ai jj ei zz
 protégions pp rr oo tt ai jj yy on
 protégions(2) pp rr oo tt ai jj yy on zz
 protégé pp rr oo tt ai jj ei
 protégée pp rr oo tt ai jj ei
 protégées pp rr oo tt ai jj ei
-protégées(2) pp rr oo tt ai jj ei zz
 protégés pp rr oo tt ai jj ei
-protégés(2) pp rr oo tt ai jj ei zz
 protéiforme pp rr oo tt ei ii ff oo rr mm
 protéine pp rr oo tt ai ii nn
 protéine(2) pp rr oo tt ai ii nn ee
@@ -73003,7 +72814,6 @@ prouvost pp rr ou vv au
 prouvé pp rr ou vv ei
 prouvée pp rr ou vv ei
 prouvées pp rr ou vv ei
-prouvées(2) pp rr ou vv ei zz
 provenaient pp rr oo vv ee nn ai
 provenaient(2) pp rr oo vv ee nn ai tt
 provenait pp rr oo vv ee nn ai
@@ -73115,9 +72925,7 @@ provoquerait(2) pp rr oo vv oo kk ee rr ai tt
 provoqué pp rr oo vv oo kk ei
 provoquée pp rr oo vv oo kk ei
 provoquées pp rr oo vv oo kk ei
-provoquées(2) pp rr oo vv oo kk ei zz
 provoqués pp rr oo vv oo kk ei
-provoqués(2) pp rr oo vv oo kk ei zz
 proximité pp rr oo kk ss ii mm ii tt ei
 proxénète pp rr oo kk ss ai nn ai tt
 proxénète(2) pp rr oo kk ss ai nn ai tt ee
@@ -73170,7 +72978,6 @@ prussiens pp rr uu ss yy in
 prussiens(2) pp rr uu ss yy in zz
 près pp rr ai
 près_des pp rr ai dd ei
-près_des(2) pp rr ai dd ei zz
 près_du pp rr ai dd uu
 pré pp rr ei
 préaccord pp rr ei aa kk oo rr
@@ -73250,9 +73057,7 @@ précipiteront(6) pp rr ei ss ii pp ii tt rr on tt
 précipité pp rr ai ss ii pp ii tt ei
 précipitée pp rr ai ss ii pp ii tt ei
 précipitées pp rr ai ss ii pp ii tt ei
-précipitées(2) pp rr ai ss ii pp ii tt ei zz
 précipités pp rr ai ss ii pp ii tt ei
-précipités(2) pp rr ai ss ii pp ii tt ei zz
 précis pp rr ai ss ii
 précis(2) pp rr ai ss ii zz
 précisa pp rr ai ss ii zz aa
@@ -73280,16 +73085,12 @@ précisons(2) pp rr ai ss ii zz on zz
 précisé pp rr ai ss ii zz ei
 précisée pp rr ai ss ii zz ei
 précisées pp rr ai ss ii zz ei
-précisées(2) pp rr ai ss ii zz ei zz
 précisément pp rr ai ss ii zz ai mm an
 précisément(2) pp rr ai ss ii zz ai mm an tt
 précisés pp rr ai ss ii zz ei
-précisés(2) pp rr ai ss ii zz ei zz
 précité pp rr ai ss ii tt ei
 précitées pp rr ai ss ii tt ei
-précitées(2) pp rr ai ss ii tt ei zz
 précités pp rr ai ss ii tt ei
-précités(2) pp rr ai ss ii tt ei zz
 précoce pp rr ai kk oo ss
 précoce(2) pp rr ai kk oo ss ee
 précocement pp rr ai kk oo ss ee mm an
@@ -73312,13 +73113,10 @@ préconisent pp rr ai kk oo nn ii zz ee
 préconiser pp rr ai kk oo nn ii zz ei
 préconiser(2) pp rr ai kk oo nn ii zz ei rr
 préconisez pp rr ai kk oo nn ii zz ei
-préconisez(2) pp rr ai kk oo nn ii zz ei zz
 préconisé pp rr ai kk oo nn ii zz ei
 préconisée pp rr ai kk oo nn ii zz ei
 préconisées pp rr ai kk oo nn ii zz ei
-préconisées(2) pp rr ai kk oo nn ii zz ei zz
 préconisés pp rr ai kk oo nn ii zz ei
-préconisés(2) pp rr ai kk oo nn ii zz ei zz
 précurseur pp rr ai kk uu rr ss oe rr
 précurseurs pp rr ai kk uu rr ss oe rr
 précurseurs(2) pp rr ai kk uu rr ss oe rr zz
@@ -73348,9 +73146,7 @@ précédera pp rr ai ss ai dd ee rr aa
 précédé pp rr ai ss ai dd ei
 précédée pp rr ai ss ai dd ei
 précédées pp rr ai ss ai dd ei
-précédées(2) pp rr ai ss ai dd ei zz
 précédés pp rr ai ss ai dd ei
-précédés(2) pp rr ai ss ai dd ei zz
 prédateur pp rr ai dd aa tt oe rr
 prédateurs pp rr ai dd aa tt oe rr
 prédateurs(2) pp rr ai dd aa tt oe rr zz
@@ -73401,7 +73197,6 @@ préemptions(3) pp rr ai an pp tt yy on
 préemptions(4) pp rr ai an pp tt yy on zz
 préempté pp rr ai an pp tt ei
 préemptés pp rr ai an pp tt ei
-préemptés(2) pp rr ai an pp tt ei zz
 préexistante pp rr ai ai gg zz ii ss tt an tt
 préexistante(2) pp rr ai ai gg zz ii ss tt an tt ee
 préexistante(3) pp rr ei ai gg zz ii ss tt an tt
@@ -73409,7 +73204,6 @@ préexistante(4) pp rr ei ai gg zz ii ss tt an tt ee
 préexistent pp rr ai ai gg zz ii ss tt ee
 préfabriqué pp rr ai ff aa bb rr ii kk ei
 préfabriqués pp rr ai ff aa bb rr ii kk ei
-préfabriqués(2) pp rr ai ff aa bb rr ii kk ei zz
 préface pp rr ai ff aa ss
 préface(2) pp rr ai ff aa ss ee
 préfaces pp rr ai ff aa ss
@@ -73496,15 +73290,12 @@ préférerait(2) pp rr ai ff ai rr ee rr ai tt
 préféreront pp rr ai ff ai rr ee rr on
 préféreront(2) pp rr ai ff ai rr ee rr on tt
 préférez pp rr ai ff ai rr ei
-préférez(2) pp rr ai ff ai rr ei zz
 préférons pp rr ai ff ai rr on
 préférons(2) pp rr ai ff ai rr on zz
 préféré pp rr ai ff ai rr ei
 préférée pp rr ai ff ai rr ei
 préférées pp rr ai ff ai rr ei
-préférées(2) pp rr ai ff ai rr ei zz
 préférés pp rr ai ff ai rr ei
-préférés(2) pp rr ai ff ai rr ei zz
 prégnance pp rr ai gn an ss
 prégnance(2) pp rr ai gn an ss ee
 prégnante pp rr ai gn an tt
@@ -73532,7 +73323,6 @@ préjuger pp rr ai jj uu jj ei
 préjuger(2) pp rr ai jj uu jj ei rr
 préjugé pp rr ai jj uu jj ei
 préjugés pp rr ai jj uu jj ei
-préjugés(2) pp rr ai jj uu jj ei zz
 prélat pp rr ai ll aa
 prélats pp rr ai ll aa
 prélats(2) pp rr ai ll aa zz
@@ -73543,9 +73333,7 @@ prélever(2) pp rr ai ll ee vv ei rr
 prélevé pp rr ai ll ee vv ei
 prélevée pp rr ai ll ee vv ei
 prélevées pp rr ai ll ee vv ei
-prélevées(2) pp rr ai ll ee vv ei zz
 prélevés pp rr ai ll ee vv ei
-prélevés(2) pp rr ai ll ee vv ei zz
 préliminaire pp rr ai ll ii mm ii nn ai rr
 préliminaire(2) pp rr ai ll ii mm ii nn ai rr ee
 préliminaires pp rr ai ll ii mm ii nn ai rr
@@ -73569,11 +73357,9 @@ prémature pp rr ei mm aa tt uu rr
 prématuré pp rr ai mm aa tt uu rr ei
 prématurée pp rr ai mm aa tt uu rr ei
 prématurées pp rr ai mm aa tt uu rr ei
-prématurées(2) pp rr ai mm aa tt uu rr ei zz
 prématurément pp rr ai mm aa tt uu rr ai mm an
 prématurément(2) pp rr ai mm aa tt uu rr ai mm an tt
 prématurés pp rr ai mm aa tt uu rr ei
-prématurés(2) pp rr ai mm aa tt uu rr ei zz
 prémices pp rr ai mm ii ss
 prémices(2) pp rr ai mm ii ss ee
 prémices(3) pp rr ai mm ii ss ee zz
@@ -73631,9 +73417,7 @@ préoccuper(2) pp rr ai oo kk uu pp ei rr
 préoccupé pp rr ai oo kk uu pp ei
 préoccupée pp rr ai oo kk uu pp ei
 préoccupées pp rr ai oo kk uu pp ei
-préoccupées(2) pp rr ai oo kk uu pp ei zz
 préoccupés pp rr ai oo kk uu pp ei
-préoccupés(2) pp rr ai oo kk uu pp ei zz
 préopératoire pp rr ai oo pp ai rr aa tt ww aa rr
 préopératoire(2) pp rr ai oo pp ai rr aa tt ww aa rr ee
 prépa pp rr ei pp aa
@@ -73664,15 +73448,12 @@ préparera pp rr ai pp aa rr ee rr aa
 préparerait pp rr ai pp aa rr ee rr ai
 préparerait(2) pp rr ai pp aa rr ee rr ai tt
 préparez pp rr ai pp aa rr ei
-préparez(2) pp rr ai pp aa rr ei zz
 préparons pp rr ai pp aa rr on
 préparons(2) pp rr ai pp aa rr on zz
 préparé pp rr ai pp aa rr ei
 préparée pp rr ai pp aa rr ei
 préparées pp rr ai pp aa rr ei
-préparées(2) pp rr ai pp aa rr ei zz
 préparés pp rr ai pp aa rr ei
-préparés(2) pp rr ai pp aa rr ei zz
 prépas pp rr ei pp aa
 prépondérance pp rr ai pp on dd ai rr an ss
 prépondérance(2) pp rr ai pp on dd ai rr an ss ee
@@ -73682,7 +73463,6 @@ prépondérante pp rr ai pp on dd ai rr an tt
 prépondérante(2) pp rr ai pp on dd ai rr an tt ee
 préposé pp rr ai pp oo zz ei
 préposés pp rr ai pp oo zz ei
-préposés(2) pp rr ai pp oo zz ei zz
 préqualifications pp rr ai kk aa ll ii ff ii kk aa ss yy on
 préqualifications(2) pp rr ai kk aa ll ii ff ii kk aa ss yy on zz
 préretraite pp rr ai rr ee tt rr ai tt
@@ -73700,7 +73480,6 @@ prérogatives(2) pp rr ai rr oo gg aa tt ii vv ee
 prérogatives(3) pp rr ai rr oo gg aa tt ii vv ee zz
 prérogatives(4) pp rr ai rr oo gg aa tt ii vv zz
 prés pp rr ei
-prés(2) pp rr ei zz
 présage pp rr ai zz aa jj
 présage(2) pp rr ai zz aa jj ee
 présageant pp rr ai zz aa jj an
@@ -73750,11 +73529,8 @@ présenteraient(2) pp rr ai zz an tt ee rr ai tt
 présenterait pp rr ai zz an tt ee rr ai
 présenterait(2) pp rr ai zz an tt ee rr ai tt
 présenterez pp rr ai zz an tt ee rr ei
-présenterez(2) pp rr ai zz an tt ee rr ei zz
-présenterez(3) pp rr ei zz an tt ee rr ei
-présenterez(4) pp rr ei zz an tt ee rr ei zz
-présenterez(5) pp rr ei zz an tt rr ei
-présenterez(6) pp rr ei zz an tt rr ei zz
+présenterez(2) pp rr ei zz an tt ee rr ei
+présenterez(3) pp rr ei zz an tt rr ei
 présenterons pp rr ai zz an tt ee rr on
 présenterons(2) pp rr ai zz an tt ee rr on zz
 présenteront pp rr ai zz an tt ee rr on
@@ -73764,7 +73540,6 @@ présentes(2) pp rr ai zz an tt ee
 présentes(3) pp rr ai zz an tt ee zz
 présentes(4) pp rr ai zz an tt zz
 présentez pp rr ai zz an tt ei
-présentez(2) pp rr ai zz an tt ei zz
 présentoir pp rr ai zz an tt ww aa rr
 présentoirs pp rr ai zz an tt ww aa rr
 présentoirs(2) pp rr ai zz an tt ww aa rr zz
@@ -73775,9 +73550,7 @@ présents(2) pp rr ai zz an zz
 présenté pp rr ai zz an tt ei
 présentée pp rr ai zz an tt ei
 présentées pp rr ai zz an tt ei
-présentées(2) pp rr ai zz an tt ei zz
 présentés pp rr ai zz an tt ei
-présentés(2) pp rr ai zz an tt ei zz
 préservant pp rr ai zz ai rr vv an
 préservant(2) pp rr ai zz ai rr vv an tt
 préservatif pp rr ai zz ai rr vv aa tt ii ff
@@ -73792,9 +73565,7 @@ préserver(2) pp rr ai zz ai rr vv ei rr
 préservé pp rr ai zz ai rr vv ei
 préservée pp rr ai zz ai rr vv ei
 préservées pp rr ai zz ai rr vv ei
-préservées(2) pp rr ai zz ai rr vv ei zz
 préservés pp rr ai zz ai rr vv ei
-préservés(2) pp rr ai zz ai rr vv ei zz
 présida pp rr ai zz ii dd aa
 présidait pp rr ai zz ii dd ai
 présidait(2) pp rr ai zz ii dd ai tt
@@ -73850,9 +73621,7 @@ présidons(2) pp rr ai zz ii dd on zz
 présidé pp rr ai zz ii dd ei
 présidée pp rr ai zz ii dd ei
 présidées pp rr ai zz ii dd ei
-présidées(2) pp rr ai zz ii dd ei zz
 présidés pp rr ai zz ii dd ei
-présidés(2) pp rr ai zz ii dd ei zz
 présomption pp rr ai zz on pp ss yy on
 présomptions pp rr ai zz on pp ss yy on
 présomptions(2) pp rr ai zz on pp ss yy on zz
@@ -73863,13 +73632,10 @@ présumer(2) pp rr ai zz uu mm ei rr
 présumé pp rr ai zz uu mm ei
 présumée pp rr ai zz uu mm ei
 présumées pp rr ai zz uu mm ei
-présumées(2) pp rr ai zz uu mm ei zz
 présumés pp rr ai zz uu mm ei
-présumés(2) pp rr ai zz uu mm ei zz
 présuppose pp rr ai ss uu pp au zz
 présuppose(2) pp rr ai ss uu pp au zz ee
 présupposés pp rr ai ss uu pp oo zz ei
-présupposés(2) pp rr ai ss uu pp oo zz ei zz
 préséance pp rr ai ss ai an ss
 préséance(2) pp rr ai ss ai an ss ee
 présélection pp rr ai ss ai ll ai kk ss yy on
@@ -73878,13 +73644,9 @@ présélectionné(2) pp rr ei ss ei ll ai kk ss yy oo nn ei
 présélectionné(3) pp rr ei ss ei ll ei kk ss yy au nn ei
 présélectionné(4) pp rr ei ss ei ll ei kk ss yy oo nn ei
 présélectionnés pp rr ei ss ei ll ai kk ss yy au nn ei
-présélectionnés(2) pp rr ei ss ei ll ai kk ss yy au nn ei zz
-présélectionnés(3) pp rr ei ss ei ll ai kk ss yy oo nn ei
-présélectionnés(4) pp rr ei ss ei ll ai kk ss yy oo nn ei zz
-présélectionnés(5) pp rr ei ss ei ll ei kk ss yy au nn ei
-présélectionnés(6) pp rr ei ss ei ll ei kk ss yy au nn ei zz
-présélectionnés(7) pp rr ei ss ei ll ei kk ss yy oo nn ei
-présélectionnés(8) pp rr ei ss ei ll ei kk ss yy oo nn ei zz
+présélectionnés(2) pp rr ei ss ei ll ai kk ss yy oo nn ei
+présélectionnés(3) pp rr ei ss ei ll ei kk ss yy au nn ei
+présélectionnés(4) pp rr ei ss ei ll ei kk ss yy oo nn ei
 prétend pp rr ai tt an
 prétend(2) pp rr ai tt an tt
 prétendaient pp rr ai tt an dd ai
@@ -74094,9 +73856,7 @@ prêts(2) pp rr ai zz
 prêté pp rr ai tt ei
 prêtée pp rr ai tt ei
 prêtées pp rr ai tt ei
-prêtées(2) pp rr ai tt ei zz
 prêtés pp rr ai tt ei
-prêtés(2) pp rr ai tt ei zz
 prît pp rr ii
 prît(2) pp rr ii tt
 prônaient pp rr oo nn ai
@@ -74113,7 +73873,6 @@ prôner(2) pp rr oo nn ei rr
 prôné pp rr oo nn ei
 prônée pp rr oo nn ei
 prônées pp rr oo nn ei
-prônées(2) pp rr oo nn ei zz
 ps pp ei ai ss
 ps-mrg pp ss mm rr gg
 psa pp ei ai ss aa
@@ -74252,7 +74011,6 @@ publicitaires(3) pp uu bb ll ii ss ii tt ai rr ee zz
 publicitaires(4) pp uu bb ll ii ss ii tt ai rr zz
 publicité pp uu bb ll ii ss ii tt ei
 publicités pp uu bb ll ii ss ii tt ei
-publicités(2) pp uu bb ll ii ss ii tt ei zz
 publics pp uu bb ll ii kk
 publics(2) pp uu bb ll ii kk zz
 publie pp uu bb ll ii
@@ -74264,7 +74022,6 @@ publiera pp uu bb ll ii rr aa
 publieront pp uu bb ll ii rr on
 publieront(2) pp uu bb ll ii rr on tt
 publiez pp uu bb ll ii yy ei
-publiez(2) pp uu bb ll ii yy ei zz
 publions pp uu bb ll ii yy on
 publions(2) pp uu bb ll ii yy on zz
 publique pp uu bb ll ii kk
@@ -74278,9 +74035,7 @@ publiques(4) pp uu bb ll ii kk zz
 publié pp uu bb ll ii yy ei
 publiée pp uu bb ll ii yy ei
 publiées pp uu bb ll ii yy ei
-publiées(2) pp uu bb ll ii yy ei zz
 publiés pp uu bb ll ii yy ei
-publiés(2) pp uu bb ll ii yy ei zz
 pubs pp oe bb
 pubs(2) pp oe bb zz
 pubs(3) pp uu bb
@@ -74360,15 +74115,12 @@ puisse pp uy ii ss
 puisse(2) pp uy ii ss ee
 puissent pp uy ii ss ee
 puissiez pp uy ii ss yy ei
-puissiez(2) pp uy ii ss yy ei zz
 puissions pp uy ii ss yy on
 puissions(2) pp uy ii ss yy on zz
 puisé pp uy ii zz ei
 puisée pp uy ii zz ei
 puisées pp uy ii zz ei
-puisées(2) pp uy ii zz ei zz
 puisés pp uy ii zz ei
-puisés(2) pp uy ii zz ei zz
 puit pp uy ii
 puits pp uy ii
 puits(2) pp uy ii zz
@@ -74426,7 +74178,6 @@ punissait(2) pp uu nn ii ss ai tt
 punisse pp uu nn ii ss
 punisse(2) pp uu nn ii ss ee
 punissiez pp uu nn ii ss yy ei
-punissiez(2) pp uu nn ii ss yy ei zz
 punit pp uu nn ii
 punit(2) pp uu nn ii tt
 punition pp uu nn ii ss yy on
@@ -74542,7 +74293,6 @@ pve pp ei vv ei eu
 py pp ii
 pygmalion pp ii gg mm aa ll yy on
 pygmées pp ii gg mm ei
-pygmées(2) pp ii gg mm ei zz
 pyjama pp ii jj aa mm aa
 pylade pp ii ll aa dd
 pylône pp ii ll au nn
@@ -74617,7 +74367,6 @@ pâtisseries pp aa tt ii ss ee rr ii
 pâtisseries(2) pp aa tt ii ss ee rr ii zz
 pâtissier pp aa tt ii ss yy ei
 pâtissiers pp aa tt ii ss yy ei
-pâtissiers(2) pp aa tt ii ss yy ei zz
 pâtit pp aa tt ii
 pâtit(2) pp aa tt ii tt
 pâturage pp aa tt uu rr aa jj
@@ -74630,7 +74379,6 @@ pâture pp aa tt uu rr
 pâture(2) pp aa tt uu rr ee
 pâté pp aa tt ei
 pâtés pp aa tt ei
-pâtés(2) pp aa tt ei zz
 pèche pp ai ch
 pèche(2) pp ai ch ee
 pègre pp ai gg rr
@@ -74679,7 +74427,6 @@ pécheur pp ai ch oe rr
 péchiney pp ei ch ii nn ai
 péché pp ai ch ei
 péchés pp ai ch ei
-péchés(2) pp ai ch ei zz
 pécresse pp ei kk rr ai ss
 pécuchet pp ei kk uu ch ai
 pécule pp ai kk uu ll
@@ -74765,12 +74512,9 @@ pénaliser(2) pp ai nn aa ll ii zz ei rr
 pénalisé pp ai nn aa ll ii zz ei
 pénalisée pp ai nn aa ll ii zz ei
 pénalisées pp ai nn aa ll ii zz ei
-pénalisées(2) pp ai nn aa ll ii zz ei zz
 pénalisés pp ai nn aa ll ii zz ei
-pénalisés(2) pp ai nn aa ll ii zz ei zz
 pénalité pp ai nn aa ll ii tt ei
 pénalités pp ai nn aa ll ii tt ei
-pénalités(2) pp ai nn aa ll ii tt ei zz
 pénaux pp ai nn au
 pénaux(2) pp ai nn au zz
 pénibilité pp ai nn ii bb ii ll ii tt ei
@@ -74893,7 +74637,6 @@ périmètres(4) pp ai rr ii mm ai tt rr zz
 périmé pp ai rr ii mm ei
 périmée pp ai rr ii mm ei
 périmés pp ai rr ii mm ei
-périmés(2) pp ai rr ii mm ei zz
 périnatale pp ai rr ii nn aa tt aa ll
 périnatale(2) pp ai rr ii nn aa tt aa ll ee
 périnatales pp ai rr ii nn aa tt aa ll
@@ -75046,7 +74789,6 @@ pétroles(4) pp ai tt rr oo ll zz
 pétrolier pp ai tt rr oo ll yy ei
 pétrolier(2) pp ai tt rr oo ll yy ei rr
 pétroliers pp ai tt rr oo ll yy ei
-pétroliers(2) pp ai tt rr oo ll yy ei zz
 pétrolifère pp ai tt rr oo ll ii ff ai rr
 pétrolifère(2) pp ai tt rr oo ll ii ff ai rr ee
 pétrolifères pp ai tt rr oo ll ii ff ai rr
@@ -75062,7 +74804,6 @@ pétrolières(4) pp ai tt rr oo ll yy ai rr zz
 pétulante pp ai tt uu ll an tt
 pétulante(2) pp ai tt uu ll an tt ee
 pété pp ai tt ei
-pézenas pp ei zz ee nn aa
 pêche pp ai ch
 pêche(2) pp ai ch ee
 pêcher pp ai ch ei
@@ -75072,9 +74813,7 @@ pêcheries(2) pp ai ch ee rr ii zz
 pêcheries(3) pp ai ch rr ii
 pêcheries(4) pp ai ch rr ii zz
 pêchers pp ai ch ei
-pêchers(2) pp ai ch ei zz
-pêchers(3) pp ei ch ei
-pêchers(4) pp ei ch ei zz
+pêchers(2) pp ei ch ei
 pêches pp ai ch
 pêches(2) pp ai ch ee
 pêches(3) pp ai ch ee zz
@@ -75189,15 +74928,12 @@ qualifier(2) kk aa ll ii ff yy ei rr
 qualifieraient kk aa ll ii ff ii rr ai
 qualifieraient(2) kk aa ll ii ff ii rr ai tt
 qualifieriez kk aa ll ii ff ii rr yy ei
-qualifieriez(2) kk aa ll ii ff ii rr yy ei zz
 qualifieront kk aa ll ii ff ii rr on
 qualifieront(2) kk aa ll ii ff ii rr on tt
 qualifié kk aa ll ii ff yy ei
 qualifiée kk aa ll ii ff yy ei
 qualifiées kk aa ll ii ff yy ei
-qualifiées(2) kk aa ll ii ff yy ei zz
 qualifiés kk aa ll ii ff yy ei
-qualifiés(2) kk aa ll ii ff yy ei zz
 qualifs kk aa ll ii ff
 qualitatif kk aa ll ii tt aa tt ii ff
 qualitatifs kk aa ll ii tt aa tt ii ff
@@ -75212,7 +74948,6 @@ qualitatives(3) kk aa ll ii tt aa tt ii vv ee zz
 qualitatives(4) kk aa ll ii tt aa tt ii vv zz
 qualité kk aa ll ii tt ei
 qualités kk aa ll ii tt ei
-qualités(2) kk aa ll ii tt ei zz
 quand kk an
 quand(2) kk an tt
 quand_bien_même kk an bb yy in mm ai mm
@@ -75240,7 +74975,6 @@ quantitatives(3) kk an tt ii tt aa tt ii vv ee zz
 quantitatives(4) kk an tt ii tt aa tt ii vv zz
 quantité kk an tt ii tt ei
 quantités kk an tt ii tt ei
-quantités(2) kk an tt ii tt ei zz
 quantum kk ww an tt oo mm
 quarantaine kk aa rr an tt ai nn
 quarantaine(2) kk aa rr an tt ai nn ee
@@ -75277,7 +75011,6 @@ quartette(2) kk ww aa rr tt ai tt ee
 quartier kk aa rr tt yy ei
 quartier(2) kk ww aa rr tt yy ei
 quartiers kk aa rr tt yy ei
-quartiers(2) kk aa rr tt yy ei zz
 quarts kk aa rr
 quarts(2) kk aa rr zz
 quartz kk ww aa rr tt ss
@@ -75529,7 +75262,6 @@ quittèrent kk ii tt ai rr ee
 quitté kk ii tt ei
 quittée kk ii tt ei
 quittés kk ii tt ei
-quittés(2) kk ii tt ei zz
 quitus kk ii tt uu ss
 quiétude kk yy ai tt uu dd
 quiétude(2) kk yy ai tt uu dd ee
@@ -75613,7 +75345,6 @@ racaille rr aa kk aa yy
 racaille(2) rr aa kk aa yy ee
 racamier rr aa kk aa mm yy ei
 raccompagnés rr aa kk on pp aa gn ei
-raccompagnés(2) rr aa kk on pp aa gn ei zz
 raccordement rr aa kk oo rr dd ee mm an
 raccorder rr aa kk oo rr dd ei
 raccorder(2) rr aa kk oo rr dd ei rr
@@ -75651,9 +75382,7 @@ racheter(2) rr aa ch ee tt ei rr
 racheté rr aa ch ee tt ei
 rachetée rr aa ch ee tt ei
 rachetées rr aa ch ee tt ei
-rachetées(2) rr aa ch ee tt ei zz
 rachetés rr aa ch ee tt ei
-rachetés(2) rr aa ch ee tt ei zz
 rachid rr aa ch ii dd
 rachida rr aa ch ii dd aa
 rachitique rr aa ch ii tt ii kk
@@ -75711,13 +75440,10 @@ raconter rr aa kk on tt ei
 raconter(2) rr aa kk on tt ei rr
 racontera rr aa kk on tt ee rr aa
 racontez rr aa kk on tt ei
-racontez(2) rr aa kk on tt ei zz
 raconté rr aa kk on tt ei
 racontée rr aa kk on tt ei
 racontées rr aa kk on tt ei
-racontées(2) rr aa kk on tt ei zz
 racontés rr aa kk on tt ei
-racontés(2) rr aa kk on tt ei zz
 rad rr aa dd
 rada rr aa dd aa
 radar rr aa dd aa rr
@@ -75861,9 +75587,7 @@ raffinot rr aa ff ii nn oo tt
 raffiné rr aa ff ii nn ei
 raffinée rr aa ff ii nn ei
 raffinées rr aa ff ii nn ei
-raffinées(2) rr aa ff ii nn ei zz
 raffinés rr aa ff ii nn ei
-raffinés(2) rr aa ff ii nn ei zz
 raffole rr aa ff oo ll
 raffole(2) rr aa ff oo ll ee
 raffolent rr aa ff oo ll ee
@@ -75883,9 +75607,7 @@ rafles(3) rr aa ff ll ee zz
 rafles(4) rr aa ff ll zz
 raflé rr aa ff ll ei
 raflées rr aa ff ll ei
-raflées(2) rr aa ff ll ei zz
 raflés rr aa ff ll ei
-raflés(2) rr aa ff ll ei zz
 rafraîchir rr aa ff rr ai ch ii rr
 rafraîchira rr aa ff rr ai ch ii rr aa
 rafraîchissant rr aa ff rr ai ch ii ss an
@@ -76056,9 +75778,7 @@ rallierons(2) rr aa ll ii rr on zz
 rallié rr aa ll yy ei
 ralliée rr aa ll yy ei
 ralliées rr aa ll yy ei
-ralliées(2) rr aa ll yy ei zz
 ralliés rr aa ll yy ei
-ralliés(2) rr aa ll yy ei zz
 rallonge rr aa ll on jj
 rallonge(2) rr aa ll on jj ee
 rallumait rr aa ll uu mm ai
@@ -76091,9 +75811,7 @@ ramassis(2) rr aa mm aa ss ii zz
 ramassé rr aa mm aa ss ei
 ramassée rr aa mm aa ss ei
 ramassées rr aa mm aa ss ei
-ramassées(2) rr aa mm aa ss ei zz
 ramassés rr aa mm aa ss ei
-ramassés(2) rr aa mm aa ss ei zz
 ramatuelle rr aa mm aa tt uy ai ll
 ramatuelle(2) rr aa mm aa tt uy ai ll ee
 rambaud rr an bb au
@@ -76117,9 +75835,7 @@ ramener(2) rr aa mm ee nn ei rr
 ramené rr aa mm ee nn ei
 ramenée rr aa mm ee nn ei
 ramenées rr aa mm ee nn ei
-ramenées(2) rr aa mm ee nn ei zz
 ramenés rr aa mm ee nn ei
-ramenés(2) rr aa mm ee nn ei zz
 ramer rr aa mm ei
 ramer(2) rr aa mm ei rr
 rames rr aa mm
@@ -76182,7 +75898,6 @@ randonneur rr an dd oo nn oe rr
 randonneurs rr an dd oo nn oe rr
 randonnée rr an dd oo nn ei
 randonnées rr an dd oo nn ei
-randonnées(2) rr an dd oo nn ei zz
 randy rr aa nn dd ii
 rang rr an
 range rr an jj
@@ -76209,9 +75924,7 @@ rangs(2) rr an zz
 rangé rr an jj ei
 rangée rr an jj ei
 rangées rr an jj ei
-rangées(2) rr an jj ei zz
 rangés rr an jj ei
-rangés(2) rr an jj ei zz
 ranibachi rr aa nn ii bb aa ch ii
 ranime rr aa nn ii mm
 ranime(2) rr aa nn ii mm ee
@@ -76242,9 +75955,7 @@ rapatrier(2) rr aa pp aa tt rr ii yy ei rr
 rapatrié rr aa pp aa tt rr ii yy ei
 rapatriée rr aa pp aa tt rr ii yy ei
 rapatriées rr aa pp aa tt rr ii yy ei
-rapatriées(2) rr aa pp aa tt rr ii yy ei zz
 rapatriés rr aa pp aa tt rr ii yy ei
-rapatriés(2) rr aa pp aa tt rr ii yy ei zz
 raphaël rr aa ff aa ai ll
 raphia rr aa ff yy aa
 rapid rr aa pp ii
@@ -76273,11 +75984,8 @@ rappeler rr aa pp ee ll ei
 rappeler(2) rr aa pp ee ll ei rr
 rappelez rr aa pp ee ll ai
 rappelez(2) rr aa pp ee ll ei
-rappelez(3) rr aa pp ee ll ei zz
 rappeliez rr aa pp ee ll yy ei
-rappeliez(2) rr aa pp ee ll yy ei zz
-rappeliez(3) rr aa pp ll yy ei
-rappeliez(4) rr aa pp ll yy ei zz
+rappeliez(2) rr aa pp ll yy ei
 rappelle rr aa pp ai ll
 rappelle(2) rr aa pp ai ll ee
 rappellent rr aa pp ai ll ee
@@ -76299,9 +76007,7 @@ rappels(2) rr aa pp ai ll zz
 rappelé rr aa pp ee ll ei
 rappelée rr aa pp ee ll ei
 rappelées rr aa pp ee ll ei
-rappelées(2) rr aa pp ee ll ei zz
 rappelés rr aa pp ee ll ei
-rappelés(2) rr aa pp ee ll ei zz
 rappeneau rr aa pp ee nn au
 rapper rr aa pp ei
 rappers rr aa pp ei
@@ -76333,9 +76039,7 @@ rapports(2) rr aa pp oo rr zz
 rapporté rr aa pp oo rr tt ei
 rapportée rr aa pp oo rr tt ei
 rapportées rr aa pp oo rr tt ei
-rapportées(2) rr aa pp oo rr tt ei zz
 rapportés rr aa pp oo rr tt ei
-rapportés(2) rr aa pp oo rr tt ei zz
 rapprochait rr aa pp rr oo ch ai
 rapprochait(2) rr aa pp rr oo ch ai tt
 rapprochant rr aa pp rr oo ch an
@@ -76352,13 +76056,10 @@ rapprochera rr aa pp rr oo ch ee rr aa
 rapprocherait rr aa pp rr oo ch ee rr ai
 rapprocherait(2) rr aa pp rr oo ch ee rr ai tt
 rapprochez rr aa pp rr oo ch ei
-rapprochez(2) rr aa pp rr oo ch ei zz
 rapproché rr aa pp rr oo ch ei
 rapprochée rr aa pp rr oo ch ei
 rapprochées rr aa pp rr oo ch ei
-rapprochées(2) rr aa pp rr oo ch ei zz
 rapprochés rr aa pp rr oo ch ei
-rapprochés(2) rr aa pp rr oo ch ei zz
 rapt rr aa pp tt
 rapée rr aa pp ei
 raquette rr aa kk ai tt
@@ -76378,7 +76079,6 @@ rares(3) rr aa rr ee zz
 rares(4) rr aa rr zz
 rareté rr aa rr ee tt ei
 raretés rr aa rr ee tt ei
-raretés(2) rr aa rr ee tt ei zz
 rarissime rr aa rr ii ss ii mm
 rarissime(2) rr aa rr ii ss ii mm ee
 rarissimes rr aa rr ii ss ii mm
@@ -76424,9 +76124,7 @@ rassembleuse(2) rr aa ss an bb ll eu zz ee
 rassemblé rr aa ss an bb ll ei
 rassemblée rr aa ss an bb ll ei
 rassemblées rr aa ss an bb ll ei
-rassemblées(2) rr aa ss an bb ll ei zz
 rassemblés rr aa ss an bb ll ei
-rassemblés(2) rr aa ss an bb ll ei zz
 rassoient rr aa ss ww aa
 rassoient rr aa ss ww aa
 rassoit rr aa ss ww aa
@@ -76450,13 +76148,11 @@ rassurer rr aa ss uu rr ei
 rassurer(2) rr aa ss uu rr ei rr
 rassurera rr aa ss uu rr ee rr aa
 rassurez rr aa ss uu rr ei
-rassurez(2) rr aa ss uu rr ei zz
 rassurons rr aa ss uu rr on
 rassurons(2) rr aa ss uu rr on zz
 rassuré rr aa ss uu rr ei
 rassurée rr aa ss uu rr ei
 rassurés rr aa ss uu rr ei
-rassurés(2) rr aa ss uu rr ei zz
 rassérénée rr aa ss ai rr ai nn ei
 rassérénée(2) rr aa ss ei rr ei nn ei
 rasta rr aa ss tt aa
@@ -76464,9 +76160,7 @@ rastignac rr aa ss tt ii nn yy aa kk
 rasé rr aa zz ei
 rasée rr aa zz ei
 rasées rr aa zz ei
-rasées(2) rr aa zz ei zz
 rasés rr aa zz ei
-rasés(2) rr aa zz ei zz
 rat rr aa
 rat(2) rr aa tt
 ratage rr aa tt aa jj
@@ -76487,7 +76181,6 @@ ratifier(2) rr aa tt ii ff yy ei rr
 ratifié rr aa tt ii ff yy ei
 ratifiée rr aa tt ii ff yy ei
 ratifiés rr aa tt ii ff yy ei
-ratifiés(2) rr aa tt ii ff yy ei zz
 ratio rr aa ss yy au
 ration rr aa ss yy on
 rationalisation rr aa ss yy oo nn aa ll ii zz aa ss yy on
@@ -76535,9 +76228,7 @@ rattacher(2) rr aa tt aa ch ei rr
 rattaché rr aa tt aa ch ei
 rattachée rr aa tt aa ch ei
 rattachées rr aa tt aa ch ei
-rattachées(2) rr aa tt aa ch ei zz
 rattachés rr aa tt aa ch ei
-rattachés(2) rr aa tt aa ch ei zz
 rattle rr aa tt ll
 rattrapa rr aa tt rr aa pp aa
 rattrapables rr aa tt rr aa pp aa bb ll
@@ -76553,13 +76244,10 @@ rattrapera(2) rr aa tt rr aa pp rr aa
 rattrapé rr aa tt rr aa pp ei
 rattrapée rr aa tt rr aa pp ei
 rattrapés rr aa tt rr aa pp ei
-rattrapés(2) rr aa tt rr aa pp ei zz
 raté rr aa tt ei
 ratée rr aa tt ei
 ratées rr aa tt ei
-ratées(2) rr aa tt ei zz
 ratés rr aa tt ei
-ratés(2) rr aa tt ei zz
 rau rr au
 rauber rr au bb ai rr
 raul rr aa ou ll
@@ -76585,9 +76273,7 @@ ravageuse(2) rr aa vv aa jj eu zz ee
 ravagé rr aa vv aa jj ei
 ravagée rr aa vv aa jj ei
 ravagées rr aa vv aa jj ei
-ravagées(2) rr aa vv aa jj ei zz
 ravagés rr aa vv aa jj ei
-ravagés(2) rr aa vv aa jj ei zz
 ravalement rr aa vv aa ll ee mm an
 ravaler rr aa vv aa ll ei
 ravaler(2) rr aa vv aa ll ei rr
@@ -76694,9 +76380,7 @@ rayures(4) rr ai yy uu rr zz
 rayé rr ai yy ei
 rayée rr ai yy ei
 rayées rr ai yy ei
-rayées(2) rr ai yy ei zz
 rayés rr ai yy ei
-rayés(2) rr ai yy ei zz
 raz rr aa
 raz(2) rr aa zz
 razak rr aa zz aa kk
@@ -76745,7 +76429,6 @@ rebaptiser(2) rr ee bb aa tt ii zz ei rr
 rebaptisé rr ee bb aa tt ii zz ei
 rebaptisée rr ee bb aa tt ii zz ei
 rebaptisés rr ee bb aa tt ii zz ei
-rebaptisés(2) rr ee bb aa tt ii zz ei zz
 rebasculé rr ee bb aa ss kk uu ll ei
 rebatet rr bb aa tt ai
 rebatet(2) rr ee bb aa tt ai
@@ -76767,7 +76450,6 @@ rebellé(2) rr bb ei ll ei
 rebellé(3) rr ee bb ai ll ei
 rebellé(4) rr ee bb ei ll ei
 rebellés rr ee bb ai ll ei
-rebellés(2) rr ee bb ai ll ei zz
 rebelote rr ee bb ee ll oo tt
 rebiffe rr bb ii ff
 rebiffe(2) rr bb ii ff ee
@@ -76816,9 +76498,7 @@ recadrer rr ee kk aa dd rr ei
 recadrée rr ee kk aa dd rr ei
 recalé rr ee kk aa ll ei
 recalées rr ee kk aa ll ei
-recalées(2) rr ee kk aa ll ei zz
 recalés rr ee kk aa ll ei
-recalés(2) rr ee kk aa ll ei zz
 recapitalisation rr ee kk aa pp ii tt aa ll ii zz aa ss yy on
 recapitaliser rr ee kk aa pp ii tt aa ll ii zz ei
 recel rr ee ss ai ll
@@ -76846,9 +76526,7 @@ recenser(2) rr ee ss an ss ei rr
 recension rr ee ss an ss yy on
 recensé rr ee ss an ss ei
 recensées rr ee ss an ss ei
-recensées(2) rr ee ss an ss ei zz
 recensés rr ee ss an ss ei
-recensés(2) rr ee ss an ss ei zz
 recentrage rr ee ss an tt rr aa jj
 recentre rr ee ss an tt rr
 recentre(2) rr ee ss an tt rr ee
@@ -76880,7 +76558,6 @@ receveur rr ee ss ee vv oe rr
 receveurs rr ee ss ee vv oe rr
 receveurs(2) rr ee ss ee vv oe rr zz
 recevez rr ee ss ee vv ei
-recevez(2) rr ee ss ee vv ei zz
 recevions rr ee ss ee vv yy on
 recevions(2) rr ee ss ee vv yy on zz
 recevions(3) rr ee ss vv yy on
@@ -76931,9 +76608,7 @@ recherchons(2) rr ee ch ai rr ch on zz
 recherché rr ee ch ai rr ch ei
 recherchée rr ee ch ai rr ch ei
 recherchées rr ee ch ai rr ch ei
-recherchées(2) rr ee ch ai rr ch ei zz
 recherchés rr ee ch ai rr ch ei
-recherchés(2) rr ee ch ai rr ch ei zz
 rechigne rr ee ch ii gn
 rechigne(2) rr ee ch ii gn ee
 rechignent rr ee ch ii gn ee
@@ -76957,7 +76632,6 @@ reclassements rr ee kk ll aa ss ee mm an
 reclasser rr ee kk ll aa ss ei
 reclasser(2) rr ee kk ll aa ss ei rr
 reclassés rr ee kk ll aa ss ei
-reclassés(2) rr ee kk ll aa ss ei zz
 reclus rr ee kk ll uu
 reclus(2) rr ee kk ll uu zz
 recluse rr ee kk ll uu zz
@@ -77008,9 +76682,7 @@ recommandons(8) rr kk oo mm an dd on zz
 recommandé rr ee kk oo mm an dd ei
 recommandée rr ee kk oo mm an dd ei
 recommandées rr ee kk oo mm an dd ei
-recommandées(2) rr ee kk oo mm an dd ei zz
 recommandés rr ee kk oo mm an dd ei
-recommandés(2) rr ee kk oo mm an dd ei zz
 recommence rr ee kk oo mm an ss
 recommence(2) rr ee kk oo mm an ss ee
 recommencement rr ee kk oo mm an ss ee mm an
@@ -77093,7 +76765,6 @@ reconnaisse rr ee kk oo nn ai ss
 reconnaisse(2) rr ee kk oo nn ai ss ee
 reconnaissent rr ee kk oo nn ai ss ee
 reconnaissez rr ee kk oo nn ai ss ei
-reconnaissez(2) rr ee kk oo nn ai ss ei zz
 reconnaissons rr ee kk oo nn ai ss on
 reconnaissons(2) rr ee kk oo nn ai ss on zz
 reconnaît rr ee kk oo nn ai
@@ -77104,21 +76775,21 @@ reconnaîtrait(2) rr ee kk oo nn ai tt rr ai tt
 reconnaître rr ee kk oo nn ai tt rr
 reconnaître(2) rr ee kk oo nn ai tt rr ee
 reconnaîtrez rr ee kk au nn ai tt rr ei
-reconnaîtrez(2) rr ee kk au nn ai tt rr ei zz
-reconnaîtrez(3) rr ee kk au nn ei tt rr ei
-reconnaîtrez(4) rr ee kk au nn ei tt rr ei zz
-reconnaîtrez(5) rr ee kk oo nn ai tt rr ei
-reconnaîtrez(6) rr ee kk oo nn ai tt rr ei zz
-reconnaîtrez(7) rr ee kk oo nn ei tt rr ei
-reconnaîtrez(8) rr ee kk oo nn ei tt rr ei zz
-reconnaîtrez(9) rr kk au nn ai tt rr ei
-reconnaîtrez(10) rr kk au nn ai tt rr ei zz
-reconnaîtrez(11) rr kk au nn ei tt rr ei
-reconnaîtrez(12) rr kk au nn ei tt rr ei zz
-reconnaîtrez(13) rr kk oo nn ai tt rr ei
-reconnaîtrez(14) rr kk oo nn ai tt rr ei zz
-reconnaîtrez(15) rr kk oo nn ei tt rr ei
-reconnaîtrez(16) rr kk oo nn ei tt rr ei zz
+reconnaîtrez(2) rr ee kk au nn ei tt rr ei
+reconnaîtrez(3) rr ee kk oo nn ai tt rr ei
+reconnaîtrez(4) rr ee kk oo nn ei tt rr ei
+reconnaîtrez(5) rr kk au nn ai tt rr ei
+reconnaîtrez(6) rr kk au nn ei tt rr ei
+reconnaîtrez(7) rr kk oo nn ai tt rr ei
+reconnaîtrez(8) rr kk oo nn ei tt rr ei
+reconnaîtriez rr ee kk au nn ai tt rr yy ei
+reconnaîtriez(2) rr ee kk au nn ei tt rr yy ei
+reconnaîtriez(3) rr ee kk oo nn ai tt rr yy ei
+reconnaîtriez(4) rr ee kk oo nn ei tt rr yy ei
+reconnaîtriez(5) rr kk au nn ai tt rr yy ei
+reconnaîtriez(6) rr kk au nn ei tt rr yy ei
+reconnaîtriez(7) rr kk oo nn ai tt rr yy ei
+reconnaîtriez(8) rr kk oo nn ei tt rr yy ei
 reconnaîtront rr ee kk oo nn ai tt rr on
 reconnaîtront(2) rr ee kk oo nn ai tt rr on tt
 reconnu rr ee kk oo nn uu
@@ -77150,9 +76821,7 @@ reconstitutions rr ee kk on ss tt ii tt uu ss yy on
 reconstitué rr ee kk on ss tt ii tt uu ei
 reconstituée rr ee kk on ss tt ii tt uu ei
 reconstituées rr ee kk on ss tt ii tt uu ei
-reconstituées(2) rr ee kk on ss tt ii tt uu ei zz
 reconstitués rr ee kk on ss tt ii tt uu ei
-reconstitués(2) rr ee kk on ss tt ii tt uu ei zz
 reconstructeurs rr ee kk on ss tt rr uu kk tt oe rr
 reconstructeurs(2) rr ee kk on ss tt rr uu kk tt oe rr zz
 reconstruction rr ee kk on ss tt rr uu kk ss yy on
@@ -77249,9 +76918,7 @@ recruteurs(2) rr ee kk rr uu tt oe rr zz
 recruté rr ee kk rr uu tt ei
 recrutée rr ee kk rr uu tt ei
 recrutées rr ee kk rr uu tt ei
-recrutées(2) rr ee kk rr uu tt ei zz
 recrutés rr ee kk rr uu tt ei
-recrutés(2) rr ee kk rr uu tt ei zz
 recréation rr ee kk rr ei aa ss yy on
 recrée rr ee kk rr ai
 recréer rr ee kk rr ai ei
@@ -77338,9 +77005,7 @@ reculs(2) rr ee kk uu ll zz
 reculé rr ee kk uu ll ei
 reculée rr ee kk uu ll ei
 reculées rr ee kk uu ll ei
-reculées(2) rr ee kk uu ll ei zz
 reculés rr ee kk uu ll ei
-reculés(2) rr ee kk uu ll ei zz
 recyclage rr ee ss ii kk ll aa jj
 recycle rr ee ss ii kk ll
 recycle(2) rr ee ss ii kk ll ee
@@ -77356,7 +77021,6 @@ recycler rr ee ss ii kk ll ei
 recycler(2) rr ee ss ii kk ll ei rr
 recyclé rr ee ss ii kk ll ei
 recyclés rr ee ss ii kk ll ei
-recyclés(2) rr ee ss ii kk ll ei zz
 recèle rr ee ss ai ll
 recèle(2) rr ee ss ai ll ee
 recèlent rr ee ss ai ll ee
@@ -77440,7 +77104,6 @@ redistribuer rr ee dd ii ss tt rr ii bb uu ei
 redistribuer(2) rr ee dd ii ss tt rr ii bb uu ei rr
 redistribution rr ee dd ii ss tt rr ii bb uu ss yy on
 redistribués rr ee dd ii ss tt rr ii bb uu ei
-redistribués(2) rr ee dd ii ss tt rr ii bb uu ei zz
 redit rr ee dd ii
 redit(2) rr ee dd ii tt
 redites rr ee dd ii tt
@@ -77494,9 +77157,7 @@ redouter(2) rr ee dd ou tt ei rr
 redouté rr ee dd ou tt ei
 redoutée rr ee dd ou tt ei
 redoutées rr ee dd ou tt ei
-redoutées(2) rr ee dd ou tt ei zz
 redoutés rr ee dd ou tt ei
-redoutés(2) rr ee dd ou tt ei zz
 redoux rr ee dd ou
 redoux(2) rr ee dd ou zz
 redresse rr ee dd rr ai ss
@@ -77515,7 +77176,6 @@ redresseurs(4) rr ee dd rr ai ss oe rr zz
 redressé rr ee dd rr ai ss ei
 redressée rr ee dd rr ai ss ei
 redressés rr ee dd rr ai ss ei
-redressés(2) rr ee dd rr ai ss ei zz
 redynamiser rr ee dd ii nn aa mm ii zz ei
 redéclenché rr ee dd ei kk ll an ch ei
 redécoupage rr ee dd ei kk ou pp aa jj
@@ -77597,7 +77257,6 @@ refermons(4) rr ff ai rr mm on zz
 refermé rr ee ff ai rr mm ei
 refermée rr ee ff ai rr mm ei
 refermées rr ee ff ai rr mm ei
-refermées(2) rr ee ff ai rr mm ei zz
 referons rr ee ff ee rr on
 referons(2) rr ee ff ee rr on zz
 refinancement rr ee ff ii nn an ss ee mm an
@@ -77645,7 +77304,6 @@ refouler(2) rr ee ff ou ll ei rr
 refoulé rr ee ff ou ll ei
 refoulée rr ee ff ou ll ei
 refoulés rr ee ff ou ll ei
-refoulés(2) rr ee ff ou ll ei zz
 refrain rr ee ff rr in
 refrains rr ee ff rr in
 refrains(2) rr ee ff rr in zz
@@ -77680,7 +77338,6 @@ refuseraient(2) rr ee ff uu zz ee rr ai tt
 refuserait rr ee ff uu zz ee rr ai
 refuserait(2) rr ee ff uu zz ee rr ai tt
 refuseriez rr ee ff uu zz ee rr yy ei
-refuseriez(2) rr ee ff uu zz ee rr yy ei zz
 refuseront rr ee ff uu zz ee rr on
 refuseront(2) rr ee ff uu zz ee rr on tt
 refusons rr ee ff uu zz on
@@ -77689,9 +77346,7 @@ refusèrent rr ee ff uu zz ai rr ee
 refusé rr ee ff uu zz ei
 refusée rr ee ff uu zz ei
 refusées rr ee ff uu zz ei
-refusées(2) rr ee ff uu zz ei zz
 refusés rr ee ff uu zz ei
-refusés(2) rr ee ff uu zz ei zz
 refuzniks rr ee ff uu zz nn ii kk
 regagnait rr ee gg aa gn ai
 regagnait(2) rr ee gg aa gn ai tt
@@ -77709,11 +77364,8 @@ regagnera(4) rr gg aa nn yy ee rr aa
 regagnera(5) rr gg aa nn yy rr aa
 regagné rr ee gg aa gn ei
 regagnés rr ee gg aa gn ei
-regagnés(2) rr ee gg aa gn ei zz
 regagnés(3) rr ee gg aa nn yy ei
-regagnés(4) rr ee gg aa nn yy ei zz
 regagnés(5) rr gg aa nn yy ei
-regagnés(6) rr gg aa nn yy ei zz
 regain rr ee gg in
 regan rr ee gg an
 regard rr ee gg aa rr
@@ -77735,7 +77387,6 @@ regarder(2) rr ee gg aa rr dd ei rr
 regardera rr ee gg aa rr dd ee rr aa
 regardez rr ee gg aa rr dd ai
 regardez(2) rr ee gg aa rr dd ei
-regardez(3) rr ee gg aa rr dd ei zz
 regardons rr ee gg aa rr dd on
 regardons(2) rr ee gg aa rr dd on zz
 regards rr ee gg aa rr
@@ -77744,9 +77395,7 @@ regards(3) rr ei gg aa rr dd zz
 regardé rr ee gg aa rr dd ei
 regardée rr ee gg aa rr dd ei
 regardées rr ee gg aa rr dd ei
-regardées(2) rr ee gg aa rr dd ei zz
 regardés rr ee gg aa rr dd ei
-regardés(2) rr ee gg aa rr dd ei zz
 reggada rr ei gg gg aa dd aa
 reggae rr ai gg ai
 reggiani rr ai dd ei jj yy aa nn ii
@@ -77789,18 +77438,13 @@ regretter rr ee gg rr ai tt ei
 regretter(2) rr ee gg rr ai tt ei rr
 regrettera rr ee gg rr ai tt ee rr aa
 regrettez rr ee gg rr ai tt ei
-regrettez(2) rr ee gg rr ai tt ei zz
 regrettons rr ee gg rr ai tt on
 regrettons(2) rr ee gg rr ai tt on zz
 regretté rr ee gg rr ai tt ei
 regrettés rr ee gg rr ai tt ei
-regrettés(2) rr ee gg rr ai tt ei zz
-regrettés(3) rr ee gg rr ei tt ei
-regrettés(4) rr ee gg rr ei tt ei zz
-regrettés(5) rr gg rr ai tt ei
-regrettés(6) rr gg rr ai tt ei zz
-regrettés(7) rr gg rr ei tt ei
-regrettés(8) rr gg rr ei tt ei zz
+regrettés(2) rr ee gg rr ei tt ei
+regrettés(3) rr gg rr ai tt ei
+regrettés(4) rr gg rr ei tt ei
 regroupait rr ee gg rr ou pp ai
 regroupait(2) rr ee gg rr ou pp ai tt
 regroupant rr ee gg rr ou pp an
@@ -77819,9 +77463,7 @@ regrouperait(2) rr ee gg rr ou pp ee rr ai tt
 regroupé rr ee gg rr ou pp ei
 regroupée rr ee gg rr ou pp ei
 regroupées rr ee gg rr ou pp ei
-regroupées(2) rr ee gg rr ou pp ei zz
 regroupés rr ee gg rr ou pp ei
-regroupés(2) rr ee gg rr ou pp ei zz
 rehaussement rr ee oo ss ee mm an
 rehausser rr ee oo ss ei
 rehausser(2) rr ee oo ss ei rr
@@ -77875,9 +77517,7 @@ rejettent rr ee jj ai tt ee
 rejeté rr ee jj ee tt ei
 rejetée rr ee jj ee tt ei
 rejetées rr ee jj ee tt ei
-rejetées(2) rr ee jj ee tt ei zz
 rejetés rr ee jj ee tt ei
-rejetés(2) rr ee jj ee tt ei zz
 rejoignaient rr ee jj ww aa gn ai
 rejoignaient(2) rr ee jj ww aa gn ai tt
 rejoignait rr ee jj ww aa gn ai
@@ -77888,11 +77528,8 @@ rejoigne rr ee jj ww aa gn
 rejoigne(2) rr ee jj ww aa gn ee
 rejoignent rr ee jj ww aa gn ee
 rejoignez rr ee jj ww aa gn ei
-rejoignez(2) rr ee jj ww aa gn ei zz
-rejoignez(3) rr ee jj ww aa nn yy ei
-rejoignez(4) rr ee jj ww aa nn yy ei zz
-rejoignez(5) rr jj ww aa nn yy ei
-rejoignez(6) rr jj ww aa nn yy ei zz
+rejoignez(2) rr ee jj ww aa nn yy ei
+rejoignez(3) rr jj ww aa nn yy ei
 rejoignit rr ee jj ww aa gn ii
 rejoignit(2) rr ee jj ww aa gn ii tt
 rejoignons rr ee jj ww aa gn on
@@ -77941,7 +77578,6 @@ relances(3) rr ee ll an ss ee zz
 relancé rr ee ll an ss ei
 relancée rr ee ll an ss ei
 relancées rr ee ll an ss ei
-relancées(2) rr ee ll an ss ei zz
 relançant rr ee ll an ss an
 relançant(2) rr ee ll an ss an tt
 relatait rr ee ll aa tt ai
@@ -77993,7 +77629,6 @@ relaxer(2) rr ee ll aa kk ss ei rr
 relaxé rr ee ll aa kk ss ei
 relaxée rr ee ll aa kk ss ei
 relaxés rr ee ll aa kk ss ei
-relaxés(2) rr ee ll aa kk ss ei zz
 relayant rr ee ll ai yy an
 relayant(2) rr ee ll ai yy an tt
 relayer rr ee ll ai yy ei
@@ -78001,9 +77636,7 @@ relayer(2) rr ee ll ai yy ei rr
 relayé rr ee ll ai yy ei
 relayée rr ee ll ai yy ei
 relayées rr ee ll ai yy ei
-relayées(2) rr ee ll ai yy ei zz
 relayés rr ee ll ai yy ei
-relayés(2) rr ee ll ai yy ei zz
 relecture rr ee ll ai kk tt uu rr
 relecture(2) rr ee ll ai kk tt uu rr ee
 relectures rr ee ll ai kk tt uu rr
@@ -78026,9 +77659,7 @@ relevons(2) rr ee ll ee vv on zz
 relevé rr ee ll ee vv ei
 relevée rr ee ll ee vv ei
 relevées rr ee ll ee vv ei
-relevées(2) rr ee ll ee vv ei zz
 relevés rr ee ll ee vv ei
-relevés(2) rr ee ll ee vv ei zz
 reliait rr ee ll yy ai
 reliait(2) rr ee ll yy ai tt
 reliant rr ee ll yy an
@@ -78074,18 +77705,14 @@ reliure(2) rr ee ll yy uu rr ee
 relié rr ee ll yy ei
 reliée rr ee ll yy ei
 reliées rr ee ll yy ei
-reliées(2) rr ee ll yy ei zz
 reliés rr ee ll yy ei
-reliés(2) rr ee ll yy ei zz
 relo rr ei ll au
 reloaded rr ei ll au aa dd ai dd
 relogement rr ee ll oo jj ee mm an
 reloger rr ee ll oo jj ei
 reloger(2) rr ee ll oo jj ei rr
 relogées rr ee ll oo jj ei
-relogées(2) rr ee ll oo jj ei zz
 relogés rr ee ll oo jj ei
-relogés(2) rr ee ll oo jj ei zz
 relu rr ee ll uu
 relue rr ee ll uu
 relue(2) rr ll uu
@@ -78101,9 +77728,7 @@ relâcher(2) rr ee ll aa ch ei rr
 relâché rr ee ll aa ch ei
 relâchée rr ee ll aa ch ei
 relâchées rr ee ll aa ch ei
-relâchées(2) rr ee ll aa ch ei zz
 relâchés rr ee ll aa ch ei
-relâchés(2) rr ee ll aa ch ei zz
 relègue rr ee ll ai gg
 relègue(2) rr ee ll ai gg ee
 relève rr ee ll ai vv
@@ -78137,9 +77762,7 @@ reléguer(2) rr ee ll ai gg ei rr
 relégué rr ee ll ai gg ei
 reléguée rr ee ll ai gg ei
 reléguées rr ee ll ai gg ei
-reléguées(2) rr ee ll ai gg ei zz
 relégués rr ee ll ai gg ei
-relégués(2) rr ee ll ai gg ei zz
 rem rr ai mm
 remake rr ii mm ai ii kk
 remake(2) rr ii mm ai ii kk ee
@@ -78184,15 +77807,12 @@ remarques(2) rr ee mm aa rr kk ee
 remarques(3) rr ee mm aa rr kk ee zz
 remarques(4) rr ee mm aa rr kk zz
 remarquez rr ee mm aa rr kk ei
-remarquez(2) rr ee mm aa rr kk ei zz
 remarquons rr ee mm aa rr kk on
 remarquons(2) rr ee mm aa rr kk on zz
 remarqué rr ee mm aa rr kk ei
 remarquée rr ee mm aa rr kk ei
 remarquées rr ee mm aa rr kk ei
-remarquées(2) rr ee mm aa rr kk ei zz
 remarqués rr ee mm aa rr kk ei
-remarqués(2) rr ee mm aa rr kk ei zz
 remasterisé rr ee mm aa ss tt ee rr ii zz ei
 remastérisée rr ee mm aa ss tt ei rr ii zz ei
 remballer rr an bb aa ll ei
@@ -78215,9 +77835,7 @@ rembourser(2) rr an bb ou rr ss ei rr
 remboursé rr an bb ou rr ss ei
 remboursée rr an bb ou rr ss ei
 remboursées rr an bb ou rr ss ei
-remboursées(2) rr an bb ou rr ss ei zz
 remboursés rr an bb ou rr ss ei
-remboursés(2) rr an bb ou rr ss ei zz
 rembrandt rr an bb rr an
 remembrement rr ee mm an bb rr ee mm an
 remerciant rr ee mm ai rr ss yy an
@@ -78232,7 +77850,6 @@ remercier rr ee mm ai rr ss yy ei
 remercier(2) rr ee mm ai rr ss yy ei rr
 remercié rr ee mm ai rr ss yy ei
 remerciés rr ee mm ai rr ss yy ei
-remerciés(2) rr ee mm ai rr ss yy ei zz
 remet rr ee mm ai
 remet(2) rr ee mm ai tt
 remettaient rr ee mm ai tt ai
@@ -78245,13 +77862,9 @@ remette rr ee mm ai tt
 remette(2) rr ee mm ai tt ee
 remettent rr ee mm ai tt ee
 remettez rr ee mm ai tt ei
-remettez(2) rr ee mm ai tt ei zz
-remettez(3) rr ee mm ei tt ei
-remettez(4) rr ee mm ei tt ei zz
-remettez(5) rr mm ai tt ei
-remettez(6) rr mm ai tt ei zz
-remettez(7) rr mm ei tt ei
-remettez(8) rr mm ei tt ei zz
+remettez(2) rr ee mm ei tt ei
+remettez(3) rr mm ai tt ei
+remettez(4) rr mm ei tt ei
 remettons rr ee mm ai tt on
 remettons(2) rr ee mm ai tt on zz
 remettra rr ee mm ai tt rr aa
@@ -78298,9 +77911,7 @@ remontrances rr ee mm on tt rr an ss
 remonté rr ee mm on tt ei
 remontée rr ee mm on tt ei
 remontées rr ee mm on tt ei
-remontées(2) rr ee mm on tt ei zz
 remontés rr ee mm on tt ei
-remontés(2) rr ee mm on tt ei zz
 remords rr ee mm oo rr
 remords(2) rr ee mm oo rr zz
 remorque rr ee mm oo rr kk
@@ -78314,7 +77925,6 @@ remorqueurs rr ee mm oo rr kk oe rr
 remorqueurs(2) rr ee mm oo rr kk oe rr zz
 remorqué rr ee mm oo rr kk ei
 remorqués rr ee mm oo rr kk ei
-remorqués(2) rr ee mm oo rr kk ei zz
 remous rr ee mm ou
 remous(2) rr ee mm ou zz
 rempart rr an pp aa rr
@@ -78336,9 +77946,7 @@ remplaceront(2) rr an pp ll aa ss ee rr on tt
 remplacé rr an pp ll aa ss ei
 remplacée rr an pp ll aa ss ei
 remplacées rr an pp ll aa ss ei
-remplacées(2) rr an pp ll aa ss ei zz
 remplacés rr an pp ll aa ss ei
-remplacés(2) rr an pp ll aa ss ei zz
 remplaçaient rr an pp ll aa ss ai
 remplaçaient(2) rr an pp ll aa ss ai tt
 remplaçait rr an pp ll aa ss ai
@@ -78383,9 +77991,7 @@ remportera(2) rr an pp oo rr tt rr aa
 remporté rr an pp oo rr tt ei
 remportée rr an pp oo rr tt ei
 remportées rr an pp oo rr tt ei
-remportées(2) rr an pp oo rr tt ei zz
 remportés rr an pp oo rr tt ei
-remportés(2) rr an pp oo rr tt ei zz
 remuant rr ee mm uu an
 remuant(2) rr ee mm uu an tt
 remuante rr ee mm uu an tt
@@ -78488,7 +78094,6 @@ rencontres(2) rr an kk on tt rr ee
 rencontres(3) rr an kk on tt rr ee zz
 rencontres(4) rr an kk on tt rr zz
 rencontrez rr an kk on tt rr ei
-rencontrez(2) rr an kk on tt rr ei zz
 rencontrions rr an kk on tt rr yy on
 rencontrions(2) rr an kk on tt rr yy on zz
 rencontrons rr an kk on tt rr on
@@ -78496,9 +78101,7 @@ rencontrons(2) rr an kk on tt rr on zz
 rencontré rr an kk on tt rr ei
 rencontrée rr an kk on tt rr ei
 rencontrées rr an kk on tt rr ei
-rencontrées(2) rr an kk on tt rr ei zz
 rencontrés rr an kk on tt rr ei
-rencontrés(2) rr an kk on tt rr ei zz
 rend rr an
 rend(2) rr an tt
 rendaient rr an dd ai
@@ -78514,7 +78117,6 @@ rendements rr an dd ee mm an
 rendements(2) rr an dd ee mm an zz
 rendent rr an dd ee
 rendez rr an dd ei
-rendez(2) rr an dd ei zz
 rendez-vous rr an dd ai vv ou
 rendez-vous(2) rr an dd ai vv ou zz
 rendirent rr an dd ii rr ee
@@ -78550,11 +78152,8 @@ renferme(2) rr an ff ai rr mm ee
 renferment rr an ff ai rr mm ee
 renfermé rr an ff ai rr mm ei
 renfermées rr an ff ai rr mm ei
-renfermées(2) rr an ff ai rr mm ei zz
-renfermées(3) rr an ff ei rr mm ei
-renfermées(4) rr an ff ei rr mm ei zz
+renfermées(2) rr an ff ei rr mm ei
 renfermés rr an ff ai rr mm ei
-renfermés(2) rr an ff ai rr mm ei zz
 renflouement rr an ff ll ou mm an
 renflouer rr an ff ll ou ei
 renflouer(2) rr an ff ll ou ei rr
@@ -78572,9 +78171,7 @@ renforceront(2) rr an ff oo rr ss ee rr on tt
 renforcé rr an ff oo rr ss ei
 renforcée rr an ff oo rr ss ei
 renforcées rr an ff oo rr ss ei
-renforcées(2) rr an ff oo rr ss ei zz
 renforcés rr an ff oo rr ss ei
-renforcés(2) rr an ff oo rr ss ei zz
 renfort rr an ff oo rr
 renforts rr an ff oo rr
 renforts(2) rr an ff oo rr zz
@@ -78615,7 +78212,6 @@ renom rr ee nn on
 renommé rr ee nn oo mm ei
 renommée rr ee nn oo mm ei
 renommés rr ee nn oo mm ei
-renommés(2) rr ee nn oo mm ei zz
 renon rr ee nn on
 renonce rr ee nn on ss
 renonce(2) rr ee nn on ss ee
@@ -78667,9 +78263,7 @@ renouvellera rr ee nn ou vv ai ll ee rr aa
 renouvelé rr ee nn ou vv ee ll ei
 renouvelée rr ee nn ou vv ee ll ei
 renouvelées rr ee nn ou vv ee ll ei
-renouvelées(2) rr ee nn ou vv ee ll ei zz
 renouvelés rr ee nn ou vv ee ll ei
-renouvelés(2) rr ee nn ou vv ee ll ei zz
 renoué rr ee nn ou ei
 rens rr ai nn
 renseigne rr an ss ai gn
@@ -78682,7 +78276,6 @@ renseigner rr an ss ai gn ei
 renseigner(2) rr an ss ai gn ei rr
 renseigné rr an ss ai gn ei
 renseignés rr an ss ai gn ei
-renseignés(2) rr an ss ai gn ei zz
 renta rr an tt aa
 rentabiliser rr an tt aa bb ii ll ii zz ei
 rentabilité rr an tt aa bb ii ll ii tt ei
@@ -78700,7 +78293,6 @@ rentes(3) rr an tt ee zz
 rentes(4) rr an tt zz
 rentier rr an tt yy ei
 rentiers rr an tt yy ei
-rentiers(2) rr an tt yy ei zz
 rentraient rr an tt rr ai
 rentraient(2) rr an tt rr ai tt
 rentrais rr an tt rr ai
@@ -78720,13 +78312,10 @@ rentreraient(2) rr an tt rr ee rr ai tt
 rentreront rr an tt rr ee rr on
 rentreront(2) rr an tt rr ee rr on tt
 rentrez rr an tt rr ei
-rentrez(2) rr an tt rr ei zz
 rentré rr an tt rr ei
 rentrée rr an tt rr ei
 rentrées rr an tt rr ei
-rentrées(2) rr an tt rr ei zz
 rentrés rr an tt rr ei
-rentrés(2) rr an tt rr ei zz
 renucci rr ei nn ou tt ch ii
 renucci(2) rr ei nn uu ss ii
 renverrait rr an vv ai rr ai
@@ -78745,9 +78334,7 @@ renverserais(2) rr an vv ai rr ss ee rr ai zz
 renversé rr an vv ai rr ss ei
 renversée rr an vv ai rr ss ei
 renversées rr an vv ai rr ss ei
-renversées(2) rr an vv ai rr ss ei zz
 renversés rr an vv ai rr ss ei
-renversés(2) rr an vv ai rr ss ei zz
 renvoi rr an vv ww aa
 renvoie rr an vv ww aa
 renvoient rr an vv ww aa
@@ -78763,13 +78350,10 @@ renvoyant(2) rr an vv ww aa yy an tt
 renvoyer rr an vv ww aa yy ei
 renvoyer(2) rr an vv ww aa yy ei rr
 renvoyez rr an vv ww aa yy ei
-renvoyez(2) rr an vv ww aa yy ei zz
 renvoyé rr an vv ww aa yy ei
 renvoyée rr an vv ww aa yy ei
 renvoyées rr an vv ww aa yy ei
-renvoyées(2) rr an vv ww aa yy ei zz
 renvoyés rr an vv ww aa yy ei
-renvoyés(2) rr an vv ww aa yy ei zz
 renzo rr ei nn zz au
 renâcle rr ee nn aa kk ll
 renâcle(2) rr ee nn aa kk ll ee
@@ -78906,9 +78490,7 @@ replis(2) rr ee pp ll ii zz
 replié rr ee pp ll ii yy ei
 repliée rr ee pp ll ii yy ei
 repliées rr ee pp ll ii yy ei
-repliées(2) rr ee pp ll ii yy ei zz
 repliés rr ee pp ll ii yy ei
-repliés(2) rr ee pp ll ii yy ei zz
 replonge rr ee pp ll on jj
 replonge(2) rr ee pp ll on jj ee
 replonger rr ee pp ll on jj ei
@@ -78946,9 +78528,7 @@ reports(2) rr ee pp oo rr zz
 reporté rr ee pp oo rr tt ei
 reportée rr ee pp oo rr tt ei
 reportées rr ee pp oo rr tt ei
-reportées(2) rr ee pp oo rr tt ei zz
 reportés rr ee pp oo rr tt ei
-reportés(2) rr ee pp oo rr tt ei zz
 repos rr ee pp au
 repos(2) rr ee pp au zz
 reposaient rr ee pp oo zz ai
@@ -78966,13 +78546,11 @@ reposera rr ee pp oo zz ee rr aa
 reposerait rr ee pp oo zz ee rr ai
 reposerait(2) rr ee pp oo zz ee rr ai tt
 reposez rr ee pp oo zz ei
-reposez(2) rr ee pp oo zz ei zz
 repositionnement rr ee pp oo zz ii ss yy oo nn ee mm an
 repositionner rr ee pp oo zz ii ss yy oo nn ei
 reposé rr ee pp oo zz ei
 reposée rr ee pp oo zz ei
 reposés rr ee pp oo zz ei
-reposés(2) rr ee pp oo zz ei zz
 repoussant rr ee pp ou ss an
 repoussant(2) rr ee pp ou ss an tt
 repousse rr ee pp ou ss
@@ -78984,9 +78562,7 @@ repoussoir rr ee pp ou ss ww aa rr
 repoussé rr ee pp ou ss ei
 repoussée rr ee pp ou ss ei
 repoussées rr ee pp ou ss ei
-repoussées(2) rr ee pp ou ss ei zz
 repoussés rr ee pp ou ss ei
-repoussés(2) rr ee pp ou ss ei zz
 reprenaient rr ee pp rr ee nn ai
 reprenaient(2) rr ee pp rr ee nn ai tt
 reprenait rr ee pp rr ee nn ai
@@ -79048,9 +78624,7 @@ reproches(4) rr ee pp rr oo ch zz
 reproché rr ee pp rr oo ch ei
 reprochée rr ee pp rr oo ch ei
 reprochées rr ee pp rr oo ch ei
-reprochées(2) rr ee pp rr oo ch ei zz
 reprochés rr ee pp rr oo ch ei
-reprochés(2) rr ee pp rr oo ch ei zz
 reproductif rr ee pp rr oo dd uu kk tt ii ff
 reproduction rr ee pp rr oo dd uu kk ss yy on
 reproductions rr ee pp rr oo dd uu kk ss yy on
@@ -79122,19 +78696,14 @@ représenterait(2) rr ee pp rr ai zz an tt ee rr ai tt
 représenteront rr ee pp rr ai zz an tt ee rr on
 représenteront(2) rr ee pp rr ai zz an tt ee rr on tt
 représentez rr ee pp rr ai zz an tt ei
-représentez(2) rr ee pp rr ai zz an tt ei zz
-représentez(3) rr ee pp rr ei zz an tt ei
-représentez(4) rr ee pp rr ei zz an tt ei zz
-représentez(5) rr pp rr ei zz an tt ei
-représentez(6) rr pp rr ei zz an tt ei zz
+représentez(2) rr ee pp rr ei zz an tt ei
+représentez(3) rr pp rr ei zz an tt ei
 représentons rr ee pp rr ai zz an tt on
 représentons(2) rr ee pp rr ai zz an tt on zz
 représenté rr ee pp rr ai zz an tt ei
 représentée rr ee pp rr ai zz an tt ei
 représentées rr ee pp rr ai zz an tt ei
-représentées(2) rr ee pp rr ai zz an tt ei zz
 représentés rr ee pp rr ai zz an tt ei
-représentés(2) rr ee pp rr ai zz an tt ei zz
 repsol rr ee pp ss oo ll
 reptile rr ai pp tt ii ll
 reptile(2) rr ai pp tt ii ll ee
@@ -79169,21 +78738,15 @@ repérages(4) rr ee pp ai rr aa jj zz
 repérer rr ee pp ai rr ei
 repérer(2) rr ee pp ai rr ei rr
 repérez rr ee pp ai rr ei
-repérez(2) rr ee pp ai rr ei zz
-repérez(3) rr ee pp ei rr ei
-repérez(4) rr ee pp ei rr ei zz
-repérez(5) rr pp ei rr ei
-repérez(6) rr pp ei rr ei zz
+repérez(2) rr ee pp ei rr ei
+repérez(3) rr pp ei rr ei
 repéré rr ee pp ai rr ei
 repérée rr ee pp ai rr ei
 repérées rr ee pp ai rr ei
-repérées(2) rr ee pp ai rr ei zz
 repérés rr ee pp ai rr ei
-repérés(2) rr ee pp ai rr ei zz
 repêchages rr ee pp ai ch aa jj
 repêché rr ee pp ai ch ei
 repêchés rr ee pp ai ch ei
-repêchés(2) rr ee pp ai ch ei zz
 requalification rr ee kk aa ll ii ff ii kk aa ss yy on
 requalifier rr ee kk aa ll ii ff yy ei
 requiem rr ai kk uy ii ai mm
@@ -79224,9 +78787,7 @@ resaisi rr ee ss ai zz ii
 rescapé rr ai ss kk aa pp ei
 rescapée rr ai ss kk aa pp ei
 rescapées rr ai ss kk aa pp ei
-rescapées(2) rr ai ss kk aa pp ei zz
 rescapés rr ai ss kk aa pp ei
-rescapés(2) rr ai ss kk aa pp ei zz
 rescousse rr ai ss kk ou ss
 rescousse(2) rr ai ss kk ou ss ee
 research rr ii ss oe rr tt ch
@@ -79264,7 +78825,6 @@ respecteront(2) rr ai ss pp ai kk tt ee rr on tt
 respecteront(3) rr ai ss pp ai kk tt rr on
 respecteront(4) rr ai ss pp ai kk tt rr on tt
 respectez rr ai ss pp ai kk tt ei
-respectez(2) rr ai ss pp ai kk tt ei zz
 respectif rr ai ss pp ai kk tt ii ff
 respectifs rr ai ss pp ai kk tt ii ff
 respectifs(2) rr ai ss pp ai kk tt ii ff zz
@@ -79292,9 +78852,7 @@ respectueux(2) rr ai ss pp ai kk tt uu eu zz
 respecté rr ai ss pp ai kk tt ei
 respectée rr ai ss pp ai kk tt ei
 respectées rr ai ss pp ai kk tt ei
-respectées(2) rr ai ss pp ai kk tt ei zz
 respectés rr ai ss pp ai kk tt ei
-respectés(2) rr ai ss pp ai kk tt ei zz
 respirateur rr ai ss pp ii rr aa tt oe rr
 respiration rr ai ss pp ii rr aa ss yy on
 respiratoire rr ai ss pp ii rr aa tt ww aa rr
@@ -79311,7 +78869,6 @@ responsabiliser rr ai ss pp on ss aa bb ii ll ii zz ei
 responsabiliser(2) rr ai ss pp on ss aa bb ii ll ii zz ei rr
 responsabilité rr ai ss pp on ss aa bb ii ll ii tt ei
 responsabilités rr ai ss pp on ss aa bb ii ll ii tt ei
-responsabilités(2) rr ai ss pp on ss aa bb ii ll ii tt ei zz
 responsable rr ai ss pp on ss aa bb ll
 responsable(2) rr ai ss pp on ss aa bb ll ee
 responsables rr ai ss pp on ss aa bb ll
@@ -79358,9 +78915,7 @@ ressentait rr ee ss an tt ai
 ressentait(2) rr ee ss an tt ai tt
 ressentent rr ee ss an tt ee
 ressentez rr ee ss an tt ei
-ressentez(2) rr ee ss an tt ei zz
 ressentez(3) rr ss an tt ei
-ressentez(4) rr ss an tt ei zz
 ressenti rr ee ss an tt ii
 ressentie rr ee ss an tt ii
 ressenties rr ee ss an tt ii
@@ -79456,9 +79011,7 @@ restaurer(2) rr ai ss tt oo rr ei rr
 restauré rr ai ss tt oo rr ei
 restaurée rr ai ss tt oo rr ei
 restaurées rr ai ss tt oo rr ei
-restaurées(2) rr ai ss tt oo rr ei zz
 restaurés rr ai ss tt oo rr ei
-restaurés(2) rr ai ss tt oo rr ei zz
 reste rr ai ss tt
 reste(2) rr ai ss tt ee
 restent rr ai ss tt ee
@@ -79479,7 +79032,6 @@ restes(2) rr ai ss tt ee
 restes(3) rr ai ss tt ee zz
 restes(4) rr ai ss tt zz
 restez rr ai ss tt ei
-restez(2) rr ai ss tt ei zz
 restituant rr ai ss tt ii tt uu an
 restituant(2) rr ai ss tt ii tt uu an tt
 restitue rr ai ss tt ii tt uu
@@ -79493,9 +79045,7 @@ restitutions(2) rr ai ss tt ii tt uu ss yy on zz
 restitué rr ai ss tt ii tt uu ei
 restituée rr ai ss tt ii tt uu ei
 restituées rr ai ss tt ii tt uu ei
-restituées(2) rr ai ss tt ii tt uu ei zz
 restitués rr ai ss tt ii tt uu ei
-restitués(2) rr ai ss tt ii tt uu ei zz
 resto rr ai ss tt au
 restons rr ai ss tt on
 restons(2) rr ai ss tt on zz
@@ -79540,9 +79090,7 @@ restèrent rr ai ss tt ai rr ee
 resté rr ai ss tt ei
 restée rr ai ss tt ei
 restées rr ai ss tt ei
-restées(2) rr ai ss tt ei zz
 restés rr ai ss tt ei
-restés(2) rr ai ss tt ei zz
 resurgi rr ee ss uu rr jj ii
 resurgir rr ee ss uu rr jj ii rr
 resurgiront rr ee ss uu rr jj ii rr on
@@ -79570,7 +79118,6 @@ retards(2) rr ee tt aa rr zz
 retardé rr ee tt aa rr dd ei
 retardée rr ee tt aa rr dd ei
 retardés rr ee tt aa rr dd ei
-retardés(2) rr ee tt aa rr dd ei zz
 retenaient rr ee tt ee nn ai
 retenaient(2) rr ee tt ee nn ai tt
 retenait rr ee tt ee nn ai
@@ -79578,13 +79125,9 @@ retenait(2) rr ee tt ee nn ai tt
 retenant rr ee tt ee nn an
 retenant(2) rr ee tt ee nn an tt
 retenez rr ee tt ee nn ei
-retenez(2) rr ee tt ee nn ei zz
-retenez(3) rr ee tt nn ei
-retenez(4) rr ee tt nn ei zz
-retenez(5) rr tt ee nn ei
-retenez(6) rr tt ee nn ei zz
-retenez(7) rr tt nn ei
-retenez(8) rr tt nn ei zz
+retenez(2) rr ee tt nn ei
+retenez(3) rr tt ee nn ei
+retenez(4) rr tt nn ei
 retenir rr ee tt ee nn ii rr
 retenons rr ee tt ee nn on
 retenons(2) rr ee tt ee nn on zz
@@ -79641,9 +79184,7 @@ retirerait(2) rr ee tt ii rr ee rr ai tt
 retiré rr ee tt ii rr ei
 retirée rr ee tt ii rr ei
 retirées rr ee tt ii rr ei
-retirées(2) rr ee tt ii rr ei zz
 retirés rr ee tt ii rr ei
-retirés(2) rr ee tt ii rr ei zz
 retissant rr ee tt ii ss an
 retissant(2) rr ee tt ii ss an tt
 retissant(3) rr tt ii ss an
@@ -79660,9 +79201,7 @@ retomber(2) rr ee tt on bb ei rr
 retombé rr ee tt on bb ei
 retombée rr ee tt on bb ei
 retombées rr ee tt on bb ei
-retombées(2) rr ee tt on bb ei zz
 retombés rr ee tt on bb ei
-retombés(2) rr ee tt on bb ei zz
 retoquée rr ee tt oo kk ei
 retordre rr ee tt oo rr dd rr
 retordre(2) rr ee tt oo rr dd rr ee
@@ -79701,9 +79240,7 @@ retourneront(2) rr ee tt ou rr nn ee rr on tt
 retourné rr ee tt ou rr nn ei
 retournée rr ee tt ou rr nn ei
 retournées rr ee tt ou rr nn ei
-retournées(2) rr ee tt ou rr nn ei zz
 retournés rr ee tt ou rr nn ei
-retournés(2) rr ee tt ou rr nn ei zz
 retours rr ee tt ou rr
 retours(2) rr ee tt ou rr zz
 retrace rr ee tt rr aa ss
@@ -79736,7 +79273,6 @@ retraits(2) rr ee tt rr ai zz
 retraité rr ee tt rr ai tt ei
 retraitée rr ee tt rr ai tt ei
 retraités rr ee tt rr ai tt ei
-retraités(2) rr ee tt rr ai tt ei zz
 retranchant rr ee tt rr an ch an
 retranchant(2) rr ee tt rr an ch an tt
 retranche rr ee tt rr an ch
@@ -79749,9 +79285,7 @@ retrancher(2) rr ee tt rr an ch ei rr
 retranché rr ee tt rr an ch ei
 retranchée rr ee tt rr an ch ei
 retranchées rr ee tt rr an ch ei
-retranchées(2) rr ee tt rr an ch ei zz
 retranchés rr ee tt rr an ch ei
-retranchés(2) rr ee tt rr an ch ei zz
 retransmet rr ee tt rr an ss mm ai
 retransmet(2) rr ee tt rr an ss mm ai tt
 retransmettre rr ee tt rr an ss mm ai tt rr
@@ -79796,28 +79330,21 @@ retrouveraient(2) rr ee tt rr ou vv ee rr ai tt
 retrouverait rr ee tt rr ou vv ee rr ai
 retrouverait(2) rr ee tt rr ou vv ee rr ai tt
 retrouverez rr ee tt rr ou vv ee rr ei
-retrouverez(2) rr ee tt rr ou vv ee rr ei zz
-retrouverez(3) rr ee tt rr ou vv rr ei
-retrouverez(4) rr ee tt rr ou vv rr ei zz
-retrouverez(5) rr tt rr ou vv ee rr ei
-retrouverez(6) rr tt rr ou vv ee rr ei zz
-retrouverez(7) rr tt rr ou vv rr ei
-retrouverez(8) rr tt rr ou vv rr ei zz
+retrouverez(2) rr ee tt rr ou vv rr ei
+retrouverez(3) rr tt rr ou vv ee rr ei
+retrouverez(4) rr tt rr ou vv rr ei
 retrouverons rr ee tt rr ou vv ee rr on
 retrouverons(2) rr ee tt rr ou vv ee rr on zz
 retrouveront rr ee tt rr ou vv ee rr on
 retrouveront(2) rr ee tt rr ou vv ee rr on tt
 retrouvez rr ee tt rr ou vv ei
-retrouvez(2) rr ee tt rr ou vv ei zz
 retrouvons rr ee tt rr ou vv on
 retrouvons(2) rr ee tt rr ou vv on zz
 retrouvèrent rr ee tt rr ou vv ai rr ee
 retrouvé rr ee tt rr ou vv ei
 retrouvée rr ee tt rr ou vv ei
 retrouvées rr ee tt rr ou vv ei
-retrouvées(2) rr ee tt rr ou vv ei zz
 retrouvés rr ee tt rr ou vv ei
-retrouvés(2) rr ee tt rr ou vv ei zz
 retz rr ai tt ss
 reuilly rr eu yy ii
 reuilly(2) rr oe yy ii
@@ -79875,9 +79402,7 @@ revendiquons(2) rr ee vv an dd ii kk on zz
 revendiqué rr ee vv an dd ii kk ei
 revendiquée rr ee vv an dd ii kk ei
 revendiquées rr ee vv an dd ii kk ei
-revendiquées(2) rr ee vv an dd ii kk ei zz
 revendiqués rr ee vv an dd ii kk ei
-revendiqués(2) rr ee vv an dd ii kk ei zz
 revendra rr ee vv an dd rr aa
 revendra(2) rr vv an dd rr aa
 revendre rr ee vv an dd rr
@@ -79889,7 +79414,6 @@ revendues(2) rr ee vv an dd uu zz
 revendus rr ee vv an dd uu
 revendus(2) rr ee vv an dd uu zz
 revenez rr ee vv ee nn ei
-revenez(2) rr ee vv ee nn ei zz
 revenir rr ee vv ee nn ii rr
 revenons rr ee vv ee nn on
 revenons(2) rr ee vv ee nn on zz
@@ -79929,7 +79453,6 @@ reversion rr ee vv ai rr ss yy on
 reversé rr ee vv ai rr ss ei
 reversée rr ee vv ai rr ss ei
 reversés rr ee vv ai rr ss ei
-reversés(2) rr ee vv ai rr ss ei zz
 reviendra rr ee vv yy in dd rr aa
 reviendrai rr ee vv yy in dd rr ai
 reviendraient rr ee vv yy in dd rr ai
@@ -80279,7 +79802,6 @@ rigides(3) rr ii jj ii dd ee zz
 rigides(4) rr ii jj ii dd zz
 rigidité rr ii jj ii dd ii tt ei
 rigidités rr ii jj ii dd ii tt ei
-rigidités(2) rr ii jj ii dd ii tt ei zz
 rigobert rr ii gg oo bb ai rr
 rigoberta rr ii gg au bb ai rr tt aa
 rigolade rr ii gg oo ll aa dd
@@ -80412,15 +79934,12 @@ risques(2) rr ii ss kk ee
 risques(3) rr ii ss kk ee zz
 risques(4) rr ii ss kk zz
 risquez rr ii ss kk ei
-risquez(2) rr ii ss kk ei zz
 risquons rr ii ss kk on
 risquons(2) rr ii ss kk on zz
 risqué rr ii ss kk ei
 risquée rr ii ss kk ei
 risquées rr ii ss kk ei
-risquées(2) rr ii ss kk ei zz
 risqués rr ii ss kk ei
-risqués(2) rr ii ss kk ei zz
 rissient rr ii ss yy an
 rist rr ii ss tt
 ristourne rr ii ss tt ou rr nn
@@ -80482,7 +80001,6 @@ rivaliser(2) rr ii vv aa ll ii zz ei rr
 rivalisé rr ii vv aa ll ii zz ei
 rivalité rr ii vv aa ll ii tt ei
 rivalités rr ii vv aa ll ii tt ei
-rivalités(2) rr ii vv aa ll ii tt ei zz
 rivasseau rr ii vv aa ss au
 rivaud rr ii vv au
 rivaux rr ii vv au
@@ -80523,7 +80041,6 @@ rivoli(2) rr ii vv oo ll ii
 rivé rr ii vv ei
 rivée rr ii vv ei
 rivés rr ii vv ei
-rivés(2) rr ii vv ei zz
 rixe rr ii kk ss
 rixe(2) rr ii kk ss ee
 riyad rr ii yy aa dd
@@ -80557,7 +80074,6 @@ road rr au dd
 road(2) rr oo aa
 roadster rr oo dd ss tt ei
 roadsters rr oo dd ss tt ei
-roadsters(2) rr oo dd ss tt ei zz
 roanne rr oo aa nn
 roanne(2) rr oo aa nn ee
 rob rr oo bb
@@ -80650,7 +80166,6 @@ rocher rr au ch ei
 rocher(2) rr oo ch ei
 rocher(3) rr oo ch ei rr
 rochers rr oo ch ei
-rochers(2) rr oo ch ei zz
 roches rr oo ch
 roches(2) rr oo ch ee
 roches(3) rr oo ch ee zz
@@ -80705,7 +80220,6 @@ rodé rr oo dd ei
 rodée rr oo dd ei
 rodéo rr oo dd ai au
 rodés rr oo dd ei
-rodés(2) rr oo dd ei zz
 roed rr oe dd
 rogard rr oo gg aa rr
 rogatien rr oo gg aa tt yy in
@@ -80791,7 +80305,6 @@ romances(2) rr oo mm an ss ee
 romances(3) rr oo mm an ss ee zz
 romancier rr oo mm an ss yy ei
 romanciers rr oo mm an ss yy ei
-romanciers(2) rr oo mm an ss yy ei zz
 romancière rr oo mm an ss yy ai rr
 romancière(2) rr oo mm an ss yy ai rr ee
 romancières rr oo mm an ss yy ai rr
@@ -80916,7 +80429,6 @@ rongji rr on gg jj ii
 rongé rr on jj ei
 rongée rr on jj ei
 rongés rr on jj ei
-rongés(2) rr on jj ei zz
 ronny rr oo nn ii
 ronronne rr on rr oo nn
 ronronne(2) rr on rr oo nn ee
@@ -80989,7 +80501,6 @@ rosi rr oo zz ii
 rosia rr au zz yy aa
 rosier rr oo zz yy ei
 rosiers rr oo zz yy ei
-rosiers(2) rr oo zz yy ei zz
 rosine rr au zz ii nn
 rosine(2) rr au zz ii nn ee
 rosneft rr oo ss nn ai ff tt
@@ -81018,7 +80529,6 @@ rostropovitch rr oo ss tt rr au pp au vv ii tt ch
 rosé rr oo zz ei
 rosée rr oo zz ei
 rosés rr oo zz ei
-rosés(2) rr oo zz ei zz
 rota rr oo tt aa
 rotatif rr oo tt aa tt ii ff
 rotation rr oo tt aa ss yy on
@@ -81109,9 +80619,7 @@ rouille rr ou yy
 rouille(2) rr ou yy ee
 rouillé rr ou yy ei
 rouillées rr ou yy ei
-rouillées(2) rr ou yy ei zz
 rouillés rr ou yy ei
-rouillés(2) rr ou yy ei zz
 roulaient rr ou ll ai
 roulaient(2) rr ou ll ai tt
 roulait rr ou ll ai
@@ -81151,7 +80659,6 @@ roulotte rr ou ll oo tt
 roulotte(2) rr ou ll oo tt ee
 roulé rr ou ll ei
 roulés rr ou ll ei
-roulés(2) rr ou ll ei zz
 roumain rr ou mm in
 roumaine rr ou mm ai nn
 roumaine(2) rr ou mm ai nn ee
@@ -81218,7 +80725,6 @@ routes(4) rr ou tt zz
 routier rr ou tt yy ei
 routier(2) rr ou tt yy ei rr
 routiers rr ou tt yy ei
-routiers(2) rr ou tt yy ei zz
 routine rr ou tt ii nn
 routine(2) rr ou tt ii nn ee
 routinière rr ou tt ii nn yy ai rr
@@ -81427,7 +80933,6 @@ ruineux(2) rr uy ii nn eu zz
 ruiné rr uy ii nn ei
 ruinée rr uy ii nn ei
 ruinés rr uy ii nn ei
-ruinés(2) rr uy ii nn ei zz
 ruisseau rr uy ii ss au
 ruisseaux rr uy ii ss au
 ruisseaux(2) rr uy ii ss au zz
@@ -81524,7 +81029,6 @@ ruymbeke rr uy ii mm bb ai kk
 ruzicka rr uu zz ii kk aa
 ruée rr uu ei
 rués rr uu ei
-rués(2) rr uu ei zz
 rvi ai rr vv ei ii
 rwanda rr ww an dd aa
 rwandais rr ww aa nn dd ei
@@ -81562,9 +81066,7 @@ rythmiques(4) rr ii tt mm ii kk zz
 rythmé rr ii tt mm ei
 rythmée rr ii tt mm ei
 rythmées rr ii tt mm ei
-rythmées(2) rr ii tt mm ei zz
 rythmés rr ii tt mm ei
-rythmés(2) rr ii tt mm ei zz
 ryutaro rr yy uu tt aa rr au
 rywin rr aa yy ww ii nn
 rzeczpospolita rr ai kk ss pp au ss pp au ll ii tt aa
@@ -81574,9 +81076,7 @@ râleur rr aa ll oe rr
 râlé rr aa ll ei
 râteau rr aa tt au
 râteliers rr aa tt ee ll yy ei
-râteliers(2) rr aa tt ee ll yy ei zz
-râteliers(3) rr aa tt ll yy ei
-râteliers(4) rr aa tt ll yy ei zz
+râteliers(2) rr aa tt ll yy ei
 règle rr ai gg ll
 règle(2) rr ai gg ll ee
 règlement rr ai gg ll ee mm an
@@ -81637,7 +81137,6 @@ réagi rr ai aa jj ii
 réagir rr ai aa jj ii rr
 réagira rr ai aa jj ii rr aa
 réagirez rr ai aa jj ii rr ei
-réagirez(2) rr ai aa jj ii rr ei zz
 réagiront rr ai aa jj ii rr on
 réagiront(2) rr ai aa jj ii rr on tt
 réagissait rr ai aa jj ii ss ai
@@ -81648,7 +81147,6 @@ réagisse rr ai aa jj ii ss
 réagisse(2) rr ai aa jj ii ss ee
 réagissent rr ai aa jj ii ss ee
 réagissez rr ai aa jj ii ss ei
-réagissez(2) rr ai aa jj ii ss ei zz
 réagit rr ai aa jj ii
 réagit(2) rr ai aa jj ii tt
 réajustement rr ai aa jj uu ss tt ee mm an
@@ -81694,7 +81192,6 @@ réaliserait(2) rr ai aa ll ii zz ee rr ai tt
 réaliseront rr ai aa ll ii zz ee rr on
 réaliseront(2) rr ai aa ll ii zz ee rr on tt
 réalisez rr ai aa ll ii zz ei
-réalisez(2) rr ai aa ll ii zz ei zz
 réalisme rr ai aa ll ii ss mm
 réalisme(2) rr ai aa ll ii ss mm ee
 réalisons rr ai aa ll ii zz on
@@ -81709,12 +81206,9 @@ réalistes(5) rr ai aa ll ii ss tt zz
 réalisé rr ai aa ll ii zz ei
 réalisée rr ai aa ll ii zz ei
 réalisées rr ai aa ll ii zz ei
-réalisées(2) rr ai aa ll ii zz ei zz
 réalisés rr ai aa ll ii zz ei
-réalisés(2) rr ai aa ll ii zz ei zz
 réalité rr ai aa ll ii tt ei
 réalités rr ai aa ll ii tt ei
-réalités(2) rr ai aa ll ii tt ei zz
 réaménagement rr ai aa mm ai nn aa jj ee mm an
 réaménagements rr ai aa mm ai nn aa jj ee mm an
 réaménagements(2) rr ai aa mm ai nn aa jj ee mm an zz
@@ -81879,9 +81373,7 @@ réclamons(2) rr ai kk ll aa mm on zz
 réclamé rr ai kk ll aa mm ei
 réclamée rr ai kk ll aa mm ei
 réclamées rr ai kk ll aa mm ei
-réclamées(2) rr ai kk ll aa mm ei zz
 réclamés rr ai kk ll aa mm ei
-réclamés(2) rr ai kk ll aa mm ei zz
 réclusion rr ai kk ll uu zz yy on
 récolte rr ai kk oo ll tt
 récolte(2) rr ai kk oo ll tt ee
@@ -81893,9 +81385,7 @@ récoltes(3) rr ai kk oo ll tt ee zz
 récoltes(4) rr ai kk oo ll tt zz
 récolté rr ai kk oo ll tt ei
 récoltées rr ai kk oo ll tt ei
-récoltées(2) rr ai kk oo ll tt ei zz
 récoltés rr ai kk oo ll tt ei
-récoltés(2) rr ai kk oo ll tt ei zz
 récompensant rr ai kk on pp an ss an
 récompensant(2) rr ai kk on pp an ss an tt
 récompense rr ai kk on pp an ss
@@ -81909,9 +81399,7 @@ récompenses(3) rr ai kk on pp an ss ee zz
 récompensé rr ai kk on pp an ss ei
 récompensée rr ai kk on pp an ss ei
 récompensées rr ai kk on pp an ss ei
-récompensées(2) rr ai kk on pp an ss ei zz
 récompensés rr ai kk on pp an ss ei
-récompensés(2) rr ai kk on pp an ss ei zz
 réconciliation rr ai kk on ss ii ll yy aa ss yy on
 réconciliations rr ai kk on ss ii ll yy aa ss yy on
 réconciliations(2) rr ai kk on ss ii ll yy aa ss yy on zz
@@ -81927,7 +81415,6 @@ réconcilier(2) rr ai kk on ss ii ll yy ei rr
 réconcilié rr ai kk on ss ii ll yy ei
 réconciliée rr ai kk on ss ii ll yy ei
 réconciliés rr ai kk on ss ii ll yy ei
-réconciliés(2) rr ai kk on ss ii ll yy ei zz
 réconfort rr ai kk on ff oo rr
 réconfortant rr ai kk on ff oo rr tt an
 réconfortant(2) rr ai kk on ff oo rr tt an tt
@@ -81958,9 +81445,7 @@ récupérer(2) rr ai kk uu pp ai rr ei rr
 récupéré rr ai kk uu pp ai rr ei
 récupérée rr ai kk uu pp ai rr ei
 récupérées rr ai kk uu pp ai rr ei
-récupérées(2) rr ai kk uu pp ai rr ei zz
 récupérés rr ai kk uu pp ai rr ei
-récupérés(2) rr ai kk uu pp ai rr ei zz
 récurrence rr ai kk uu rr an ss
 récurrence(2) rr ai kk uu rr an ss ee
 récurrent rr ai kk uu rr an
@@ -82016,9 +81501,7 @@ rédigera rr ai dd ii jj ee rr aa
 rédigé rr ai dd ii jj ei
 rédigée rr ai dd ii jj ei
 rédigées rr ai dd ii jj ei
-rédigées(2) rr ai dd ii jj ei zz
 rédigés rr ai dd ii jj ei
-rédigés(2) rr ai dd ii jj ei zz
 réducteur rr ai dd uu kk tt oe rr
 réduction rr ai dd uu kk ss yy on
 réductions rr ai dd uu kk ss yy on
@@ -82139,7 +81622,6 @@ réformistes(4) rr ai ff oo rr mm ii ss tt zz
 réformé rr ai ff oo rr mm ei
 réformée rr ai ff oo rr mm ei
 réformés rr ai ff oo rr mm ei
-réformés(2) rr ai ff oo rr mm ei zz
 réfractaire rr ai ff rr aa kk tt ai rr
 réfractaire(2) rr ai ff rr aa kk tt ai rr ee
 réfractaires rr ai ff rr aa kk tt ai rr
@@ -82165,9 +81647,7 @@ réfugier(2) rr ai ff uu jj yy ei rr
 réfugié rr ai ff uu jj yy ei
 réfugiée rr ai ff uu jj yy ei
 réfugiées rr ai ff uu jj yy ei
-réfugiées(2) rr ai ff uu jj yy ei zz
 réfugiés rr ai ff uu jj yy ei
-réfugiés(2) rr ai ff uu jj yy ei zz
 réfutant rr ai ff uu tt an
 réfutant(2) rr ai ff uu tt an tt
 réfutation rr ai ff uu tt aa ss yy on
@@ -82207,7 +81687,6 @@ référer rr ai ff ai rr ei
 référer(2) rr ai ff ai rr ei rr
 référé rr ai ff ai rr ei
 référés rr ai ff ai rr ei
-référés(2) rr ai ff ai rr ei zz
 rég rr ei gg
 régal rr ai gg aa ll
 régale rr ai gg aa ll
@@ -82311,9 +81790,7 @@ réglementer(2) rr ai gg ll ee mm an tt ei rr
 réglementé rr ai gg ll ee mm an tt ei
 réglementée rr ai gg ll ee mm an tt ei
 réglementées rr ai gg ll ee mm an tt ei
-réglementées(2) rr ai gg ll ee mm an tt ei zz
 réglementés rr ai gg ll ee mm an tt ei
-réglementés(2) rr ai gg ll ee mm an tt ei zz
 régler rr ai gg ll ei
 régler(2) rr ai gg ll ei rr
 réglera rr ai gg ll ee rr aa
@@ -82322,15 +81799,12 @@ réglerait(2) rr ai gg ll ee rr ai tt
 régleront rr ai gg ll ee rr on
 régleront(2) rr ai gg ll ee rr on tt
 réglez rr ai gg ll ei
-réglez(2) rr ai gg ll ei zz
 réglisse rr ai gg ll ii ss
 réglisse(2) rr ai gg ll ii ss ee
 réglé rr ai gg ll ei
 réglée rr ai gg ll ei
 réglées rr ai gg ll ei
-réglées(2) rr ai gg ll ei zz
 réglés rr ai gg ll ei
-réglés(2) rr ai gg ll ei zz
 régna rr ai gn aa
 régnaient rr ai gn ai
 régnaient(2) rr ai gn ai tt
@@ -82365,7 +81839,6 @@ régularisations(2) rr ai gg uu ll aa rr ii zz aa ss yy on zz
 régulariser rr ai gg uu ll aa rr ii zz ei
 régulariser(2) rr ai gg uu ll aa rr ii zz ei rr
 régularisés rr ai gg uu ll aa rr ii zz ei
-régularisés(2) rr ai gg uu ll aa rr ii zz ei zz
 régularité rr ai gg uu ll aa rr ii tt ei
 régulateur rr ai gg uu ll aa tt oe rr
 régulateurs rr ai gg uu ll aa tt oe rr
@@ -82377,7 +81850,6 @@ réguler rr ei gg uu ll ei
 régulier rr ai gg uu ll yy ei
 régulier(2) rr ai gg uu ll yy ei rr
 réguliers rr ai gg uu ll yy ei
-réguliers(2) rr ai gg uu ll yy ei zz
 régulière rr ai gg uu ll yy ai rr
 régulière(2) rr ai gg uu ll yy ai rr ee
 régulièrement rr ai gg uu ll yy ai rr ee mm an
@@ -82400,7 +81872,6 @@ réhabiliter(2) rr ai aa bb ii ll ii tt ei rr
 réhabilité rr ai aa bb ii ll ii tt ei
 réhabilitée rr ai aa bb ii ll ii tt ei
 réhabilités rr ai aa bb ii ll ii tt ei
-réhabilités(2) rr ai aa bb ii ll ii tt ei zz
 réimposé rr ai in pp oo zz ei
 réimposé(2) rr ei in pp au zz ei
 réincarnation rr ai in kk aa rr nn aa ss yy on
@@ -82424,7 +81895,6 @@ réintégrer rr ai in tt ai gg rr ei
 réintégrer(2) rr ai in tt ai gg rr ei rr
 réintégré rr ai in tt ai gg rr ei
 réintégrés rr ai in tt ai gg rr ei
-réintégrés(2) rr ai in tt ai gg rr ei zz
 réinvente rr ai in vv an tt
 réinvente(2) rr ai in vv an tt ee
 réinventent rr ai in vv an tt ee
@@ -82445,7 +81915,6 @@ réitérer(2) rr ai ii tt ai rr ei rr
 réitéré rr ai ii tt ai rr ei
 réitérée rr ai ii tt ai rr ei
 réitérées rr ai ii tt ai rr ei
-réitérées(2) rr ai ii tt ai rr ei zz
 réjoui rr ai jj ou ii
 réjouie rr ai jj ou ii
 réjouir rr ai jj ou ii rr
@@ -82469,7 +81938,6 @@ réjouissantes(3) rr ai jj ou ii ss an tt ee zz
 réjouissantes(4) rr ai jj ou ii ss an tt zz
 réjouissent rr ai jj ou ii ss ee
 réjouissez rr ai jj ou ii ss ei
-réjouissez(2) rr ai jj ou ii ss ei zz
 réjouissons rr ai jj ou ii ss on
 réjouissons(2) rr ai jj ou ii ss on zz
 réjouit rr ai jj ou ii
@@ -82505,9 +81973,7 @@ rémunérer(2) rr ai mm uu nn ai rr ei rr
 rémunéré rr ai mm uu nn ai rr ei
 rémunérée rr ai mm uu nn ai rr ei
 rémunérées rr ai mm uu nn ai rr ei
-rémunérées(2) rr ai mm uu nn ai rr ei zz
 rémunérés rr ai mm uu nn ai rr ei
-rémunérés(2) rr ai mm uu nn ai rr ei zz
 rémy rr ei mm ii
 rénale rr ai nn aa ll
 rénale(2) rr ai nn aa ll ee
@@ -82528,17 +81994,13 @@ rénover(2) rr ai nn oo vv ei rr
 rénové rr ai nn oo vv ei
 rénovée rr ai nn oo vv ei
 rénovées rr ai nn oo vv ei
-rénovées(2) rr ai nn oo vv ei zz
 rénovés rr ai nn oo vv ei
-rénovés(2) rr ai nn oo vv ei zz
 réoccupation rr ai oo kk uu pp aa ss yy on
 réoccupée rr ai oo kk uu pp ei
 réoccupée(2) rr ei au kk uu pp ei
 réoccupée(3) rr ei oo kk uu pp ei
 réoccupées rr ai oo kk uu pp ei
-réoccupées(2) rr ai oo kk uu pp ei zz
 réoccupés rr ai oo kk uu pp ei
-réoccupés(2) rr ai oo kk uu pp ei zz
 réorganisation rr ai oo rr gg aa nn ii zz aa ss yy on
 réorganisations rr ai oo rr gg aa nn ii zz aa ss yy on
 réorganisations(2) rr ai oo rr gg aa nn ii zz aa ss yy on zz
@@ -82601,13 +82063,9 @@ répartition rr ai pp aa rr tt ii ss yy on
 réparé rr ai pp aa rr ei
 réparée rr ai pp aa rr ei
 réparées rr ai pp aa rr ei
-réparées(2) rr ai pp aa rr ei zz
-réparées(3) rr ei pp aa rr ei
-réparées(4) rr ei pp aa rr ei zz
+réparées(2) rr ei pp aa rr ei
 réparés rr ai pp aa rr ei
-réparés(2) rr ai pp aa rr ei zz
-réparés(3) rr ei pp aa rr ei
-réparés(4) rr ei pp aa rr ei zz
+réparés(2) rr ei pp aa rr ei
 répend rr ei pp an
 répercussion rr ai pp ai rr kk uu ss yy on
 répercussions rr ai pp ai rr kk uu ss yy on
@@ -82625,7 +82083,6 @@ répercutions(2) rr ai pp ai rr kk uu tt yy on zz
 répercuté rr ai pp ai rr kk uu tt ei
 répercutée rr ai pp ai rr kk uu tt ei
 répercutées rr ai pp ai rr kk uu tt ei
-répercutées(2) rr ai pp ai rr kk uu tt ei zz
 répertoire rr ai pp ai rr tt ww aa rr
 répertoire(2) rr ai pp ai rr tt ww aa rr ee
 répertoires rr ai pp ai rr tt ww aa rr
@@ -82637,9 +82094,7 @@ répertorier rr ai pp ai rr tt oo rr yy ei
 répertorier(2) rr ai pp ai rr tt oo rr yy ei rr
 répertorié rr ai pp ai rr tt oo rr yy ei
 répertoriées rr ai pp ai rr tt oo rr yy ei
-répertoriées(2) rr ai pp ai rr tt oo rr yy ei zz
 répertoriés rr ai pp ai rr tt oo rr yy ei
-répertoriés(2) rr ai pp ai rr tt oo rr yy ei zz
 répit rr ai pp ii
 réplication rr ei pp ll ii kk aa ss yy on
 répliqua rr ai pp ll ii kk aa
