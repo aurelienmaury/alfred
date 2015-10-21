@@ -35907,8 +35907,6 @@ fromager ff rr oo mm aa jj ei
 fromager(2) ff rr oo mm aa jj ei rr
 fromages ff rr oo mm aa jj
 fromages(2) ff rr oo mm aa jj ee
-fromages(3) ff rr oo mm aa jj ee zz
-fromages(4) ff rr oo mm aa jj zz
 froment ff rr oo mm an
 frondaisons ff rr on dd ai zz on
 frondaisons(2) ff rr on dd ai zz on zz
@@ -35932,8 +35930,6 @@ frontalière ff rr on tt aa ll yy ai rr
 frontalière(2) ff rr on tt aa ll yy ai rr ee
 frontalières ff rr on tt aa ll yy ai rr
 frontalières(2) ff rr on tt aa ll yy ai rr ee
-frontalières(3) ff rr on tt aa ll yy ai rr ee zz
-frontalières(4) ff rr on tt aa ll yy ai rr zz
 frontier ff rr on tt yy ei
 frontiste ff rr on tt ii ss tt
 frontistes ff rr on tt ii ss tt
@@ -35941,8 +35937,6 @@ frontière ff rr on tt yy ai rr
 frontière(2) ff rr on tt yy ai rr ee
 frontières ff rr on tt yy ai rr
 frontières(2) ff rr on tt yy ai rr ee
-frontières(3) ff rr on tt yy ai rr ee zz
-frontières(4) ff rr on tt yy ai rr zz
 fronton ff rr on tt on
 frontons ff rr on tt on
 frontons(2) ff rr on tt on zz
@@ -35971,8 +35965,6 @@ fructueuse ff rr uu kk tt uu eu zz
 fructueuse(2) ff rr uu kk tt uu eu zz ee
 fructueuses ff rr uu kk tt uu eu zz
 fructueuses(2) ff rr uu kk tt uu eu zz ee
-fructueuses(3) ff rr uu kk tt uu eu zz ee zz
-fructueuses(4) ff rr uu kk tt uu eu zz zz
 fructueux ff rr uu kk tt uu eu
 fructueux(2) ff rr uu kk tt uu eu zz
 frud ff rr uu dd
@@ -35989,8 +35981,6 @@ fruste ff rr uu ss tt
 fruste(2) ff rr uu ss tt ee
 frustes ff rr uu ss tt
 frustes(2) ff rr uu ss tt ee
-frustes(3) ff rr uu ss tt ee zz
-frustes(4) ff rr uu ss tt zz
 frustrant ff rr uu ss tt rr an
 frustrant(2) ff rr uu ss tt rr an tt
 frustration ff rr uu ss tt rr aa ss yy on
@@ -36005,8 +35995,6 @@ frère ff rr ai rr
 frère(2) ff rr ai rr ee
 frères ff rr ai rr
 frères(2) ff rr ai rr ee
-frères(3) ff rr ai rr ee zz
-frères(4) ff rr ai rr zz
 fréchel ff rr ei ch ai ll
 fréderic ff rr ei dd ee rr ii kk
 frédéric ff rr ei dd ei rr ii kk
@@ -36019,8 +36007,6 @@ frégate ff rr ai gg aa tt
 frégate(2) ff rr ai gg aa tt ee
 frégates ff rr ai gg aa tt
 frégates(2) ff rr ai gg aa tt ee
-frégates(3) ff rr ai gg aa tt ee zz
-frégates(4) ff rr ai gg aa tt zz
 fréhel ff rr ai ai ll
 fréhel(2) ff rr ei ai ll
 fréjus ff rr ei jj uu ss
@@ -36041,8 +36027,6 @@ frénétique(2) ff rr ai nn ai tt ii kk ee
 frénétiquement ff rr ei nn ei tt ii kk ee mm an
 frénétiques ff rr ai nn ai tt ii kk
 frénétiques(2) ff rr ai nn ai tt ii kk ee
-frénétiques(3) ff rr ai nn ai tt ii kk ee zz
-frénétiques(4) ff rr ai nn ai tt ii kk zz
 fréquelin ff rr ei kk ee ll in
 fréquelin(2) ff rr ei kk ll in
 fréquemment ff rr ai kk aa mm an
@@ -36051,7 +36035,6 @@ fréquence ff rr ai kk an ss
 fréquence(2) ff rr ai kk an ss ee
 fréquences ff rr ai kk an ss
 fréquences(2) ff rr ai kk an ss ee
-fréquences(3) ff rr ai kk an ss ee zz
 fréquent ff rr ai kk an
 fréquent(2) ff rr ai kk an tt
 fréquenta ff rr ai kk an tt aa
@@ -36073,8 +36056,6 @@ fréquenter ff rr ai kk an tt ei
 fréquenter(2) ff rr ai kk an tt ei rr
 fréquentes ff rr ai kk an tt
 fréquentes(2) ff rr ai kk an tt ee
-fréquentes(3) ff rr ai kk an tt ee zz
-fréquentes(4) ff rr ai kk an tt zz
 fréquents ff rr ai kk an
 fréquents(2) ff rr ai kk an zz
 fréquenté ff rr ai kk an tt ei
@@ -36088,8 +36069,6 @@ frêle ff rr ai ll
 frêle(2) ff rr ai ll ee
 frêles ff rr ai ll
 frêles(2) ff rr ai ll ee
-frêles(3) ff rr ai ll ee zz
-frêles(4) ff rr ai ll zz
 frêt ff rr ai
 frôlant ff rr oo ll an
 frôlant(2) ff rr oo ll an tt
@@ -36120,7 +36099,6 @@ fugace ff uu gg aa ss
 fugace(2) ff uu gg aa ss ee
 fugaces ff uu gg aa ss
 fugaces(2) ff uu gg aa ss ee
-fugaces(3) ff uu gg aa ss ee zz
 fugitif ff uu jj ii tt ii ff
 fugitifs ff uu jj ii tt ii ff
 fugitifs(2) ff uu jj ii tt ii ff zz
@@ -36130,15 +36108,11 @@ fugitivement ff uu jj ii tt ii vv ee mm an
 fugitivement(2) ff uu jj ii tt ii vv ee mm an tt
 fugitives ff uu jj ii tt ii vv
 fugitives(2) ff uu jj ii tt ii vv ee
-fugitives(3) ff uu jj ii tt ii vv ee zz
-fugitives(4) ff uu jj ii tt ii vv zz
 fugler ff uu gg ll ai rr
 fugue ff uu gg
 fugue(2) ff uu gg ee
 fugues ff uu gg
 fugues(2) ff uu gg ee
-fugues(3) ff uu gg ee zz
-fugues(4) ff uu gg zz
 fui ff uy ii
 fuient ff uy ii
 fuient(2) ff uy ii tt
@@ -36150,8 +36124,6 @@ fuite ff uy ii tt
 fuite(2) ff uy ii tt ee
 fuites ff uy ii tt
 fuites(2) ff uy ii tt ee
-fuites(3) ff uy ii tt ee zz
-fuites(4) ff uy ii tt zz
 fuji ff uu jj ii
 fujimori ff uu jj ii mm au rr ii
 fujitsu ff ou jj ii tt ss ou
@@ -36160,15 +36132,12 @@ fulgurance ff uu ll gg uu rr an ss
 fulgurance(2) ff uu ll gg uu rr an ss ee
 fulgurances ff uu ll gg uu rr an ss
 fulgurances(2) ff uu ll gg uu rr an ss ee
-fulgurances(3) ff uu ll gg uu rr an ss ee zz
 fulgurant ff uu ll gg uu rr an
 fulgurant(2) ff uu ll gg uu rr an tt
 fulgurante ff uu ll gg uu rr an tt
 fulgurante(2) ff uu ll gg uu rr an tt ee
 fulgurantes ff uu ll gg uu rr an tt
 fulgurantes(2) ff uu ll gg uu rr an tt ee
-fulgurantes(3) ff uu ll gg uu rr an tt ee zz
-fulgurantes(4) ff uu ll gg uu rr an tt zz
 fulgurants ff uu ll gg uu rr an
 fulgurants(2) ff uu ll gg uu rr an zz
 fulham ff uu ll aa mm
@@ -36195,15 +36164,11 @@ fumeurs ff uu mm oe rr
 fumeurs(2) ff uu mm oe rr zz
 fumeuses ff uu mm eu zz
 fumeuses(2) ff uu mm eu zz ee
-fumeuses(3) ff uu mm eu zz ee zz
-fumeuses(4) ff uu mm eu zz zz
 fumeux ff uu mm eu
 fumeux(2) ff uu mm eu zz
 fumier ff uu mm yy ei
 fumigènes ff uu mm ii jj ai nn
 fumigènes(2) ff uu mm ii jj ai nn ee
-fumigènes(3) ff uu mm ii jj ai nn ee zz
-fumigènes(4) ff uu mm ii jj ai nn zz
 fumé ff uu mm ei
 fumée ff uu mm ei
 fumées ff uu mm ei
@@ -36219,8 +36184,6 @@ funeste ff uu nn ai ss tt
 funeste(2) ff uu nn ai ss tt ee
 funestes ff uu nn ai ss tt
 funestes(2) ff uu nn ai ss tt ee
-funestes(3) ff uu nn ai ss tt ee zz
-funestes(4) ff uu nn ai ss tt zz
 funiculaire ff uu nn ii kk uu ll ai rr
 funiculaire(2) ff uu nn ii kk uu ll ai rr ee
 funk ff un kk
@@ -36231,19 +36194,13 @@ funèbre ff uu nn ai bb rr
 funèbre(2) ff uu nn ai bb rr ee
 funèbres ff uu nn ai bb rr
 funèbres(2) ff uu nn ai bb rr ee
-funèbres(3) ff uu nn ai bb rr ee zz
-funèbres(4) ff uu nn ai bb rr zz
 funès ff uu nn ai ss
 funérailles ff uu nn ai rr aa yy
 funérailles(2) ff uu nn ai rr aa yy ee
-funérailles(3) ff uu nn ai rr aa yy ee zz
-funérailles(4) ff uu nn ai rr aa yy zz
 funéraire ff uu nn ai rr ai rr
 funéraire(2) ff uu nn ai rr ai rr ee
 funéraires ff uu nn ai rr ai rr
 funéraires(2) ff uu nn ai rr ai rr ee
-funéraires(3) ff uu nn ai rr ai rr ee zz
-funéraires(4) ff uu nn ai rr ai rr zz
 funérariums ff uu nn ei rr aa rr yy oo mm
 fur ff uu rr
 furent ff uu rr ee
@@ -36255,8 +36212,6 @@ furia ff uu rr yy aa
 furiani ff uu rr yy aa nn ii
 furibardes ff uu rr ii bb aa rr dd
 furibardes(2) ff uu rr ii bb aa rr dd ee
-furibardes(3) ff uu rr ii bb aa rr dd ee zz
-furibardes(4) ff uu rr ii bb aa rr dd zz
 furibonds ff uu rr ii bb on
 furibonds(2) ff uu rr ii bb on zz
 furic ff uu rr ii kk
@@ -36267,8 +36222,6 @@ furieusement ff uu rr yy ee zz ee mm an
 furieusement(2) ff uu rr yy ee zz ee mm an tt
 furieuses ff uu rr yy eu zz
 furieuses(2) ff uu rr yy eu zz ee
-furieuses(3) ff uu rr yy eu zz ee zz
-furieuses(4) ff uu rr yy eu zz zz
 furieux ff uu rr yy eu
 furieux(2) ff uu rr yy eu zz
 furlan ff uu rr ll aa nn
@@ -36281,8 +36234,6 @@ furtivement ff uu rr tt ii vv ee mm an
 furtivement(2) ff uu rr tt ii vv ee mm an tt
 furtives ff uu rr tt ii vv
 furtives(2) ff uu rr tt ii vv ee
-furtives(3) ff uu rr tt ii vv ee zz
-furtives(4) ff uu rr tt ii vv zz
 furtivité ff uu rr tt ii vv ii tt ei
 furtwängler ff uu rr tt ww aa nn gg ll ei
 fus ff uu
@@ -36305,8 +36256,6 @@ fusillade ff uu zz ii yy aa dd
 fusillade(2) ff uu zz ii yy aa dd ee
 fusillades ff uu zz ii yy aa dd
 fusillades(2) ff uu zz ii yy aa dd ee
-fusillades(3) ff uu zz ii yy aa dd ee zz
-fusillades(4) ff uu zz ii yy aa dd zz
 fusiller ff uu zz ii yy ei
 fusiller(2) ff uu zz ii yy ei rr
 fusillé ff uu zz ii yy ei
@@ -36347,8 +36296,6 @@ futile ff uu tt ii ll
 futile(2) ff uu tt ii ll ee
 futiles ff uu tt ii ll
 futiles(2) ff uu tt ii ll ee
-futiles(3) ff uu tt ii ll ee zz
-futiles(4) ff uu tt ii ll zz
 futilité ff uu tt ii ll ii tt ei
 futuna ff uu tt uu nn aa
 futur ff uu tt uu rr
@@ -36356,16 +36303,12 @@ future ff uu tt uu rr
 future(2) ff uu tt uu rr ee
 futures ff uu tt uu rr
 futures(2) ff uu tt uu rr ee
-futures(3) ff uu tt uu rr ee zz
-futures(4) ff uu tt uu rr zz
 futurisme ff uu tt uu rr ii ss mm
 futurisme(2) ff uu tt uu rr ii ss mm ee
 futuriste ff uu tt uu rr ii ss tt
 futuriste(2) ff uu tt uu rr ii ss tt ee
 futuristes ff uu tt uu rr ii ss tt
 futuristes(2) ff uu tt uu rr ii ss tt ee
-futuristes(3) ff uu tt uu rr ii ss tt ee zz
-futuristes(4) ff uu tt uu rr ii ss tt zz
 futuroscope ff uu tt uu rr oo ss kk oo pp
 futuroscope(2) ff uu tt uu rr oo ss kk oo pp
 futurs ff uu tt uu rr
@@ -36399,8 +36342,6 @@ fâcheusement ff aa ch ee zz ee mm an
 fâcheusement(2) ff aa ch ee zz ee mm an tt
 fâcheuses ff aa ch eu zz
 fâcheuses(2) ff aa ch eu zz ee
-fâcheuses(3) ff aa ch eu zz ee zz
-fâcheuses(4) ff aa ch eu zz zz
 fâcheux ff aa ch eu
 fâcheux(2) ff aa ch eu zz
 fâché ff aa ch ei
@@ -36410,8 +36351,6 @@ fève ff ai vv
 fève(2) ff ai vv ee
 fèves ff ai vv
 fèves(2) ff ai vv ee
-fèves(3) ff ai vv ee zz
-fèves(4) ff ai vv zz
 fé ff ei
 fébrile ff ai bb rr ii ll
 fébrile(2) ff ai bb rr ii ll ee
@@ -36419,8 +36358,6 @@ fébrilement ff ai bb rr ii ll ee mm an
 fébrilement(2) ff ai bb rr ii ll ee mm an tt
 fébriles ff ai bb rr ii ll
 fébriles(2) ff ai bb rr ii ll ee
-fébriles(3) ff ai bb rr ii ll ee zz
-fébriles(4) ff ai bb rr ii ll zz
 fébrilité ff ai bb rr ii ll ii tt ei
 fécamp ff ei kk aa mm
 fécond ff ai kk on
@@ -36430,8 +36367,6 @@ féconde ff ai kk on dd
 féconde(2) ff ai kk on dd ee
 fécondes ff ai kk on dd
 fécondes(2) ff ai kk on dd ee
-fécondes(3) ff ai kk on dd ee zz
-fécondes(4) ff ai kk on dd zz
 fécondité ff ai kk on ii tt ei
 féconds ff ai kk on
 féconds(2) ff ai kk on zz
@@ -36445,15 +36380,11 @@ fédérale(2) ff ai dd ai rr aa ll
 fédérale(3) ff ai dd ai rr aa ll ee
 fédérales ff ai dd ai rr aa ll
 fédérales(2) ff ai dd ai rr aa ll ee
-fédérales(3) ff ai dd ai rr aa ll ee zz
-fédérales(4) ff ai dd ai rr aa ll zz
 fédéralisme ff ei dd ei rr aa ll ii ss mm
 fédéraliste ff ai dd ai rr aa ll ii ss tt
 fédéraliste(2) ff ai dd ai rr aa ll ii ss tt ee
 fédéralistes ff ai dd ai rr aa ll ii ss tt
 fédéralistes(2) ff ai dd ai rr aa ll ii ss tt ee
-fédéralistes(3) ff ai dd ai rr aa ll ii ss tt ee zz
-fédéralistes(4) ff ai dd ai rr aa ll ii ss tt zz
 fédérateur ff ai dd ai rr aa tt oe rr
 fédération ff ai dd ai rr aa ss yy on
 fédération(2) ff ei dd ei rr aa ss yy on
@@ -36509,8 +36440,6 @@ féminine ff ai mm ii nn ii nn
 féminine(2) ff ai mm ii nn ii nn ee
 féminines ff ai mm ii nn ii nn
 féminines(2) ff ai mm ii nn ii nn ee
-féminines(3) ff ai mm ii nn ii nn ee zz
-féminines(4) ff ai mm ii nn ii nn zz
 féminins ff ai mm ii nn in
 féminins(2) ff ai mm ii nn in zz
 féminisation ff ei mm ii nn ii zz aa ss yy on
@@ -36522,8 +36451,6 @@ féministe ff ai mm ii nn ii ss tt
 féministe(2) ff ai mm ii nn ii ss tt ee
 féministes ff ai mm ii nn ii ss tt
 féministes(2) ff ai mm ii nn ii ss tt ee
-féministes(3) ff ai mm ii nn ii ss tt ee zz
-féministes(4) ff ai mm ii nn ii ss tt zz
 féminité ff ai mm ii nn ii tt ei
 fémur ff ai mm uu rr
 fénelon ff ei nn ee ll on
@@ -36545,7 +36472,6 @@ férocement ff ai rr oo ss ee mm an
 férocement(2) ff ai rr oo ss ee mm an tt
 féroces ff ai rr oo ss
 féroces(2) ff ai rr oo ss ee
-féroces(3) ff ai rr oo ss ee zz
 férocité ff ai rr oo ss ii tt ei
 féron ff ei rr on
 féroé ff ei rr au ei
@@ -36559,16 +36485,12 @@ fétiche ff ai tt ii ch
 fétiche(2) ff ai tt ii ch ee
 fétiches ff ai tt ii ch
 fétiches(2) ff ai tt ii ch ee
-fétiches(3) ff ai tt ii ch ee zz
-fétiches(4) ff ai tt ii ch zz
 féticheur ff ai tt ii ch oe rr
 fétichisme ff ei tt ii ch ii ss mm
 fétichiste ff ai tt ii ch ii ss tt
 fétichiste(2) ff ai tt ii ch ii ss tt ee
 fétichistes ff ai tt ii ch ii ss tt
 fétichistes(2) ff ai tt ii ch ii ss tt ee
-fétichistes(3) ff ai tt ii ch ii ss tt ee zz
-fétichistes(4) ff ai tt ii ch ii ss tt zz
 féval ff ei vv aa ll
 févier ff ai vv yy ei
 février ff ai vv rr ii yy ei
@@ -36577,8 +36499,6 @@ fêlure ff ai ll uu rr
 fêlure(2) ff ai ll uu rr ee
 fêlures ff ai ll uu rr
 fêlures(2) ff ai ll uu rr ee
-fêlures(3) ff ai ll uu rr ee zz
-fêlures(4) ff ai ll uu rr zz
 fêta ff ai tt aa
 fêtait ff ai tt ai
 fêtait(2) ff ai tt ai tt
@@ -36592,8 +36512,6 @@ fêter(2) ff ai tt ei rr
 fêtera ff ai tt ee rr aa
 fêtes ff ai tt
 fêtes(2) ff ai tt ee
-fêtes(3) ff ai tt ee zz
-fêtes(4) ff ai tt zz
 fêté ff ai tt ei
 fêtée ff ai tt ei
 fêtée(2) ff ei tt ei
@@ -36601,8 +36519,6 @@ fît ff ii
 fît(2) ff ii tt
 fûmes ff uu mm
 fûmes(2) ff uu mm ee
-fûmes(3) ff uu mm ee zz
-fûmes(4) ff uu mm zz
 fût ff uu
 fût(2) ff uu tt
 fûts ff uu
@@ -36639,8 +36555,6 @@ gabonaise gg aa bb oo nn ai zz
 gabonaise(2) gg aa bb oo nn ai zz ee
 gabonaises gg aa bb oo nn ai zz
 gabonaises(2) gg aa bb oo nn ai zz ee
-gabonaises(3) gg aa bb oo nn ai zz ee zz
-gabonaises(4) gg aa bb oo nn ai zz zz
 gabor gg aa bb oo rr
 gaborone gg aa bb oo rr oo nn
 gabrela gg aa bb rr ee ll aa
@@ -36665,8 +36579,6 @@ gaffe gg aa ff
 gaffe(2) gg aa ff ee
 gaffes gg aa ff
 gaffes(2) gg aa ff ee
-gaffes(3) gg aa ff ee zz
-gaffes(4) gg aa ff zz
 gafi gg aa ff ii
 gag gg aa gg
 gaga gg aa gg aa
@@ -36677,8 +36589,6 @@ gageons gg aa jj on
 gageons(2) gg aa jj on zz
 gages gg aa jj
 gages(2) gg aa jj ee
-gages(3) gg aa jj ee zz
-gages(4) gg aa jj zz
 gageure gg aa jj oe rr
 gageure(2) gg aa jj oe rr ee
 gagna gg aa gn aa
@@ -36696,8 +36606,6 @@ gagnante gg aa gn an tt
 gagnante(2) gg aa gn an tt ee
 gagnantes gg aa gn an tt
 gagnantes(2) gg aa gn an tt ee
-gagnantes(3) gg aa gn an tt ee zz
-gagnantes(4) gg aa gn an tt zz
 gagnants gg aa gn an
 gagnants(2) gg aa gn an zz
 gagne gg aa gn
@@ -36752,8 +36660,6 @@ gaillot gg aa yy au
 gain gg in
 gaines gg ai nn
 gaines(2) gg ai nn ee
-gaines(3) gg ai nn ee zz
-gaines(4) gg ai nn zz
 gains gg in
 gains(2) gg in zz
 gainsbourg gg in zz bb ou rr
@@ -36770,8 +36676,6 @@ galante(2) gg aa ll an tt ee
 galanter gg aa ll an tt ei
 galantes gg aa ll an tt
 galantes(2) gg aa ll an tt ee
-galantes(3) gg aa ll an tt ee zz
-galantes(4) gg aa ll an tt zz
 galapagos gg aa ll aa pp aa gg au
 galas gg aa ll aa
 galas(2) gg aa ll aa zz
@@ -36797,8 +36701,6 @@ galette gg aa ll ai tt
 galette(2) gg aa ll ai tt ee
 galettes gg aa ll ai tt
 galettes(2) gg aa ll ai tt ee
-galettes(3) gg aa ll ai tt ee zz
-galettes(4) gg aa ll ai tt zz
 galeuse gg aa ll eu zz
 galeuse(2) gg aa ll eu zz ee
 galfione gg aa ll ff yy oo nn
@@ -36821,8 +36723,6 @@ gallas gg aa ll aa
 gallery gg aa ll ei rr ii
 galles gg aa ll
 galles(2) gg aa ll ee
-galles(3) gg aa ll ee zz
-galles(4) gg aa ll zz
 gallet gg aa ll ai
 galley gg aa ll ai
 galliano gg aa ll yy aa nn au
@@ -36866,8 +36766,6 @@ galère gg aa ll ai rr
 galère(2) gg aa ll ai rr ee
 galères gg aa ll ai rr
 galères(2) gg aa ll ai rr ee
-galères(3) gg aa ll ai rr ee zz
-galères(4) gg aa ll ai rr zz
 gam gg aa mm
 gama gg aa mm aa
 gamal gg aa mm aa ll
@@ -36884,8 +36782,6 @@ gamine gg aa mm ii nn
 gamine(2) gg aa mm ii nn ee
 gamines gg aa mm ii nn
 gamines(2) gg aa mm ii nn ee
-gamines(3) gg aa mm ii nn ee zz
-gamines(4) gg aa mm ii nn zz
 gamins gg aa mm in
 gamins(2) gg aa mm in zz
 gamma gg aa mm aa
@@ -36893,15 +36789,11 @@ gamme gg aa mm
 gamme(2) gg aa mm ee
 gammes gg aa mm
 gammes(2) gg aa mm ee
-gammes(3) gg aa mm ee zz
-gammes(4) gg aa mm zz
 gammée gg aa mm ei
 gammées gg aa mm ei
 gamsakhourdia gg aa mm ss aa kk ou rr dd ii aa
 gamètes gg aa mm ai tt
 gamètes(2) gg aa mm ai tt ee
-gamètes(3) gg aa mm ai tt ee zz
-gamètes(4) gg aa mm ai tt zz
 gan gg aa nn
 gan(2) gg an
 gance gg an ss
@@ -36941,14 +36833,10 @@ garage gg aa rr aa jj
 garage(2) gg aa rr aa jj ee
 garages gg aa rr aa jj
 garages(2) gg aa rr aa jj ee
-garages(3) gg aa rr aa jj ee zz
-garages(4) gg aa rr aa jj zz
 garagiste gg aa rr aa jj ii ss tt
 garagiste(2) gg aa rr aa jj ii ss tt ee
 garagistes gg aa rr aa jj ii ss tt
 garagistes(2) gg aa rr aa jj ii ss tt ee
-garagistes(3) gg aa rr aa jj ii ss tt ee zz
-garagistes(4) gg aa rr aa jj ii ss tt zz
 garamendi gg aa rr aa mm ei nn dd ii
 garance gg aa rr an ss
 garance(2) gg aa rr an ss ee
@@ -36960,8 +36848,6 @@ garante gg aa rr an tt
 garante(2) gg aa rr an tt ee
 garantes gg aa rr an tt
 garantes(2) gg aa rr an tt ee
-garantes(3) gg aa rr an tt ee zz
-garantes(4) gg aa rr an tt zz
 garanti gg aa rr an tt ii
 garantie gg aa rr an tt ii
 garanties gg aa rr an tt ii
@@ -37031,8 +36917,6 @@ garderont gg aa rr dd ee rr on
 garderont(2) gg aa rr dd ee rr on tt
 gardes gg aa rr dd
 gardes(2) gg aa rr dd ee
-gardes(3) gg aa rr dd ee zz
-gardes(4) gg aa rr dd zz
 gardez gg aa rr dd ai zz
 gardez(2) gg aa rr dd ei
 gardians gg aa rr dd yy an
@@ -37044,8 +36928,6 @@ gardienne gg aa rr dd yy ai nn
 gardienne(2) gg aa rr dd yy ai nn ee
 gardiennes gg aa rr dd yy ai nn
 gardiennes(2) gg aa rr dd yy ai nn ee
-gardiennes(3) gg aa rr dd yy ai nn ee zz
-gardiennes(4) gg aa rr dd yy ai nn zz
 gardiens gg aa rr dd yy in
 gardiens(2) gg aa rr dd yy in zz
 gardiner gg aa rr dd ii nn ei
@@ -37070,8 +36952,6 @@ garer gg aa rr ei
 garer(2) gg aa rr ei rr
 gares gg aa rr
 gares(2) gg aa rr ee
-gares(3) gg aa rr ee zz
-gares(4) gg aa rr zz
 gareth gg aa rr ai ff
 garfunkel gg aa rr ff uu nn kk ai ll
 gargan gg aa rr gg an
@@ -37111,8 +36991,6 @@ garrigue gg aa rr ii gg
 garrigue(2) gg aa rr ii gg ee
 garrigues gg aa rr ii gg
 garrigues(2) gg aa rr ii gg ee
-garrigues(3) gg aa rr ii gg ee zz
-garrigues(4) gg aa rr ii gg zz
 garrison gg aa rr ii zz oo nn
 garrot gg aa rr au
 garry gg aa rr ii
@@ -37146,8 +37024,6 @@ gaspillage gg aa ss pp ii yy aa jj
 gaspillage(2) gg aa ss pp ii yy aa jj ee
 gaspillages gg aa ss pp ii yy aa jj
 gaspillages(2) gg aa ss pp ii yy aa jj ee
-gaspillages(3) gg aa ss pp ii yy aa jj ee zz
-gaspillages(4) gg aa ss pp ii yy aa jj zz
 gaspiller gg aa ss pp ii yy ei
 gaspiller(2) gg aa ss pp ii yy ei rr
 gaspillé gg aa ss pp ii yy ei
@@ -37158,13 +37034,9 @@ gastal gg aa ss tt aa ll
 gaston gg aa ss tt on
 gastriques gg aa ss tt rr ii kk
 gastriques(2) gg aa ss tt rr ii kk ee
-gastriques(3) gg aa ss tt rr ii kk ee zz
-gastriques(4) gg aa ss tt rr ii kk zz
 gastro gg aa ss tt rr au
 gastronomes gg aa ss tt rr oo nn oo mm
 gastronomes(2) gg aa ss tt rr oo nn oo mm ee
-gastronomes(3) gg aa ss tt rr oo nn oo mm ee zz
-gastronomes(4) gg aa ss tt rr oo nn oo mm zz
 gastronomie gg aa ss tt rr oo nn oo mm ii
 gastronomique gg aa ss tt rr oo nn oo mm ii kk
 gastronomiques gg aa ss tt rr oo nn oo mm ii kk
@@ -37187,16 +37059,12 @@ gaucher gg oo ch ei
 gaucher(2) gg oo ch ei rr
 gauches gg au ch
 gauches(2) gg au ch ee
-gauches(3) gg au ch ee zz
-gauches(4) gg au ch zz
 gauchisme gg oo ch ii ss mm
 gauchisme(2) gg oo ch ii ss mm ee
 gauchiste gg oo ch ii ss tt
 gauchiste(2) gg oo ch ii ss tt ee
 gauchistes gg oo ch ii ss tt
 gauchistes(2) gg oo ch ii ss tt ee
-gauchistes(3) gg oo ch ii ss tt ee zz
-gauchistes(4) gg oo ch ii ss tt zz
 gaucho gg au ch au
 gaucho(2) gg oo ch au
 gaudemar gg au dd ee mm aa rr
@@ -37207,15 +37075,11 @@ gaudino gg au dd ii nn au
 gaudio gg au dd yy au
 gaufres gg au ff rr
 gaufres(2) gg au ff rr ee
-gaufres(3) gg au ff rr ee zz
-gaufres(4) gg au ff rr zz
 gauguin gg au gg in
 gaule gg au ll
 gaule(2) gg au ll ee
 gaules gg au ll
 gaules(2) gg au ll ee
-gaules(3) gg au ll ee zz
-gaules(4) gg au ll zz
 gaulle gg au ll
 gaulle(2) gg au ll ee
 gaullien gg oo ll yy in
@@ -37229,8 +37093,6 @@ gaulliste gg oo ll ii ss tt
 gaulliste(2) gg oo ll ii ss tt ee
 gaullistes gg oo ll ii ss tt
 gaullistes(2) gg oo ll ii ss tt ee
-gaullistes(3) gg oo ll ii ss tt ee zz
-gaullistes(4) gg oo ll ii ss tt zz
 gaulois gg au ll ww aa
 gaulois(2) gg oo ll ww aa
 gaulois(3) gg oo ll ww aa zz
@@ -37238,8 +37100,6 @@ gauloise gg oo ll ww aa zz
 gauloise(2) gg oo ll ww aa zz ee
 gauloises gg oo ll ww aa zz
 gauloises(2) gg oo ll ww aa zz ee
-gauloises(3) gg oo ll ww aa zz ee zz
-gauloises(4) gg oo ll ww aa zz zz
 gault gg au
 gaultier gg au ll tt yy ei
 gaultmillau gg au ll tt mm ii yy au
@@ -37281,8 +37141,6 @@ gazette(2) gg aa zz ai tt ee
 gazette(3) gg aa zz ei tt
 gazettes gg aa zz ai tt
 gazettes(2) gg aa zz ai tt ee
-gazettes(3) gg aa zz ai tt ee zz
-gazettes(4) gg aa zz ai tt zz
 gazeuse gg aa zz oe zz
 gazeuses gg aa zz oe zz
 gazeux gg aa zz eu
@@ -37293,8 +37151,6 @@ gazière gg aa zz yy ai rr
 gazière(2) gg aa zz yy ai rr ee
 gazières gg aa zz yy ai rr
 gazières(2) gg aa zz yy ai rr ee
-gazières(3) gg aa zz yy ai rr ee zz
-gazières(4) gg aa zz yy ai rr zz
 gazoduc gg aa zz oo dd uu kk
 gazoducs gg aa zz au dd uu kk
 gazoducs(2) gg aa zz au dd uu kk zz
@@ -37362,8 +37218,6 @@ gendarmeries jj an dd aa rr mm ee rr ii
 gendarmeries(2) jj an dd aa rr mm ee rr ii zz
 gendarmes jj an dd aa rr mm
 gendarmes(2) jj an dd aa rr mm ee
-gendarmes(3) jj an dd aa rr mm ee zz
-gendarmes(4) jj an dd aa rr mm zz
 gendre jj an dd rr
 gendre(2) jj an dd rr ee
 gendreau jj an dd rr au
@@ -37408,8 +37262,6 @@ genre jj an rr
 genre(2) jj an rr ee
 genres jj an rr
 genres(2) jj an rr ee
-genres(3) jj an rr ee zz
-genres(4) jj an rr zz
 gens gg ai nn ss
 gens(2) jj ai nn ss
 gens(3) jj an
@@ -37486,8 +37338,6 @@ gerber jj ai rr bb ei
 gerber(2) jj ai rr bb ei rr
 gerbes jj ai rr bb
 gerbes(2) jj ai rr bb ee
-gerbes(3) jj ai rr bb ee zz
-gerbes(4) jj ai rr bb zz
 gerd jj ai rr
 gere jj ee rr
 geremek gg ei rr ee mm ai kk
@@ -37503,8 +37353,6 @@ germanique jj ai rr mm aa nn ii kk
 germanique(2) jj ai rr mm aa nn ii kk ee
 germaniques jj ai rr mm aa nn ii kk
 germaniques(2) jj ai rr mm aa nn ii kk ee
-germaniques(3) jj ai rr mm aa nn ii kk ee zz
-germaniques(4) jj ai rr mm aa nn ii kk zz
 germano jj ai rr mm aa nn au
 germanophone jj ai rr mm aa nn oo ff oo nn
 germanophones jj ai rr mm aa nn oo ff oo nn
@@ -37514,8 +37362,6 @@ germer jj ai rr mm ei
 germer(2) jj ai rr mm ei rr
 germes jj ai rr mm
 germes(2) jj ai rr mm ee
-germes(3) jj ai rr mm ee zz
-germes(4) jj ai rr mm zz
 germinal jj ai rr mm ii nn aa ll
 germon jj ai rr mm on
 germé jj ai rr mm ei
@@ -37542,8 +37388,6 @@ geste jj ai ss tt
 geste(2) jj ai ss tt ee
 gestes jj ai ss tt
 gestes(2) jj ai ss tt ee
-gestes(3) jj ai ss tt ee zz
-gestes(4) jj ai ss tt zz
 gesticulante jj ai ss tt ii kk uu ll an tt
 gesticulation jj ai ss tt ii kk uu ll aa ss yy on
 gesticulations jj ai ss tt ii kk uu ll aa ss yy on
@@ -37553,8 +37397,6 @@ gestionnaire jj ai ss tt yy oo nn ai rr
 gestionnaire(2) jj ai ss tt yy oo nn ai rr ee
 gestionnaires jj ai ss tt yy oo nn ai rr
 gestionnaires(2) jj ai ss tt yy oo nn ai rr ee
-gestionnaires(3) jj ai ss tt yy oo nn ai rr ee zz
-gestionnaires(4) jj ai ss tt yy oo nn ai rr zz
 gestionnent jj ai ss tt yy oo nn an
 gestions jj ai ss tt yy on
 gestions(2) jj ai ss tt yy on zz
@@ -37568,8 +37410,6 @@ geôle jj au ll
 geôle(2) jj au ll ee
 geôles jj au ll
 geôles(2) jj au ll ee
-geôles(3) jj au ll ee zz
-geôles(4) jj au ll zz
 geôliers jj oo ll yy ei
 gf jj ei ai ff
 gfi jj ei ai ff ii
@@ -37656,22 +37496,16 @@ gifle jj ii ff ll
 gifle(2) jj ii ff ll ee
 gifles jj ii ff ll
 gifles(2) jj ii ff ll ee
-gifles(3) jj ii ff ll ee zz
-gifles(4) jj ii ff ll zz
 gigantesque jj ii gg an tt ai ss kk
 gigantesque(2) jj ii gg an tt ai ss kk ee
 gigantesques jj ii gg an tt ai ss kk
 gigantesques(2) jj ii gg an tt ai ss kk ee
-gigantesques(3) jj ii gg an tt ai ss kk ee zz
-gigantesques(4) jj ii gg an tt ai ss kk zz
 gigantisme jj ii gg an tt ii ss mm
 gigantisme(2) jj ii gg an tt ii ss mm ee
 gigi jj ii jj ii
 gign jj ei ii jj ei ai nn
 gigognes jj ii gg oo gn
 gigognes(2) jj ii gg oo gn ee
-gigognes(3) jj ii gg oo gn ee zz
-gigognes(4) jj ii gg oo gn zz
 gigolo jj ii gg oo ll au
 gigot jj ii gg au
 gigoter jj ii gg oo tt ei
@@ -37813,13 +37647,10 @@ glace gg ll aa ss
 glace(2) gg ll aa ss ee
 glaces gg ll aa ss
 glaces(2) gg ll aa ss ee
-glaces(3) gg ll aa ss ee zz
 glaciaire gg ll aa ss yy ai rr
 glaciaire(2) gg ll aa ss yy ai rr ee
 glaciaires gg ll aa ss yy ai rr
 glaciaires(2) gg ll aa ss yy ai rr ee
-glaciaires(3) gg ll aa ss yy ai rr ee zz
-glaciaires(4) gg ll aa ss yy ai rr zz
 glacial gg ll aa ss yy aa ll
 glaciale gg ll aa ss yy aa ll
 glaciale(2) gg ll aa ss yy aa ll ee
@@ -37848,8 +37679,6 @@ glande gg ll an dd
 glande(2) gg ll an dd ee
 glandes gg ll an dd
 glandes(2) gg ll an dd ee
-glandes(3) gg ll an dd ee zz
-glandes(4) gg ll an dd zz
 glaner gg ll aa nn ei
 glaner(2) gg ll aa nn ei rr
 glané gg ll aa nn ei
@@ -37867,8 +37696,6 @@ glauque gg ll au kk
 glauque(2) gg ll au kk ee
 glauques gg ll au kk
 glauques(2) gg ll au kk ee
-glauques(3) gg ll au kk ee zz
-glauques(4) gg ll au kk zz
 glavany gg ll aa vv aa nn ii
 glaxo gg ll aa kk ss au
 glaçons gg ll aa ss on
@@ -37902,8 +37729,6 @@ glisser gg ll ii ss ei
 glisser(2) gg ll ii ss ei rr
 glissières gg ll ii ss yy ai rr
 glissières(2) gg ll ii ss yy ai rr ee
-glissières(3) gg ll ii ss yy ai rr ee zz
-glissières(4) gg ll ii ss yy ai rr zz
 glissé gg ll ii ss ei
 glissée gg ll ii ss ei
 glissées gg ll ii ss ei
@@ -37916,8 +37741,6 @@ globalement gg ll oo bb aa ll ee mm an
 globalement(2) gg ll oo bb aa ll ee mm an tt
 globales gg ll oo bb aa ll
 globales(2) gg ll oo bb aa ll ee
-globales(3) gg ll oo bb aa ll ee zz
-globales(4) gg ll oo bb aa ll zz
 globalisation gg ll oo bb aa ll ii zz aa ss yy on
 globalisé gg ll oo bb aa ll ii zz ei
 globalité gg ll oo bb aa ll ii tt ei
@@ -37928,21 +37751,15 @@ globe(2) gg ll oo bb ee
 globe-trotter gg ll oo bb ee tt rr oo tt ee rr
 globes gg ll oo bb
 globes(2) gg ll oo bb ee
-globes(3) gg ll oo bb ee zz
-globes(4) gg ll oo bb zz
 globetrotters gg ll oo bb ee tt rr oo tt ai rr
 globo gg ll au bb au
 globules gg ll oo bb uu ll
 globules(2) gg ll oo bb uu ll ee
-globules(3) gg ll oo bb uu ll ee zz
-globules(4) gg ll oo bb uu ll zz
 glocer gg ll au ss ai rr
 gloire gg ll ww aa rr
 gloire(2) gg ll ww aa rr ee
 gloires gg ll ww aa rr
 gloires(2) gg ll ww aa rr ee
-gloires(3) gg ll ww aa rr ee zz
-gloires(4) gg ll ww aa rr zz
 glomser gg ll oo mm ss ai rr
 gloria gg ll au rr yy aa
 gloria(2) gg ll oo rr yy aa
@@ -37950,8 +37767,6 @@ glorieuse gg ll oo rr yy eu zz
 glorieuse(2) gg ll oo rr yy eu zz ee
 glorieuses gg ll oo rr yy eu zz
 glorieuses(2) gg ll oo rr yy eu zz ee
-glorieuses(3) gg ll oo rr yy eu zz ee zz
-glorieuses(4) gg ll oo rr yy eu zz zz
 glorieux gg ll oo rr yy eu
 glorieux(2) gg ll oo rr yy eu zz
 glorification gg ll oo rr ii ff ii kk aa ss yy on
@@ -37963,8 +37778,6 @@ glose gg ll au zz
 glose(2) gg ll au zz ee
 gloses gg ll au zz
 gloses(2) gg ll au zz ee
-gloses(3) gg ll au zz ee zz
-gloses(4) gg ll au zz zz
 glossaire gg ll oo ss ai rr
 glossaire(2) gg ll oo ss ai rr ee
 gloucester gg ll ou ss ai ss tt ei
@@ -38087,8 +37900,6 @@ gondole gg on dd oo ll
 gondole(2) gg on dd oo ll ee
 gondoles gg on dd oo ll
 gondoles(2) gg on dd oo ll ee
-gondoles(3) gg on dd oo ll ee zz
-gondoles(4) gg on dd oo ll zz
 gonds gg on
 gonds(2) gg on zz
 gonesse gg au nn ai ss
@@ -38114,8 +37925,6 @@ gonzalez gg on zz aa ll ai zz
 gonzalo gg on zz aa ll au
 gonzesses gg on zz ai ss
 gonzesses(2) gg on zz ai ss ee
-gonzesses(3) gg on zz ai ss ee zz
-gonzesses(4) gg on zz ai ss zz
 good gg ou
 good(2) gg ou dd
 goodbye gg ou dd bb yy
@@ -38143,8 +37952,6 @@ gorge gg oo rr jj
 gorge(2) gg oo rr jj ee
 gorges gg oo rr jj
 gorges(2) gg oo rr jj ee
-gorges(3) gg oo rr jj ee zz
-gorges(4) gg oo rr jj zz
 gorgibus gg oo rr jj ii bb uu
 gorgé gg oo rr jj ei
 gorgée gg oo rr jj ei
@@ -38155,8 +37962,6 @@ gorille gg oo rr ii yy
 gorille(2) gg oo rr ii yy ee
 gorilles gg oo rr ii yy
 gorilles(2) gg oo rr ii yy ee
-gorilles(3) gg oo rr ii yy ee zz
-gorilles(4) gg oo rr ii yy zz
 gorin gg oo rr in
 gorintin gg oo rr in tt in
 gorki gg oo rr kk ii
@@ -38174,7 +37979,6 @@ gosse gg oo ss
 gosse(2) gg oo ss ee
 gosses gg oo ss
 gosses(2) gg oo ss ee
-gosses(3) gg oo ss ee zz
 gossot gg au ss au
 gossot(2) gg oo ss au
 got gg au
@@ -38183,8 +37987,6 @@ gothique gg oo tt ii kk
 gothique(2) gg oo tt ii kk ee
 gothiques gg oo tt ii kk
 gothiques(2) gg oo tt ii kk ee
-gothiques(3) gg oo tt ii kk ee zz
-gothiques(4) gg oo tt ii kk zz
 gotovina gg au tt au vv ii nn aa
 gottey gg oo tt ei
 gottschalt gg oo tt ss ch aa ll tt
@@ -38193,8 +37995,6 @@ gouache gg ww aa ch
 gouache(2) gg ww aa ch ee
 gouaches gg ww aa ch
 gouaches(2) gg ww aa ch ee
-gouaches(3) gg ww aa ch ee zz
-gouaches(4) gg ww aa ch zz
 gouaille gg ww aa yy
 gouaille(2) gg ww aa yy ee
 goubert gg ou bb ai rr
@@ -38205,8 +38005,6 @@ gouffre gg ou ff rr
 gouffre(2) gg ou ff rr ee
 gouffres gg ou ff rr
 gouffres(2) gg ou ff rr ee
-gouffres(3) gg ou ff rr ee zz
-gouffres(4) gg ou ff rr zz
 gouges gg ou jj
 gouha gg ou aa
 goujon gg ou jj on
@@ -38241,8 +38039,6 @@ gourmande gg ou rr mm an dd
 gourmande(2) gg ou rr mm an dd ee
 gourmandes gg ou rr mm an dd
 gourmandes(2) gg ou rr mm an dd ee
-gourmandes(3) gg ou rr mm an dd ee zz
-gourmandes(4) gg ou rr mm an dd zz
 gourmandise gg ou rr mm an dd ii zz
 gourmandise(2) gg ou rr mm an dd ii zz ee
 gourmands gg ou rr mm an
@@ -38262,7 +38058,6 @@ gousse gg ou ss
 gousse(2) gg ou ss ee
 gousses gg ou ss
 gousses(2) gg ou ss ee
-gousses(3) gg ou ss ee zz
 goussinski gg ou ss ii nn ss kk ii
 goustat gg ou ss tt aa
 goutard gg ou tt aa rr
@@ -38272,8 +38067,6 @@ goutte(2) gg ou tt ee
 gouttelettes gg ou tt ee ll ai tt
 gouttes gg ou tt
 gouttes(2) gg ou tt ee
-gouttes(3) gg ou tt ee zz
-gouttes(4) gg ou tt zz
 gouv gg ou vv
 gouvernaient gg ou vv ai rr nn ai
 gouvernaient(2) gg ou vv ai rr nn ai tt
@@ -38296,8 +38089,6 @@ gouvernementale gg ou vv ai rr nn ee mm an tt aa ll
 gouvernementale(2) gg ou vv ai rr nn ee mm an tt aa ll ee
 gouvernementales gg ou vv ai rr nn ee mm an tt aa ll
 gouvernementales(2) gg ou vv ai rr nn ee mm an tt aa ll ee
-gouvernementales(3) gg ou vv ai rr nn ee mm an tt aa ll ee zz
-gouvernementales(4) gg ou vv ai rr nn ee mm an tt aa ll zz
 gouvernementaux gg ou vv ai rr nn ee mm an tt au
 gouvernementaux(2) gg ou vv ai rr nn ee mm an tt au zz
 gouvernements gg ou vv ai rr nn ee mm an
@@ -38390,8 +38181,6 @@ graine gg rr ai nn
 graine(2) gg rr ai nn ee
 graines gg rr ai nn
 graines(2) gg rr ai nn ee
-graines(3) gg rr ai nn ee zz
-graines(4) gg rr ai nn zz
 grains gg rr in
 grains(2) gg rr in zz
 graisse gg rr ai ss
@@ -38400,7 +38189,6 @@ graisser gg rr ai ss ei
 graisser(2) gg rr ai ss ei rr
 graisses gg rr ai ss
 graisses(2) gg rr ai ss ee
-graisses(3) gg rr ai ss ee zz
 gram gg rr aa mm
 grami gg rr aa mm ii
 grammaire gg rr aa mm ai rr
@@ -38409,8 +38197,6 @@ gramme gg rr aa mm
 gramme(2) gg rr aa mm ee
 grammes gg rr aa mm
 grammes(2) gg rr aa mm ee
-grammes(3) gg rr aa mm ee zz
-grammes(4) gg rr aa mm zz
 grammophon gg rr aa mm oo ff on
 grammy gg rr aa mm ii
 gramophone gg rr aa mm oo ff oo nn
@@ -38429,13 +38215,10 @@ grand-messe gg rr an mm ai ss
 grand-messe(2) gg rr an mm ai ss ee
 grand-messes gg rr an mm ai ss
 grand-messes(2) gg rr an mm ai ss ee
-grand-messes(3) gg rr an mm ai ss ee zz
 grand-mère gg rr an mm ai rr
 grand-mère(2) gg rr an mm ai rr ee
 grand-mères gg rr an mm ai rr
 grand-mères(2) gg rr an mm ai rr ee
-grand-mères(3) gg rr an mm ai rr ee zz
-grand-mères(4) gg rr an mm ai rr zz
 grand-oncle gg rr an tt on kk ll
 grand-oncle(2) gg rr an tt on kk ll ee
 grand-père gg rr an pp ai rr
@@ -38464,8 +38247,6 @@ grandement(2) gg rr an dd ee mm an tt
 grandes gg rr an dd
 grandes(2) gg rr an dd ai ss
 grandes(3) gg rr an dd ee
-grandes(4) gg rr an dd ee zz
-grandes(5) gg rr an dd zz
 grandeur gg rr an dd oe rr
 grandeurs gg rr an dd oe rr
 grandeurs(2) gg rr an dd oe rr zz
@@ -38479,8 +38260,6 @@ grandiose gg rr an dd yy au zz
 grandiose(2) gg rr an dd yy au zz ee
 grandioses gg rr an dd yy au zz
 grandioses(2) gg rr an dd yy au zz ee
-grandioses(3) gg rr an dd yy au zz ee zz
-grandioses(4) gg rr an dd yy au zz zz
 grandir gg rr an dd ii rr
 grandissant gg rr an dd ii ss an
 grandissant(2) gg rr an dd ii ss an tt
@@ -38488,8 +38267,6 @@ grandissante gg rr an dd ii ss an tt
 grandissante(2) gg rr an dd ii ss an tt ee
 grandissantes gg rr an dd ii ss an tt
 grandissantes(2) gg rr an dd ii ss an tt ee
-grandissantes(3) gg rr an dd ii ss an tt ee zz
-grandissantes(4) gg rr an dd ii ss an tt zz
 grandissent gg rr an dd ii ss ee
 grandit gg rr an dd ii
 grandit(2) gg rr an dd ii tt
@@ -38499,16 +38276,12 @@ grands-parents gg rr an pp aa rr an
 grands-parents(2) gg rr an pp aa rr an zz
 grands-pères gg rr an pp ai rr
 grands-pères(2) gg rr an pp ai rr ee
-grands-pères(3) gg rr an pp ai rr ee zz
-grands-pères(4) gg rr an pp ai rr zz
 granet gg rr aa nn ai
 grange gg rr an jj
 grange(2) gg rr an jj ee
 granger gg rr an gg ai rr
 granges gg rr an jj
 granges(2) gg rr an jj ee
-granges(3) gg rr an jj ee zz
-granges(4) gg rr an jj zz
 grangé gg rr an jj ei
 granier gg rr aa nn yy ei
 graninge gg rr aa nn ii nn jj
@@ -38526,20 +38299,14 @@ graphique gg rr aa ff ii kk
 graphique(2) gg rr aa ff ii kk ee
 graphiques gg rr aa ff ii kk
 graphiques(2) gg rr aa ff ii kk ee
-graphiques(3) gg rr aa ff ii kk ee zz
-graphiques(4) gg rr aa ff ii kk zz
 graphisme gg rr aa ff ii ss mm
 graphisme(2) gg rr aa ff ii ss mm ee
 graphismes gg rr aa ff ii ss mm
 graphismes(2) gg rr aa ff ii ss mm ee
-graphismes(3) gg rr aa ff ii ss mm ee zz
-graphismes(4) gg rr aa ff ii ss mm zz
 graphiste gg rr aa ff ii ss tt
 graphiste(2) gg rr aa ff ii ss tt ee
 graphistes gg rr aa ff ii ss tt
 graphistes(2) gg rr aa ff ii ss tt ee
-graphistes(3) gg rr aa ff ii ss tt ee zz
-graphistes(4) gg rr aa ff ii ss tt zz
 graphite gg rr aa ff ii tt
 graphite(2) gg rr aa ff ii tt ee
 graphologie gg rr aa ff oo ll oo jj ii
@@ -38548,8 +38315,6 @@ grappe(2) gg rr aa pp ee
 grappelli gg rr aa pp ai ll ii
 grappes gg rr aa pp
 grappes(2) gg rr aa pp ee
-grappes(3) gg rr aa pp ee zz
-grappes(4) gg rr aa pp zz
 grappiller gg rr aa pp ii yy ei
 grappiller(2) gg rr aa pp ii yy ei rr
 gras gg rr aa
@@ -38559,7 +38324,6 @@ grasse(2) gg rr aa ss ee
 grassement gg rr aa ss ee mm an
 grasses gg rr aa ss
 grasses(2) gg rr aa ss ee
-grasses(3) gg rr aa ss ee zz
 grasset gg rr aa ss ai
 grasshopper gg rr aa ss oo pp ai rr
 grasshoppers gg rr aa ss oo pp ai rr ss
@@ -38592,8 +38356,6 @@ gratuitement gg rr aa tt uy ii tt ee mm an
 gratuitement(2) gg rr aa tt uy ii tt ee mm an tt
 gratuites gg rr aa tt uy ii tt
 gratuites(2) gg rr aa tt uy ii tt ee
-gratuites(3) gg rr aa tt uy ii tt ee zz
-gratuites(4) gg rr aa tt uy ii tt zz
 gratuits gg rr aa tt uy ii
 gratuits(2) gg rr aa tt uy ii zz
 gratuité gg rr aa tt uy ii tt ei
@@ -38612,8 +38374,6 @@ graver gg rr aa vv ei
 graver(2) gg rr aa vv ei rr
 graves gg rr aa vv
 graves(2) gg rr aa vv ee
-graves(3) gg rr aa vv ee zz
-graves(4) gg rr aa vv zz
 graveur gg rr aa vv oe rr
 graveurs gg rr aa vv oe rr
 graveurs(2) gg rr aa vv oe rr zz
@@ -38650,8 +38410,6 @@ grecque gg rr ai kk
 grecque(2) gg rr ai kk ee
 grecques gg rr ai kk
 grecques(2) gg rr ai kk ee
-grecques(3) gg rr ai kk ee zz
-grecques(4) gg rr ai kk zz
 grecs gg rr ai kk
 grecs(2) gg rr ai kk zz
 greef gg rr ii ff
@@ -38671,8 +38429,6 @@ greffer gg rr ai ff ei
 greffer(2) gg rr ai ff ei rr
 greffes gg rr ai ff
 greffes(2) gg rr ai ff ee
-greffes(3) gg rr ai ff ee zz
-greffes(4) gg rr ai ff zz
 greffier gg rr ai ff yy ei
 greffiers gg rr ai ff yy ei
 greffière gg rr ai ff yy ai rr
@@ -38698,8 +38454,6 @@ grenade(3) gg rr nn aa dd
 grenade(4) gg rr nn aa dd ee
 grenades gg rr ee nn aa dd
 grenades(2) gg rr ee nn aa dd ee
-grenades(3) gg rr ee nn aa dd ee zz
-grenades(4) gg rr ee nn aa dd zz
 grenadine gg rr ee nn aa dd ii nn
 grenadine(2) gg rr ee nn aa dd ii nn ee
 grenadine(3) gg rr nn aa dd ii nn
@@ -38724,8 +38478,6 @@ grenouille gg rr ee nn ou yy
 grenouille(2) gg rr ee nn ou yy ee
 grenouilles gg rr ee nn ou yy
 grenouilles(2) gg rr ee nn ou yy ee
-grenouilles(3) gg rr ee nn ou yy ee zz
-grenouilles(4) gg rr ee nn ou yy zz
 greta gg rr ei tt aa
 grevé gg rr ee vv ei
 grey gg rr ei
@@ -38737,8 +38489,6 @@ griffe gg rr ii ff
 griffe(2) gg rr ii ff ee
 griffes gg rr ii ff
 griffes(2) gg rr ii ff ee
-griffes(3) gg rr ii ff ee zz
-griffes(4) gg rr ii ff zz
 griffin gg rr ii ff ii nn
 griffith gg rr ii ff ii ff
 grignon gg rr ii gn on
@@ -38757,8 +38507,6 @@ grillage gg rr ii yy aa jj
 grillage(2) gg rr ii yy aa jj ee
 grillages gg rr ii yy aa jj
 grillages(2) gg rr ii yy aa jj ee
-grillages(3) gg rr ii yy aa jj ee zz
-grillages(4) gg rr ii yy aa jj zz
 grillagé gg rr ii yy aa jj ei
 grille gg rr ii yy
 grille(2) gg rr ii yy ee
@@ -38766,8 +38514,6 @@ griller gg rr ii yy ei
 griller(2) gg rr ii yy ei rr
 grilles gg rr ii yy
 grilles(2) gg rr ii yy ee
-grilles(3) gg rr ii yy ee zz
-grilles(4) gg rr ii yy zz
 grillet gg rr ii yy ai
 grillé gg rr ii yy ei
 grillée gg rr ii yy ei
@@ -38777,7 +38523,6 @@ grimace gg rr ii mm aa ss
 grimace(2) gg rr ii mm aa ss ee
 grimaces gg rr ii mm aa ss
 grimaces(2) gg rr ii mm aa ss ee
-grimaces(3) gg rr ii mm aa ss ee zz
 grimaldi gg rr ii mm aa ll dd ii
 grimaud gg rr ii mm au
 grimault gg rr ii mm au
@@ -38833,8 +38578,6 @@ griser(2) gg rr ii zz ei rr
 griserie gg rr ii zz ee rr ii
 grises gg rr ii zz
 grises(2) gg rr ii zz ee
-grises(3) gg rr ii zz ee zz
-grises(4) gg rr ii zz zz
 grisey gg rr ii zz ei
 grison gg rr ii zz oo nn
 grisons gg rr ii zz oo nn ss
@@ -38876,12 +38619,10 @@ grosse(2) gg rr au ss ee
 grosser gg rr oo ss ai rr
 grosses gg rr au ss
 grosses(2) gg rr au ss ee
-grosses(3) gg rr au ss ee zz
 grossesse gg rr oo ss ai ss
 grossesse(2) gg rr oo ss ai ss ee
 grossesses gg rr oo ss ai ss
 grossesses(2) gg rr oo ss ai ss ee
-grossesses(3) gg rr oo ss ai ss ee zz
 grossi gg rr oo ss ii
 grossier gg rr oo ss yy ei
 grossier(2) gg rr oo ss yy ei rr
@@ -38893,8 +38634,6 @@ grossiste gg rr oo ss ii ss tt
 grossiste(2) gg rr oo ss ii ss tt ee
 grossistes gg rr oo ss ii ss tt
 grossistes(2) gg rr oo ss ii ss tt ee
-grossistes(3) gg rr oo ss ii ss tt ee zz
-grossistes(4) gg rr oo ss ii ss tt zz
 grossit gg rr oo ss ii
 grossit(2) gg rr oo ss ii tt
 grossière gg rr oo ss yy ai rr
@@ -38903,8 +38642,6 @@ grossièrement gg rr oo ss yy ai rr ee mm an
 grossièrement(2) gg rr oo ss yy ai rr ee mm an tt
 grossières gg rr oo ss yy ai rr
 grossières(2) gg rr oo ss yy ai rr ee
-grossières(3) gg rr oo ss yy ai rr ee zz
-grossières(4) gg rr oo ss yy ai rr zz
 grossièreté gg rr oo ss yy ai rr ee tt ei
 grossman gg rr oo ss mm aa nn
 grosso gg rr oo ss au
@@ -38915,14 +38652,10 @@ grotesque gg rr oo tt ai ss kk
 grotesque(2) gg rr oo tt ai ss kk ee
 grotesques gg rr oo tt ai ss kk
 grotesques(2) gg rr oo tt ai ss kk ee
-grotesques(3) gg rr oo tt ai ss kk ee zz
-grotesques(4) gg rr oo tt ai ss kk zz
 grotte gg rr oo tt
 grotte(2) gg rr oo tt ee
 grottes gg rr oo tt
 grottes(2) gg rr oo tt ee
-grottes(3) gg rr oo tt ee zz
-grottes(4) gg rr oo tt zz
 grouard gg rr ou aa rr
 groucho gg rr ou ch au
 grouille gg rr ou yy
@@ -38945,16 +38678,12 @@ grouper gg rr ou pp ei
 grouper(2) gg rr ou pp ei rr
 groupes gg rr ou pp
 groupes(2) gg rr ou pp ee
-groupes(3) gg rr ou pp ee zz
-groupes(4) gg rr ou pp zz
 groupies gg rr ou pp ii
 groupusculaire gg rr ou pp uu ss kk uu ll ai rr
 groupuscule gg rr ou pp uu ss kk uu ll
 groupuscule(2) gg rr ou pp uu ss kk uu ll ee
 groupuscules gg rr ou pp uu ss kk uu ll
 groupuscules(2) gg rr ou pp uu ss kk uu ll ee
-groupuscules(3) gg rr ou pp uu ss kk uu ll ee zz
-groupuscules(4) gg rr ou pp uu ss kk uu ll zz
 groupé gg rr ou pp ei
 groupée gg rr ou pp ei
 groupées gg rr ou pp ei
@@ -38990,7 +38719,6 @@ grâce_à_l' gg rr aa ss aa ll
 grâce_à_la gg rr aa ss aa ll aa
 grâces gg rr aa ss
 grâces(2) gg rr aa ss ee
-grâces(3) gg rr aa ss ee zz
 grè gg rr ai
 grèce gg rr ai ss
 grèce(2) gg rr ai ss ee
@@ -39000,8 +38728,6 @@ grève gg rr ai vv
 grève(2) gg rr ai vv ee
 grèves gg rr ai vv
 grèves(2) gg rr ai vv ee
-grèves(3) gg rr ai vv ee zz
-grèves(4) gg rr ai vv zz
 gré gg rr ei
 gréco gg rr ei kk au
 gréement gg rr ai mm an
@@ -39020,8 +38746,6 @@ gréviste gg rr ai vv ii ss tt
 gréviste(2) gg rr ai vv ii ss tt ee
 grévistes gg rr ai vv ii ss tt
 grévistes(2) gg rr ai vv ii ss tt ee
-grévistes(3) gg rr ai vv ii ss tt ee zz
-grévistes(4) gg rr ai vv ii ss tt zz
 grêle gg rr ai ll
 grêle(2) gg rr ai ll ee
 grüber gg rr uu bb ai rr
@@ -39068,8 +38792,6 @@ guen gg in
 guendouz gg ei nn dd ou zz
 guenilles gg ee nn ii yy
 guenilles(2) gg ee nn ii yy ee
-guenilles(3) gg ee nn ii yy ee zz
-guenilles(4) gg ee nn ii yy zz
 guennadi gg ei nn aa dd ii
 gueorgui gg oo rr gg ii
 gueral gg ei rr aa ll
@@ -39088,8 +38810,6 @@ guerre(2) gg ai rr ee
 guerrero gg ei rr ei rr au
 guerres gg ai rr
 guerres(2) gg ai rr ee
-guerres(3) gg ai rr ee zz
-guerres(4) gg ai rr zz
 guerrier gg ai rr yy ei
 guerrier(2) gg ai rr yy ei rr
 guerriers gg ai rr yy ei
@@ -39098,8 +38818,6 @@ guerrière gg ai rr yy ai rr
 guerrière(2) gg ai rr yy ai rr ee
 guerrières gg ai rr yy ai rr
 guerrières(2) gg ai rr yy ai rr ee
-guerrières(3) gg ai rr yy ai rr ee zz
-guerrières(4) gg ai rr yy ai rr zz
 guerrouj gg ai rr ou jj
 guesde gg ai ss dd
 guessan gg ei ss an
@@ -39128,8 +38846,6 @@ gueuler gg ee ll ei
 gueuler(2) gg ee ll ei rr
 gueules gg oe ll
 gueules(2) gg oe ll ee
-gueules(3) gg oe ll ee zz
-gueules(4) gg oe ll zz
 gueux gg eu
 gueux(2) gg eu zz
 guevara gg ei vv aa rr aa
@@ -39152,8 +38868,6 @@ guider gg ii dd ei
 guider(2) gg ii dd ei rr
 guides gg ii dd
 guides(2) gg ii dd ee
-guides(3) gg ii dd ee zz
-guides(4) gg ii dd zz
 guidi gg ii dd ii
 guido gg ii dd au
 guido(2) gg ww ii dd au
@@ -39220,8 +38934,6 @@ guinguette gg in gg ai tt
 guinguette(2) gg in gg ai tt ee
 guinguettes gg in gg ai tt
 guinguettes(2) gg in gg ai tt ee
-guinguettes(3) gg in gg ai tt ee zz
-guinguettes(4) gg in gg ai tt zz
 guinness gg ii nn ai ss
 guinée gg ii nn ei
 guinée-bissau gg ii nn ei bb ii ss aa ww
@@ -39235,22 +38947,16 @@ guiraud gg ii rr au
 guiraudie gg ii rr au dd ii
 guirlandes gg ii rr ll an dd
 guirlandes(2) gg ii rr ll an dd ee
-guirlandes(3) gg ii rr ll an dd ee zz
-guirlandes(4) gg ii rr ll an dd zz
 guise gg ii zz
 guise(2) gg ii zz ee
 guitare gg ii tt aa rr
 guitare(2) gg ii tt aa rr ee
 guitares gg ii tt aa rr
 guitares(2) gg ii tt aa rr ee
-guitares(3) gg ii tt aa rr ee zz
-guitares(4) gg ii tt aa rr zz
 guitariste gg ii tt aa rr ii ss tt
 guitariste(2) gg ii tt aa rr ii ss tt ee
 guitaristes gg ii tt aa rr ii ss tt
 guitaristes(2) gg ii tt aa rr ii ss tt ee
-guitaristes(3) gg ii tt aa rr ii ss tt ee zz
-guitaristes(4) gg ii tt aa rr ii ss tt zz
 guitry gg ii tt rr ii
 guittet gg ii tt ai
 guitton gg ii tt on
@@ -39345,14 +39051,10 @@ gymnase jj ii mm nn aa zz
 gymnase(2) jj ii mm nn aa zz ee
 gymnases jj ii mm nn aa zz
 gymnases(2) jj ii mm nn aa zz ee
-gymnases(3) jj ii mm nn aa zz ee zz
-gymnases(4) jj ii mm nn aa zz zz
 gymnaste jj ii mm nn aa ss tt
 gymnaste(2) jj ii mm nn aa ss tt ee
 gymnastes jj ii mm nn aa ss tt
 gymnastes(2) jj ii mm nn aa ss tt ee
-gymnastes(3) jj ii mm nn aa ss tt ee zz
-gymnastes(4) jj ii mm nn aa ss tt zz
 gymnastique jj ii mm nn aa ss tt ii kk
 gymnastique(2) jj ii mm nn aa ss tt ii kk ee
 gynécologie jj ii nn ai kk oo ll oo jj ii
@@ -39360,8 +39062,6 @@ gynécologue jj ii nn ai kk oo ll oo gg
 gynécologue(2) jj ii nn ai kk oo ll oo gg ee
 gynécologues jj ii nn ai kk oo ll oo gg
 gynécologues(2) jj ii nn ai kk oo ll oo gg ee
-gynécologues(3) jj ii nn ai kk oo ll oo gg ee zz
-gynécologues(4) jj ii nn ai kk oo ll oo gg zz
 gysi gg ii zz ii
 gyula gg yy uu ll aa
 györgy gg yy eu rr gg ii
@@ -39395,8 +39095,6 @@ gène jj ai nn
 gène(2) jj ai nn ee
 gènes jj ai nn
 gènes(2) jj ai nn ee
-gènes(3) jj ai nn ee zz
-gènes(4) jj ai nn zz
 gère jj ai rr
 gère(2) jj ai rr ee
 gèrent jj ai rr ee
@@ -39406,8 +39104,6 @@ géante jj ai an tt
 géante(2) jj ai an tt ee
 géantes jj ai an tt
 géantes(2) jj ai an tt ee
-géantes(3) jj ai an tt ee zz
-géantes(4) jj ai an tt zz
 géants jj ai an
 géants(2) jj ai an zz
 géhenne jj ai ai nn
@@ -39437,8 +39133,6 @@ génies(2) jj ai nn ii zz
 génique jj ei nn ii kk
 génitales jj ai nn ii tt aa ll
 génitales(2) jj ai nn ii tt aa ll ee
-génitales(3) jj ai nn ii tt aa ll ee zz
-génitales(4) jj ai nn ii tt aa ll zz
 géniteur jj ai nn ii tt oe rr
 géniteurs jj ai nn ii tt oe rr
 géniteurs(2) jj ai nn ii tt oe rr zz
@@ -39448,8 +39142,6 @@ génocide jj ai nn oo ss ii dd
 génocide(2) jj ai nn oo ss ii dd ee
 génocides jj ai nn oo ss ii dd
 génocides(2) jj ai nn oo ss ii dd ee
-génocides(3) jj ai nn oo ss ii dd ee zz
-génocides(4) jj ai nn oo ss ii dd zz
 génocidé jj ei nn oo ss ii dd ei
 génois jj ai nn ww aa
 génois(2) jj ai nn ww aa zz
@@ -39458,8 +39150,6 @@ génome(2) jj ai nn au mm
 génome(3) jj ai nn au mm ee
 génomes jj ai nn au mm
 génomes(2) jj ai nn au mm ee
-génomes(3) jj ai nn au mm ee zz
-génomes(4) jj ai nn au mm zz
 génomique jj ei nn oo mm ii kk
 génopole jj ei nn oo pp oo ll
 génopôle jj ei nn oo pp au ll
@@ -39472,8 +39162,6 @@ généalogique jj ai nn ai aa ll oo jj ii kk
 généalogique(2) jj ai nn ai aa ll oo jj ii kk ee
 généalogiques jj ai nn ai aa ll oo jj ii kk
 généalogiques(2) jj ai nn ai aa ll oo jj ii kk ee
-généalogiques(3) jj ai nn ai aa ll oo jj ii kk ee zz
-généalogiques(4) jj ai nn ai aa ll oo jj ii kk zz
 généra jj ai nn ai rr aa
 général jj ai nn ai rr aa ll
 général(2) jj ei nn ei rr aa ll
@@ -39483,8 +39171,6 @@ généralement jj ai nn ai rr aa ll ee mm an
 généralement(2) jj ai nn ai rr aa ll ee mm an tt
 générales jj ai nn ai rr aa ll
 générales(2) jj ai nn ai rr aa ll ee
-générales(3) jj ai nn ai rr aa ll ee zz
-générales(4) jj ai nn ai rr aa ll zz
 généralisant jj ai nn ai rr aa ll ii zz an
 généralisant(2) jj ai nn ai rr aa ll ii zz an tt
 généralisation jj ai nn ai rr aa ll ii zz aa ss yy on
@@ -39505,8 +39191,6 @@ généraliste jj ai nn ai rr aa ll ii ss tt
 généraliste(2) jj ai nn ai rr aa ll ii ss tt ee
 généralistes jj ai nn ai rr aa ll ii ss tt
 généralistes(2) jj ai nn ai rr aa ll ii ss tt ee
-généralistes(3) jj ai nn ai rr aa ll ii ss tt ee zz
-généralistes(4) jj ai nn ai rr aa ll ii ss tt zz
 généralisé jj ai nn ai rr aa ll ii zz ei
 généralisée jj ai nn ai rr aa ll ii zz ei
 généralisées jj ai nn ai rr aa ll ii zz ei
@@ -39527,7 +39211,6 @@ génératrice jj ai nn ai rr aa tt rr ii ss
 génératrice(2) jj ai nn ai rr aa tt rr ii ss ee
 génératrices jj ai nn ai rr aa tt rr ii ss
 génératrices(2) jj ai nn ai rr aa tt rr ii ss ee
-génératrices(3) jj ai nn ai rr aa tt rr ii ss ee zz
 généraux jj ai nn ai rr au
 généraux(2) jj ai nn ai rr au zz
 générer jj ai nn ai rr ei
@@ -39539,16 +39222,12 @@ généreusement jj ai nn ai rr ee zz ee mm an
 généreusement(2) jj ai nn ai rr ee zz ee mm an tt
 généreuses jj ai nn ai rr eu zz
 généreuses(2) jj ai nn ai rr eu zz ee
-généreuses(3) jj ai nn ai rr eu zz ee zz
-généreuses(4) jj ai nn ai rr eu zz zz
 généreux jj ai nn ai rr eu
 généreux(2) jj ai nn ai rr eu zz
 générique jj ai nn ai rr ii kk
 générique(2) jj ai nn ai rr ii kk ee
 génériques jj ai nn ai rr ii kk
 génériques(2) jj ai nn ai rr ii kk ee
-génériques(3) jj ai nn ai rr ii kk ee zz
-génériques(4) jj ai nn ai rr ii kk zz
 générosité jj ai nn ai rr oo zz ii tt ei
 généré jj ai nn ai rr ei
 générée jj ai nn ai rr ei
@@ -39563,8 +39242,6 @@ génétiquement jj ai nn ai tt ii kk ee mm an
 génétiquement(2) jj ai nn ai tt ii kk ee mm an tt
 génétiques jj ai nn ai tt ii kk
 génétiques(2) jj ai nn ai tt ii kk ee
-génétiques(3) jj ai nn ai tt ii kk ee zz
-génétiques(4) jj ai nn ai tt ii kk zz
 géo jj ei au
 géode jj ai oo dd
 géode(2) jj ai oo dd ee
@@ -39572,8 +39249,6 @@ géographe jj ai oo gg rr aa ff
 géographe(2) jj ai oo gg rr aa ff ee
 géographes jj ai oo gg rr aa ff
 géographes(2) jj ai oo gg rr aa ff ee
-géographes(3) jj ai oo gg rr aa ff ee zz
-géographes(4) jj ai oo gg rr aa ff zz
 géographie jj ai oo gg rr aa ff ii
 géographique jj ai oo gg rr aa ff ii kk
 géographique(2) jj ai oo gg rr aa ff ii kk ee
@@ -39581,45 +39256,33 @@ géographiquement jj ai oo gg rr aa ff ii kk ee mm an
 géographiquement(2) jj ai oo gg rr aa ff ii kk ee mm an tt
 géographiques jj ai oo gg rr aa ff ii kk
 géographiques(2) jj ai oo gg rr aa ff ii kk ee
-géographiques(3) jj ai oo gg rr aa ff ii kk ee zz
-géographiques(4) jj ai oo gg rr aa ff ii kk zz
 géologie jj ai oo ll oo jj ii
 géologique jj ai oo ll oo jj ii kk
 géologique(2) jj ai oo ll oo jj ii kk ee
 géologiques jj ai oo ll oo jj ii kk
 géologiques(2) jj ai oo ll oo jj ii kk ee
-géologiques(3) jj ai oo ll oo jj ii kk ee zz
-géologiques(4) jj ai oo ll oo jj ii kk zz
 géologue jj ei oo ll oo gg
 géologues jj ei oo ll oo gg
 géomètre jj ai oo mm ai tt rr
 géomètre(2) jj ai oo mm ai tt rr ee
 géomètres jj ai oo mm ai tt rr
 géomètres(2) jj ai oo mm ai tt rr ee
-géomètres(3) jj ai oo mm ai tt rr ee zz
-géomètres(4) jj ai oo mm ai tt rr zz
 géométrie jj ai oo mm ai tt rr ii
 géométrique jj ai oo mm ai tt rr ii kk
 géométrique(2) jj ai oo mm ai tt rr ii kk ee
 géométriques jj ai oo mm ai tt rr ii kk
 géométriques(2) jj ai oo mm ai tt rr ii kk ee
-géométriques(3) jj ai oo mm ai tt rr ii kk ee zz
-géométriques(4) jj ai oo mm ai tt rr ii kk zz
 géophysique jj ei oo ff ii zz ii kk
 géopolitique jj ai oo pp oo ll ii tt ii kk
 géopolitique(2) jj ai oo pp oo ll ii tt ii kk ee
 géopolitiques jj ai oo pp oo ll ii tt ii kk
 géopolitiques(2) jj ai oo pp oo ll ii tt ii kk ee
-géopolitiques(3) jj ai oo pp oo ll ii tt ii kk ee zz
-géopolitiques(4) jj ai oo pp oo ll ii tt ii kk zz
 géorgie jj ei oo rr jj ii
 géorgien jj ai oo rr jj yy in
 géorgienne jj ai oo rr jj yy ai nn
 géorgienne(2) jj ai oo rr jj yy ai nn ee
 géorgiennes jj ai oo rr jj yy ai nn
 géorgiennes(2) jj ai oo rr jj yy ai nn ee
-géorgiennes(3) jj ai oo rr jj yy ai nn ee zz
-géorgiennes(4) jj ai oo rr jj yy ai nn zz
 géorgiens jj ai oo rr jj yy in
 géorgiens(2) jj ai oo rr jj yy in zz
 géorgiens(3) jj ei oo rr jj yy in
@@ -39629,20 +39292,12 @@ géostratége jj ei oo ss tt rr aa tt ei jj
 géostratégique jj ei oo ss tt rr aa tt ei jj ii kk
 géostratégiques jj ai au ss tt rr aa tt ei jj ii kk
 géostratégiques(2) jj ai au ss tt rr aa tt ei jj ii kk ee
-géostratégiques(3) jj ai au ss tt rr aa tt ei jj ii kk ee zz
-géostratégiques(4) jj ai au ss tt rr aa tt ei jj ii kk zz
 géostratégiques(5) jj ai oo ss tt rr aa tt ei jj ii kk
 géostratégiques(6) jj ai oo ss tt rr aa tt ei jj ii kk ee
-géostratégiques(7) jj ai oo ss tt rr aa tt ei jj ii kk ee zz
-géostratégiques(8) jj ai oo ss tt rr aa tt ei jj ii kk zz
 géostratégiques(9) jj ei au ss tt rr aa tt ei jj ii kk
 géostratégiques(10) jj ei au ss tt rr aa tt ei jj ii kk ee
-géostratégiques(11) jj ei au ss tt rr aa tt ei jj ii kk ee zz
-géostratégiques(12) jj ei au ss tt rr aa tt ei jj ii kk zz
 géostratégiques(13) jj ei oo ss tt rr aa tt ei jj ii kk
 géostratégiques(14) jj ei oo ss tt rr aa tt ei jj ii kk ee
-géostratégiques(15) jj ei oo ss tt rr aa tt ei jj ii kk ee zz
-géostratégiques(16) jj ei oo ss tt rr aa tt ei jj ii kk zz
 gérable jj ei rr aa bb ll
 gérait jj ai rr ai
 gérait(2) jj ai rr ai tt
@@ -39682,8 +39337,6 @@ gênante jj ai nn an tt
 gênante(2) jj ai nn an tt ee
 gênantes jj ai nn an tt
 gênantes(2) jj ai nn an tt ee
-gênantes(3) jj ai nn an tt ee zz
-gênantes(4) jj ai nn an tt zz
 gênants jj ai nn an
 gênants(2) jj ai nn an zz
 gêne jj ai nn
@@ -39693,8 +39346,6 @@ gêner jj ai nn ei
 gêner(2) jj ai nn ei rr
 gênes jj ai nn
 gênes(2) jj ai nn ee
-gênes(3) jj ai nn ee zz
-gênes(4) jj ai nn zz
 gênes(5) jj ai nn
 gênes(6) jj ai nn ee
 gêné jj ai nn ei
@@ -39707,8 +39358,6 @@ gîte jj ii tt
 gîte(2) jj ii tt ee
 gîtes jj ii tt
 gîtes(2) jj ii tt ee
-gîtes(3) jj ii tt ee zz
-gîtes(4) jj ii tt zz
 gökhan gg eu kk aa nn
 göran gg eu rr aa nn
 göteborg gg eu tt bb oo rr gg
@@ -39742,8 +39391,6 @@ habilement aa bb ii ll ee mm an
 habilement(2) aa bb ii ll ee mm an tt
 habiles aa bb ii ll
 habiles(2) aa bb ii ll ee
-habiles(3) aa bb ii ll ee zz
-habiles(4) aa bb ii ll zz
 habileté aa bb ii ll ee tt ei
 habilitant aa bb ii ll ii tt an
 habilitant(2) aa bb ii ll ii tt an tt
@@ -39784,8 +39431,6 @@ habitante aa bb ii tt an tt
 habitante(2) aa bb ii tt an tt ee
 habitantes aa bb ii tt an tt
 habitantes(2) aa bb ii tt an tt ee
-habitantes(3) aa bb ii tt an tt ee zz
-habitantes(4) aa bb ii tt an tt zz
 habitants aa bb ii tt an
 habitants(2) aa bb ii tt an zz
 habitat aa bb ii tt aa
@@ -39809,8 +39454,6 @@ habitude aa bb ii tt uu dd
 habitude(2) aa bb ii tt uu dd ee
 habitudes aa bb ii tt uu dd
 habitudes(2) aa bb ii tt uu dd ee
-habitudes(3) aa bb ii tt uu dd ee zz
-habitudes(4) aa bb ii tt uu dd zz
 habitue aa bb ii tt uu
 habituel aa bb ii tt uu ai ll
 habituelle aa bb ii tt uu ai ll
@@ -39819,8 +39462,6 @@ habituellement aa bb ii tt uu ai ll ee mm an
 habituellement(2) aa bb ii tt uu ai ll ee mm an tt
 habituelles aa bb ii tt uu ai ll
 habituelles(2) aa bb ii tt uu ai ll ee
-habituelles(3) aa bb ii tt uu ai ll ee zz
-habituelles(4) aa bb ii tt uu ai ll zz
 habituels aa bb ii tt uu ai ll
 habituels(2) aa bb ii tt uu ai ll zz
 habituent aa bb ii tt uu
@@ -39902,8 +39543,6 @@ haine ai nn
 haine(2) ai nn ee
 haines ai nn
 haines(2) ai nn ee
-haines(3) ai nn ee zz
-haines(4) ai nn zz
 haineuse ai nn eu zz
 haineuse(2) ai nn eu zz ee
 haineux ai nn eu
@@ -39935,8 +39574,6 @@ halieutique aa ll yy ee tt ii kk
 halieutique(2) aa ll yy ee tt ii kk ee
 halieutiques aa ll yy ee tt ii kk
 halieutiques(2) aa ll yy ee tt ii kk ee
-halieutiques(3) aa ll yy ee tt ii kk ee zz
-halieutiques(4) aa ll yy ee tt ii kk zz
 halifax aa ll ii ff aa kk ss
 halilhodzic aa ll ii ll au dd zz ii kk
 halim aa ll ii mm
@@ -39948,8 +39585,6 @@ halle aa ll
 halle(2) aa ll ee
 halles aa ll
 halles(2) aa ll ee
-halles(3) aa ll ee zz
-halles(4) aa ll zz
 halley aa ll ai
 halliday aa ll ii dd ei
 hallier aa ll yy ei
@@ -39967,8 +39602,6 @@ hallucinations aa ll uu ss ii nn aa ss yy on
 hallucinations(2) aa ll uu ss ii nn aa ss yy on zz
 hallucinogènes aa ll uu ss ii nn oo jj ai nn
 hallucinogènes(2) aa ll uu ss ii nn oo jj ai nn ee
-hallucinogènes(3) aa ll uu ss ii nn oo jj ai nn ee zz
-hallucinogènes(4) aa ll uu ss ii nn oo jj ai nn zz
 halluciné aa ll uu ss ii nn ei
 hallucinée aa ll uu ss ii nn ei
 hallyday aa ll ii dd ei
@@ -39979,12 +39612,8 @@ halte(2) aa ll tt ee
 halter aa ll tt ai rr
 haltes aa ll tt
 haltes(2) aa ll tt ee
-haltes(3) aa ll tt ee zz
-haltes(4) aa ll tt zz
 haltères aa ll tt ai rr
 haltères(2) aa ll tt ai rr ee
-haltères(3) aa ll tt ai rr ee zz
-haltères(4) aa ll tt ai rr zz
 haltérophilie aa ll tt ai rr oo ff ii ll ii
 halévy aa ll ei vv ii
 ham aa mm
@@ -40039,8 +39668,6 @@ hanche an ch
 hanche(2) an ch ee
 hanches an ch
 hanches(2) an ch ee
-hanches(3) an ch ee zz
-hanches(4) an ch zz
 hancock aa nn kk oo kk
 hand an
 handball an dd bb aa ll
@@ -40101,8 +39728,6 @@ hantise an tt ii zz
 hantise(2) an tt ii zz ee
 hantises an tt ii zz
 hantises(2) an tt ii zz ee
-hantises(3) an tt ii zz ee zz
-hantises(4) an tt ii zz zz
 hanté an tt ei
 hantée an tt ei
 hantés an tt ei
@@ -40189,16 +39814,12 @@ harmonieusement aa rr mm oo nn yy ee zz ee mm an
 harmonieusement(2) aa rr mm oo nn yy ee zz ee mm an tt
 harmonieuses aa rr mm oo nn yy eu zz
 harmonieuses(2) aa rr mm oo nn yy eu zz ee
-harmonieuses(3) aa rr mm oo nn yy eu zz ee zz
-harmonieuses(4) aa rr mm oo nn yy eu zz zz
 harmonieux aa rr mm oo nn yy eu
 harmonieux(2) aa rr mm oo nn yy eu zz
 harmonique aa rr mm oo nn ii kk
 harmonique(2) aa rr mm oo nn ii kk ee
 harmoniques aa rr mm oo nn ii kk
 harmoniques(2) aa rr mm oo nn ii kk ee
-harmoniques(3) aa rr mm oo nn ii kk ee zz
-harmoniques(4) aa rr mm oo nn ii kk zz
 harmonisation aa rr mm oo nn ii zz aa ss yy on
 harmoniser aa rr mm oo nn ii zz ei
 harmoniser(2) aa rr mm oo nn ii zz ei rr
@@ -40240,8 +39861,6 @@ hasardeuse aa zz aa rr dd eu zz
 hasardeuse(2) aa zz aa rr dd eu zz ee
 hasardeuses aa zz aa rr dd eu zz
 hasardeuses(2) aa zz aa rr dd eu zz ee
-hasardeuses(3) aa zz aa rr dd eu zz ee zz
-hasardeuses(4) aa zz aa rr dd eu zz zz
 hasardeux aa zz aa rr dd eu
 hasardeux(2) aa zz aa rr dd eu zz
 hasards aa zz aa rr
@@ -40281,7 +39900,6 @@ hausseront(5) oo ss ee rr on
 hausseront(6) oo ss ee rr on tt
 hausses au ss
 hausses(2) au ss ee
-hausses(3) au ss ee zz
 haussmann oo ss mm aa nn
 haussé oo ss ei
 haut au
@@ -40342,8 +39960,6 @@ hautement oo tt ee mm an
 hautement(2) oo tt ee mm an tt
 hautes au tt
 hautes(2) au tt ee
-hautes(3) au tt ee zz
-hautes(4) au tt zz
 hautes-alpes au tt ee zz aa ll pp
 hautes-alpes(2) au tt ee zz aa ll pp ee
 hautes-alpes(3) au tt zz aa ll pp
@@ -40415,8 +40031,6 @@ haïtienne aa ii ss yy ai nn
 haïtienne(2) aa ii ss yy ai nn ee
 haïtiennes aa ii ss yy ai nn
 haïtiennes(2) aa ii ss yy ai nn ee
-haïtiennes(3) aa ii ss yy ai nn ee zz
-haïtiennes(4) aa ii ss yy ai nn zz
 haïtiens aa ii ss yy in
 haïtiens(2) aa ii ss yy in zz
 hb aa ch bb ei
@@ -40448,20 +40062,14 @@ hebdomadaire ai bb dd oo mm aa dd ai rr
 hebdomadaire(2) ai bb dd oo mm aa dd ai rr ee
 hebdomadaires ai bb dd oo mm aa dd ai rr
 hebdomadaires(2) ai bb dd oo mm aa dd ai rr ee
-hebdomadaires(3) ai bb dd oo mm aa dd ai rr ee zz
-hebdomadaires(4) ai bb dd oo mm aa dd ai rr zz
 hec aa ch ei ss ei
 hec(2) aa ch eu ss ei
 hectare ai kk tt aa rr
 hectare(2) ai kk tt aa rr ee
 hectares ai kk tt aa rr
 hectares(2) ai kk tt aa rr ee
-hectares(3) ai kk tt aa rr ee zz
-hectares(4) ai kk tt aa rr zz
 hectolitres ai kk tt oo ll ii tt rr
 hectolitres(2) ai kk tt oo ll ii tt rr ee
-hectolitres(3) ai kk tt oo ll ii tt rr ee zz
-hectolitres(4) ai kk tt oo ll ii tt rr zz
 hector ai kk tt oo rr
 hedda ei dd aa
 hedge ai dd jj
@@ -40502,8 +40110,6 @@ helvétique ai ll vv ai tt ii kk
 helvétique(2) ai ll vv ai tt ii kk ee
 helvétiques ai ll vv ai tt ii kk
 helvétiques(2) ai ll vv ai tt ii kk ee
-helvétiques(3) ai ll vv ai tt ii kk ee zz
-helvétiques(4) ai ll vv ai tt ii kk zz
 hem ai mm
 hema ee mm aa
 hema(2) ei mm aa
@@ -40542,14 +40148,10 @@ herbecq ai rr bb ai kk kk
 herbert ai rr bb ai rr
 herbes ai rr bb
 herbes(2) ai rr bb ee
-herbes(3) ai rr bb ee zz
-herbes(4) ai rr bb zz
 herbicide ai rr bb ii ss ii dd
 herbicide(2) ai rr bb ii ss ii dd ee
 herbicides ai rr bb ii ss ii dd
 herbicides(2) ai rr bb ii ss ii dd ee
-herbicides(3) ai rr bb ii ss ii dd ee zz
-herbicides(4) ai rr bb ii ss ii dd zz
 herbie ai rr bb ii
 herbier ai rr bb yy ei
 herbillon ai rr bb ii yy on
@@ -40559,8 +40161,6 @@ hercule ai rr kk uu ll
 hercule(2) ai rr kk uu ll ee
 hercules ai rr kk uu ll
 hercules(2) ai rr kk uu ll ee
-hercules(3) ai rr kk uu ll ee zz
-hercules(4) ai rr kk uu ll zz
 here ee rr
 hergé ai rr jj ei
 heriot ee rr yy au
@@ -40585,8 +40185,6 @@ hermétiquement ai rr mm ai tt ii kk ee mm an
 hermétiquement(2) ai rr mm ai tt ii kk ee mm an tt
 hermétiques ai rr mm ai tt ii kk
 hermétiques(2) ai rr mm ai tt ii kk ee
-hermétiques(3) ai rr mm ai tt ii kk ee zz
-hermétiques(4) ai rr mm ai tt ii kk zz
 hernan ai rr nn an
 hernandez ai rr nn an dd ai ss
 hernandez(2) ai rr nn an dd ai zz
@@ -40616,8 +40214,6 @@ hertzienne ai rr tt ss yy ai nn
 hertzienne(2) ai rr tt ss yy ai nn ee
 hertziennes ai rr tt ss yy ai nn
 hertziennes(2) ai rr tt ss yy ai nn ee
-hertziennes(3) ai rr tt ss yy ai nn ee zz
-hertziennes(4) ai rr tt ss yy ai nn zz
 hertziens ai rr tt ss yy in
 hertziens(2) ai rr tt ss yy in zz
 hervet ai rr vv ai
@@ -40647,16 +40243,12 @@ heure oe rr
 heure(2) oe rr ee
 heures oe rr
 heures(2) oe rr ee
-heures(3) oe rr ee zz
-heures(4) oe rr zz
 heureuse ee rr eu zz
 heureuse(2) ee rr eu zz ee
 heureusement ee rr ee zz ee mm an
 heureusement(2) ee rr ee zz ee mm an tt
 heureuses ee rr eu zz
 heureuses(2) ee rr eu zz ee
-heureuses(3) ee rr eu zz ee zz
-heureuses(4) ee rr eu zz zz
 heureux ee rr eu
 heureux(2) ee rr eu zz
 heurs oe rr
@@ -40687,8 +40279,6 @@ hexagonale ai gg zz aa gg oo nn aa ll
 hexagonale(2) ai gg zz aa gg oo nn aa ll ee
 hexagonales ai gg zz aa gg oo nn aa ll
 hexagonales(2) ai gg zz aa gg oo nn aa ll ee
-hexagonales(3) ai gg zz aa gg oo nn aa ll ee zz
-hexagonales(4) ai gg zz aa gg oo nn aa ll zz
 hexagonaux ai gg zz aa gg oo nn au
 hexagonaux(2) ai gg zz aa gg oo nn au zz
 hexagone ai gg zz aa gg oo nn
@@ -40739,8 +40329,6 @@ hilare ii ll aa rr
 hilare(2) ii ll aa rr ee
 hilares ii ll aa rr
 hilares(2) ii ll aa rr ee
-hilares(3) ii ll aa rr ee zz
-hilares(4) ii ll aa rr zz
 hilarité ii ll aa rr ii tt ei
 hill ii yy ll
 hilla ii yy aa
@@ -40776,8 +40364,6 @@ hippique ii pp ii kk
 hippique(2) ii pp ii kk ee
 hippiques ii pp ii kk
 hippiques(2) ii pp ii kk ee
-hippiques(3) ii pp ii kk ee zz
-hippiques(4) ii pp ii kk zz
 hippocrate ii pp oo kk rr aa tt
 hippodrome ii pp oo dd rr oo mm
 hippodrome(2) ii pp oo dd rr oo mm ee
@@ -40787,8 +40373,6 @@ hippolyte(3) ii pp oo ll ii tt
 hippolyte(4) ii pp oo ll ii tt ee
 hippopotames ii pp oo pp oo tt aa mm
 hippopotames(2) ii pp oo pp oo tt aa mm ee
-hippopotames(3) ii pp oo pp oo tt aa mm ee zz
-hippopotames(4) ii pp oo pp oo tt aa mm zz
 hir ii rr
 hiran ii rr aa nn
 hiro ii rr au
@@ -40797,8 +40381,6 @@ hirondelle ii rr on dd ai ll
 hirondelle(2) ii rr on dd ai ll ee
 hirondelles ii rr on dd ai ll
 hirondelles(2) ii rr on dd ai ll ee
-hirondelles(3) ii rr on dd ai ll ee zz
-hirondelles(4) ii rr on dd ai ll zz
 hiroshi ii rr au ch ii
 hiroshima ii rr au ch ii mm aa
 hiroshima(2) ii rr oo ch ii mm aa
@@ -40837,8 +40419,6 @@ histoire ii ss tt ww aa rr
 histoire(2) ii ss tt ww aa rr ee
 histoires ii ss tt ww aa rr
 histoires(2) ii ss tt ww aa rr ee
-histoires(3) ii ss tt ww aa rr ee zz
-histoires(4) ii ss tt ww aa rr zz
 historico ii ss tt oo rr ii kk au
 historien ii ss tt oo rr yy in
 historienne ii ss tt oo rr yy ai nn
@@ -40853,15 +40433,11 @@ historiquement ii ss tt oo rr ii kk ee mm an
 historiquement(2) ii ss tt oo rr ii kk ee mm an tt
 historiques ii ss tt oo rr ii kk
 historiques(2) ii ss tt oo rr ii kk ee
-historiques(3) ii ss tt oo rr ii kk ee zz
-historiques(4) ii ss tt oo rr ii kk zz
 hit ii tt
 hit-parade ii tt pp aa rr aa dd
 hit-parade(2) ii tt pp aa rr aa dd ee
 hit-parades ii tt pp aa rr aa dd
 hit-parades(2) ii tt pp aa rr aa dd ee
-hit-parades(3) ii tt pp aa rr aa dd ee zz
-hit-parades(4) ii tt pp aa rr aa dd zz
 hitachi ii tt aa ch ii
 hitler ii tt ll ai rr
 hitler(2) ii tt ll ee rr
@@ -40878,8 +40454,6 @@ hivernale ii vv ai rr nn aa ll
 hivernale(2) ii vv ai rr nn aa ll ee
 hivernales ii vv ai rr nn aa ll
 hivernales(2) ii vv ai rr nn aa ll ee
-hivernales(3) ii vv ai rr nn aa ll ee zz
-hivernales(4) ii vv ai rr nn aa ll zz
 hivers ii vv ai rr
 hivers(2) ii vv ai rr zz
 hizbullah ii zz bb uu ll aa
@@ -40892,8 +40466,6 @@ hiérarchiquement yy ai rr aa rr ch ii kk ee mm an
 hiérarchiquement(2) yy ai rr aa rr ch ii kk ee mm an tt
 hiérarchiques yy ai rr aa rr ch ii kk
 hiérarchiques(2) yy ai rr aa rr ch ii kk ee
-hiérarchiques(3) yy ai rr aa rr ch ii kk ee zz
-hiérarchiques(4) yy ai rr aa rr ch ii kk zz
 hiérarchisation yy ai rr aa rr ch ii zz aa ss yy on
 hiérarchiser yy ai rr aa rr ch ii zz ei
 hiérarchiser(2) yy ai rr aa rr ch ii zz ei rr
@@ -40904,8 +40476,6 @@ hiératique yy ai rr aa tt ii kk
 hiératique(2) yy ai rr aa tt ii kk ee
 hiéroglyphes yy ai rr oo gg ll ii ff
 hiéroglyphes(2) yy ai rr oo gg ll ii ff ee
-hiéroglyphes(3) yy ai rr oo gg ll ii ff ee zz
-hiéroglyphes(4) yy ai rr oo gg ll ii ff zz
 hlasek ll aa zz ai kk
 hlm aa ch ai ll ai mm
 ho au
@@ -40968,8 +40538,6 @@ hollandaise oo ll an dd ai zz
 hollandaise(2) oo ll an dd ai zz ee
 hollandaises oo ll an dd ai zz
 hollandaises(2) oo ll an dd ai zz ee
-hollandaises(3) oo ll an dd ai zz ee zz
-hollandaises(4) oo ll an dd ai zz zz
 hollande au ll an dd
 hollande(2) au ll an dd ee
 hollande(3) oo ll an dd
@@ -40984,8 +40552,6 @@ hollywoodienne oo ll ii ww ou dd yy ai nn
 hollywoodienne(2) oo ll ii ww ou dd yy ai nn ee
 hollywoodiennes oo ll ii ww ou dd yy ai nn
 hollywoodiennes(2) oo ll ii ww ou dd yy ai nn ee
-hollywoodiennes(3) oo ll ii ww ou dd yy ai nn ee zz
-hollywoodiennes(4) oo ll ii ww ou dd yy ai nn zz
 hollywoodiens oo ll ii ww ou dd yy in
 hollywoodiens(2) oo ll ii ww ou dd yy in zz
 hollègue oo ll ai gg
@@ -41008,26 +40574,19 @@ home(2) au mm ee
 home(3) oo mm
 homes au mm
 homes(2) au mm ee
-homes(3) au mm ee zz
-homes(4) au mm zz
 homicide oo mm ii ss ii dd
 homicide(2) oo mm ii ss ii dd ee
 homicides oo mm ii ss ii dd
 homicides(2) oo mm ii ss ii dd ee
-homicides(3) oo mm ii ss ii dd ee zz
-homicides(4) oo mm ii ss ii dd zz
 hominidés oo mm ii nn ii dd ei
 hommage oo mm aa jj
 hommage(2) oo mm aa jj ee
 hommages oo mm aa jj
 hommages(2) oo mm aa jj ee
-hommages(3) oo mm aa jj ee zz
-hommages(4) oo mm aa jj zz
 homme oo mm
 homme(2) oo mm ee
 hommes oo mm
 hommes(2) oo mm ee
-hommes(3) oo mm ee zz
 hommes(4) oo mm ss
 hommes(5) oo mm zz
 homo au mm au
@@ -41037,8 +40596,6 @@ homogène oo mm oo jj ai nn
 homogène(2) oo mm oo jj ai nn ee
 homogènes oo mm oo jj ai nn
 homogènes(2) oo mm oo jj ai nn ee
-homogènes(3) oo mm oo jj ai nn ee zz
-homogènes(4) oo mm oo jj ai nn zz
 homogénéisation oo mm oo jj ai nn ai ii zz aa ss yy on
 homogénéité oo mm oo jj ai nn ai ii tt ei
 homologation oo mm oo ll oo gg aa ss yy on
@@ -41048,8 +40605,6 @@ homologuer oo mm oo ll oo gg ei
 homologuer(2) oo mm oo ll oo gg ei rr
 homologues oo mm oo ll oo gg
 homologues(2) oo mm oo ll oo gg ee
-homologues(3) oo mm oo ll oo gg ee zz
-homologues(4) oo mm oo ll oo gg zz
 homologué oo mm oo ll oo gg ei
 homologués oo mm oo ll oo gg ei
 homonyme oo mm oo nn ii mm
@@ -41065,8 +40620,6 @@ homosexuelle oo mm oo ss ai kk ss uu ai ll
 homosexuelle(2) oo mm oo ss ai kk ss uu ai ll ee
 homosexuelles oo mm oo ss ai kk ss uu ai ll
 homosexuelles(2) oo mm oo ss ai kk ss uu ai ll ee
-homosexuelles(3) oo mm oo ss ai kk ss uu ai ll ee zz
-homosexuelles(4) oo mm oo ss ai kk ss uu ai ll zz
 homosexuels oo mm oo ss ai kk ss uu ai ll
 homosexuels(2) oo mm oo ss ai kk ss uu ai ll zz
 homère oo mm ai rr
@@ -41076,14 +40629,10 @@ homéopathique oo mm ai oo pp aa tt ii kk
 homéopathique(2) oo mm ai oo pp aa tt ii kk ee
 homéopathiques oo mm ai oo pp aa tt ii kk
 homéopathiques(2) oo mm ai oo pp aa tt ii kk ee
-homéopathiques(3) oo mm ai oo pp aa tt ii kk ee zz
-homéopathiques(4) oo mm ai oo pp aa tt ii kk zz
 homérique oo mm ai rr ii kk
 homérique(2) oo mm ai rr ii kk ee
 homériques oo mm ai rr ii kk
 homériques(2) oo mm ai rr ii kk ee
-homériques(3) oo mm ai rr ii kk ee zz
-homériques(4) oo mm ai rr ii kk zz
 hon oo nn
 honchar on ch aa rr
 honda on dd aa
@@ -41107,8 +40656,6 @@ hongroise on gg rr ww aa zz
 hongroise(2) on gg rr ww aa zz ee
 hongroises on gg rr ww aa zz
 hongroises(2) on gg rr ww aa zz ee
-hongroises(3) on gg rr ww aa zz ee zz
-hongroises(4) on gg rr ww aa zz zz
 honneur oo nn oe rr
 honneurs oo nn oe rr
 honneurs(2) oo nn oe rr zz
@@ -41122,8 +40669,6 @@ honnêtement oo nn ai tt ee mm an
 honnêtement(2) oo nn ai tt ee mm an tt
 honnêtes oo nn ai tt
 honnêtes(2) oo nn ai tt ee
-honnêtes(3) oo nn ai tt ee zz
-honnêtes(4) oo nn ai tt zz
 honnêteté oo nn ai tt ee tt ei
 honolulu au nn au ll uu ll uu
 honolulu(2) au nn oo ll uu ll uu
@@ -41136,14 +40681,10 @@ honorablement oo nn oo rr aa bb ll ee mm an
 honorablement(2) oo nn oo rr aa bb ll ee mm an tt
 honorables oo nn oo rr aa bb ll
 honorables(2) oo nn oo rr aa bb ll ee
-honorables(3) oo nn oo rr aa bb ll ee zz
-honorables(4) oo nn oo rr aa bb ll zz
 honoraire oo nn oo rr ai rr
 honoraire(2) oo nn oo rr ai rr ee
 honoraires oo nn oo rr ai rr
 honoraires(2) oo nn oo rr ai rr ee
-honoraires(3) oo nn oo rr ai rr ee zz
-honoraires(4) oo nn oo rr ai rr zz
 honore oo nn oo rr
 honore(2) oo nn oo rr ee
 honorent oo nn oo rr ee
@@ -41186,14 +40727,10 @@ horaire oo rr ai rr
 horaire(2) oo rr ai rr ee
 horaires oo rr ai rr
 horaires(2) oo rr ai rr ee
-horaires(3) oo rr ai rr ee zz
-horaires(4) oo rr ai rr zz
 horde oo rr dd
 horde(2) oo rr dd ee
 hordes oo rr dd
 hordes(2) oo rr dd ee
-hordes(3) oo rr dd ee zz
-hordes(4) oo rr dd zz
 horizon oo rr ii zz on
 horizons oo rr ii zz on
 horizons(2) oo rr ii zz on zz
@@ -41210,8 +40747,6 @@ horizontalement(7) oo rr ii zz on tt aa ll mm an
 horizontalement(8) oo rr ii zz on tt aa ll mm an tt
 horizontales oo rr ii zz on tt aa ll
 horizontales(2) oo rr ii zz on tt aa ll ee
-horizontales(3) oo rr ii zz on tt aa ll ee zz
-horizontales(4) oo rr ii zz on tt aa ll zz
 horloge oo rr ll oo jj
 horloge(2) oo rr ll oo jj ee
 horloger oo rr ll oo jj ei
@@ -41220,8 +40755,6 @@ horlogerie oo rr ll oo jj ee rr ii
 horlogers oo rr ll oo jj ei
 horloges oo rr ll oo jj
 horloges(2) oo rr ll oo jj ee
-horloges(3) oo rr ll oo jj ee zz
-horloges(4) oo rr ll oo jj zz
 horlogère oo rr ll oo jj ai rr
 horlogère(2) oo rr ll oo jj ai rr ee
 hormis oo rr mm ii
@@ -41229,16 +40762,12 @@ hormis(2) oo rr mm ii zz
 hormonal oo rr mm oo nn aa ll
 hormonales oo rr mm oo nn aa ll
 hormonales(2) oo rr mm oo nn aa ll ee
-hormonales(3) oo rr mm oo nn aa ll ee zz
-hormonales(4) oo rr mm oo nn aa ll zz
 hormonaux oo rr mm oo nn au
 hormonaux(2) oo rr mm oo nn au zz
 hormone oo rr mm oo nn
 hormone(2) oo rr mm oo nn ee
 hormones oo rr mm oo nn
 hormones(2) oo rr mm oo nn ee
-hormones(3) oo rr mm oo nn ee zz
-hormones(4) oo rr mm oo nn zz
 horn oo rr nn
 horna oo rr nn aa
 horne oo rr nn
@@ -41256,8 +40785,6 @@ horriblement oo rr ii bb ll ee mm an
 horriblement(2) oo rr ii bb ll ee mm an tt
 horribles oo rr ii bb ll
 horribles(2) oo rr ii bb ll ee
-horribles(3) oo rr ii bb ll ee zz
-horribles(4) oo rr ii bb ll zz
 horrifié oo rr ii ff yy ei
 hors oo rr
 hors(2) oo rr ss
@@ -41290,7 +40817,6 @@ hospice oo ss pp ii ss
 hospice(2) oo ss pp ii ss ee
 hospices oo ss pp ii ss
 hospices(2) oo ss pp ii ss ee
-hospices(3) oo ss pp ii ss ee zz
 hospital oo ss pp ii tt aa ll
 hospitalier oo ss pp ii tt aa ll yy ei
 hospitalier(2) oo ss pp ii tt aa ll yy ei rr
@@ -41309,8 +40835,6 @@ hospitalière oo ss pp ii tt aa ll yy ai rr
 hospitalière(2) oo ss pp ii tt aa ll yy ai rr ee
 hospitalières oo ss pp ii tt aa ll yy ai rr
 hospitalières(2) oo ss pp ii tt aa ll yy ai rr ee
-hospitalières(3) oo ss pp ii tt aa ll yy ai rr ee zz
-hospitalières(4) oo ss pp ii tt aa ll yy ai rr zz
 hospitalo oo ss pp ii tt aa ll au
 hoss oo ss
 hossam au ss aa mm
@@ -41319,8 +40843,6 @@ hostile oo ss tt ii ll
 hostile(2) oo ss tt ii ll ee
 hostiles oo ss tt ii ll
 hostiles(2) oo ss tt ii ll ee
-hostiles(3) oo ss tt ii ll ee zz
-hostiles(4) oo ss tt ii ll zz
 hostilité oo ss tt ii ll ii tt ei
 hostilités oo ss tt ii ll ii tt ei
 hot oo tt
@@ -41343,8 +40865,6 @@ houiller ou yy ei
 houiller(2) ou yy ei rr
 houillères ou yy ai rr
 houillères(2) ou yy ai rr ee
-houillères(3) ou yy ai rr ee zz
-houillères(4) ou yy ai rr zz
 houla ou ll aa
 houle ou ll
 houle(2) ou ll ee
@@ -41354,8 +40874,6 @@ houleuse ou ll eu zz
 houleuse(2) ou ll eu zz ee
 houleuses ou ll eu zz
 houleuses(2) ou ll eu zz ee
-houleuses(3) ou ll eu zz ee zz
-houleuses(4) ou ll eu zz zz
 houleux ou ll eu
 houleux(2) ou ll eu zz
 houligans ou ll ii gg aa nn
@@ -41443,8 +40961,6 @@ huilerie uy ii ll ee rr ii
 huilerie(2) uy ii ll rr ii
 huiles uy ii ll
 huiles(2) uy ii ll ee
-huiles(3) uy ii ll ee zz
-huiles(4) uy ii ll zz
 huileuse uy ii ll eu zz
 huileuse(2) uy ii ll eu zz ee
 huillet uy ii yy ai
@@ -41465,8 +40981,6 @@ huitième uy ii tt yy ai mm
 huitième(2) uy ii tt yy ai mm ee
 huitièmes uy ii tt yy ai mm
 huitièmes(2) uy ii tt yy ai mm ee
-huitièmes(3) uy ii tt yy ai mm ee zz
-huitièmes(4) uy ii tt yy ai mm zz
 hula uu ll aa
 hulk uu ll kk
 hulot uu ll au
@@ -41479,8 +40993,6 @@ humainement uu mm ai nn ee mm an
 humainement(2) uu mm ai nn ee mm an tt
 humaines uu mm ai nn
 humaines(2) uu mm ai nn ee
-humaines(3) uu mm ai nn ee zz
-humaines(4) uu mm ai nn zz
 humains uu mm in
 humains(2) uu mm in zz
 humair uu mm aa ii rr
@@ -41494,14 +41006,10 @@ humaniste uu mm aa nn ii ss tt
 humaniste(2) uu mm aa nn ii ss tt ee
 humanistes uu mm aa nn ii ss tt
 humanistes(2) uu mm aa nn ii ss tt ee
-humanistes(3) uu mm aa nn ii ss tt ee zz
-humanistes(4) uu mm aa nn ii ss tt zz
 humanitaire uu mm aa nn ii tt ai rr
 humanitaire(2) uu mm aa nn ii tt ai rr ee
 humanitaires uu mm aa nn ii tt ai rr
 humanitaires(2) uu mm aa nn ii tt ai rr ee
-humanitaires(3) uu mm aa nn ii tt ai rr ee zz
-humanitaires(4) uu mm aa nn ii tt ai rr zz
 humanité uu mm aa nn ii tt ei
 humanités uu mm aa nn ii tt ei
 humanoïdes uu mm aa nn oo ii dd
@@ -41513,8 +41021,6 @@ humblement un bb ll ee mm an
 humblement(2) un bb ll ee mm an tt
 humbles un bb ll
 humbles(2) un bb ll ee
-humbles(3) un bb ll ee zz
-humbles(4) un bb ll zz
 humboldt uu mm bb oo ll dd
 hume uu mm
 hume(2) uu mm ee
@@ -41527,8 +41033,6 @@ humide uu mm ii dd
 humide(2) uu mm ii dd ee
 humides uu mm ii dd
 humides(2) uu mm ii dd ee
-humides(3) uu mm ii dd ee zz
-humides(4) uu mm ii dd zz
 humidité uu mm ii dd ii tt ei
 humiliant uu mm ii ll yy an
 humiliant(2) uu mm ii ll yy an tt
@@ -41536,8 +41040,6 @@ humiliante uu mm ii ll yy an tt
 humiliante(2) uu mm ii ll yy an tt ee
 humiliantes uu mm ii ll yy an tt
 humiliantes(2) uu mm ii ll yy an tt ee
-humiliantes(3) uu mm ii ll yy an tt ee zz
-humiliantes(4) uu mm ii ll yy an tt zz
 humiliants uu mm ii ll yy an
 humiliants(2) uu mm ii ll yy an zz
 humiliation uu mm ii ll yy aa ss yy on
@@ -41554,14 +41056,10 @@ humoriste uu mm oo rr ii ss tt
 humoriste(2) uu mm oo rr ii ss tt ee
 humoristes uu mm oo rr ii ss tt
 humoristes(2) uu mm oo rr ii ss tt ee
-humoristes(3) uu mm oo rr ii ss tt ee zz
-humoristes(4) uu mm oo rr ii ss tt zz
 humoristique uu mm oo rr ii ss tt ii kk
 humoristique(2) uu mm oo rr ii ss tt ii kk ee
 humoristiques uu mm oo rr ii ss tt ii kk
 humoristiques(2) uu mm oo rr ii ss tt ii kk ee
-humoristiques(3) uu mm oo rr ii ss tt ii kk ee zz
-humoristiques(4) uu mm oo rr ii ss tt ii kk zz
 humour uu mm ou rr
 humphrey oe mm ff rr ei
 humpich uu mm pp ii ch
@@ -41581,8 +41079,6 @@ hurd uu rr
 hureau uu rr au
 hures uu rr
 hures(2) uu rr ee
-hures(3) uu rr ee zz
-hures(4) uu rr zz
 huriet uu rr yy ai
 hurlaient uu rr ll ai
 hurlaient(2) uu rr ll ai tt
@@ -41629,8 +41125,6 @@ hutte uu tt
 hutte(2) uu tt ee
 huttes uu tt
 huttes(2) uu tt ee
-huttes(3) uu tt ee zz
-huttes(4) uu tt zz
 hutton uu tt oo nn
 hutu uu tt uu
 hutue uu tt uu
@@ -41650,8 +41144,6 @@ huître uy ii tt rr
 huître(2) uy ii tt rr ee
 huîtres uy ii tt rr
 huîtres(2) uy ii tt rr ee
-huîtres(3) uy ii tt rr ee zz
-huîtres(4) uy ii tt rr zz
 hvb aa ch vv ei bb ei
 hvo aa ch vv ei oo
 hwa ww aa
@@ -41662,15 +41154,11 @@ hybride ii bb rr ii dd
 hybride(2) ii bb rr ii dd ee
 hybrides ii bb rr ii dd
 hybrides(2) ii bb rr ii dd ee
-hybrides(3) ii bb rr ii dd ee zz
-hybrides(4) ii bb rr ii dd zz
 hyde aa yy dd
 hydraulique ii dd rr oo ll ii kk
 hydraulique(2) ii dd rr oo ll ii kk ee
 hydrauliques ii dd rr oo ll ii kk
 hydrauliques(2) ii dd rr oo ll ii kk ee
-hydrauliques(3) ii dd rr oo ll ii kk ee zz
-hydrauliques(4) ii dd rr oo ll ii kk zz
 hydre ii dd rr
 hydre(2) ii dd rr ee
 hydrique ii dd rr ii kk
@@ -41678,8 +41166,6 @@ hydrique(2) ii dd rr ii kk ee
 hydro ii dd rr au
 hydrocarbures ii dd rr oo kk aa rr bb uu rr
 hydrocarbures(2) ii dd rr oo kk aa rr bb uu rr ee
-hydrocarbures(3) ii dd rr oo kk aa rr bb uu rr ee zz
-hydrocarbures(4) ii dd rr oo kk aa rr bb uu rr zz
 hydrographique ii dd rr oo gg rr aa ff ii kk
 hydrographique(2) ii dd rr oo gg rr aa ff ii kk ee
 hydrogène ii dd rr oo jj ai nn
@@ -41697,8 +41183,6 @@ hymne ii mm nn
 hymne(2) ii mm nn ee
 hymnes ii mm nn
 hymnes(2) ii mm nn ee
-hymnes(3) ii mm nn ee zz
-hymnes(4) ii mm nn zz
 hyper ii pp ei
 hyper- ii pp ei
 hyperinflation ii pp ee rr in ff ll aa ss yy on
@@ -41718,8 +41202,6 @@ hypnotique ii pp nn oo tt ii kk
 hypnotique(2) ii pp nn oo tt ii kk ee
 hypnotiques ii pp nn oo tt ii kk
 hypnotiques(2) ii pp nn oo tt ii kk ee
-hypnotiques(3) ii pp nn oo tt ii kk ee zz
-hypnotiques(4) ii pp nn oo tt ii kk zz
 hypocrisie ii pp oo kk rr ii zz ii
 hypocrisies ii pp oo kk rr ii zz ii
 hypocrisies(2) ii pp oo kk rr ii zz ii zz
@@ -41727,26 +41209,18 @@ hypocrite ii pp oo kk rr ii tt
 hypocrite(2) ii pp oo kk rr ii tt ee
 hypocrites ii pp oo kk rr ii tt
 hypocrites(2) ii pp oo kk rr ii tt ee
-hypocrites(3) ii pp oo kk rr ii tt ee zz
-hypocrites(4) ii pp oo kk rr ii tt zz
 hypothèque ii pp oo tt ai kk
 hypothèque(2) ii pp oo tt ai kk ee
 hypothèques ii pp oo tt ai kk
 hypothèques(2) ii pp oo tt ai kk ee
-hypothèques(3) ii pp oo tt ai kk ee zz
-hypothèques(4) ii pp oo tt ai kk zz
 hypothèse ii pp oo tt ai zz
 hypothèse(2) ii pp oo tt ai zz ee
 hypothèses ii pp oo tt ai zz
 hypothèses(2) ii pp oo tt ai zz ee
-hypothèses(3) ii pp oo tt ai zz ee zz
-hypothèses(4) ii pp oo tt ai zz zz
 hypothécaire ii pp oo tt ai kk ai rr
 hypothécaire(2) ii pp oo tt ai kk ai rr ee
 hypothécaires ii pp oo tt ai kk ai rr
 hypothécaires(2) ii pp oo tt ai kk ai rr ee
-hypothécaires(3) ii pp oo tt ai kk ai rr ee zz
-hypothécaires(4) ii pp oo tt ai kk ai rr zz
 hypothéquaient ii pp oo tt ai kk ai
 hypothéquaient(2) ii pp oo tt ai kk ai tt
 hypothéquaient(3) ii pp oo tt ei kk ai
@@ -41758,8 +41232,6 @@ hypothétique ii pp oo tt ai tt ii kk
 hypothétique(2) ii pp oo tt ai tt ii kk ee
 hypothétiques ii pp oo tt ai tt ii kk
 hypothétiques(2) ii pp oo tt ai tt ii kk ee
-hypothétiques(3) ii pp oo tt ai tt ii kk ee zz
-hypothétiques(4) ii pp oo tt ai tt ii kk zz
 hypovereinsbank aa yy pp au vv ee rr aa ii nn ss bb an kk
 hypérion ii pp ei rr yy on
 hystérie ii ss tt ai rr ii
@@ -41782,15 +41254,11 @@ hâtivement aa tt ii vv ee mm an
 hâtivement(2) aa tt ii vv ee mm an tt
 hâtives aa tt ii vv
 hâtives(2) aa tt ii vv ee
-hâtives(3) aa tt ii vv ee zz
-hâtives(4) aa tt ii vv zz
 häkkinen aa kk ii nn ai nn
 hère ai rr
 hère(2) ai rr ee
 hères ai rr
 hères(2) ai rr ee
-hères(3) ai rr ee zz
-hères(4) ai rr zz
 hé ei
 héberge ai bb ai rr jj
 héberge(2) ai bb ai rr jj ee
@@ -41833,13 +41301,10 @@ hélice ai ll ii ss
 hélice(2) ai ll ii ss ee
 hélices ai ll ii ss
 hélices(2) ai ll ii ss ee
-hélices(3) ai ll ii ss ee zz
 hélicoptère ai ll ii kk oo pp tt ai rr
 hélicoptère(2) ai ll ii kk oo pp tt ai rr ee
 hélicoptères ai ll ii kk oo pp tt ai rr
 hélicoptères(2) ai ll ii kk oo pp tt ai rr ee
-hélicoptères(3) ai ll ii kk oo pp tt ai rr ee zz
-hélicoptères(4) ai ll ii kk oo pp tt ai rr zz
 héliogravure ai ll yy oo gg rr aa vv uu rr
 héliogravure(2) ai ll yy oo gg rr aa vv uu rr ee
 héliomarin ai ll yy oo mm aa rr in
@@ -41861,8 +41326,6 @@ hématocrite ai mm aa tt oo kk rr ii tt
 hématocrite(2) ai mm aa tt oo kk rr ii tt ee
 hématomes ai mm aa tt au mm
 hématomes(2) ai mm aa tt au mm ee
-hématomes(3) ai mm aa tt au mm ee zz
-hématomes(4) ai mm aa tt au mm zz
 hémicycle ai mm ii ss ii kk ll
 hémicycle(2) ai mm ii ss ii kk ll ee
 hémicycle(3) ei mm ii ss ii kk ll
@@ -41870,16 +41333,12 @@ hémisphère ai mm ii ss ff ai rr
 hémisphère(2) ai mm ii ss ff ai rr ee
 hémisphères ai mm ii ss ff ai rr
 hémisphères(2) ai mm ii ss ff ai rr ee
-hémisphères(3) ai mm ii ss ff ai rr ee zz
-hémisphères(4) ai mm ii ss ff ai rr zz
 hémoglobine ai mm oo gg ll oo bb ii nn
 hémoglobine(2) ai mm oo gg ll oo bb ii nn ee
 hémophile ai mm oo ff ii ll
 hémophile(2) ai mm oo ff ii ll ee
 hémophiles ai mm oo ff ii ll
 hémophiles(2) ai mm oo ff ii ll ee
-hémophiles(3) ai mm oo ff ii ll ee zz
-hémophiles(4) ai mm oo ff ii ll zz
 hémophilie ai mm oo ff ii ll ii
 hémorragie ai mm oo rr aa jj ii
 hémorragies ai mm oo rr aa jj ii
@@ -41889,8 +41348,6 @@ hépatite ai pp aa tt ii tt
 hépatite(2) ai pp aa tt ii tt ee
 hépatites ai pp aa tt ii tt
 hépatites(2) ai pp aa tt ii tt ee
-hépatites(3) ai pp aa tt ii tt ee zz
-hépatites(4) ai pp aa tt ii tt zz
 hérat ei rr aa
 hérault ei rr au
 héraut ai rr au
@@ -41905,8 +41362,6 @@ héritage ai rr ii tt aa jj
 héritage(2) ai rr ii tt aa jj ee
 héritages ai rr ii tt aa jj
 héritages(2) ai rr ii tt aa jj ee
-héritages(3) ai rr ii tt aa jj ee zz
-héritages(4) ai rr ii tt aa jj zz
 hérite ai rr ii tt
 hérite(2) ai rr ii tt ee
 hériter ai rr ii tt ei
@@ -41917,8 +41372,6 @@ héritière ai rr ii tt yy ai rr
 héritière(2) ai rr ii tt yy ai rr ee
 héritières ai rr ii tt yy ai rr
 héritières(2) ai rr ii tt yy ai rr ee
-héritières(3) ai rr ii tt yy ai rr ee zz
-héritières(4) ai rr ii tt yy ai rr zz
 hérité ai rr ii tt ei
 héritée ai rr ii tt ei
 héritées ai rr ii tt ei
@@ -41932,31 +41385,23 @@ héroïne ai rr oo ii nn
 héroïne(2) ai rr oo ii nn ee
 héroïnes ai rr oo ii nn
 héroïnes(2) ai rr oo ii nn ee
-héroïnes(3) ai rr oo ii nn ee zz
-héroïnes(4) ai rr oo ii nn zz
 héroïnomanes ei rr oo ii nn oo mm aa nn
 héroïque ai rr oo ii kk
 héroïque(2) ai rr oo ii kk ee
 héroïques ai rr oo ii kk
 héroïques(2) ai rr oo ii kk ee
-héroïques(3) ai rr oo ii kk ee zz
-héroïques(4) ai rr oo ii kk zz
 héroïsme ai rr oo ii ss mm
 héroïsme(2) ai rr oo ii ss mm ee
 héréditaire ai rr ai dd ii tt ai rr
 héréditaire(2) ai rr ai dd ii tt ai rr ee
 héréditaires ai rr ai dd ii tt ai rr
 héréditaires(2) ai rr ai dd ii tt ai rr ee
-héréditaires(3) ai rr ai dd ii tt ai rr ee zz
-héréditaires(4) ai rr ai dd ii tt ai rr zz
 hérédité ai rr ai dd ii tt ei
 hérésie ai rr ai zz ii
 hérétique ai rr ai tt ii kk
 hérétique(2) ai rr ai tt ii kk ee
 hérétiques ai rr ai tt ii kk
 hérétiques(2) ai rr ai tt ii kk ee
-hérétiques(3) ai rr ai tt ii kk ee zz
-hérétiques(4) ai rr ai tt ii kk zz
 hésita ai zz ii tt aa
 hésitaient ai zz ii tt ai
 hésitaient(2) ai zz ii tt ai tt
@@ -41987,14 +41432,10 @@ hétéroclite ai tt ai rr oo kk ll ii tt
 hétéroclite(2) ai tt ai rr oo kk ll ii tt ee
 hétéroclites ai tt ai rr oo kk ll ii tt
 hétéroclites(2) ai tt ai rr oo kk ll ii tt ee
-hétéroclites(3) ai tt ai rr oo kk ll ii tt ee zz
-hétéroclites(4) ai tt ai rr oo kk ll ii tt zz
 hétérogène ai tt ai rr oo jj ai nn
 hétérogène(2) ai tt ai rr oo jj ai nn ee
 hétérogènes ai tt ai rr oo jj ai nn
 hétérogènes(2) ai tt ai rr oo jj ai nn ee
-hétérogènes(3) ai tt ai rr oo jj ai nn ee zz
-hétérogènes(4) ai tt ai rr oo jj ai nn zz
 hétérogénéité ai tt ai rr oo jj ai nn ai ii tt ei
 hétérosexualité ai tt ai rr oo ss ai kk ss uu aa ll ii tt ei
 hétérosexuel ai tt ai rr oo ss ai kk ss uu ai ll
@@ -42008,8 +41449,6 @@ hêtre ai tt rr
 hêtre(2) ai tt rr ee
 hêtres ai tt rr
 hêtres(2) ai tt rr ee
-hêtres(3) ai tt rr ee zz
-hêtres(4) ai tt rr zz
 hô au
 hôpital au pp ii tt aa ll
 hôpital(2) oo pp ii tt aa ll
@@ -42027,20 +41466,15 @@ hôtelière oo tt ee ll yy ai rr
 hôtelière(2) oo tt ee ll yy ai rr ee
 hôtelières oo tt ee ll yy ai rr
 hôtelières(2) oo tt ee ll yy ai rr ee
-hôtelières(3) oo tt ee ll yy ai rr ee zz
-hôtelières(4) oo tt ee ll yy ai rr zz
 hôtellerie oo tt ai ll ee rr ii
 hôtels oo tt ai ll
 hôtels(2) oo tt ai ll zz
 hôtes au tt
 hôtes(2) au tt ee
-hôtes(3) au tt ee zz
-hôtes(4) au tt zz
 hôtesse oo tt ai ss
 hôtesse(2) oo tt ai ss ee
 hôtesses oo tt ai ss
 hôtesses(2) oo tt ai ss ee
-hôtesses(3) oo tt ai ss ee zz
 höffling eu ff ll ii nn gg
 hölderlin eu ll dd ei rr ll ii nn
 hürriyet uu rr ii yy ai tt
@@ -42083,8 +41517,6 @@ ibérique ii bb ai rr ii kk
 ibérique(2) ii bb ai rr ii kk ee
 ibériques ii bb ai rr ii kk
 ibériques(2) ii bb ai rr ii kk ee
-ibériques(3) ii bb ai rr ii kk ee zz
-ibériques(4) ii bb ai rr ii kk zz
 ibéro ii bb ei rr au
 icare ii kk aa rr ei
 ice ii ss
@@ -42101,8 +41533,6 @@ iconoclaste ii kk oo nn oo kk ll aa ss tt
 iconoclaste(2) ii kk oo nn oo kk ll aa ss tt ee
 iconoclastes ii kk oo nn oo kk ll aa ss tt
 iconoclastes(2) ii kk oo nn oo kk ll aa ss tt ee
-iconoclastes(3) ii kk oo nn oo kk ll aa ss tt ee zz
-iconoclastes(4) ii kk oo nn oo kk ll aa ss tt zz
 iconographie ii kk oo nn oo gg rr aa ff ii
 iconographique ii kk oo nn oo gg rr aa ff ii kk
 icsi ii ss ei ai ss ii
@@ -42110,8 +41540,6 @@ icône ii kk au nn
 icône(2) ii kk au nn ee
 icônes ii kk au nn
 icônes(2) ii kk au nn ee
-icônes(3) ii kk au nn ee zz
-icônes(4) ii kk au nn zz
 id ii dd
 ida ii dd aa
 idaho ii dd aa au
@@ -42123,8 +41551,6 @@ identifiable ii dd an tt ii ff yy aa bb ll
 identifiable(2) ii dd an tt ii ff yy aa bb ll ee
 identifiables ii dd an tt ii ff yy aa bb ll
 identifiables(2) ii dd an tt ii ff yy aa bb ll ee
-identifiables(3) ii dd an tt ii ff yy aa bb ll ee zz
-identifiables(4) ii dd an tt ii ff yy aa bb ll zz
 identifiant ii dd an tt ii ff yy an
 identifiant(2) ii dd an tt ii ff yy an tt
 identification ii dd an tt ii ff ii kk aa ss yy on
@@ -42141,14 +41567,10 @@ identique ii dd an tt ii kk
 identique(2) ii dd an tt ii kk ee
 identiques ii dd an tt ii kk
 identiques(2) ii dd an tt ii kk ee
-identiques(3) ii dd an tt ii kk ee zz
-identiques(4) ii dd an tt ii kk zz
 identitaire ii dd an tt ii tt ai rr
 identitaire(2) ii dd an tt ii tt ai rr ee
 identitaires ii dd an tt ii tt ai rr
 identitaires(2) ii dd an tt ii tt ai rr ee
-identitaires(3) ii dd an tt ii tt ai rr ee zz
-identitaires(4) ii dd an tt ii tt ai rr zz
 identité ii dd an tt ii tt ei
 identités ii dd an tt ii tt ei
 idi ii dd ii
@@ -42156,8 +41578,6 @@ idiome ii dd yy au mm
 idiome(2) ii dd yy au mm ee
 idiomes ii dd yy au mm
 idiomes(2) ii dd yy au mm ee
-idiomes(3) ii dd yy au mm ee zz
-idiomes(4) ii dd yy au mm zz
 idiot ii dd yy au
 idiot(2) ii dd yy au tt
 idiote ii dd yy oo tt
@@ -42173,8 +41593,6 @@ idole ii dd oo ll
 idole(2) ii dd oo ll ee
 idoles ii dd oo ll
 idoles(2) ii dd oo ll ee
-idoles(3) ii dd oo ll ee zz
-idoles(4) ii dd oo ll zz
 idolâtrie ii dd oo ll aa tt rr ii
 idrac ii dd rr aa kk
 idriss ii dd rr ii ss
@@ -42192,8 +41610,6 @@ idéalement ii dd ai aa ll ee mm an
 idéalement(2) ii dd ai aa ll ee mm an tt
 idéales ii dd ai aa ll
 idéales(2) ii dd ai aa ll ee
-idéales(3) ii dd ai aa ll ee zz
-idéales(4) ii dd ai aa ll zz
 idéalisation ii dd ai aa ll ii zz aa ss yy on
 idéalisent ii dd ai aa ll ii zz ee
 idéalisent(2) ii dd ei aa ll ii zz
@@ -42206,8 +41622,6 @@ idéaliste ii dd ai aa ll ii ss tt
 idéaliste(2) ii dd ai aa ll ii ss tt ee
 idéalistes ii dd ai aa ll ii ss tt
 idéalistes(2) ii dd ai aa ll ii ss tt ee
-idéalistes(3) ii dd ai aa ll ii ss tt ee zz
-idéalistes(4) ii dd ai aa ll ii ss tt zz
 idéalisée ii dd ai aa ll ii zz ei
 idéaux ii dd ai au
 idéaux(2) ii dd ai au zz
@@ -42215,8 +41629,6 @@ idée ii dd ei
 idées ii dd ei
 idéogrammes ii dd ai oo gg rr aa mm
 idéogrammes(2) ii dd ai oo gg rr aa mm ee
-idéogrammes(3) ii dd ai oo gg rr aa mm ee zz
-idéogrammes(4) ii dd ai oo gg rr aa mm zz
 idéologie ii dd ai oo ll oo jj ii
 idéologies ii dd ai oo ll oo jj ii
 idéologies(2) ii dd ai oo ll oo jj ii zz
@@ -42226,8 +41638,6 @@ idéologiquement ii dd ai oo ll oo jj ii kk ee mm an
 idéologiquement(2) ii dd ai oo ll oo jj ii kk ee mm an tt
 idéologiques ii dd ai oo ll oo jj ii kk
 idéologiques(2) ii dd ai oo ll oo jj ii kk ee
-idéologiques(3) ii dd ai oo ll oo jj ii kk ee zz
-idéologiques(4) ii dd ai oo ll oo jj ii kk zz
 idéologue ii dd ei oo ll oo gg
 idéologues ii dd ei oo ll oo gg
 ie ii
@@ -42268,8 +41678,6 @@ ignoble ii gn oo bb ll
 ignoble(2) ii gn oo bb ll ee
 ignobles ii gn oo bb ll
 ignobles(2) ii gn oo bb ll ee
-ignobles(3) ii gn oo bb ll ee zz
-ignobles(4) ii gn oo bb ll zz
 ignominie ii gn oo mm ii nn ii
 ignominieux ii gn oo mm ii nn yy eu
 ignominieux(2) ii gn oo mm ii nn yy eu zz
@@ -42347,8 +41755,6 @@ illicite ii ll ii ss ii tt
 illicite(2) ii ll ii ss ii tt ee
 illicites ii ll ii ss ii tt
 illicites(2) ii ll ii ss ii tt ee
-illicites(3) ii ll ii ss ii tt ee zz
-illicites(4) ii ll ii ss ii tt zz
 illico ii ll ii kk au
 illiers ii ll yy ei
 illimité ii ll ii mm ii tt ei
@@ -42360,20 +41766,14 @@ illisible ii ll ii zz ii bb ll
 illisible(2) ii ll ii zz ii bb ll ee
 illisibles ii ll ii zz ii bb ll
 illisibles(2) ii ll ii zz ii bb ll ee
-illisibles(3) ii ll ii zz ii bb ll ee zz
-illisibles(4) ii ll ii zz ii bb ll zz
 illizi ii ll ii zz ii
 illizy ii ll ii zz ii
 illogique ii ll oo jj ii kk
 illogique(2) ii ll oo jj ii kk ee
 illogiques ii ll au jj ii kk
 illogiques(2) ii ll au jj ii kk ee
-illogiques(3) ii ll au jj ii kk ee zz
-illogiques(4) ii ll au jj ii kk zz
 illogiques(5) ii ll oo jj ii kk
 illogiques(6) ii ll oo jj ii kk ee
-illogiques(7) ii ll oo jj ii kk ee zz
-illogiques(8) ii ll oo jj ii kk zz
 illumination ii ll uu mm ii nn aa ss yy on
 illuminations ii ll uu mm ii nn aa ss yy on
 illuminations(2) ii ll uu mm ii nn aa ss yy on zz
@@ -42394,8 +41794,6 @@ illusoire ii ll uu zz ww aa rr
 illusoire(2) ii ll uu zz ww aa rr ee
 illusoires ii ll uu zz ww aa rr
 illusoires(2) ii ll uu zz ww aa rr ee
-illusoires(3) ii ll uu zz ww aa rr ee zz
-illusoires(4) ii ll uu zz ww aa rr zz
 illustra ii ll uu ss tt rr aa
 illustrait ii ll uu ss tt rr ai
 illustrait(2) ii ll uu ss tt rr ai tt
@@ -42414,8 +41812,6 @@ illustrer ii ll uu ss tt rr ei
 illustrer(2) ii ll uu ss tt rr ei rr
 illustres ii ll uu ss tt rr
 illustres(2) ii ll uu ss tt rr ee
-illustres(3) ii ll uu ss tt rr ee zz
-illustres(4) ii ll uu ss tt rr zz
 illustré ii ll uu ss tt rr ei
 illustrée ii ll uu ss tt rr ei
 illustrées ii ll uu ss tt rr ei
@@ -42427,8 +41823,6 @@ illégalement ii ll ai gg aa ll ee mm an
 illégalement(2) ii ll ai gg aa ll ee mm an tt
 illégales ii ll ai gg aa ll
 illégales(2) ii ll ai gg aa ll ee
-illégales(3) ii ll ai gg aa ll ee zz
-illégales(4) ii ll ai gg aa ll zz
 illégalité ii ll ai gg aa ll ii tt ei
 illégaux ii ll ai gg au
 illégaux(2) ii ll ai gg au zz
@@ -42436,8 +41830,6 @@ illégitime ii ll ai jj ii tt ii mm
 illégitime(2) ii ll ai jj ii tt ii mm ee
 illégitimes ii ll ai jj ii tt ii mm
 illégitimes(2) ii ll ai jj ii tt ii mm ee
-illégitimes(3) ii ll ai jj ii tt ii mm ee zz
-illégitimes(4) ii ll ai jj ii tt ii mm zz
 ils ii ll
 ils(2) ii ll zz
 ilton ii ll tt oo nn
@@ -42451,23 +41843,17 @@ image(2) ii mm aa jj ee
 imagerie ii mm aa jj ee rr ii
 images ii mm aa jj
 images(2) ii mm aa jj ee
-images(3) ii mm aa jj ee zz
-images(4) ii mm aa jj zz
 imagina ii mm aa jj ii nn aa
 imaginable ii mm aa jj ii nn aa bb ll
 imaginable(2) ii mm aa jj ii nn aa bb ll ee
 imaginables ii mm aa jj ii nn aa bb ll
 imaginables(2) ii mm aa jj ii nn aa bb ll ee
-imaginables(3) ii mm aa jj ii nn aa bb ll ee zz
-imaginables(4) ii mm aa jj ii nn aa bb ll zz
 imaginaient ii mm aa jj ii nn ai
 imaginaient(2) ii mm aa jj ii nn ai tt
 imaginaire ii mm aa jj ii nn ai rr
 imaginaire(2) ii mm aa jj ii nn ai rr ee
 imaginaires ii mm aa jj ii nn ai rr
 imaginaires(2) ii mm aa jj ii nn ai rr ee
-imaginaires(3) ii mm aa jj ii nn ai rr ee zz
-imaginaires(4) ii mm aa jj ii nn ai rr zz
 imaginai ii mm aa jj ii nn ai
 imaginais ii mm aa jj ii nn ai
 imaginais(2) ii mm aa jj ii nn ai zz
@@ -42511,8 +41897,6 @@ imbattable in bb aa tt aa bb ll
 imbattable(2) in bb aa tt aa bb ll ee
 imbattables in bb aa tt aa bb ll
 imbattables(2) in bb aa tt aa bb ll ee
-imbattables(3) in bb aa tt aa bb ll ee zz
-imbattables(4) in bb aa tt aa bb ll zz
 imbert in bb ai rr
 imbrication in bb rr ii kk aa ss yy on
 imbriquées in bb rr ii kk ei
@@ -42524,8 +41908,6 @@ imbécile in bb ai ss ii ll
 imbécile(2) in bb ai ss ii ll ee
 imbéciles in bb ai ss ii ll
 imbéciles(2) in bb ai ss ii ll ee
-imbéciles(3) in bb ai ss ii ll ee zz
-imbéciles(4) in bb ai ss ii ll zz
 imbécillité in bb ai ss ii ll ii tt ei
 imca ii mm kk aa
 ime ii ai mm eu
@@ -42567,8 +41949,6 @@ immature ii mm aa tt uu rr
 immature(2) ii mm aa tt uu rr ee
 immatures ii mm aa tt uu rr
 immatures(2) ii mm aa tt uu rr ee
-immatures(3) ii mm aa tt uu rr ee zz
-immatures(4) ii mm aa tt uu rr zz
 immaturité ii mm aa tt uu rr ii tt ei
 immatériel ii mm aa tt ai rr yy ai ll
 immatérielle ii mm aa tt ai rr yy ai ll
@@ -42579,7 +41959,6 @@ immense ii mm an ss
 immense(2) ii mm an ss ee
 immenses ii mm an ss
 immenses(2) ii mm an ss ee
-immenses(3) ii mm an ss ee zz
 immensité ii mm an ss ii tt ei
 immensités ii mm an ss ii tt ei
 immensément ii mm an ss ai mm an
@@ -42599,8 +41978,6 @@ immeuble ii mm oe bb ll
 immeuble(2) ii mm oe bb ll ee
 immeubles ii mm oe bb ll
 immeubles(2) ii mm oe bb ll ee
-immeubles(3) ii mm oe bb ll ee zz
-immeubles(4) ii mm oe bb ll zz
 immigrant ii mm ii gg rr an
 immigrant(2) ii mm ii gg rr an tt
 immigrants ii mm ii gg rr an
@@ -42618,8 +41995,6 @@ imminente ii mm ii nn an tt
 imminente(2) ii mm ii nn an tt ee
 imminentes ii mm ii nn an tt
 imminentes(2) ii mm ii nn an tt ee
-imminentes(3) ii mm ii nn an tt ee zz
-imminentes(4) ii mm ii nn an tt zz
 immisce ii mm ii ss
 immisce(2) ii mm ii ss ee
 immiscer ii mm ii ss ei
@@ -42633,8 +42008,6 @@ immobile ii mm oo bb ii ll
 immobile(2) ii mm oo bb ii ll ee
 immobiles ii mm oo bb ii ll
 immobiles(2) ii mm oo bb ii ll ee
-immobiles(3) ii mm oo bb ii ll ee zz
-immobiles(4) ii mm oo bb ii ll zz
 immobilier ii mm oo bb ii ll yy ei
 immobilier(2) ii mm oo bb ii ll yy ei rr
 immobiliers ii mm oo bb ii ll yy ei
@@ -42661,8 +42034,6 @@ immobilière ii mm oo bb ii ll yy ai rr
 immobilière(2) ii mm oo bb ii ll yy ai rr ee
 immobilières ii mm oo bb ii ll yy ai rr
 immobilières(2) ii mm oo bb ii ll yy ai rr ee
-immobilières(3) ii mm oo bb ii ll yy ai rr ee zz
-immobilières(4) ii mm oo bb ii ll yy ai rr zz
 immodestement ii mm oo dd ai ss tt ee mm an
 immodestement(2) ii mm oo dd ai ss tt ee mm an tt
 immodéré ii mm oo dd ai rr ei
@@ -42674,7 +42045,6 @@ immonde ii mm on dd
 immonde(2) ii mm on dd ee
 immondices ii mm on dd ii ss
 immondices(2) ii mm on dd ii ss ee
-immondices(3) ii mm on dd ii ss ee zz
 immoral ii mm oo rr aa ll
 immorale ii mm oo rr aa ll
 immorale(2) ii mm oo rr aa ll ee
@@ -42690,15 +42060,11 @@ immuable ii mm uu aa bb ll
 immuable(2) ii mm uu aa bb ll ee
 immuables ii mm uu aa bb ll
 immuables(2) ii mm uu aa bb ll ee
-immuables(3) ii mm uu aa bb ll ee zz
-immuables(4) ii mm uu aa bb ll zz
 immunisé ii mm uu nn ii zz ei
 immunitaire ii mm uu nn ii tt ai rr
 immunitaire(2) ii mm uu nn ii tt ai rr ee
 immunitaires ii mm uu nn ii tt ai rr
 immunitaires(2) ii mm uu nn ii tt ai rr ee
-immunitaires(3) ii mm uu nn ii tt ai rr ee zz
-immunitaires(4) ii mm uu nn ii tt ai rr zz
 immunité ii mm uu nn ii tt ei
 immunités ii mm uu nn ii tt ei
 immunodéficience ii mm uu nn oo dd ei ff ii ss yy an ss
@@ -42711,8 +42077,6 @@ immédiatement ii mm ai dd yy aa tt ee mm an
 immédiatement(2) ii mm ai dd yy aa tt ee mm an tt
 immédiates ii mm ai dd yy aa tt
 immédiates(2) ii mm ai dd yy aa tt ee
-immédiates(3) ii mm ai dd yy aa tt ee zz
-immédiates(4) ii mm ai dd yy aa tt zz
 immédiateté ii mm ai dd yy aa tt ee tt ei
 immédiats ii mm ai dd yy aa
 immédiats(2) ii mm ai dd yy aa zz
@@ -42742,16 +42106,12 @@ imparfaitement in pp aa rr ff ai tt ee mm an
 imparfaitement(2) in pp aa rr ff ai tt ee mm an tt
 imparfaites in pp aa rr ff ai tt
 imparfaites(2) in pp aa rr ff ai tt ee
-imparfaites(3) in pp aa rr ff ai tt ee zz
-imparfaites(4) in pp aa rr ff ai tt zz
 imparti in pp aa rr tt ii
 impartial in pp aa rr ss yy aa ll
 impartiale in pp aa rr ss yy aa ll
 impartiale(2) in pp aa rr ss yy aa ll ee
 impartiales in pp aa rr ss yy aa ll
 impartiales(2) in pp aa rr ss yy aa ll ee
-impartiales(3) in pp aa rr ss yy aa ll ee zz
-impartiales(4) in pp aa rr ss yy aa ll zz
 impartialité in pp aa rr ss yy aa ll ii tt ei
 impartiaux in pp aa rr ss yy au
 impartiaux(2) in pp aa rr ss yy au zz
@@ -42759,21 +42119,17 @@ impasse in pp aa ss
 impasse(2) in pp aa ss ee
 impasses in pp aa ss
 impasses(2) in pp aa ss ee
-impasses(3) in pp aa ss ee zz
 impassibilité in pp aa ss ii bb ii ll ii tt ei
 impassible in pp aa ss ii bb ll
 impassible(2) in pp aa ss ii bb ll ee
 impassibles in pp aa ss ii bb ll
 impassibles(2) in pp aa ss ii bb ll ee
-impassibles(3) in pp aa ss ii bb ll ee zz
-impassibles(4) in pp aa ss ii bb ll zz
 impatiemment in pp aa ss yy aa mm an
 impatiemment(2) in pp aa ss yy aa mm an tt
 impatience in pp aa ss yy an ss
 impatience(2) in pp aa ss yy an ss ee
 impatiences in pp aa ss yy an ss
 impatiences(2) in pp aa ss yy an ss ee
-impatiences(3) in pp aa ss yy an ss ee zz
 impatient in pp aa ss yy an
 impatient(2) in pp aa ss yy an tt
 impatiente in pp aa ss yy an tt
@@ -42797,22 +42153,16 @@ impeccablement in pp ai kk aa bb ll ee mm an
 impeccablement(2) in pp ai kk aa bb ll ee mm an tt
 impeccables in pp ai kk aa bb ll
 impeccables(2) in pp ai kk aa bb ll ee
-impeccables(3) in pp ai kk aa bb ll ee zz
-impeccables(4) in pp ai kk aa bb ll zz
 impensable in pp an ss aa bb ll
 impensable(2) in pp an ss aa bb ll ee
 impensables in pp an ss aa bb ll
 impensables(2) in pp an ss aa bb ll ee
-impensables(3) in pp an ss aa bb ll ee zz
-impensables(4) in pp an ss aa bb ll zz
 imperceptible in pp ai rr ss ai pp tt ii bb ll
 imperceptible(2) in pp ai rr ss ai pp tt ii bb ll ee
 imperceptiblement in pp ai rr ss ai pp tt ii bb ll ee mm an
 imperceptiblement(2) in pp ai rr ss ai pp tt ii bb ll ee mm an tt
 imperceptibles in pp ai rr ss ai pp tt ii bb ll
 imperceptibles(2) in pp ai rr ss ai pp tt ii bb ll ee
-imperceptibles(3) in pp ai rr ss ai pp tt ii bb ll ee zz
-imperceptibles(4) in pp ai rr ss ai pp tt ii bb ll zz
 imperceptivel in pp ai rr ss ai pp tt ii vv ai ll
 imperfection in pp ai rr ff ai kk ss yy on
 imperfections in pp ai rr ff ai kk ss yy on
@@ -42822,8 +42172,6 @@ imperméable in pp ai rr mm ai aa bb ll
 imperméable(2) in pp ai rr mm ai aa bb ll ee
 imperméables in pp ai rr mm ai aa bb ll
 imperméables(2) in pp ai rr mm ai aa bb ll ee
-imperméables(3) in pp ai rr mm ai aa bb ll ee zz
-imperméables(4) in pp ai rr mm ai aa bb ll zz
 impersonnel in pp ai rr ss oo nn ai ll
 impersonnelle in pp ai rr ss oo nn ai ll
 impersonnelle(2) in pp ai rr ss oo nn ai ll ee
@@ -42842,16 +42190,12 @@ impitoyablement in pp ii tt ww aa yy aa bb ll ee mm an
 impitoyablement(2) in pp ii tt ww aa yy aa bb ll ee mm an tt
 impitoyables in pp ii tt ww aa yy aa bb ll
 impitoyables(2) in pp ii tt ww aa yy aa bb ll ee
-impitoyables(3) in pp ii tt ww aa yy aa bb ll ee zz
-impitoyables(4) in pp ii tt ww aa yy aa bb ll zz
 impiété in pp yy ai tt ei
 implacable in pp ll aa kk aa bb ll
 implacable(2) in pp ll aa kk aa bb ll ee
 implacablement in pp ll aa kk aa bb ll ee mm an
 implacables in pp ll aa kk aa bb ll
 implacables(2) in pp ll aa kk aa bb ll ee
-implacables(3) in pp ll aa kk aa bb ll ee zz
-implacables(4) in pp ll aa kk aa bb ll zz
 implantation in pp ll an tt aa ss yy on
 implantations in pp ll an tt aa ss yy on
 implantations(2) in pp ll an tt aa ss yy on zz
@@ -42874,8 +42218,6 @@ implicitement in pp ll ii ss ii tt ee mm an
 implicitement(2) in pp ll ii ss ii tt ee mm an tt
 implicites in pp ll ii ss ii tt
 implicites(2) in pp ll ii ss ii tt ee
-implicites(3) in pp ll ii ss ii tt ee zz
-implicites(4) in pp ll ii ss ii tt zz
 impliquait in pp ll ii kk ai
 impliquait(2) in pp ll ii kk ai tt
 impliquant in pp ll ii kk an
@@ -42912,8 +42254,6 @@ impopulaire in pp oo pp uu ll ai rr
 impopulaire(2) in pp oo pp uu ll ai rr ee
 impopulaires in pp oo pp uu ll ai rr
 impopulaires(2) in pp oo pp uu ll ai rr ee
-impopulaires(3) in pp oo pp uu ll ai rr ee zz
-impopulaires(4) in pp oo pp uu ll ai rr zz
 impopularité in pp oo pp uu ll aa rr ii tt ei
 import in pp oo rr
 import-export in pp oo rr ai kk ss pp oo rr
@@ -42927,8 +42267,6 @@ importante in pp oo rr tt an tt
 importante(2) in pp oo rr tt an tt ee
 importantes in pp oo rr tt an tt
 importantes(2) in pp oo rr tt an tt ee
-importantes(3) in pp oo rr tt an tt ee zz
-importantes(4) in pp oo rr tt an tt zz
 importants in pp oo rr tt an
 importants(2) in pp oo rr tt an zz
 importateur in pp oo rr tt aa tt oe rr
@@ -42953,8 +42291,6 @@ imposable in pp oo zz aa bb ll
 imposable(2) in pp oo zz aa bb ll ee
 imposables in pp oo zz aa bb ll
 imposables(2) in pp oo zz aa bb ll ee
-imposables(3) in pp oo zz aa bb ll ee zz
-imposables(4) in pp oo zz aa bb ll zz
 imposaient in pp oo zz ai
 imposaient(2) in pp oo zz ai tt
 imposait in pp oo zz ai
@@ -42965,8 +42301,6 @@ imposante in pp oo zz an tt
 imposante(2) in pp oo zz an tt ee
 imposantes in pp oo zz an tt
 imposantes(2) in pp oo zz an tt ee
-imposantes(3) in pp oo zz an tt ee zz
-imposantes(4) in pp oo zz an tt zz
 imposants in pp oo zz an
 imposants(2) in pp oo zz an zz
 impose in pp au zz
@@ -42987,15 +42321,11 @@ impossible in pp oo ss ii bb ll
 impossible(2) in pp oo ss ii bb ll ee
 impossibles in pp oo ss ii bb ll
 impossibles(2) in pp oo ss ii bb ll ee
-impossibles(3) in pp oo ss ii bb ll ee zz
-impossibles(4) in pp oo ss ii bb ll zz
 imposteur in pp oo ss tt oe rr
 imposture in pp oo ss tt uu rr
 imposture(2) in pp oo ss tt uu rr ee
 impostures in pp oo ss tt uu rr
 impostures(2) in pp oo ss tt uu rr ee
-impostures(3) in pp oo ss tt uu rr ee zz
-impostures(4) in pp oo ss tt uu rr zz
 imposé in pp oo zz ei
 imposée in pp oo zz ei
 imposées in pp oo zz ei
@@ -43004,16 +42334,12 @@ impraticable in pp rr aa tt ii kk aa bb ll
 impraticable(2) in pp rr aa tt ii kk aa bb ll ee
 impraticables in pp rr aa tt ii kk aa bb ll
 impraticables(2) in pp rr aa tt ii kk aa bb ll ee
-impraticables(3) in pp rr aa tt ii kk aa bb ll ee zz
-impraticables(4) in pp rr aa tt ii kk aa bb ll zz
 imprenable in pp rr ee nn aa bb ll
 imprenable(2) in pp rr ee nn aa bb ll ee
 imprescriptible in pp rr ai ss kk rr ii pp tt ii bb ll
 imprescriptible(2) in pp rr ai ss kk rr ii pp tt ii bb ll ee
 imprescriptibles in pp rr ai ss kk rr ii pp tt ii bb ll
 imprescriptibles(2) in pp rr ai ss kk rr ii pp tt ii bb ll ee
-imprescriptibles(3) in pp rr ai ss kk rr ii pp tt ii bb ll ee zz
-imprescriptibles(4) in pp rr ai ss kk rr ii pp tt ii bb ll zz
 impresion in pp rr ee zz yy on
 impression in pp rr ai ss yy on
 impressionistes in pp rr ei ss yy oo nn ii ss tt
@@ -43023,8 +42349,6 @@ impressionnante in pp rr ai ss yy oo nn an tt
 impressionnante(2) in pp rr ai ss yy oo nn an tt ee
 impressionnantes in pp rr ai ss yy oo nn an tt
 impressionnantes(2) in pp rr ai ss yy oo nn an tt ee
-impressionnantes(3) in pp rr ai ss yy oo nn an tt ee zz
-impressionnantes(4) in pp rr ai ss yy oo nn an tt zz
 impressionnants in pp rr ai ss yy oo nn an
 impressionnants(2) in pp rr ai ss yy oo nn an zz
 impressionne in pp rr ai ss yy oo nn
@@ -43038,8 +42362,6 @@ impressionniste in pp rr ai ss yy oo nn ii ss tt
 impressionniste(2) in pp rr ai ss yy oo nn ii ss tt ee
 impressionnistes in pp rr ai ss yy oo nn ii ss tt
 impressionnistes(2) in pp rr ai ss yy oo nn ii ss tt ee
-impressionnistes(3) in pp rr ai ss yy oo nn ii ss tt ee zz
-impressionnistes(4) in pp rr ai ss yy oo nn ii ss tt zz
 impressionné in pp rr ai ss yy oo nn ei
 impressionnée in pp rr ai ss yy oo nn ei
 impressionnés in pp rr ai ss yy oo nn ei
@@ -43051,8 +42373,6 @@ imprimante in pp rr ii mm an tt
 imprimante(2) in pp rr ii mm an tt ee
 imprimantes in pp rr ii mm an tt
 imprimantes(2) in pp rr ii mm an tt ee
-imprimantes(3) in pp rr ii mm an tt ee zz
-imprimantes(4) in pp rr ii mm an tt zz
 imprimatur in pp rr ii mm aa tt uu rr
 imprime in pp rr ii mm
 imprime(2) in pp rr ii mm ee
@@ -43073,8 +42393,6 @@ improbable in pp rr oo bb aa bb ll
 improbable(2) in pp rr oo bb aa bb ll ee
 improbables in pp rr oo bb aa bb ll
 improbables(2) in pp rr oo bb aa bb ll ee
-improbables(3) in pp rr oo bb aa bb ll ee zz
-improbables(4) in pp rr oo bb aa bb ll zz
 improductif in pp rr oo dd uu kk tt ii ff
 impromptu in pp rr on tt uu
 impromptue in pp rr on tt uu
@@ -43100,7 +42418,6 @@ imprudence in pp rr uu dd an ss
 imprudence(2) in pp rr uu dd an ss ee
 imprudences in pp rr uu dd an ss
 imprudences(2) in pp rr uu dd an ss ee
-imprudences(3) in pp rr uu dd an ss ee zz
 imprudent in pp rr uu dd an
 imprudent(2) in pp rr uu dd an tt
 imprudente in pp rr uu dd an tt
@@ -43117,8 +42434,6 @@ imprécise in pp rr ai ss ii zz
 imprécise(2) in pp rr ai ss ii zz ee
 imprécises in pp rr ai ss ii zz
 imprécises(2) in pp rr ai ss ii zz ee
-imprécises(3) in pp rr ai ss ii zz ee zz
-imprécises(4) in pp rr ai ss ii zz zz
 imprécision in pp rr ai ss ii zz yy on
 imprécisions in pp rr ai ss ii zz yy on
 imprécisions(2) in pp rr ai ss ii zz yy on zz
@@ -43136,14 +42451,11 @@ imprévisible in pp rr ai vv ii zz ii bb ll
 imprévisible(2) in pp rr ai vv ii zz ii bb ll ee
 imprévisibles in pp rr ai vv ii zz ii bb ll
 imprévisibles(2) in pp rr ai vv ii zz ii bb ll ee
-imprévisibles(3) in pp rr ai vv ii zz ii bb ll ee zz
-imprévisibles(4) in pp rr ai vv ii zz ii bb ll zz
 imprévisions in pp rr ei vv ii zz yy on
 imprévoyance in pp rr ai vv ww aa yy an ss
 imprévoyance(2) in pp rr ai vv ww aa yy an ss ee
 imprévoyances in pp rr ai vv ww aa yy an ss
 imprévoyances(2) in pp rr ai vv ww aa yy an ss ee
-imprévoyances(3) in pp rr ai vv ww aa yy an ss ee zz
 imprévu in pp rr ai vv uu
 imprévue in pp rr ai vv uu
 imprévues in pp rr ai vv uu
@@ -43165,8 +42477,6 @@ impuissante in pp uy ii ss an tt
 impuissante(2) in pp uy ii ss an tt ee
 impuissantes in pp uy ii ss an tt
 impuissantes(2) in pp uy ii ss an tt ee
-impuissantes(3) in pp uy ii ss an tt ee zz
-impuissantes(4) in pp uy ii ss an tt zz
 impuissants in pp uy ii ss an
 impuissants(2) in pp uy ii ss an zz
 impulser in pp uu ll ss ei
@@ -43188,8 +42498,6 @@ imputable in pp uu tt aa bb ll
 imputable(2) in pp uu tt aa bb ll ee
 imputables in pp uu tt aa bb ll
 imputables(2) in pp uu tt aa bb ll ee
-imputables(3) in pp uu tt aa bb ll ee zz
-imputables(4) in pp uu tt aa bb ll zz
 imputation in pp uu tt aa ss yy on
 impute in pp uu tt
 impute(2) in pp uu tt ee
@@ -43206,8 +42514,6 @@ impénétrable in pp ai nn ai tt rr aa bb ll
 impénétrable(2) in pp ai nn ai tt rr aa bb ll ee
 impénétrables in pp ai nn ai tt rr aa bb ll
 impénétrables(2) in pp ai nn ai tt rr aa bb ll ee
-impénétrables(3) in pp ai nn ai tt rr aa bb ll ee zz
-impénétrables(4) in pp ai nn ai tt rr aa bb ll zz
 impératif in pp ai rr aa tt ii ff
 impératifs in pp ai rr aa tt ii ff
 impératifs(2) in pp ai rr aa tt ii ff zz
@@ -43217,8 +42523,6 @@ impérativement in pp ai rr aa tt ii vv ee mm an
 impérativement(2) in pp ai rr aa tt ii vv ee mm an tt
 impératives in pp ai rr aa tt ii vv
 impératives(2) in pp ai rr aa tt ii vv ee
-impératives(3) in pp ai rr aa tt ii vv ee zz
-impératives(4) in pp ai rr aa tt ii vv zz
 impératrice in pp ai rr aa tt rr ii ss
 impératrice(2) in pp ai rr aa tt rr ii ss ee
 impérial in pp ai rr yy aa ll
@@ -43226,16 +42530,12 @@ impériale in pp ai rr yy aa ll
 impériale(2) in pp ai rr yy aa ll ee
 impériales in pp ai rr yy aa ll
 impériales(2) in pp ai rr yy aa ll ee
-impériales(3) in pp ai rr yy aa ll ee zz
-impériales(4) in pp ai rr yy aa ll zz
 impérialisme in pp ai rr yy aa ll ii ss mm
 impérialisme(2) in pp ai rr yy aa ll ii ss mm ee
 impérialiste in pp ai rr yy aa ll ii ss tt
 impérialiste(2) in pp ai rr yy aa ll ii ss tt ee
 impérialistes in pp ai rr yy aa ll ii ss tt
 impérialistes(2) in pp ai rr yy aa ll ii ss tt ee
-impérialistes(3) in pp ai rr yy aa ll ii ss tt ee zz
-impérialistes(4) in pp ai rr yy aa ll ii ss tt zz
 impériaux in pp ai rr yy au
 impériaux(2) in pp ai rr yy au zz
 impérieuse in pp ai rr yy eu zz
@@ -43269,14 +42569,10 @@ inacceptable ii nn aa kk ss ai pp tt aa bb ll
 inacceptable(2) ii nn aa kk ss ai pp tt aa bb ll ee
 inacceptables ii nn aa kk ss ai pp tt aa bb ll
 inacceptables(2) ii nn aa kk ss ai pp tt aa bb ll ee
-inacceptables(3) ii nn aa kk ss ai pp tt aa bb ll ee zz
-inacceptables(4) ii nn aa kk ss ai pp tt aa bb ll zz
 inaccessible ii nn aa kk ss ai ss ii bb ll
 inaccessible(2) ii nn aa kk ss ai ss ii bb ll ee
 inaccessibles ii nn aa kk ss ai ss ii bb ll
 inaccessibles(2) ii nn aa kk ss ai ss ii bb ll ee
-inaccessibles(3) ii nn aa kk ss ai ss ii bb ll ee zz
-inaccessibles(4) ii nn aa kk ss ai ss ii bb ll zz
 inachevé ii nn aa ch ee vv ei
 inachevée ii nn aa ch ee vv ei
 inachevées ii nn aa ch ee vv ei
@@ -43298,8 +42594,6 @@ inadmissible ii nn aa dd mm ii ss ii bb ll
 inadmissible(2) ii nn aa dd mm ii ss ii bb ll ee
 inadmissibles ii nn aa dd mm ii ss ii bb ll
 inadmissibles(2) ii nn aa dd mm ii ss ii bb ll ee
-inadmissibles(3) ii nn aa dd mm ii ss ii bb ll ee zz
-inadmissibles(4) ii nn aa dd mm ii ss ii bb ll zz
 inadvertance ii nn aa dd vv ai rr tt an ss
 inadvertance(2) ii nn aa dd vv ai rr tt an ss ee
 inadéquat ii nn aa dd ai kk ww aa
@@ -43308,15 +42602,11 @@ inadéquate ii nn aa dd ai kk ww aa tt
 inadéquate(2) ii nn aa dd ai kk ww aa tt ee
 inadéquates ii nn aa dd ai kk ww aa tt
 inadéquates(2) ii nn aa dd ai kk ww aa tt ee
-inadéquates(3) ii nn aa dd ai kk ww aa tt ee zz
-inadéquates(4) ii nn aa dd ai kk ww aa tt zz
 inadéquation ii nn aa dd ai kk ww aa ss yy on
 inaliénable ii nn aa ll yy ai nn aa bb ll
 inaliénable(2) ii nn aa ll yy ai nn aa bb ll ee
 inaliénables ii nn aa ll yy ai nn aa bb ll
 inaliénables(2) ii nn aa ll yy ai nn aa bb ll ee
-inaliénables(3) ii nn aa ll yy ai nn aa bb ll ee zz
-inaliénables(4) ii nn aa ll yy ai nn aa bb ll zz
 inaltérable ii nn aa ll tt ai rr aa bb ll
 inaltérable(2) ii nn aa ll tt ai rr aa bb ll ee
 inamicale ii nn aa mm ii kk aa ll
@@ -43335,16 +42625,12 @@ inapplicable ii nn aa pp ll ii kk aa bb ll
 inapplicable(2) ii nn aa pp ll ii kk aa bb ll ee
 inapplicables ii nn aa pp ll ii kk aa bb ll
 inapplicables(2) ii nn aa pp ll ii kk aa bb ll ee
-inapplicables(3) ii nn aa pp ll ii kk aa bb ll ee zz
-inapplicables(4) ii nn aa pp ll ii kk aa bb ll zz
 inapproprié ii nn aa pp rr oo pp rr ii yy ei
 inappropriée ii nn aa pp rr oo pp rr ii yy ei
 inapte ii nn aa pp tt
 inapte(2) ii nn aa pp tt ee
 inaptes ii nn aa pp tt
 inaptes(2) ii nn aa pp tt ee
-inaptes(3) ii nn aa pp tt ee zz
-inaptes(4) ii nn aa pp tt zz
 inaptitude ii nn aa pp tt ii tt uu dd
 inattaquable ii nn aa tt aa kk aa bb ll
 inattaquable(2) ii nn aa tt aa kk aa bb ll ee
@@ -43359,8 +42645,6 @@ inaudible ii nn oo dd ii bb ll
 inaudible(2) ii nn oo dd ii bb ll ee
 inaudibles ii nn oo dd ii bb ll
 inaudibles(2) ii nn oo dd ii bb ll ee
-inaudibles(3) ii nn oo dd ii bb ll ee zz
-inaudibles(4) ii nn oo dd ii bb ll zz
 inaugurait ii nn oo gg uu rr ai
 inaugurait(2) ii nn oo gg uu rr ai tt
 inaugural ii nn oo gg uu rr aa ll
@@ -43385,8 +42669,6 @@ inavouable ii nn aa vv ou aa bb ll
 inavouable(2) ii nn aa vv ou aa bb ll ee
 inavouables ii nn aa vv ou aa bb ll
 inavouables(2) ii nn aa vv ou aa bb ll ee
-inavouables(3) ii nn aa vv ou aa bb ll ee zz
-inavouables(4) ii nn aa vv ou aa bb ll zz
 inavoué ii nn aa vv ou ei
 inbiaât in bb yy aa aa
 inc ii ai nn ss ei
@@ -43395,8 +42677,6 @@ incalculable in kk aa ll kk uu ll aa bb ll
 incalculable(2) in kk aa ll kk uu ll aa bb ll ee
 incalculables in kk aa ll kk uu ll aa bb ll
 incalculables(2) in kk aa ll kk uu ll aa bb ll ee
-incalculables(3) in kk aa ll kk uu ll aa bb ll ee zz
-incalculables(4) in kk aa ll kk uu ll aa bb ll zz
 incandescence in kk an dd ai ss an ss
 incandescence(2) in kk an dd ai ss an ss ee
 incandescent in kk an dd ai ss an
@@ -43410,8 +42690,6 @@ incapable in kk aa pp aa bb ll
 incapable(2) in kk aa pp aa bb ll ee
 incapables in kk aa pp aa bb ll
 incapables(2) in kk aa pp aa bb ll ee
-incapables(3) in kk aa pp aa bb ll ee zz
-incapables(4) in kk aa pp aa bb ll zz
 incapacité in kk aa pp aa ss ii tt ei
 incarcération in kk aa rr ss ei rr aa ss yy on
 incarcérer in kk aa rr ss ai rr ei
