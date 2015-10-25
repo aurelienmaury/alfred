@@ -67821,7 +67821,6 @@ recourant(2) rr ee kk ou rr an tt
 recourent rr ee kk ou rr ee
 recourir rr ee kk ou rr ii rr
 recours rr ee kk ou rr
-recours(2) rr ee kk ou rr zz
 recourt rr ee kk ou rr
 recouru rr ee kk ou rr uu
 recouvert rr ee kk ou vv ai rr
@@ -67830,7 +67829,6 @@ recouverte(2) rr ee kk ou vv ai rr tt ee
 recouvertes rr ee kk ou vv ai rr tt
 recouvertes(2) rr ee kk ou vv ai rr tt ee
 recouverts rr ee kk ou vv ai rr
-recouverts(2) rr ee kk ou vv ai rr zz
 recouvrait rr ee kk ou vv rr ai
 recouvrait(2) rr ee kk ou vv rr ai tt
 recouvrant rr ee kk ou vv rr an
@@ -67864,7 +67862,6 @@ recruter rr ee kk rr uu tt ei
 recruter(2) rr ee kk rr uu tt ei rr
 recruteur rr ee kk rr uu tt oe rr
 recruteurs rr ee kk rr uu tt oe rr
-recruteurs(2) rr ee kk rr uu tt oe rr zz
 recruté rr ee kk rr uu tt ei
 recrutée rr ee kk rr uu tt ei
 recrutées rr ee kk rr uu tt ei
@@ -67884,7 +67881,6 @@ rectangulaires rr ai kk tt an gg uu ll ai rr
 rectangulaires(2) rr ai kk tt an gg uu ll ai rr ee
 recteur rr ai kk tt oe rr
 recteurs rr ai kk tt oe rr
-recteurs(2) rr ai kk tt oe rr zz
 rectificatif rr ai kk tt ii ff ii kk aa tt ii ff
 rectification rr ai kk tt ii ff ii kk aa ss yy on
 rectifications rr ai kk tt ii ff ii kk aa ss yy on
@@ -68100,9 +68096,7 @@ redresser rr ee dd rr ai ss ei
 redresser(2) rr ee dd rr ai ss ei rr
 redresseur rr ee dd rr ai ss oe rr
 redresseurs rr dd rr ai ss oe rr
-redresseurs(2) rr dd rr ai ss oe rr zz
 redresseurs(3) rr ee dd rr ai ss oe rr
-redresseurs(4) rr ee dd rr ai ss oe rr zz
 redressé rr ee dd rr ai ss ei
 redressée rr ee dd rr ai ss ei
 redressés rr ee dd rr ai ss ei
@@ -68307,7 +68301,6 @@ regardez rr ee gg aa rr dd ai
 regardez(2) rr ee gg aa rr dd ei
 regardons rr ee gg aa rr dd on
 regards rr ee gg aa rr
-regards(2) rr ee gg aa rr zz
 regards(3) rr ei gg aa rr dd zz
 regardé rr ee gg aa rr dd ei
 regardée rr ee gg aa rr dd ei
@@ -68781,21 +68774,18 @@ remontée rr ee mm on tt ei
 remontées rr ee mm on tt ei
 remontés rr ee mm on tt ei
 remords rr ee mm oo rr
-remords(2) rr ee mm oo rr zz
 remorque rr ee mm oo rr kk
 remorque(2) rr ee mm oo rr kk ee
 remorques rr ee mm oo rr kk
 remorques(2) rr ee mm oo rr kk ee
 remorqueur rr ee mm oo rr kk oe rr
 remorqueurs rr ee mm oo rr kk oe rr
-remorqueurs(2) rr ee mm oo rr kk oe rr zz
 remorqué rr ee mm oo rr kk ei
 remorqués rr ee mm oo rr kk ei
 remous rr ee mm ou
 remous(2) rr ee mm ou zz
 rempart rr an pp aa rr
 remparts rr an pp aa rr
-remparts(2) rr an pp aa rr zz
 remplace rr an pp ll aa ss
 remplace(2) rr an pp ll aa ss ee
 remplacement rr an pp ll aa ss ee mm an
@@ -68908,7 +68898,6 @@ renan(2) rr nn an
 renard rr ee nn aa rr
 renard(2) rr nn aa rr
 renards rr ee nn aa rr
-renards(2) rr ee nn aa rr zz
 renate rr ee nn aa tt
 renationalisation rr ee nn aa ss yy oo nn aa ll ii zz aa ss yy on
 renato rr ei nn aa tt au
@@ -69029,7 +69018,6 @@ renforcées rr an ff oo rr ss ei
 renforcés rr an ff oo rr ss ei
 renfort rr an ff oo rr
 renforts rr an ff oo rr
-renforts(2) rr an ff oo rr zz
 renforçaient rr an ff oo rr ss ai
 renforçaient(2) rr an ff oo rr ss ai tt
 renforçait rr an ff oo rr ss ai
@@ -69347,11 +69335,8 @@ reporteraient(2) rr ee pp oo rr tt ee rr ai tt
 reporterait rr ee pp oo rr tt ee rr ai
 reporterait(2) rr ee pp oo rr tt ee rr ai tt
 reporters rr ee pp oo rr tt ee rr
-reporters(2) rr ee pp oo rr tt ee rr zz
 reporteurs rr ee pp oo rr tt oe rr
-reporteurs(2) rr ee pp oo rr tt oe rr zz
 reports rr ee pp oo rr
-reports(2) rr ee pp oo rr zz
 reporté rr ee pp oo rr tt ei
 reportée rr ee pp oo rr tt ei
 reportées rr ee pp oo rr tt ei
@@ -69410,7 +69395,6 @@ reprendront(2) rr ee pp rr an dd rr on tt
 reprends rr ee pp rr an
 repreneur rr ee pp rr ee nn oe rr
 repreneurs rr ee pp rr ee nn oe rr
-repreneurs(2) rr ee pp rr ee nn oe rr zz
 reprenne rr ee pp rr ai nn
 reprenne(2) rr ee pp rr ai nn ee
 reprennent rr ee pp rr ai nn ee
@@ -69576,8 +69560,7 @@ requêtes(2) rr ee kk ai tt ee
 rer ai rr eu ai rr
 rerencontre rr ee rr an kk on tt rr
 res rr ei
-res(2) rr zz
-res(3) rr ai ss
+res(2) rr ai ss
 resaisi rr ee ss ai zz ii
 rescapé rr ai ss kk aa pp ei
 rescapée rr ai ss kk aa pp ei
@@ -69739,7 +69722,6 @@ ressortissants rr ee ss oo rr tt ii ss an
 ressortit rr ee ss oo rr tt ii
 ressortit(2) rr ee ss oo rr tt ii tt
 ressorts rr ee ss oo rr
-ressorts(2) rr ee ss oo rr zz
 ressouder rr ee ss ou dd ei
 ressouder(2) rr ee ss ou dd ei rr
 ressource rr ee ss ou rr ss
@@ -69774,7 +69756,6 @@ restaurant(2) rr ai ss tt oo rr an tt
 restaurants rr ai ss tt oo rr an
 restaurateur rr ai ss tt oo rr aa tt oe rr
 restaurateurs rr ai ss tt oo rr aa tt oe rr
-restaurateurs(2) rr ai ss tt oo rr aa tt oe rr zz
 restauration rr ai ss tt oo rr aa ss yy on
 restaurations rr ai ss tt oo rr aa ss yy on
 restaure rr ai ss tt oo rr
@@ -69873,7 +69854,6 @@ retardent rr ee tt aa rr dd ee
 retarder rr ee tt aa rr dd ei
 retarder(2) rr ee tt aa rr dd ei rr
 retards rr ee tt aa rr
-retards(2) rr ee tt aa rr zz
 retardé rr ee tt aa rr dd ei
 retardée rr ee tt aa rr dd ei
 retardés rr ee tt aa rr dd ei
@@ -69960,7 +69940,6 @@ retoquée rr ee tt oo kk ei
 retordre rr ee tt oo rr dd rr
 retordre(2) rr ee tt oo rr dd rr ee
 retors rr ee tt oo rr
-retors(2) rr ee tt oo rr zz
 retouche rr ee tt ou ch
 retouche(2) rr ee tt ou ch ee
 retoucher rr ee tt ou ch ei
@@ -69992,7 +69971,6 @@ retournée rr ee tt ou rr nn ei
 retournées rr ee tt ou rr nn ei
 retournés rr ee tt ou rr nn ei
 retours rr ee tt ou rr
-retours(2) rr ee tt ou rr zz
 retrace rr ee tt rr aa ss
 retrace(2) rr ee tt rr aa ss ee
 retracent rr ee tt rr aa ss ee
@@ -70116,7 +70094,6 @@ revendant(2) rr ee vv an dd an tt
 revendent rr ee vv an dd ee
 revendeur rr ee vv an dd oe rr
 revendeurs rr ee vv an dd oe rr
-revendeurs(2) rr ee vv an dd oe rr zz
 revendicatif rr ee vv an dd ii kk aa tt ii ff
 revendicatifs rr ee vv an dd ii kk aa tt ii ff
 revendicatifs(2) rr ee vv an dd ii kk aa tt ii ff zz
@@ -70178,7 +70155,6 @@ reverront(6) rr vv ai rr on tt
 reverront(7) rr vv ei rr on
 reverront(8) rr vv ei rr on tt
 revers rr ee vv ai rr
-revers(2) rr ee vv ai rr zz
 reverse rr ee vv ai rr ss
 reverse(2) rr ee vv ai rr ss ee
 reversement rr ee vv ai rr ss ee mm an
@@ -70239,7 +70215,6 @@ revoit rr ee vv ww aa
 revoit(2) rr ee vv ww aa tt
 revolver rr ai vv oo ll vv ee rr
 revolvers rr ai vv oo ll vv ee rr
-revolvers(2) rr ai vv oo ll vv ee rr zz
 revotait rr ee vv oo tt ai
 revotait(2) rr ee vv oo tt ai tt
 revotait(3) rr vv oo tt ai
@@ -70410,7 +70385,6 @@ rich rr ii kk
 richard rr ii ch aa rr
 richards rr ii ch aa rr
 richards(2) rr ii ch aa rr dd zz
-richards(3) rr ii ch aa rr zz
 richardson rr ii ch aa rr dd ss oo nn
 richaud rr ii ch au
 riche rr ii ch
@@ -70485,7 +70459,6 @@ riesel rr ii ss ai ll
 rieu rr yy eu
 rieur rr yy oe rr
 rieurs rr yy oe rr
-rieurs(2) rr yy oe rr zz
 rieuse rr yy eu zz
 rieuse(2) rr yy eu zz ee
 rif rr ii ff
@@ -70517,7 +70490,6 @@ rigolade rr ii gg oo ll aa dd
 rigolade(2) rr ii gg oo ll aa dd ee
 rigolard rr ii gg oo ll aa rr
 rigolards rr ii gg oo ll aa rr
-rigolards(2) rr ii gg oo ll aa rr zz
 rigole rr ii gg oo ll
 rigole(2) rr ii gg oo ll ee
 rigolent rr ii gg oo ll ee
@@ -70539,7 +70511,6 @@ rigoureux(2) rr ii gg ou rr eu zz
 rigout rr ii gg ou
 rigueur rr ii gg oe rr
 rigueurs rr ii gg oe rr
-rigueurs(2) rr ii gg oe rr zz
 riina rr yy ii nn aa
 riis rr yy ii
 rikaki rr ii kk aa kk ii
@@ -70574,7 +70545,6 @@ ringard rr in gg aa rr
 ringarde rr in gg aa rr dd
 ringarde(2) rr in gg aa rr dd ee
 ringards rr in gg aa rr
-ringards(2) rr in gg aa rr zz
 ringier rr in jj yy ei
 ringo rr ii nn gg au
 rino rr ii nn au
@@ -70851,7 +70821,6 @@ rockbury rr au kk bb uu rr ii
 rockefeller rr oo kk ee ff ai ll ai rr
 rocker rr oo kk ee rr
 rockers rr oo kk ee rr
-rockers(2) rr oo kk ee rr zz
 rockline rr au kk ll ii nn
 rockwell rr oo kk ww ai ll
 rocky rr au kk ii
@@ -71053,7 +71022,6 @@ rondes rr on dd
 rondes(2) rr on dd ee
 rondeur rr on dd oe rr
 rondeurs rr on dd oe rr
-rondeurs(2) rr on dd oe rr zz
 rondon rr on dd on
 ronds rr on
 ronge rr on jj
@@ -71063,7 +71031,6 @@ ronger rr on jj ei
 ronger(2) rr on jj ei rr
 rongeur rr on jj oe rr
 rongeurs rr on jj oe rr
-rongeurs(2) rr on jj oe rr zz
 rongji rr on gg jj ii
 rongé rr on jj ei
 rongée rr on jj ei
@@ -71527,7 +71494,6 @@ ruiz rr uu ii zz
 rumba rr ou mm bb aa
 rumeur rr uu mm oe rr
 rumeurs rr uu mm oe rr
-rumeurs(2) rr uu mm oe rr zz
 ruminants rr uu mm ii nn an
 rumsas rr uu mm ss aa ss
 rumsfeld rr uu mm ss ff ai ll dd
@@ -71659,7 +71625,6 @@ règnes(2) rr ai gn ee
 ré rr ei
 réacteur rr ai aa kk tt oe rr
 réacteurs rr ai aa kk tt oe rr
-réacteurs(2) rr ai aa kk tt oe rr zz
 réactif rr ai aa kk tt ii ff
 réactifs rr ai aa kk tt ii ff
 réactifs(2) rr ai aa kk tt ii ff zz
@@ -71727,7 +71692,6 @@ réalisant rr ai aa ll ii zz an
 réalisant(2) rr ai aa ll ii zz an tt
 réalisateur rr ai aa ll ii zz aa tt oe rr
 réalisateurs rr ai aa ll ii zz aa tt oe rr
-réalisateurs(2) rr ai aa ll ii zz aa tt oe rr zz
 réalisation rr ai aa ll ii zz aa ss yy on
 réalisations rr ai aa ll ii zz aa ss yy on
 réalisatrice rr ai aa ll ii zz aa tt rr ii ss
@@ -71765,7 +71729,6 @@ réaménager rr ei aa mm ei nn aa jj ei
 réaménagé rr ei aa mm ei nn aa jj ei
 réaménagée rr ei aa mm ei nn aa jj ei
 réanimateurs rr ai aa nn ii mm aa tt oe rr
-réanimateurs(2) rr ai aa nn ii mm aa tt oe rr zz
 réanimation rr ai aa nn ii mm aa ss yy on
 réanimer rr ai aa nn ii mm ei
 réanimer(2) rr ai aa nn ii mm ei rr
@@ -71797,7 +71760,6 @@ réassurance rr ai aa ss uu rr an ss
 réassurance(2) rr ai aa ss uu rr an ss ee
 réassureur rr ai aa ss uu rr oe rr
 réassureurs rr ai aa ss uu rr oe rr
-réassureurs(2) rr ai aa ss uu rr oe rr zz
 rébellion rr ai bb ai ll yy on
 rébellions rr ai bb ai ll yy on
 rébus rr ai bb uu ss
@@ -71818,7 +71780,6 @@ réceptacle rr ai ss ai pp tt aa kk ll
 réceptacle(2) rr ai ss ai pp tt aa kk ll ee
 récepteur rr ai ss ai pp tt oe rr
 récepteurs rr ai ss ai pp tt oe rr
-récepteurs(2) rr ai ss ai pp tt oe rr zz
 réceptif rr ai ss ai pp tt ii ff
 réceptifs rr ai ss ai pp tt ii ff
 réceptifs(2) rr ai ss ai pp tt ii ff zz
@@ -71991,7 +71952,6 @@ récusé rr ai kk uu zz ei
 récusée rr ai kk uu zz ei
 rédacteur rr ai dd aa kk tt oe rr
 rédacteurs rr ai dd aa kk tt oe rr
-rédacteurs(2) rr ai dd aa kk tt oe rr zz
 rédaction rr ai dd aa kk ss yy on
 rédactionnel rr ai dd aa kk ss yy oo nn ai ll
 rédactionnelle rr ai dd aa kk ss yy oo nn ai ll
@@ -72107,7 +72067,6 @@ réformant rr ai ff oo rr mm an
 réformant(2) rr ai ff oo rr mm an tt
 réformateur rr ai ff oo rr mm aa tt oe rr
 réformateurs rr ai ff oo rr mm aa tt oe rr
-réformateurs(2) rr ai ff oo rr mm aa tt oe rr zz
 réformatrice rr ai ff oo rr mm aa tt rr ii ss
 réformatrice(2) rr ai ff oo rr mm aa tt rr ii ss ee
 réformatrices rr ai ff oo rr mm aa tt rr ii ss
@@ -72132,7 +72091,6 @@ réfractaires rr ai ff rr aa kk tt ai rr
 réfractaires(2) rr ai ff rr aa kk tt ai rr ee
 réfrigérateur rr ai ff rr ii jj ai rr aa tt oe rr
 réfrigérateurs rr ai ff rr ii jj ai rr aa tt oe rr
-réfrigérateurs(2) rr ai ff rr ii jj ai rr aa tt oe rr zz
 réfrigération rr ai ff rr ii jj ai rr aa ss yy on
 réfrigérer rr ai ff rr ii jj ai rr ei
 réfrigérer(2) rr ai ff rr ii jj ai rr ei rr
@@ -72321,7 +72279,6 @@ régularisés rr ai gg uu ll aa rr ii zz ei
 régularité rr ai gg uu ll aa rr ii tt ei
 régulateur rr ai gg uu ll aa tt oe rr
 régulateurs rr ai gg uu ll aa tt oe rr
-régulateurs(2) rr ai gg uu ll aa tt oe rr zz
 régulation rr ai gg uu ll aa ss yy on
 régulations rr ai gg uu ll aa ss yy on
 réguler rr ei gg uu ll ei
@@ -72427,7 +72384,6 @@ rémunérant rr ai mm uu nn ai rr an
 rémunérant(2) rr ai mm uu nn ai rr an tt
 rémunérateur rr ai mm uu nn ai rr aa tt oe rr
 rémunérateurs rr ai mm uu nn ai rr aa tt oe rr
-rémunérateurs(2) rr ai mm uu nn ai rr aa tt oe rr zz
 rémunération rr ai mm uu nn ai rr aa ss yy on
 rémunérations rr ai mm uu nn ai rr aa ss yy on
 rémunératrices rr ai mm uu nn ai rr aa tt rr ii ss
@@ -72449,7 +72405,6 @@ rénaux(3) rr ei nn au
 rénaux(4) rr ei nn au zz
 rénovateur rr ai nn oo vv aa tt oe rr
 rénovateurs rr ai nn oo vv aa tt oe rr
-rénovateurs(2) rr ai nn oo vv aa tt oe rr zz
 rénovation rr ai nn oo vv aa ss yy on
 rénovations rr ai nn oo vv aa ss yy on
 rénove rr ai nn oo vv
@@ -72733,7 +72688,6 @@ réservistes rr ai zz ai rr vv ii ss tt
 réservistes(2) rr ai zz ai rr vv ii ss tt ee
 réservoir rr ai zz ai rr vv ww aa rr
 réservoirs rr ai zz ai rr vv ww aa rr
-réservoirs(2) rr ai zz ai rr vv ww aa rr zz
 réservons rr ai zz ai rr vv on
 réservé rr ai zz ai rr vv ei
 réservée rr ai zz ai rr vv ei
@@ -73146,7 +73100,6 @@ révélant rr ai vv ai ll an
 révélant(2) rr ai vv ai ll an tt
 révélateur rr ai vv ai ll aa tt oe rr
 révélateurs rr ai vv ai ll aa tt oe rr
-révélateurs(2) rr ai vv ai ll aa tt oe rr zz
 révélation rr ai vv ai ll aa ss yy on
 révélations rr ai vv ai ll aa ss yy on
 révélatrice rr ai vv ai ll aa tt rr ii ss
@@ -73237,7 +73190,6 @@ rêves rr ai vv
 rêves(2) rr ai vv ee
 rêveur rr ai vv oe rr
 rêveurs rr ai vv oe rr
-rêveurs(2) rr ai vv oe rr zz
 rêveuse rr ai vv eu zz
 rêveuse(2) rr ai vv eu zz ee
 rêvons rr ai vv on
@@ -73249,9 +73201,7 @@ rôdent rr au dd ee
 rôder rr oo dd ei
 rôder(2) rr oo dd ei rr
 rôdeurs rr au dd oe rr
-rôdeurs(2) rr au dd oe rr zz
-rôdeurs(3) rr oo dd oe rr
-rôdeurs(4) rr oo dd oe rr zz
+rôdeurs(2) rr oo dd oe rr
 rôdé rr au dd ei
 rôdé(2) rr oo dd ei
 rôle rr au ll
@@ -73313,7 +73263,6 @@ sabotages(2) ss aa bb oo tt aa jj ee
 saboter ss aa bb oo tt ei
 saboter(2) ss aa bb oo tt ei rr
 saboteurs ss aa bb oo tt oe rr
-saboteurs(2) ss aa bb oo tt oe rr zz
 sabots ss aa bb au
 sabots(2) ss aa bb au zz
 saboté ss aa bb oo tt ei
@@ -73984,7 +73933,6 @@ saper ss aa pp ei
 saper(2) ss aa pp ei rr
 sapeur ss aa pp oe rr
 sapeurs ss aa pp oe rr
-sapeurs(2) ss aa pp oe rr zz
 sapeurs-pompiers ss aa pp ee rr pp on pp yy ei
 saphir ss aa ff ii rr
 sapho ss aa ff au
@@ -74216,7 +74164,6 @@ sautes(2) ss au tt ee
 sautet ss au tt ai
 sauteur ss oo tt oe rr
 sauteurs ss oo tt oe rr
-sauteurs(2) ss oo tt oe rr zz
 sautiller ss oo tt ii yy ei
 sautiller(2) ss oo tt ii yy ei rr
 sautoir ss oo tt ww aa rr
@@ -74260,7 +74207,6 @@ sauvera ss oo vv ee rr aa
 sauvetage ss oo vv ee tt aa jj
 sauvetage(2) ss oo vv ee tt aa jj ee
 sauveteurs ss oo vv ee tt oe rr
-sauveteurs(2) ss oo vv ee tt oe rr zz
 sauvette ss au vv ai tt
 sauveur ss au vv oe rr
 sauveur(2) ss oo vv oe rr
@@ -74303,7 +74249,6 @@ saverne ss aa vv ai rr nn
 saverne(2) ss aa vv ai rr nn ee
 saveur ss aa vv oe rr
 saveurs ss aa vv oe rr
-saveurs(2) ss aa vv oe rr zz
 savez ss aa vv ei
 savichoise ss aa vv ii ch ww aa zz
 saviez ss aa vv yy ei
@@ -74318,7 +74263,6 @@ savoir-faire(2) ss aa vv ww aa rr ff ai rr ee
 savoir-vivre ss aa vv ww aa rr vv ii vv rr
 savoir-vivre(2) ss aa vv ww aa rr vv ii vv rr ee
 savoirs ss aa vv ww aa rr
-savoirs(2) ss aa vv ww aa rr zz
 savon ss aa vv on
 savons ss aa vv on
 savourait ss aa vv ou rr ai
@@ -74432,7 +74376,6 @@ scandé ss kk an dd ei
 scania ss kk aa nn yy aa
 scanner ss kk aa nn ee rr
 scanners ss kk aa nn ee rr
-scanners(2) ss kk aa nn ee rr zz
 scaphandre ss kk aa ff an dd rr
 scaphandre(2) ss kk aa ff an dd rr ee
 scapin ss kk aa pp in
@@ -74635,7 +74578,6 @@ scoops ss kk ou pp
 scoops(2) ss kk ou pp zz
 scooter ss kk ou tt ee rr
 scooters ss kk ou tt ee rr
-scooters(2) ss kk ou tt ee rr zz
 scop ss kk au pp
 scor ss kk au rr
 scor(2) ss kk oo rr
@@ -74704,7 +74646,6 @@ sculpter ss kk uu ll tt ei
 sculpter(2) ss kk uu ll tt ei rr
 sculpteur ss kk uu ll tt oe rr
 sculpteurs ss kk uu ll tt oe rr
-sculpteurs(2) ss kk uu ll tt oe rr zz
 sculpture ss kk uu ll tt uu rr
 sculpture(2) ss kk uu ll tt uu rr ee
 sculptures ss kk uu ll tt uu rr
@@ -74797,7 +74738,6 @@ secourir ss ee kk ou rr ii rr
 secouristes ss ee kk ou rr ii ss tt
 secouristes(2) ss ee kk ou rr ii ss tt ee
 secours ss ee kk ou rr
-secours(2) ss ee kk ou rr zz
 secouru ss ee kk ou rr uu
 secourues ss ee kk ou rr uu
 secourues(2) ss ee kk ou rr uu zz
@@ -74842,7 +74782,6 @@ sectes ss ai kk tt
 sectes(2) ss ai kk tt ee
 secteur ss ai kk tt oe rr
 secteurs ss ai kk tt oe rr
-secteurs(2) ss ai kk tt oe rr zz
 section ss ai kk ss yy on
 section(2) ss ai kk ss yy oo nn
 sections ss ai kk ss yy on
@@ -74879,7 +74818,6 @@ seidou ss ei dd ou
 seif ss aa ii ff
 seigneur ss ai gn oe rr
 seigneurs ss ai gn oe rr
-seigneurs(2) ss ai gn oe rr zz
 seiler ss aa ii ll ai rr
 seillier ss ai yy ei
 seillière ss ai yy ai rr
@@ -75018,7 +74956,6 @@ senhaji ss ei nn aa jj ii
 senior ss ai gn oo rr
 senior(2) ss ei nn yy oo rr
 seniors ss ai gn oo rr
-seniors(2) ss ai gn oo rr zz
 senisevitch ss ei nn ii zz ei vv ii tt ch
 senlis ss an ll ii ss
 senna ss ai nn aa
@@ -75080,7 +75017,6 @@ sentences ss an tt an ss
 sentences(2) ss an tt an ss ee
 sentent ss an tt ee
 senteurs ss an tt oe rr
-senteurs(2) ss an tt oe rr zz
 sentez ss an tt ei
 senti ss an tt ii
 sentie ss an tt ii
@@ -75263,7 +75199,6 @@ servent ss ai rr vv ee
 servera ss ai rr vv ei rr aa
 serveur ss ai rr vv oe rr
 serveurs ss ai rr vv oe rr
-serveurs(2) ss ai rr vv oe rr zz
 serveuse ss ai rr vv eu zz
 serveuse(2) ss ai rr vv eu zz ee
 servi ss ai rr vv ii
@@ -75297,7 +75232,6 @@ servit ss ai rr vv ii
 servit(2) ss ai rr vv ii tt
 serviteur ss ai rr vv ii tt oe rr
 serviteurs ss ai rr vv ii tt oe rr
-serviteurs(2) ss ai rr vv ii tt oe rr zz
 servitude ss ai rr vv ii tt uu dd
 servitude(2) ss ai rr vv ii tt uu dd ee
 servitudes ss ai rr vv ii tt uu dd
@@ -76038,7 +75972,6 @@ skier ss kk yy ei
 skier(2) ss kk yy ei rr
 skieur ss kk yy oe rr
 skieurs ss kk yy oe rr
-skieurs(2) ss kk yy oe rr zz
 skieuse ss kk yy eu zz
 skieuse(2) ss kk yy eu zz ee
 skinhead ss kk ii nn aa
@@ -76046,7 +75979,6 @@ skinheads ss kk ii nn aa
 skins ss kk in
 skipper ss kk ii pp ee rr
 skippers ss kk ii pp ee rr
-skippers(2) ss kk ii pp ee rr zz
 skis ss kk ii
 skis(2) ss kk ii zz
 skié ss kk yy ei
@@ -76113,7 +76045,6 @@ sme ai ss ai mm eu
 smet ss mm ai
 smic ss mm ii kk
 smicards ss mm ii kk aa rr
-smicards(2) ss mm ii kk aa rr zz
 smig ss mm ii gg
 smigard ss mm ii gg aa rr dd
 smiro ss mm ii rr au
@@ -76262,7 +76193,6 @@ sodium ss oo dd yy oo mm
 sodomie ss oo dd oo mm ii
 soeur ss oe rr
 soeurs ss oe rr
-soeurs(2) ss oe rr zz
 sofia ss au ff yy aa
 sofia(2) ss oo ff yy aa
 sofie ss au ff ii
@@ -76271,7 +76201,6 @@ sofirad(2) ss oo ff ii rr aa dd
 sofitel ss au ff ii tt ai ll
 sofremi ss oo ff rr ee mm ii
 sofres ss oo ff rr ai ss
-sofres(2) ss oo ff rr zz
 sofri ss au ff rr ii
 soft ss oo ff
 soft(2) ss oo ff tt
@@ -76323,7 +76252,6 @@ soin ss ww in
 soins ss ww in
 soir ss ww aa rr
 soirs ss ww aa rr
-soirs(2) ss ww aa rr zz
 soirée ss ww aa rr ei
 soirées ss ww aa rr ei
 sois ss ww aa
@@ -76616,7 +76544,6 @@ sonder(2) ss on dd ei rr
 sondes ss on dd
 sondes(2) ss on dd ee
 sondeurs ss on dd oe rr
-sondeurs(2) ss on dd oe rr zz
 sondé ss on dd ei
 sondés ss on dd ei
 song ss on gg
@@ -76674,7 +76601,6 @@ sonnette(2) ss oo nn ai tt ee
 sonnettes ss oo nn ai tt
 sonnettes(2) ss oo nn ai tt ee
 sonneurs ss oo nn oe rr
-sonneurs(2) ss oo nn oe rr zz
 sonny ss oo nn ii
 sonné ss oo nn ei
 sonnés ss oo nn ei
@@ -76777,7 +76703,6 @@ sortit ss oo rr tt ii
 sortit(2) ss oo rr tt ii tt
 sortons ss oo rr tt on
 sorts ss oo rr
-sorts(2) ss oo rr zz
 sos ai ss au ai ss
 sos(2) ai ss au ai ss ee
 sos-racisme ai ss au ai ss rr aa ss ii ss mm
@@ -77065,7 +76990,6 @@ soupire ss ou pp ii rr
 soupire(2) ss ou pp ii rr ee
 soupirent ss ou pp ii rr ee
 soupirs ss ou pp ii rr
-soupirs(2) ss ou pp ii rr zz
 souple ss ou pp ll
 souple(2) ss ou pp ll ee
 souples ss ou pp ll
@@ -77116,7 +77040,6 @@ sourdine(2) ss ou rr dd ii nn ee
 sourdre ss ou rr dd rr
 sourdre(2) ss ou rr dd rr ee
 sourds ss ou rr
-sourds(2) ss ou rr zz
 souri ss ou rr ii
 souriait ss ou rr yy ai
 souriait(2) ss ou rr yy ai tt
@@ -77212,7 +77135,6 @@ sous_réserve_de ss ou rr ei zz ai rr vv ee dd ee
 sous_réserve_que ss ou rr ei zz ai rr vv ee kk ee
 souscripteur ss ou ss kk rr ii pp tt oe rr
 souscripteurs ss ou ss kk rr ii pp tt oe rr
-souscripteurs(2) ss ou ss kk rr ii pp tt oe rr zz
 souscription ss ou ss kk rr ii pp ss yy on
 souscriptions ss ou ss kk rr ii pp ss yy on
 souscrire ss ou ss kk rr ii rr
@@ -77314,7 +77236,6 @@ souvenant(2) ss ou vv ee nn an tt
 souvenez ss ou vv ee nn ei
 souvenir ss ou vv ee nn ii rr
 souvenirs ss ou vv ee nn ii rr
-souvenirs(2) ss ou vv ee nn ii rr zz
 souvenons ss ou vv ee nn on
 souvent ss ou vv an
 souvent(2) ss ou vv an tt
@@ -77411,7 +77332,6 @@ spectaculaires ss pp ai kk tt aa kk uu ll ai rr
 spectaculaires(2) ss pp ai kk tt aa kk uu ll ai rr ee
 spectateur ss pp ai kk tt aa tt oe rr
 spectateurs ss pp ai kk tt aa tt oe rr
-spectateurs(2) ss pp ai kk tt aa tt oe rr zz
 spectatrice ss pp ai kk tt aa tt rr ii ss
 spectatrice(2) ss pp ai kk tt aa tt rr ii ss ee
 spectatrices ss pp ai kk tt aa tt rr ii ss
@@ -77486,7 +77406,6 @@ spla ss pp ll aa
 spleen ss pp ll ii nn
 splendeur ss pp ll an dd oe rr
 splendeurs ss pp ll an dd oe rr
-splendeurs(2) ss pp ll an dd oe rr zz
 splendid ss pp ll ai nn dd ii dd
 splendide ss pp ll an dd ii dd
 splendide(2) ss pp ll an dd ii dd ee
@@ -77503,7 +77422,6 @@ sponsor ss pp oo nn ss oo rr
 sponsoring ss pp oo nn ss oo rr ii nn gg
 sponsorisé ss pp oo nn ss oo rr ii zz ei
 sponsors ss pp oo nn ss oo rr
-sponsors(2) ss pp oo nn ss oo rr zz
 spontané ss pp on tt aa nn ei
 spontanée ss pp on tt aa nn ei
 spontanées ss pp on tt aa nn ei
@@ -77534,7 +77452,6 @@ sportives ss pp oo rr tt ii vv
 sportives(2) ss pp oo rr tt ii vv ee
 sports ss pp oo rr
 sports(2) ss pp oo rr tt ss
-sports(3) ss pp oo rr zz
 sportswear ss pp oo rr tt ss ww ai rr
 spot ss pp oo tt
 spots ss pp oo tt
@@ -77554,7 +77471,6 @@ sprinter ss pp rr ii nn tt ee rr
 sprinter(2) ss pp rr ii nn tt ei
 sprinter(3) ss pp rr ii nn tt ei rr
 sprinters ss pp rr ii nn tt ee rr
-sprinters(2) ss pp rr ii nn tt ee rr zz
 sprinteur ss pp rr ii nn tt oe rr
 sprinteurs ss pp rr ii nn tt oe rr
 sprinteuse ss pp rr ii nn tt oe zz
@@ -77621,7 +77537,6 @@ spéculant ss pp ai kk uu ll an
 spéculant(2) ss pp ai kk uu ll an tt
 spéculateur ss pp ai kk uu ll aa tt oe rr
 spéculateurs ss pp ai kk uu ll aa tt oe rr
-spéculateurs(2) ss pp ai kk uu ll aa tt oe rr zz
 spéculatif ss pp ai kk uu ll aa tt ii ff
 spéculatifs ss pp ai kk uu ll aa tt ii ff
 spéculatifs(2) ss pp ai kk uu ll aa tt ii ff zz
@@ -77647,7 +77562,6 @@ squares(2) ss kk ww aa rr ee
 squat ss kk ww aa tt
 squats ss kk ww aa tt
 squatters ss kk ww aa tt ee rr
-squatters(2) ss kk ww aa tt ee rr zz
 squatteurs ss kk ww aa tt oe rr
 squelette ss kk ee ll ai tt
 squelette(2) ss kk ee ll ai tt ee
@@ -77677,7 +77591,6 @@ st(3) ss tt
 staatsoper ss tt aa aa tt ss au pp ai rr
 stabilisateur ss tt aa bb ii ll ii zz aa tt oe rr
 stabilisateurs ss tt aa bb ii ll ii zz aa tt oe rr
-stabilisateurs(2) ss tt aa bb ii ll ii zz aa tt oe rr zz
 stabilisation ss tt aa bb ii ll ii zz aa ss yy on
 stabilise ss tt aa bb ii ll ii zz
 stabilise(2) ss tt aa bb ii ll ii zz ee
@@ -77746,7 +77659,6 @@ standardiste ss tt an dd aa rr dd ii ss tt
 standardisé ss tt an dd aa rr dd ii zz ei
 standardisée ss tt an dd aa rr dd ii zz ei
 standards ss tt an dd aa rr
-standards(2) ss tt an dd aa rr zz
 standing ss tt an dd ii ii gg
 stands ss tt an dd
 stands(2) ss tt an dd zz
@@ -77772,7 +77684,6 @@ starobinski(2) ss tt aa rr oo bb in ss kk ii
 starr ss tt aa rr
 stars ss tt aa rr
 stars(2) ss tt aa rr ss
-stars(3) ss tt aa rr zz
 start ss tt aa rr tt
 starting ss tt aa rr tt ii nn gg
 stasi ss tt aa zz ii
@@ -78390,7 +78301,6 @@ subvertir ss uu bb vv ai rr tt ii rr
 success ss uu kk ss ai ss
 successeur ss uu kk ss ai ss oe rr
 successeurs ss uu kk ss ai ss oe rr
-successeurs(2) ss uu kk ss ai ss oe rr zz
 successif ss uu kk ss ai ss ii ff
 successifs ss uu kk ss ai ss ii ff
 successifs(2) ss uu kk ss ai ss ii ff zz
@@ -78486,7 +78396,6 @@ suer(3) ss uy ei
 suer(4) ss uy ei rr
 sueur ss uu oe rr
 sueurs ss uu oe rr
-sueurs(2) ss uu oe rr zz
 suez ss uy ai zz
 suffira ss uu ff ii rr aa
 suffiraient ss uu ff ii rr ai
@@ -78595,7 +78504,6 @@ suive ss uy ii vv
 suive(2) ss uy ii vv ee
 suivent ss uy ii vv ee
 suiveurs ss uy ii vv oe rr
-suiveurs(2) ss uy ii vv oe rr zz
 suivez ss uy ii vv ei
 suivi ss uy ii vv ii
 suivie ss uy ii vv ii
@@ -78798,11 +78706,9 @@ supporterait(2) ss uu pp oo rr tt ee rr ai tt
 supporteront ss uu pp oo rr tt ee rr on
 supporteront(2) ss uu pp oo rr tt ee rr on tt
 supporters ss uu pp oo rr tt ee rr
-supporters(2) ss uu pp oo rr tt ee rr zz
 supporteur ss uu pp oo rr tt oe rr
 supporteurs ss uu pp oo rr tt oe rr
 supports ss uu pp oo rr
-supports(2) ss uu pp oo rr zz
 supporté ss uu pp oo rr tt ei
 supportée ss uu pp oo rr tt ei
 supportées ss uu pp oo rr tt ei
@@ -78862,7 +78768,6 @@ supérieure(2) ss uu pp ai rr yy oe rr ee
 supérieures ss uu pp ai rr yy oe rr
 supérieures(2) ss uu pp ai rr yy oe rr ee
 supérieurs ss uu pp ai rr yy oe rr
-supérieurs(2) ss uu pp ai rr yy oe rr zz
 supériorité ss uu pp ai rr yy oo rr ii tt ei
 sur ss uu rr
 sur-le-champ ss uu rr ll ee ch an
@@ -78940,7 +78845,6 @@ surfer ss oe rr ff ee rr
 surfers ss uu rr ff ei
 surfeur ss ee rr ff oe rr
 surfeurs ss ee rr ff oe rr
-surfeurs(2) ss ee rr ff oe rr zz
 surgelé ss uu rr jj ee ll ei
 surgelés ss uu rr jj ee ll ei
 surgi ss uu rr jj ii
@@ -78955,7 +78859,6 @@ surgit ss uu rr jj ii
 surgit(2) ss uu rr jj ii tt
 surgénérateur ss uu rr jj ai nn ai rr aa tt oe rr
 surgénérateurs ss uu rr jj ai nn ai rr aa tt oe rr
-surgénérateurs(2) ss uu rr jj ai nn ai rr aa tt oe rr zz
 surinam ss uu rr ii nn aa mm
 suriname ss uu rr ii nn aa mm
 surintendant ss uu rr in tt an dd an
@@ -79440,7 +79343,6 @@ synthétiser ss in tt ai tt ii zz ei
 synthétiser(2) ss in tt ai tt ii zz ei rr
 synthétiseur ss in tt ai tt ii zz oe rr
 synthétiseurs ss in tt ai tt ii zz oe rr
-synthétiseurs(2) ss in tt ai tt ii zz oe rr zz
 syphilis ss ii ff ii ll ii ss
 syracuse ss ii rr aa kk uu zz
 syracuse(2) ss ii rr aa kk uu zz ee
@@ -79620,7 +79522,6 @@ séjourner ss ai jj ou rr nn ei
 séjourner(2) ss ai jj ou rr nn ei rr
 séjourné ss ai jj ou rr nn ei
 séjours ss ai jj ou rr
-séjours(2) ss ai jj ou rr zz
 sékou ss ei kk ou
 sélecteur ss ai ll ai kk tt oe rr
 sélectif ss ai ll ai kk tt ii ff
@@ -79637,7 +79538,6 @@ sélectionner ss ai ll ai kk ss yy oo nn ei
 sélectionner(2) ss ai ll ai kk ss yy oo nn ei rr
 sélectionneur ss ai ll ai kk ss yy oo nn oe rr
 sélectionneurs ss ai ll ai kk ss yy oo nn oe rr
-sélectionneurs(2) ss ai ll ai kk ss yy oo nn oe rr zz
 sélectionné ss ai ll ai kk ss yy oo nn ei
 sélectionnée ss ai ll ai kk ss yy oo nn ei
 sélectionnées ss ai ll ai kk ss yy oo nn ei
@@ -79674,7 +79574,6 @@ sénat ss ai nn aa
 sénat(2) ss ei nn aa
 sénateur ss ai nn aa tt oe rr
 sénateurs ss ai nn aa tt oe rr
-sénateurs(2) ss ai nn aa tt oe rr zz
 sénatorial ss ai nn aa tt oo rr yy aa ll
 sénatoriale ss ai nn aa tt oo rr yy aa ll
 sénatoriale(2) ss ai nn aa tt oo rr yy aa ll ee
@@ -79843,7 +79742,6 @@ sûres ss uu rr
 sûres(2) ss uu rr ee
 sûreté ss uu rr ee tt ei
 sûrs ss uu rr
-sûrs(2) ss uu rr zz
 sût ss uu
 sût(2) ss uu tt
 süddeutsche ss uu dd eu tt ss ch
@@ -79972,7 +79870,6 @@ tailles tt aa yy
 tailles(2) tt aa yy ee
 tailleur tt aa yy oe rr
 tailleurs tt aa yy oe rr
-tailleurs(2) tt aa yy oe rr zz
 taillevent tt aa yy ee vv an
 taillevent(2) tt aa yy vv an
 taillis tt aa yy ii
@@ -80066,7 +79963,6 @@ tambourin(2) tt an bb ou rr in
 tambourins tt an bb ou rr in
 tambours tt an bb ou rr
 tambours(2) tt an bb ou rr
-tambours(3) tt an bb ou rr zz
 tamil tt aa mm ii ll
 tamilnadu tt aa mm ii ll nn aa dd ou
 tamis tt aa mm ii
@@ -80129,7 +80025,6 @@ tanjug tt aa nn jj uu gg
 tank tt an kk
 tanker tt an kk ee rr
 tankers tt an kk ee rr
-tankers(2) tt an kk ee rr zz
 tankiste tt an kk ii ss tt
 tankiste(2) tt an kk ii ss tt ee
 tanks tt an kk
@@ -80830,7 +80725,6 @@ terrestres tt ai rr ai ss tt rr
 terrestres(2) tt ai rr ai ss tt rr ee
 terreur tt ai rr oe rr
 terreurs tt ai rr oe rr
-terreurs(2) tt ai rr oe rr zz
 terrible tt ai rr ii bb ll
 terrible(2) tt ai rr ii bb ll ee
 terriblement tt ai rr ii bb ll ee mm an
@@ -80872,7 +80766,6 @@ territoriaux tt ai rr ii tt oo rr yy au
 territoriaux(2) tt ai rr ii tt oo rr yy au zz
 terroir tt ai rr ww aa rr
 terroirs tt ai rr ww aa rr
-terroirs(2) tt ai rr ww aa rr zz
 terrorise tt ai rr oo rr ii zz
 terrorise(2) tt ai rr oo rr ii zz ee
 terroriser tt ai rr oo rr ii zz ei
@@ -81199,7 +81092,6 @@ thérèse(4) tt ei rr ai zz ee
 thérésa tt ei rr ei zz aa
 thés tt ei
 thésards tt ai zz aa rr
-thésards(2) tt ai zz aa rr zz
 thésée tt ei zz ei
 thévenet tt ei vv ee nn ai
 thévenet(2) tt ei vv nn ai
@@ -81266,7 +81158,6 @@ tierce tt yy ai rr ss
 tierce(2) tt yy ai rr ss ee
 tiercé tt yy ai rr ss ei
 tiers tt yy ai rr
-tiers(2) tt yy ai rr zz
 tiers-monde tt yy ai rr mm on dd
 tiers-monde(2) tt yy ai rr mm on dd ee
 tiersen tt ii rr ss ai nn
@@ -81367,7 +81258,6 @@ tiraillement tt ii rr aa yy ee mm an
 tiraillement(2) tt ii rr aa yy mm an
 tiraillements tt ii rr aa yy ee mm an
 tirailleurs tt ii rr aa yy oe rr
-tirailleurs(2) tt ii rr aa yy oe rr zz
 tiraillé tt ii rr aa yy ei
 tiraillée tt ii rr aa yy ei
 tiraillés tt ii rr aa yy ei
@@ -81400,10 +81290,8 @@ tireurs tt ii rr oe rr
 tirez tt ii rr ei
 tiroir tt ii rr ww aa rr
 tiroirs tt ii rr ww aa rr
-tiroirs(2) tt ii rr ww aa rr zz
 tirons tt ii rr on
 tirs tt ii rr
-tirs(2) tt ii rr zz
 tiré tt ii rr ei
 tirée tt ii rr ei
 tirées tt ii rr ei
@@ -81772,7 +81660,6 @@ tortionnaire(2) tt oo rr ss yy oo nn ai rr ee
 tortionnaires tt oo rr ss yy oo nn ai rr
 tortionnaires(2) tt oo rr ss yy oo nn ai rr ee
 torts tt oo rr
-torts(2) tt oo rr zz
 tortue tt oo rr tt uu
 tortues tt oo rr tt uu
 tortues(2) tt oo rr tt uu zz
@@ -81888,7 +81775,6 @@ touffu tt ou ff uu
 touffé tt ou ff ei
 toufik tt ou ff ii kk
 toujours tt ou jj ou rr
-toujours(2) tt ou jj ou rr zz
 toul tt ou ll
 toula tt ou ll aa
 toulisse tt ou ll ii ss
@@ -81977,7 +81863,6 @@ tournesol tt ou rr nn ee ss oo ll
 tournesols tt ou rr nn ee ss oo ll
 tourneur tt ou rr nn oe rr
 tourneurs tt ou rr nn oe rr
-tourneurs(2) tt ou rr nn oe rr zz
 tournevis tt ou rr nn ee vv ii ss
 tournez tt ou rr nn ei
 tournier tt ou rr nn yy ei
@@ -81999,7 +81884,6 @@ tournée tt ou rr nn ei
 tournées tt ou rr nn ei
 tournés tt ou rr nn ei
 tours tt ou rr
-tours(2) tt ou rr zz
 touré tt ou rr ai
 tous tt ou
 tous(2) tt ou ss
@@ -82119,7 +82003,6 @@ tractations tt rr aa kk tt aa ss yy on
 tractebel tt rr aa kk tt ee bb ai ll
 tracteur tt rr aa kk tt oe rr
 tracteurs tt rr aa kk tt oe rr
-tracteurs(2) tt rr aa kk tt oe rr zz
 traction tt rr aa kk ss yy on
 tracts tt rr aa kk tt
 tracts(2) tt rr aa kk tt zz
@@ -82152,7 +82035,6 @@ traditionnels tt rr aa dd ii ss yy oo nn ai ll
 traditions tt rr aa dd ii ss yy on
 traducteur tt rr aa dd uu kk tt oe rr
 traducteurs tt rr aa dd uu kk tt oe rr
-traducteurs(2) tt rr aa dd uu kk tt oe rr zz
 traduction tt rr aa dd uu kk ss yy on
 traductions tt rr aa dd uu kk ss yy on
 traductrice tt rr aa dd uu kk tt rr ii ss
@@ -82257,7 +82139,6 @@ traites tt rr ai tt
 traites(2) tt rr ai tt ee
 traiteur tt rr ai tt oe rr
 traiteurs tt rr ai tt oe rr
-traiteurs(2) tt rr ai tt oe rr zz
 traitons tt rr ai tt on
 traits tt rr ai
 traits(2) tt rr ai zz
@@ -82363,7 +82244,6 @@ transes(2) tt rr an ss ee
 transeuropéens tt rr an zz eu rr oo pp ei in
 transfert tt rr an ss ff ai rr
 transferts tt rr an ss ff ai rr
-transferts(2) tt rr an ss ff ai rr zz
 transfiguration tt rr an ss ff ii gg uu rr aa ss yy on
 transfiguré tt rr an ss ff ii gg uu rr ei
 transforma tt rr an ss ff oo rr mm aa
@@ -82372,7 +82252,6 @@ transformait(2) tt rr an ss ff oo rr mm ai tt
 transformant tt rr an ss ff oo rr mm an
 transformant(2) tt rr an ss ff oo rr mm an tt
 transformateurs tt rr an ss ff oo rr mm aa tt oe rr
-transformateurs(2) tt rr an ss ff oo rr mm aa tt oe rr zz
 transformation tt rr an ss ff oo rr mm aa ss yy on
 transformations tt rr an ss ff oo rr mm aa ss yy on
 transformatrice tt rr an ss ff oo rr mm aa tt rr ii ss
@@ -82434,7 +82313,6 @@ transiger tt rr an zz ii jj ei
 transiger(2) tt rr an zz ii jj ei rr
 transistor tt rr an zz ii ss tt oo rr
 transistors tt rr an zz ii ss tt oo rr
-transistors(2) tt rr an zz ii ss tt oo rr zz
 transit tt rr an zz ii
 transit(2) tt rr an zz ii tt
 transitant tt rr an zz ii tt an
@@ -82522,11 +82400,9 @@ transporter tt rr an ss pp oo rr tt ei
 transporter(2) tt rr an ss pp oo rr tt ei rr
 transporteur tt rr an ss pp oo rr tt oe rr
 transporteurs tt rr an ss pp oo rr tt oe rr
-transporteurs(2) tt rr an ss pp oo rr tt oe rr zz
 transportons tt rr an ss pp oo rr tt on
 transports tt rr aa nn ss pp oo rr tt ss
 transports(2) tt rr an ss pp oo rr
-transports(3) tt rr an ss pp oo rr zz
 transporté tt rr an ss pp oo rr tt ei
 transportée tt rr an ss pp oo rr tt ei
 transportées tt rr an ss pp oo rr tt ei
@@ -82615,7 +82491,6 @@ travailleront tt rr aa vv aa yy ee rr on
 travailleront(2) tt rr aa vv aa yy ee rr on tt
 travailleur tt rr aa vv aa yy oe rr
 travailleurs tt rr aa vv aa yy oe rr
-travailleurs(2) tt rr aa vv aa yy oe rr zz
 travailleuse tt rr aa vv aa yy eu zz
 travailleuse(2) tt rr aa vv aa yy eu zz ee
 travailleuses tt rr aa vv aa yy eu zz
@@ -82640,7 +82515,6 @@ travelling tt rr aa vv ee ll ii ii gg
 travellings tt rr aa vv ee ll ii ii gg
 travellings(2) tt rr aa vv ee ll ii ii gg zz
 travers tt rr aa vv ai rr
-travers(2) tt rr aa vv ai rr zz
 traversa tt rr aa vv ai rr ss aa
 traversaient tt rr aa vv ai rr ss ai
 traversaient(2) tt rr aa vv ai rr ss ai tt
@@ -82838,7 +82712,6 @@ tricherie tt rr ii ch ee rr ii
 trichet tt rr ii ch ai
 tricheur tt rr ii ch oe rr
 tricheurs tt rr ii ch oe rr
-tricheurs(2) tt rr ii ch oe rr zz
 triché tt rr ii ch ei
 tricolor tt rr ii kk au ll oo rr
 tricolore tt rr ii kk oo ll oo rr
@@ -82961,7 +82834,6 @@ troie tt rr ww aa
 trois tt rr ww aa
 trois(2) tt rr ww aa zz
 trois-quarts tt rr ww aa kk aa rr
-trois-quarts(2) tt rr ww aa kk aa rr zz
 troisième tt rr ww aa zz yy ai mm
 troisième(2) tt rr ww aa zz yy ai mm ee
 troisièmement tt rr ww aa zz yy ai mm ee mm an
@@ -83062,13 +82934,11 @@ trottinettes tt rr oo tt ii nn ai tt
 trottinettes(2) tt rr oo tt ii nn ai tt ee
 trottoir tt rr oo tt ww aa rr
 trottoirs tt rr oo tt ww aa rr
-trottoirs(2) tt rr oo tt ww aa rr zz
 trou tt rr ou
 trouaient tt rr ou ai
 trouaient(2) tt rr ou ai tt
 troubadour tt rr ou bb aa dd ou rr
 troubadours tt rr ou bb aa dd ou rr
-troubadours(2) tt rr ou bb aa dd ou rr zz
 troublant tt rr ou bb ll an
 troublant(2) tt rr ou bb ll an tt
 troublante tt rr ou bb ll an tt
@@ -83252,7 +83122,6 @@ trésorière tt rr ai zz oo rr yy ai rr
 trésorière(2) tt rr ai zz oo rr yy ai rr ee
 trésors tt rr ei zz oo rr
 trésors(2) tt rr ai zz oo rr
-trésors(3) tt rr ai zz oo rr zz
 tréteaux tt rr ai tt au
 tréteaux(2) tt rr ai tt au zz
 trévise tt rr ei vv ii zz
@@ -83271,7 +83140,6 @@ tsariste tt ss aa rr ii ss tt
 tsariste(2) tt ss aa rr ii ss tt ee
 tsaroï tt ss aa rr oo yy
 tsars dd zz aa rr
-tsars(2) dd zz aa rr zz
 tsb tt ei ai ss bb ei
 tschombé tt ch on bb ei
 tsf tt ei ai ss ai ff
@@ -83328,7 +83196,6 @@ tues tt uu
 tues(2) tt uu zz
 tueur tt uu oe rr
 tueurs tt uu oe rr
-tueurs(2) tt uu oe rr zz
 tueuse tt uu eu zz
 tueuse(2) tt uu eu zz ee
 tuez tt uu ei
@@ -83353,7 +83220,6 @@ tulle(2) tt uu ll ee
 tullio tt uu ll yy au
 tumeur tt uu mm oe rr
 tumeurs tt uu mm oe rr
-tumeurs(2) tt uu mm oe rr zz
 tumulte tt uu mm uu ll tt
 tumulte(2) tt uu mm uu ll tt ee
 tumultes tt uu mm uu ll tt
@@ -83455,7 +83321,6 @@ tutelles tt uu tt ai ll
 tutelles(2) tt uu tt ai ll ee
 tuteur tt uu tt oe rr
 tuteurs tt uu tt oe rr
-tuteurs(2) tt uu tt oe rr zz
 tutoie tt uu tt ww aa
 tutoiement tt uu tt ww aa mm an
 tutorat tt uu tt oo rr aa
@@ -83637,14 +83502,12 @@ télérama tt ei ll ei rr aa mm aa
 télés tt ai ll ei
 téléspectateur tt ai ll ai ss pp ai kk tt aa tt oe rr
 téléspectateurs tt ai ll ai ss pp ai kk tt aa tt oe rr
-téléspectateurs(2) tt ai ll ai ss pp ai kk tt aa tt oe rr zz
 téléthon tt ei ll ei tt on
 télétravail tt ei ll ei tt rr aa vv aa yy
 télévangélistes tt ei ll ei vv an jj ei ll ii ss tt
 télévirenquethon tt ei ll ei vv ii rr an kk ee tt on
 téléviseur tt ai ll ai vv ii zz oe rr
 téléviseurs tt ai ll ai vv ii zz oe rr
-téléviseurs(2) tt ai ll ai vv ii zz oe rr zz
 télévision tt ai ll ai vv ii zz yy on
 télévision(2) tt ei ll ei vv ii zz yy on
 télévisions tt ai ll ai vv ii zz yy on
@@ -83692,7 +83555,6 @@ témérité tt ai mm ai rr ii tt ei
 ténacité tt ai nn aa ss ii tt ei
 ténor tt ai nn oo rr
 ténors tt ai nn oo rr
-ténors(2) tt ai nn oo rr zz
 ténu tt ai nn uu
 ténue tt ai nn uu
 ténues tt ai nn uu
@@ -83850,7 +83712,6 @@ ultérieurement uu ll tt ei rr yy oe rr ee mm an
 ultérieures uu ll tt ai rr yy oe rr
 ultérieures(2) uu ll tt ai rr yy oe rr ee
 ultérieurs uu ll tt ai rr yy oe rr
-ultérieurs(2) uu ll tt ai rr yy oe rr zz
 ulysse uu ll ii ss
 ulysse(2) uu ll ii ss ee
 uma uu mm aa
@@ -84010,7 +83871,6 @@ unité uu nn ii tt ei
 unités uu nn ii tt ei
 univers uu nn ii vv ai rr
 univers(2) uu nn ii vv ai rr ss
-univers(3) uu nn ii vv ai rr zz
 universal uu nn ii vv ai rr ss aa ll
 universal(2) uu nn ii vv ai rr ss aa ll
 universalis uu nn ii vv ai rr ss aa ll ii
@@ -84229,7 +84089,6 @@ utilisant uu tt ii ll ii zz an
 utilisant(2) uu tt ii ll ii zz an tt
 utilisateur uu tt ii ll ii zz aa tt oe rr
 utilisateurs uu tt ii ll ii zz aa tt oe rr
-utilisateurs(2) uu tt ii ll ii zz aa tt oe rr zz
 utilisation uu tt ii ll ii zz aa ss yy on
 utilisations uu tt ii ll ii zz aa ss yy on
 utilisatrices uu tt ii ll ii zz aa tt rr ii ss
@@ -84388,7 +84247,6 @@ vaines vv ai nn
 vaines(2) vv ai nn ee
 vainqueur vv in kk oe rr
 vainqueurs vv in kk oe rr
-vainqueurs(2) vv in kk oe rr zz
 vains vv in
 vainsteins vv ai nn ss tt ai nn ss
 vairelles vv ai rr ai ll
@@ -84454,7 +84312,6 @@ valeur vv aa ll oe rr
 valeureux vv aa ll ee rr eu
 valeureux(2) vv aa ll ee rr eu zz
 valeurs vv aa ll oe rr
-valeurs(2) vv aa ll oe rr zz
 validation vv aa ll ii dd aa ss yy on
 valide vv aa ll ii dd
 valide(2) vv aa ll ii dd ee
@@ -84587,7 +84444,6 @@ vanves vv an vv
 vanves(2) vv an vv ee
 vapeur vv aa pp oe rr
 vapeurs vv aa pp oe rr
-vapeurs(2) vv aa pp oe rr zz
 vaquer vv aa kk ei
 vaquer(2) vv aa kk ei rr
 var vv aa rr
@@ -84651,7 +84507,6 @@ vase(2) vv aa zz ee
 vases vv aa zz
 vases(2) vv aa zz ee
 vasodilatateurs vv aa zz oo dd ii ll aa tt aa tt oe rr
-vasodilatateurs(2) vv aa zz oo dd ii ll aa tt aa tt oe rr zz
 vasquez vv aa ss kk ai zz
 vassal vv aa ss aa ll
 vassalité vv aa ss aa ll ii tt ei
@@ -84699,7 +84554,6 @@ vaut vv au
 vaut(2) vv au tt
 vautier vv au tt yy ei
 vautours vv oo tt ou rr
-vautours(2) vv oo tt ou rr zz
 vautrin vv au tt rr in
 vaux vv au
 vaux(2) vv au zz
@@ -84717,7 +84571,6 @@ veber vv ei bb ai rr
 vecchio vv ei kk yy au
 vecteur vv ai kk tt oe rr
 vecteurs vv ai kk tt oe rr
-vecteurs(2) vv ai kk tt oe rr zz
 vectra vv ai kk tt rr aa
 vedel vv ei dd ai ll
 vedettariat vv ee dd ai tt aa rr yy aa
@@ -84749,9 +84602,7 @@ veillé vv ai yy ei
 veillée vv ai yy ei
 veillées vv ai yy ei
 veinards vv ai nn aa rr
-veinards(2) vv ai nn aa rr zz
-veinards(3) vv ei nn aa rr
-veinards(4) vv ei nn aa rr zz
+veinards(2) vv ei nn aa rr
 veine vv ai nn
 veine(2) vv ai nn ee
 veines vv ai nn
@@ -84772,7 +84623,6 @@ velléités vv ai ll ai ii tt ei
 velo vv ei ll au
 veloso vv ei ll au zz au
 velours vv ee ll ou rr
-velours(2) vv ee ll ou rr zz
 velouté vv ee ll ou tt ei
 velter vv ai ll tt ai rr
 veltroni vv ei ll tt rr au nn ii
@@ -84806,7 +84656,6 @@ vendent vv an dd ee
 vendetta vv an dd ai tt aa
 vendeur vv an dd oe rr
 vendeurs vv an dd oe rr
-vendeurs(2) vv an dd oe rr zz
 vendeuse vv an dd eu zz
 vendeuse(2) vv an dd eu zz ee
 vendeuses vv an dd eu zz
@@ -84853,7 +84702,6 @@ vengeresse vv an jj ee rr ai ss
 vengeresse(2) vv an jj ee rr ai ss ee
 vengeur vv an jj oe rr
 vengeurs vv an jj oe rr
-vengeurs(2) vv an jj oe rr zz
 venimeux vv ee nn ii mm eu
 venimeux(2) vv ee nn ii mm eu zz
 venin vv ee nn in
@@ -84874,7 +84722,6 @@ venteuse vv an tt eu zz
 venteuse(2) vv an tt eu zz ee
 ventilateur vv an tt ii ll aa tt oe rr
 ventilateurs vv an tt ii ll aa tt oe rr
-ventilateurs(2) vv an tt ii ll aa tt oe rr zz
 ventilation vv an tt ii ll aa ss yy on
 ventilés vv an tt ii ll ei
 ventoux vv an tt ou
@@ -85024,7 +84871,6 @@ verrouillés(2) vv ei rr ou yy ei
 verrous vv ai rr ou
 verrous(2) vv ai rr ou zz
 vers vv ai rr
-vers(2) vv ai rr zz
 versa vv ai rr ss aa
 versace vv ai rr ss aa ss
 versaillais vv ai rr ss aa yy ai
@@ -85094,7 +84940,6 @@ vertigineux vv ai rr tt ii jj ii nn eu
 vertigineux(2) vv ai rr tt ii jj ii nn eu zz
 vertigo vv ai rr tt ii gg au
 verts vv ai rr
-verts(2) vv ai rr zz
 vertu vv ai rr tt uu
 vertueuse vv ai rr tt uu eu zz
 vertueuse(2) vv ai rr tt uu eu zz ee
@@ -85318,7 +85163,6 @@ vieil vv yy ai yy
 vieillard vv yy ai yy aa rr
 vieillard(2) vv yy ai yy aa rr
 vieillards vv yy ai yy aa rr
-vieillards(2) vv yy ai yy aa rr zz
 vieille vv yy ai yy
 vieille(2) vv yy ai yy ee
 vieille(3) vv yy ee ai yy
@@ -85662,7 +85506,6 @@ violettes vv yy oo ll ai tt
 violettes(2) vv yy oo ll ai tt ee
 violeur vv yy oo ll oe rr
 violeurs vv yy oo ll oe rr
-violeurs(2) vv yy oo ll oe rr zz
 viollet vv yy oo ll ai
 violon vv yy oo ll on
 violonades vv yy oo ll oo nn aa dd
@@ -85840,7 +85683,6 @@ visites vv ii zz ii tt
 visites(2) vv ii zz ii tt ee
 visiteur vv ii zz ii tt oe rr
 visiteurs vv ii zz ii tt oe rr
-visiteurs(2) vv ii zz ii tt oe rr zz
 visiteuses vv ii zz ii tt eu zz
 visiteuses(2) vv ii zz ii tt eu zz ee
 visité vv ii zz ii tt ei
@@ -85904,7 +85746,6 @@ viticoles vv ii tt ii kk oo ll
 viticoles(2) vv ii tt ii kk oo ll ee
 viticulteur vv ii tt ii kk uu ll tt oe rr
 viticulteurs vv ii tt ii kk uu ll tt oe rr
-viticulteurs(2) vv ii tt ii kk uu ll tt oe rr zz
 viticulture vv ii tt ii kk uu ll tt uu rr
 viticulture(2) vv ii tt ii kk uu ll tt uu rr ee
 vito vv ii tt au
@@ -86149,7 +85990,6 @@ volets vv oo ll ai
 volets(2) vv oo ll ai zz
 voleur vv oo ll oe rr
 voleurs vv oo ll oe rr
-voleurs(2) vv oo ll oe rr zz
 voleuse vv oo ll eu zz
 voleuse(2) vv oo ll eu zz ee
 volff vv oo ll ff
@@ -86315,7 +86155,6 @@ vouliez vv ou ll yy ei
 voulions vv ou ll yy on
 vouloir vv ou ll ww aa rr
 vouloirs vv ou ll ww aa rr
-vouloirs(2) vv ou ll ww aa rr zz
 voulons vv ou ll on
 voulu vv ou ll uu
 voulue vv ou ll uu
@@ -86353,7 +86192,6 @@ voyages vv ww aa yy aa jj
 voyages(2) vv ww aa yy aa jj ee
 voyageur vv ww aa yy aa jj oe rr
 voyageurs vv ww aa yy aa jj oe rr
-voyageurs(2) vv ww aa yy aa jj oe rr zz
 voyageuse vv ww aa yy aa jj eu zz
 voyageuse(2) vv ww aa yy aa jj eu zz ee
 voyagiste vv ww aa yy aa jj ii ss tt
@@ -86381,7 +86219,6 @@ voyeur vv ww aa yy oe rr
 voyeurisme vv ww aa yy ee rr ii ss mm
 voyeurisme(2) vv ww aa yy ee rr ii ss mm ee
 voyeurs vv ww aa yy oe rr
-voyeurs(2) vv ww aa yy oe rr zz
 voyez vv ww aa yy ei
 voynet vv ww aa nn ai
 voyons vv ww aa yy on
@@ -86572,7 +86409,6 @@ vérifiable(2) vv ai rr ii ff yy aa bb ll ee
 vérifiables vv ai rr ii ff yy aa bb ll
 vérifiables(2) vv ai rr ii ff yy aa bb ll ee
 vérificateurs vv ai rr ii ff ii kk aa tt oe rr
-vérificateurs(2) vv ai rr ii ff ii kk aa tt oe rr zz
 vérification vv ai rr ii ff ii kk aa ss yy on
 vérifications vv ai rr ii ff ii kk aa ss yy on
 vérifie vv ai rr ii ff ii
@@ -86743,7 +86579,6 @@ waterloo ww aa tt ai rr ll au
 waterloo(2) ww aa tt ei rr ll au
 waternaux vv aa tt ai rr nn au
 waters ww aa tt ai rr
-waters(2) ww aa tt ai rr zz
 watkins ww aa tt kk ii nn ss
 watson ww aa tt ss oo nn
 watteau vv aa tt au
@@ -87105,7 +86940,6 @@ yaoudé yy aa ou dd ei
 yaoundé yy aa ou nn dd ei
 yaourt yy aa ou rr
 yaourts yy aa ou rr
-yaourts(2) yy aa ou rr zz
 yaovi yy aa au vv ii
 yard yy aa rr dd
 yarmouk yy aa rr mm ou kk
