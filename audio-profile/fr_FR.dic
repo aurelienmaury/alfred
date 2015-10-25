@@ -4265,7 +4265,6 @@ antérieurs an tt ai rr yy oe rr
 antériorité an tt ai rr yy oo rr ii tt ei
 anvar an vv aa rr
 anvers an vv ai rr
-anvers(2) an vv ai rr ss
 anversois an vv ai rr ss ww aa
 anwar an vv aa rr
 anxieuse an kk ss yy eu zz
@@ -8253,14 +8252,18 @@ banier bb aa nn yy ei
 baninter bb aa nn ii nn tt ai rr
 banja bb an jj aa
 banjo bb an dd jj au
-bank bb an kk
-bank(2) bb an kk ee
-bankers bb an kk ai rr ss
-banking bb an kk ii nn gg
-banks bb an kk ss
+banque bb an kk
+banque(2) bb an kk ee
+banques bb an kk
+banques(2) bb an kk ee
+banquier bb an kk ii ei
+banquiers bb an kk ii ei
+banquière bb an kk ii ei rr
+banquière(2) bb an kk ii ei rr ee
+banquières bb an kk ii ei rr
+banquières(2) bb an kk ii ei rr ee
 banlieue bb an ll yy eu
 banlieues bb an ll yy eu
-banlieues(2) bb an ll yy eu zz
 banlieusard bb an ll yy ee zz aa rr
 banlieusards bb an ll yy ee zz aa rr
 banna bb aa nn aa
@@ -8510,7 +8513,6 @@ barré bb aa rr ei
 barrée bb aa rr ei
 barrés bb aa rr ei
 bars bb aa rr
-bars(2) bb aa rr ss
 barsac bb aa rr ss aa kk
 bart bb aa rr
 bartabas bb aa rr tt aa bb aa ss
@@ -8924,14 +8926,7 @@ beckett bb ei kk ai tt
 beckham bb ai kk aa mm
 becquerels bb ai kk ee rr ai ll
 bedos bb dd au ss
-bedos(2) bb ee dd au ss
 bedouet bb ee dd ww ai
-bee bb ii
-beeb bb ii bb
-beecham bb ii ch aa mm
-been bb ii nn
-beer bb ii rr
-beers bb ii rr ss
 beffa bb ai ff aa
 beffa(2) bb ei ff aa
 beffroi bb ai ff rr ww aa
@@ -9165,7 +9160,7 @@ bercé bb ai rr ss ei
 berd bb ai rr
 berd(2) bb ai rr dd
 berd(3) bb ei eu ai rr dd ei
-beregovoy bb ee rr ee gg oo vv ww aa
+bérégovoy bb ee rr ee gg oo vv ww aa
 berendement bb ee rr an dd ee mm an
 beresovsky bb ei rr ei zz oo vv ss kk ii
 beretta bb ei rr ei tt aa
