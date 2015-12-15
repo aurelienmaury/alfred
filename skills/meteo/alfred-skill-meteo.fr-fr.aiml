@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aiml version="1.0">
-
-<category><pattern>ACTION_METEO</pattern><template>/alfred/do/meteo</template></category>
-
-<category><pattern>MÉTÉO</pattern><template><srai>ACTION_METEO</srai></template></category>
-<category><pattern>* MÉTÉO</pattern><template><srai>ACTION_METEO</srai></template></category>
-
-</aiml>
