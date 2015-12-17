@@ -1,0 +1,96 @@
+---
+- name: system is up-to-date
+  apt:
+    update_cache=yes
+    upgrade=full
+
+- name: blocking packages are absent
+  apt:
+    pkg=python-pip
+    state=absent
+    purge=yes
+
+- name: toolbox is well equipped
+  apt:
+    pkg="{{ item }}"
+    state=present
+  with_items:
+    - git
+    - aptitude
+    - python-setuptools
+    - python-dev
+    - libffi-dev
+    - libssl-dev
+
+- name: pip is installed
+  easy_install:
+    name=pip
+
+- name: mandatory python packages are installed
+  pip:
+    name="{{ item }}"
+    state=latest
+  with_items:
+    - pip
+    - pyopenssl
+    - ndg-httpsclient
+    - pyasn1
+    - ansible
+
+- name: ansible configuration directory is ready
+  file:
+    path='/etc/ansible'
+    state='directory'
+    owner='root'
+    group='root'
+    mode='0755'
+
+- name: default host inventory is present
+  template:
+    src='alfred_hosts.j2'
+    dest='/etc/ansible/hosts'
+    owner='root'
+    group='root'
+    mode='0755'
+
+- name: alfred is a system user
+  user:
+    name=alfred
+    home="{{ alfred.home }}"
+    generate_ssh_key=yes
+    system=yes
+    ssh_key_bits=4096
+    state=present
+
+- name: body directory exists
+  become_user: alfred
+  file:
+    path="{{ alfred.home }}/services"
+    state=directory
+
+- name: default env variables are in place
+  template:
+    src='etc_default.j2'
+    dest='/etc/default/alfred'
+    owner='root'
+    group='root'
+    mode='0644'
+  notify: restart alfred
+
+- name: default env variables are in place
+  template:
+    src='alfred-spine.service'
+    dest='/etc/systemd/system/multi-user.target.wants/alfred-spine.service'
+    owner='root'
+    group='root'
+    mode='0644'
+  notify: restart alfred
+
+- name: body is gathered
+  become_user: alfred
+  git:
+    repo="{{ item.url }}"
+    dest="{{ alfred.home }}/{{ item.name }}"
+    version="{{ item.version }}"
+    accept_hostkey=yes
+  with_items: "{{ alfred.modules }}"

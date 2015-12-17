@@ -1,0 +1,10 @@
+---
+- name: restart alfred
+  shell: systemctl daemon-reload
+  notify: restart alfred services
+
+- name: restart alfred services
+  service:
+    name='alfred-spine'
+    state=restarted
+    enabled=yes

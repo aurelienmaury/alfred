@@ -1,0 +1,11 @@
+alfred:
+  home: /var/lib/alfred
+  modules:
+
+    - name: 'alfred-cli'
+      url: 'https://github.com/aurelienmaury/alfred-cli.git'
+      version: 'HEAD'
+
+    - name: 'alfred-spine'
+      url: 'https://github.com/aurelienmaury/alfred-spine.git'
+      version: 'HEAD'

@@ -1,0 +1,8 @@
+- hosts: batcave
+  become: true
+
+  vars_files:
+    - 'alfred-vars.yml'
+
+  roles:
+    - alfred

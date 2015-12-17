@@ -1,0 +1,10 @@
+[Unit]
+Description=Alfred Project - Spine module
+
+[Service]
+Type=simple
+EnvironmentFile=/etc/default/alfred
+ExecStart={{ alfred.home }}/alfred-spine/alfred-spine.py $ALFRED_SPINE_INPUT $ALFRED_SPINE_OUTPUT
+
+[Install]
+WantedBy=multi-user.target
