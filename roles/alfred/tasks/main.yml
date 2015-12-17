@@ -36,6 +36,7 @@
     - ndg-httpsclient
     - pyasn1
     - ansible
+    - virtualenv
 
 - name: ansible configuration directory is ready
   file:
@@ -77,15 +78,6 @@
     mode='0644'
   notify: restart alfred
 
-- name: default env variables are in place
-  template:
-    src='alfred-spine.service'
-    dest='/etc/systemd/system/multi-user.target.wants/alfred-spine.service'
-    owner='root'
-    group='root'
-    mode='0644'
-  notify: restart alfred
-
 - name: body is gathered
   become_user: alfred
   git:
@@ -94,3 +86,9 @@
     version="{{ item.version }}"
     accept_hostkey=yes
   with_items: "{{ alfred.modules }}"
+
+- name: every body part is virtualenv'ed
+  become_user: alfred
+  shell: "virtualenv {{ alfred.home }}/{{ item.name }}"
+  with_items: "{{ alfred.modules }}"
+
