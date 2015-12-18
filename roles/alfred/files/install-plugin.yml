@@ -1,11 +1,19 @@
 ---
 - hosts: local
   become: yes
+  become_user: alfred
+
+  vars_files:
+    - '/etc/ansible/alfred-vars.yml'
+
   tasks:
+    - name: prepared virtualenv
+      shell: "virtualenv {{ alfred.home }}/virtualenv/{{ plugin_name }}"
+        creates="{{ alfred.home }}/virtualenv/{{ plugin_name }}"
+
     - name: install pip dependencies
-      become_user: alfred
       pip:
         name="{{ item }}"
-        virtualenv="{{ plugin_dir }}"
+        virtualenv="{{ alfred.home }}/virtualenv/{{ plugin_name }}"
         state=latest
-      with_items: "{{ alfred.plugin.pip_packages }}"
+      with_items: "{{ alfred_plugin.pip_packages }}"

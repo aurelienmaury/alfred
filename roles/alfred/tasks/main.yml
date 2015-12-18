@@ -66,12 +66,6 @@
     ssh_key_bits=4096
     state=present
 
-- name: body directory exists
-  become_user: alfred
-  file:
-    path="{{ alfred.home }}/services"
-    state=directory
-
 - name: default env variables are in place
   template:
     src='etc_default.j2'
@@ -90,20 +84,6 @@
     - plugins
     - virtualenv
 
-- name: body is gathered
-  become_user: alfred
-  git:
-    repo="{{ item.url }}"
-    dest="{{ alfred.home }}/plugins/{{ item.name }}"
-    version="{{ item.version }}"
-    accept_hostkey=yes
-  with_items: "{{ alfred.modules }}"
-
-- name: every body part is virtualenv'ed
-  become_user: alfred
-  shell: "virtualenv {{ alfred.home }}/virtualenv/{{ item.name }}"
-  with_items: "{{ alfred.modules }}"
-
 - name: utils playbooks directory ready
   file:
     path=/etc/ansible/playbooks
@@ -114,6 +94,19 @@
     src=install-plugin.yml
     dest=/etc/ansible/playbooks/install-alfred-plugin.yml
 
+- name: utils playbooks present
+  copy:
+    src='alfred-vars.yml'
+    dest='/etc/ansible/alfred-vars.yml'
+
+- name: body is gathered
+  git:
+    repo="{{ item.url }}"
+    dest="{{ alfred.home }}/plugins/{{ item.name }}"
+    version="{{ item.version }}"
+    accept_hostkey=yes
+  with_items: "{{ alfred.modules }}"
+
 - name: every plugin is installed
-  shell: "ansible-playbook /etc/ansible/playbooks/install-alfred-plugin.yml -e 'plugin_dir={{ alfred.home }}/plugins/{{ item.name }}' -e @{{ alfred.home }}/plugins/{{ item.name }}/plugin/plugin-vars.yml"
+  shell: "ansible-playbook /etc/ansible/playbooks/install-alfred-plugin.yml -e 'plugin_name={{ item.name }}' -e @{{ alfred.home }}/plugins/{{ item.name }}/plugin/plugin-vars.yml"
   with_items: "{{ alfred.modules }}"
