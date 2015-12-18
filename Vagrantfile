@@ -17,10 +17,10 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   end
 
   config.vm.provision "ansible" do |ansible|
-    #ansible.groups = {
-    #  "batcave" => ["alfred_home"],
-    #  "all_groups:children" => ["batcave"]
-    #}
+    ansible.groups = {
+      "local" => ["alfred_home"],
+      "all_groups:children" => ["local"]
+    }
 
     ansible.playbook = "alfred-install.yml"
   end

@@ -104,11 +104,16 @@
   shell: "virtualenv {{ alfred.home }}/virtualenv/{{ item.name }}"
   with_items: "{{ alfred.modules }}"
 
+- name: utils playbooks directory ready
+  file:
+    path=/etc/ansible/playbooks
+    state=directory
 
-- name: Find out playbook's path
-  shell: pwd
-  register: playbook_path_output
+- name: utils playbooks present
+  copy:
+    src=install-plugin.yml
+    dest=/etc/ansible/playbooks/install-alfred-plugin.yml
 
 - name: every plugin is installed
-  local_action: "shell ansible-playbook {{ playbook_path_output.stdout }}/roles/alfred/tasks/install-plugin.yml -e 'plugin_dir={{ alfred.home }}/plugins/{{ item.name }}' -e @{{ alfred.home }}/plugins/{{ item.name }}/plugin/plugin-vars.yml"
+  shell: "ansible-playbook /etc/ansible/playbooks/install-alfred-plugin.yml -e 'plugin_dir={{ alfred.home }}/plugins/{{ item.name }}' -e @{{ alfred.home }}/plugins/{{ item.name }}/plugin/plugin-vars.yml"
   with_items: "{{ alfred.modules }}"
