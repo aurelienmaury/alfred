@@ -21,7 +21,8 @@
     - python-dev
     - libffi-dev
     - libssl-dev
-    - libzmq-dev
+    - libzmq3-dev
+    - libzmq3
 
 - name: pip is installed
   easy_install:
