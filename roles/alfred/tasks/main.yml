@@ -21,6 +21,7 @@
     - python-dev
     - libffi-dev
     - libssl-dev
+    - libzmq-dev
 
 - name: pip is installed
   easy_install:
@@ -36,6 +37,7 @@
     - ndg-httpsclient
     - pyasn1
     - ansible
+    - pyzmq
     - virtualenv
 
 - name: ansible configuration directory is ready
