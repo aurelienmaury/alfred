@@ -52,7 +52,7 @@
     dest='/etc/ansible/hosts'
     owner='root'
     group='root'
-    mode='0755'
+    mode='0644'
 
 - name: alfred is a system user
   user:
@@ -78,17 +78,34 @@
     mode='0644'
   notify: restart alfred
 
+- name: plugins dirs ready
+  become_user: alfred
+  file:
+    path="{{ alfred.home }}/{{ item }}"
+    state=directory
+  with_items:
+    - plugins
+    - virtualenv
+
 - name: body is gathered
   become_user: alfred
   git:
     repo="{{ item.url }}"
-    dest="{{ alfred.home }}/{{ item.name }}"
+    dest="{{ alfred.home }}/plugins/{{ item.name }}"
     version="{{ item.version }}"
     accept_hostkey=yes
   with_items: "{{ alfred.modules }}"
 
 - name: every body part is virtualenv'ed
   become_user: alfred
-  shell: "virtualenv {{ alfred.home }}/{{ item.name }}"
+  shell: "virtualenv {{ alfred.home }}/virtualenv/{{ item.name }}"
   with_items: "{{ alfred.modules }}"
 
+
+- name: Find out playbook's path
+  shell: pwd
+  register: playbook_path_output
+
+- name: every plugin is installed
+  local_action: "shell ansible-playbook {{ playbook_path_output.stdout }}/roles/alfred/tasks/install-plugin.yml -e 'plugin_dir={{ alfred.home }}/plugins/{{ item.name }}' -e @{{ alfred.home }}/plugins/{{ item.name }}/plugin/plugin-vars.yml"
+  with_items: "{{ alfred.modules }}"

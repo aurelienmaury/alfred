@@ -1,4 +1,4 @@
-- hosts: batcave
+- hosts: local
   become: true
 
   vars_files:

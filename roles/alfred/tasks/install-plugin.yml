@@ -1,0 +1,11 @@
+---
+- hosts: local
+  become: yes
+  tasks:
+    - name: install pip dependencies
+      become_user: alfred
+      pip:
+        name="{{ item }}"
+        virtualenv="{{ plugin_dir }}"
+        state=latest
+      with_items: "{{ alfred.plugin.pip_packages }}"

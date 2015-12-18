@@ -8,8 +8,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.box = "debian/jessie64"
 
-  config.vm.define "alfred_home" do |alfred_home|
-  end
+  #config.vm.define "alfred_home" do |alfred_home|
+  #end
 
   config.vm.provider "virtualbox" do |vb|
     vb.memory = "1024"
@@ -17,10 +17,10 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   end
 
   config.vm.provision "ansible" do |ansible|
-    ansible.groups = {
-      "batcave" => ["alfred_home"],
-      "all_groups:children" => ["batcave"]
-    }
+    #ansible.groups = {
+    #  "batcave" => ["alfred_home"],
+    #  "all_groups:children" => ["batcave"]
+    #}
 
     ansible.playbook = "alfred-install.yml"
   end
