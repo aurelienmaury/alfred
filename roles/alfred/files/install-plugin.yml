@@ -9,7 +9,8 @@
   tasks:
     - name: prepared virtualenv
       shell: "virtualenv {{ alfred.home }}/virtualenv/{{ plugin_name }}"
-        creates="{{ alfred.home }}/virtualenv/{{ plugin_name }}"
+      args:
+        creates: "{{ alfred.home }}/virtualenv/{{ plugin_name }}"
 
     - name: install pip dependencies
       pip:

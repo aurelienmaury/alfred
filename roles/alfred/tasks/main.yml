@@ -89,12 +89,12 @@
     path=/etc/ansible/playbooks
     state=directory
 
-- name: utils playbooks present
+- name: alfred action playbooks are present
   copy:
     src=install-plugin.yml
     dest=/etc/ansible/playbooks/install-alfred-plugin.yml
 
-- name: utils playbooks present
+- name: alfred variables are present
   copy:
     src='alfred-vars.yml'
     dest='/etc/ansible/alfred-vars.yml'

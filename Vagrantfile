@@ -8,8 +8,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.box = "debian/jessie64"
 
-  #config.vm.define "alfred_home" do |alfred_home|
-  #end
+  config.vm.define "alfred_home" do |alfred_home|
+  end
 
   config.vm.provider "virtualbox" do |vb|
     vb.memory = "1024"
