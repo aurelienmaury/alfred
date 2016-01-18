@@ -10,9 +10,16 @@
     plugin_virtualenv_path: "{{ alfred.home }}/virtualenv/{{ plugin_name }}"
     plugin_content_path: "{{ alfred.home }}/plugins/{{ plugin_name }}"
     plugin_host_specific_playbook: "{{ plugin_content_path }}/plugin/install.playbook.yml"
+    plugin_var_file: "{{ alfred.home }}/plugins/{{ plugin_name }}/plugin/plugin-vars.yml"
 
   tasks:
-    - include_vars: "{{ alfred.home }}/plugins/{{ plugin_name }}/plugin/plugin-vars.yml"
+    - name: scan for plugin vars
+      stat:
+        path="{{ plugin_var_file }}"
+      register: plugin_vars
+
+    - include_vars: "{{ plugin_var_file }}"
+      when: plugin_vars.stat.exists
 
     - name: plugin dedicated virtualenv is ready
       shell: "virtualenv {{ plugin_virtualenv_path }}"
@@ -20,6 +27,7 @@
         creates: "{{ plugin_virtualenv_path }}"
 
     - name: python dependencies are installed in dedicated virtualenv
+      when: alfred_plugin is defined and alfred_plugin.pip_packages is defined
       pip:
         name="{{ item }}"
         virtualenv="{{ plugin_virtualenv_path }}"
