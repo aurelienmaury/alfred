@@ -6,15 +6,38 @@
   vars_files:
     - '/etc/ansible/alfred-vars.yml'
 
-  tasks:
-    - name: prepared virtualenv
-      shell: "virtualenv {{ alfred.home }}/virtualenv/{{ plugin_name }}"
-      args:
-        creates: "{{ alfred.home }}/virtualenv/{{ plugin_name }}"
+  vars:
+    plugin_virtualenv_path: "{{ alfred.home }}/virtualenv/{{ plugin_name }}"
+    plugin_content_path: "{{ alfred.home }}/plugins/{{ plugin_name }}"
+    plugin_host_specific_playbook: "{{ plugin_content_path }}/plugin/install.playbook.yml"
 
-    - name: install pip dependencies
+  tasks:
+    - include_vars: "{{ alfred.home }}/plugins/{{ plugin_name }}/plugin/plugin-vars.yml"
+
+    - name: plugin dedicated virtualenv is ready
+      shell: "virtualenv {{ plugin_virtualenv_path }}"
+      args:
+        creates: "{{ plugin_virtualenv_path }}"
+
+    - name: python dependencies are installed in dedicated virtualenv
       pip:
         name="{{ item }}"
-        virtualenv="{{ alfred.home }}/virtualenv/{{ plugin_name }}"
-        state=latest
+        virtualenv="{{ plugin_virtualenv_path }}"
+        state='latest'
       with_items: "{{ alfred_plugin.pip_packages }}"
+
+    - name: scan for plugin installer playbook
+      stat:
+        path="{{ plugin_host_specific_playbook }}"
+      register: plugin_playbook
+
+    - include: "{{ plugin_host_specific_playbook }}"
+      when: plugin_playbook.stat.exists
+
+  handlers:
+    - name: service is enabled
+      become_user: root
+      service:
+        name="{{ plugin_name }}"
+        state=restarted
+        enabled=yes

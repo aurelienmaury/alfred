@@ -84,6 +84,14 @@
     - plugins
     - virtualenv
 
+- name: run ipc directory is ready
+  file:
+    path="/var/run/alfred"
+    state=directory
+    owner=alfred
+    group=alfred
+    mode=2750
+
 - name: utils playbooks directory ready
   file:
     path=/etc/ansible/playbooks
@@ -108,5 +116,5 @@
   with_items: "{{ alfred.modules }}"
 
 - name: every plugin is installed
-  shell: "ansible-playbook /etc/ansible/playbooks/install-alfred-plugin.yml -e 'plugin_name={{ item.name }}' -e @{{ alfred.home }}/plugins/{{ item.name }}/plugin/plugin-vars.yml"
+  shell: "ansible-playbook /etc/ansible/playbooks/install-alfred-plugin.yml -e 'plugin_name={{ item.name }}'"
   with_items: "{{ alfred.modules }}"
