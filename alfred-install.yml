@@ -1,8 +1,5 @@
-- hosts: local
+- hosts: galaxie
   become: true
-
-  vars_files:
-    - 'alfred-vars.yml'
 
   roles:
     - alfred

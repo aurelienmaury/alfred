@@ -17,6 +17,7 @@
   with_items:
     - git
     - aptitude
+    - build-essential
     - python-setuptools
     - python-dev
     - libffi-dev

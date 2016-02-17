@@ -1,7 +1,8 @@
+---
+ma_variable: "valeur du groupe"
 alfred:
   home: /var/lib/alfred
   modules:
-
     - name: 'alfred-cli'
       url: 'https://github.com/aurelienmaury/alfred-cli.git'
       version: 'HEAD'
@@ -12,4 +13,8 @@ alfred:
 
     - name: 'alfred-muscles'
       url: 'https://github.com/aurelienmaury/alfred-muscles.git'
+      version: 'HEAD'
+
+    - name: 'alfred-brain'
+      url: 'https://github.com/aurelienmaury/alfred-brain.git'
       version: 'HEAD'

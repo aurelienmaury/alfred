@@ -7,22 +7,28 @@ VAGRANTFILE_API_VERSION = "2"
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.box = "debian/jessie64"
+  config.vm.network "public_network"
+  config.vbguest.auto_update = false
 
-  config.vm.define "alfred_home" do |alfred_home|
+  config.vm.define "internal1" do |web|
+    config.vm.provider "virtualbox" do |vb|
+      vb.memory = "512"
+      vb.name = "internal1"
+    end
   end
 
-  config.vm.provider "virtualbox" do |vb|
-    vb.memory = "1024"
-    vb.name = "alfred_home"
+  config.vm.define "internal2" do |web|
+    config.vm.provider "virtualbox" do |vb|
+      vb.memory = "512"
+      vb.name = "internal2"
+    end
   end
 
   config.vm.provision "ansible" do |ansible|
     ansible.groups = {
-      "local" => ["alfred_home"],
-      "all_groups:children" => ["local"]
+      "galaxie" => ["internal1", "internal2"],
+      "all_groups:children" => ["galaxie"]
     }
-
     ansible.playbook = "alfred-install.yml"
   end
-
 end
