@@ -23,7 +23,9 @@
     - libffi-dev
     - libssl-dev
     - libzmq3-dev
+    - libperl-dev
     - libzmq3
+    - sudo
 
 - name: pip is installed
   easy_install:
@@ -44,26 +46,16 @@
 
 - name: ansible configuration directory is ready
   file:
-    path='/etc/ansible'
+    path='/etc/alfred'
     state='directory'
     owner='root'
     group='root'
     mode='0755'
 
-- name: default host inventory is present
-  template:
-    src='alfred_hosts.j2'
-    dest='/etc/ansible/hosts'
-    owner='root'
-    group='root'
-    mode='0644'
-
 - name: alfred is a system user
   user:
     name=alfred
-    home="{{ alfred.home }}"
     generate_ssh_key=yes
-    system=yes
     ssh_key_bits=4096
     state=present
 
@@ -76,46 +68,49 @@
     mode='0644'
   notify: restart alfred
 
-- name: plugins dirs ready
-  become_user: alfred
-  file:
-    path="{{ alfred.home }}/{{ item }}"
-    state=directory
-  with_items:
-    - plugins
-    - virtualenv
 
-- name: run ipc directory is ready
+- name: run directories are ready
   file:
-    path="/var/run/alfred"
+    path="{{ item }}"
     state=directory
     owner=alfred
     group=alfred
     mode=2750
-
-- name: utils playbooks directory ready
-  file:
-    path=/etc/ansible/playbooks
-    state=directory
+  with_items:
+    - "/var/cache/alfred"
+    - "/var/lib/alfred"
+    - "/var/lib/alfred/playbooks"
+    - "/var/lib/alfred/plugins"
+    - "/var/lib/alfred/virtualenv"
 
 - name: alfred action playbooks are present
   copy:
-    src=install-plugin.yml
-    dest=/etc/ansible/playbooks/install-alfred-plugin.yml
+    src="install-plugin.yml"
+    dest="/var/lib/alfred/playbooks/install-alfred-plugin.yml"
+    owner=alfred
+    group=alfred
+    mode=0640
 
 - name: alfred variables are present
   copy:
     src='alfred-vars.yml'
-    dest='/etc/ansible/alfred-vars.yml'
+    dest='/etc/alfred/alfred-vars.yml'
 
 - name: body is gathered
+  become_user: alfred
   git:
     repo="{{ item.url }}"
-    dest="{{ alfred.home }}/plugins/{{ item.name }}"
+    dest="/var/lib/alfred/plugins/{{ item.name }}"
     version="{{ item.version }}"
     accept_hostkey=yes
   with_items: "{{ alfred.modules }}"
 
+- name: User is sudoer
+  lineinfile: "dest=/etc/sudoers state='present' regexp='^alfred' line='alfred ALL=(ALL) NOPASSWD: ALL' validate='visudo -cf %s' "
+
+# add source user to group alfred
+
 - name: every plugin is installed
-  shell: "ansible-playbook /etc/ansible/playbooks/install-alfred-plugin.yml -e 'plugin_name={{ item.name }}'"
+  become_user: alfred
+  shell: "ansible-playbook /var/lib/alfred/playbooks/install-alfred-plugin.yml -e 'plugin_name={{ item.name }}'"
   with_items: "{{ alfred.modules }}"

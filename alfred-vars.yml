@@ -1,6 +1,6 @@
 ---
 alfred:
-  home: /var/lib/alfred
+  home: /home/alfred
   modules:
     - name: 'alfred-cli'
       url: 'https://github.com/aurelienmaury/alfred-cli.git'

@@ -1,16 +1,16 @@
 ---
-- hosts: local
+- hosts: localhost
   become: yes
   become_user: alfred
 
   vars_files:
-    - '/etc/ansible/alfred-vars.yml'
+    - '/etc/alfred/alfred-vars.yml'
 
   vars:
-    plugin_virtualenv_path: "{{ alfred.home }}/virtualenv/{{ plugin_name }}"
-    plugin_content_path: "{{ alfred.home }}/plugins/{{ plugin_name }}"
+    plugin_virtualenv_path: "/var/lib/alfred/virtualenv/{{ plugin_name }}"
+    plugin_content_path: "/var/lib/alfred/plugins/{{ plugin_name }}"
     plugin_host_specific_playbook: "{{ plugin_content_path }}/plugin/install.playbook.yml"
-    plugin_var_file: "{{ alfred.home }}/plugins/{{ plugin_name }}/plugin/plugin-vars.yml"
+    plugin_var_file: "/var/lib/alfred/plugins/{{ plugin_name }}/plugin/plugin-vars.yml"
 
   tasks:
     - name: scan for plugin vars
