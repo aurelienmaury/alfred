@@ -1,4 +1,4 @@
-- hosts: galaxie
+- hosts: localhost
   become: true
 
   roles:

@@ -1,0 +1,18 @@
+alfred:
+  home: /home/alfred
+  modules:
+    - name: 'alfred-cli'
+      url: 'https://github.com/aurelienmaury/alfred-cli.git'
+      version: 'HEAD'
+
+    - name: 'alfred-spine'
+      url: 'https://github.com/aurelienmaury/alfred-spine.git'
+      version: 'HEAD'
+
+    - name: 'alfred-muscles'
+      url: 'https://github.com/aurelienmaury/alfred-muscles.git'
+      version: 'HEAD'
+
+    - name: 'alfred-brain'
+      url: 'https://github.com/aurelienmaury/alfred-brain.git'
+      version: 'HEAD'
