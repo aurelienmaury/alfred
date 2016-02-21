@@ -105,10 +105,11 @@
     accept_hostkey=yes
   with_items: "{{ alfred.modules }}"
 
-- name: User is sudoer
+- name: Alfred is sudoer
   lineinfile: "dest=/etc/sudoers state='present' regexp='^alfred' line='alfred ALL=(ALL) NOPASSWD: ALL' validate='visudo -cf %s' "
 
-# add source user to group alfred
+- name: current user is member of alfred's group
+  local_action: shell usermod -a -G alfred $(whoami)
 
 - name: every plugin is installed
   become_user: alfred
